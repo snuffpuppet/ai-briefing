@@ -1,0 +1,24 @@
+To: adam.s.moyes@gmail.com
+Subject: AI Briefing — 2026-04-15
+
+---
+
+MIT Technology Review — Coming Soon: 10 Things That Matter in AI Right Now
+MIT Technology Review is debuting an entirely new annual AI-specific list alongside its established 10 Breakthrough Technologies ranking — the editors had so many AI candidates they couldn't fit them into a single list. Topics confirmed to feature include AI companions, mechanistic interpretability, generative coding, and hyperscale data centers, giving a clear signal of what the publication's reporters will track throughout 2026. The full list will be unveiled at the EmTech AI conference on April 21.
+Link: https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/
+
+---
+
+MIT Technology Review — The Download: NASA's Nuclear Spacecraft and Unveiling Our AI 10
+MIT Technology Review's April 15 daily digest confirms the imminent launch of its "10 Things That Matter in AI Right Now" list, providing a preview of the editorial team's collective thinking on where AI is headed in 2026. The accompanying coverage underscores how mainstream science media is carving out dedicated AI tracking alongside general tech reporting. Full list to drop online on April 21 following EmTech AI.
+Link: https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/
+
+---
+
+MIT Technology Review — Redefining the Future of Software Engineering
+A new industry survey (published in partnership with SoftServe) finds that 98% of software teams expect agentic AI to accelerate delivery from pilot to production, with anticipated speed increases averaging 37% over the next two years. A third of respondents believe improvements will be game-changing, pointing to a decisive shift toward autonomous AI agents managing full software development lifecycles. This matters because it captures the current enterprise mood: agentic AI in software is no longer experimental — it is becoming a strategic bet.
+Link: https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/
+
+---
+
+3 new items across 1 source.
