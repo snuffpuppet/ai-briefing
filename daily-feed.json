@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T21:41:25.957148+00:00",
+  "generated_at": "2026-04-16T22:38:08.953103+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 35,
+  "item_count": 34,
   "items": [
     {
       "title": "OpenAI starts offering a biology-tuned LLM",
@@ -275,14 +275,6 @@
       "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "published": "2026-04-15T12:07:25+00:00",
       "summary": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "published": "2026-04-15T10:00:00+00:00",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
     }
   ]
 }
