@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-16T19:10:13.448748+00:00",
+  "generated_at": "2026-04-16T20:45:50.112671+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 34,
   "items": [
+    {
+      "title": "llm-anthropic 0.25",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+      "published": "2026-04-16T20:37:12+00:00",
+      "summary": "Release: llm-anthropic 0.25\n    \n\nNew model: claude-opus-4.7, which supports thinking_effort: xhigh. #66\nNew thinking_display and thinking_adaptive boolean options. thinking_display summarized output is currently only available in JSON output or JSON logs.\nIncreased default max_tokens to the maximum allowed for each model.\nNo longer uses obsolete structured-outputs-2025-11-13 beta header for older models.\n\n\n    \n        Tags: llm, anthropic, claude"
+    },
     {
       "title": "New Codex features include the ability to use your computer in the background",
       "source": "AI - Ars Technica",
@@ -109,20 +117,20 @@
       "summary": "a quiet day lets us report on the death of the pull requests"
     },
     {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "published": "2026-04-16T01:00:00+00:00",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
+    },
+    {
       "title": "datasette.io news preview",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
       "published": "2026-04-16T00:18:03+00:00",
       "summary": "Tool: datasette.io news preview\n    The datasette.io website has a news section built from this news.yaml file in the underlying GitHub repository. The YAML format looks like this:\n- date: 2026-04-15\n  body: |-\n    [Datasette 1.0a27](https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15) changes how CSRF protection works in a way that simplifies form and API integration, and introduces a new `RenameTableEvent` for when a table is renamed by a SQL query.\n- date: 2026-03-18\n  body: |-"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "published": "2026-04-16T00:00:00+00:00",
-      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
     },
     {
       "title": "Accelerating the cyber defense ecosystem that protects us all",
