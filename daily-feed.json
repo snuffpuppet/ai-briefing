@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-16T13:26:36.400754+00:00",
+  "generated_at": "2026-04-16T15:24:34.513270+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways",
+      "published": "2026-04-16T15:02:45+00:00",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nRail networks are vast, which makes it difficult to conduct comprehensive, continuous safety monitoring. Researchers in China have suggested analyzing the vibrations of existing fiber cables buried underground alongside railway tracks to detect problems. In a study published 5 March in the Journal of Optical Communications and Networking, the research group demonstrated through experiments how the t"
+    },
+    {
+      "title": "Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/04/16/security/post-quantum-cryptography-migration-at-meta-framework-lessons-and-takeaways/",
+      "published": "2026-04-16T14:59:44+00:00",
+      "summary": "We’re sharing lessons learned from Meta’s post-quantum cryptography (PQC) migration to help other organizations strengthen their resilience as industry transitions to post-quantum cryptography standards. We’re proposing the idea of PQC Migration Levels to help teams within organizations manage the complexity of PQC migration for their various use cases. By outlining Meta’s approach to this work [...]\nRead More...\nThe post Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takea"
+    },
     {
       "title": "Making AI operational in constrained public sector environments",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -51,6 +67,22 @@
       "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
       "published": "2026-04-16T00:00:00+00:00",
       "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense."
+    },
+    {
+      "title": "The PR you would have opened yourself",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/transformers-to-mlx",
+      "published": "2026-04-16T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "published": "2026-04-16T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "datasette-export-database 0.3a1",
@@ -179,30 +211,6 @@
       "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
       "published": "2026-04-15T06:00:00+00:00",
       "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.&#8230;"
-    },
-    {
-      "title": "[AINews] Humanity's Last Gasp",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-humanitys-last-gasp",
-      "published": "2026-04-15T03:05:54+00:00",
-      "summary": "a quiet day lets us reflect on work in the time of AI"
-    },
-    {
-      "title": "datasette-ports 0.3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
-      "published": "2026-04-15T02:50:57+00:00",
-      "summary": "Release: datasette-ports 0.3\n    A small update for my tool for helping me figure out what all of the Datasette instances on my laptop are up to.\n\n\nShow working directory derived from each PID\nShow the full path to each database file\n\n\nOutput now looks like this:\nhttp://127.0.0.1:8007/ - v1.0a26\n  Directory: /Users/simon/dev/blog\n  Databases:\n    simonwillisonblog: /Users/simon/dev/blog/simonwillisonblog.db\n  Plugins:\n    datasette-llm\n    datasette-secrets\nhttp://127.0.0.1:8001/ - v1.0a26\n  Dir"
-    },
-    {
-      "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
-      "published": "2026-04-15T01:59:21+00:00",
-      "summary": "Zig 0.16.0 release notes: &quot;Juicy Main&quot;\nZig has really good release notes - comprehensive, detailed, and with relevant usage examples for each of the new features.\nOf particular note in the newly released Zig 0.16.0 is what they are calling \"Juicy Main\" - a dependency injection feature for your program's main() function where accepting a process.Init parameter grants access to a struct of useful properties:\nconst std = @import(\"std\");\n\npub fn main(init: std.process.Init) !void {\n    ///"
     }
   ]
 }
