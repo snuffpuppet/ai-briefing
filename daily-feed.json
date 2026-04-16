@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-16T15:24:34.513270+00:00",
+  "generated_at": "2026-04-16T17:12:30.928989+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 29,
   "items": [
+    {
+      "title": "Gemini can now create personalized AI images by digging around in Google Photos",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "published": "2026-04-16T16:59:25+00:00",
+      "summary": "Google is making it easier to feed your photos into Nano Banana for more personal image generation."
+    },
+    {
+      "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tokenmaxxing-as-a-weird",
+      "published": "2026-04-16T16:47:08+00:00",
+      "summary": "&#8230; which will probably be the shortest-lived trend because it&#8217;s so wasteful. Also: coding AI agent subsidies could be ending, Cal.com going closed source and blaming it on AI, and more."
+    },
+    {
+      "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/",
+      "published": "2026-04-16T16:00:34+00:00",
+      "summary": "We&#8217;re sharing insights into Meta&#8217;s Capacity Efficiency Program, where we&#8217;ve built an AI agent platform that helps automate finding and fixing performance issues throughout our infrastructure. By leveraging encoded domain expertise across a unified, standardized tool interface these agents help save power and free up engineers&#8217; time away from addressing performance issues to innovating on [...]\nRead More...\nThe post Capacity Efficiency at Meta: How Unified AI Agents Optimi"
+    },
     {
       "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
       "source": "IEEE Spectrum",
@@ -34,7 +58,7 @@
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
       "published": "2026-04-16T13:00:00+00:00",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed,&#8230;"
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.&#8230;"
     },
     {
       "title": "Why having “humans in the loop” in an AI war is an illusion",
