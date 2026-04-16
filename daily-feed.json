@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-16T20:45:50.112671+00:00",
+  "generated_at": "2026-04-16T21:41:25.957148+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 35,
   "items": [
+    {
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "published": "2026-04-16T21:17:47+00:00",
+      "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access."
+    },
+    {
+      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+      "published": "2026-04-16T20:43:46+00:00",
+      "summary": "New tool builds on deepset’s Haystack toward a “decentralized open source AI ecosystem.”"
+    },
     {
       "title": "llm-anthropic 0.25",
       "source": "Simon Willison's Weblog",
@@ -34,7 +50,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
       "published": "2026-04-16T17:16:52+00:00",
-      "summary": "For anyone who has been taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning's two big model releases - Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic.\nHere's the Qwen 3.6 pelican, generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running on my MacBook Pro M5 via LM Studio (and the llm-lmstudio plugin) - transcript here:\n\nAnd here's one I got from Anthropic's brand new Clau"
+      "summary": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning's two big model releases - Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic.\nHere's the Qwen 3.6 pelican, generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running on my MacBook Pro M5 via LM Studio (and the llm-lmstudio plugin) - transcript here:\n\nAnd here's one I got from Anthropic's"
     },
     {
       "title": "Gemini can now create personalized AI images by digging around in Google Photos",
@@ -267,14 +283,6 @@
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "published": "2026-04-15T10:00:00+00:00",
       "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
-    },
-    {
-      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Hcompany/holotab",
-      "published": "2026-04-15T09:25:20+00:00",
-      "summary": ""
     }
   ]
 }
