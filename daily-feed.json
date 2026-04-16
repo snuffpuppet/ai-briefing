@@ -1,0 +1,232 @@
+{
+  "generated_at": "2026-04-16T07:43:44.313640+00:00",
+  "lookback_hours": 36,
+  "feed_count": 20,
+  "item_count": 28,
+  "items": [
+    {
+      "title": "[AINews] RIP Pull Requests (2005-2026)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026",
+      "published": "2026-04-16T06:41:12+00:00",
+      "summary": "a quiet day lets us report on the death of the pull requests"
+    },
+    {
+      "title": "datasette.io news preview",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+      "published": "2026-04-16T00:18:03+00:00",
+      "summary": "Tool: datasette.io news preview\n    The datasette.io website has a news section built from this news.yaml file in the underlying GitHub repository. The YAML format looks like this:\n- date: 2026-04-15\n  body: |-\n    [Datasette 1.0a27](https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15) changes how CSRF protection works in a way that simplifies form and API integration, and introduces a new `RenameTableEvent` for when a table is renamed by a SQL query.\n- date: 2026-03-18\n  body: |-"
+    },
+    {
+      "title": "datasette-export-database 0.3a1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
+      "published": "2026-04-15T23:52:35+00:00",
+      "summary": "Release: datasette-export-database 0.3a1\n    This plugin was using the ds_csrftoken cookie as part of a custom signed URL, which needed upgrading now that Datasette 1.0a27 no longer sets that cookie.\n    \n        Tags: datasette"
+    },
+    {
+      "title": "datasette 1.0a27",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
+      "published": "2026-04-15T23:16:34+00:00",
+      "summary": "Release: datasette 1.0a27\n    Two major changes in this new Datasette alpha. I covered the first of those in detail yesterday - Datasette no longer uses Django-style CSRF form tokens, instead using modern browser headers as described by Filippo Valsorda.\nThe second big change is that Datasette now fires a new RenameTableEvent any time a table is renamed during a SQLite transaction. This is useful because some plugins (like datasette-comments) attach additional data to table records by name, so a"
+    },
+    {
+      "title": "Google releases new apps for Windows and MacOS",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+      "published": "2026-04-15T19:46:43+00:00",
+      "summary": "Google mostly creates products for the web, but it has some new desktop apps today."
+    },
+    {
+      "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+      "published": "2026-04-15T19:34:33+00:00",
+      "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities."
+    },
+    {
+      "title": "My bets on open models, mid-2026",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
+      "published": "2026-04-15T18:20:00+00:00",
+      "summary": "What I expect to come next and why, focused on the open-closed gap."
+    },
+    {
+      "title": "Quoting John Gruber",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
+      "published": "2026-04-15T17:13:57+00:00",
+      "summary": "The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, to some extent, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted idiom"
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+      "published": "2026-04-15T17:13:14+00:00",
+      "summary": "Gemini 3.1 Flash TTS\nGoogle released Gemini 3.1 Flash TTS today, a new text-to-speech model that can be directed using prompts.\nIt's presented via the standard Gemini API using gemini-3.1-flash-tts-preview as the model ID, but can only output audio files.\nThe prompting guide is surprising, to say the least. Here's their example prompt to generate just a few short sentences of audio:\n# AUDIO PROFILE: Jaz R.\n## \"The Morning Hype\"\n\n## THE SCENE: The London Studio\nIt is 10:00 PM in a glass-walled st"
+    },
+    {
+      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+      "published": "2026-04-15T16:54:33+00:00",
+      "summary": "This is a big step in a new strategic direction for Adobe."
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything",
+      "published": "2026-04-15T16:41:46+00:00",
+      "summary": "Tool: Gemini 3.1 Flash TTS\n    See my notes on Google's new Gemini 3.1 Flash TTS text-to-speech model.\n    \n        Tags: gemini, google"
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "published": "2026-04-15T16:03:19+00:00",
+      "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
+    },
+    {
+      "title": "Quoting Kyle Kingsbury",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
+      "published": "2026-04-15T15:36:02+00:00",
+      "summary": "I think we will see some people employed (though perhaps not explicitly) as meat shields: people who are accountable for ML systems under their supervision. The accountability may be purely internal, as when Meta hires human beings to review the decisions of automated moderation systems. It may be external, as when lawyers are penalized for submitting LLM lies to the court. It may involve formalized responsibility, like a Data Protection Officer. It may be convenient for a company to have third-"
+    },
+    {
+      "title": "Allbirds abandons clothes, pivots to \"AI compute infrastructure\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+      "published": "2026-04-15T15:26:56+00:00",
+      "summary": "Desperate stock-boosting move recalls 2017's \"Long Island Blockchain\" frenzy."
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "published": "2026-04-15T12:07:25+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "published": "2026-04-15T10:00:00+00:00",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+    },
+    {
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Hcompany/holotab",
+      "published": "2026-04-15T09:25:20+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Building trust in the AI era with privacy-led UX",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "published": "2026-04-15T06:00:00+00:00",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.&#8230;"
+    },
+    {
+      "title": "[AINews] Humanity's Last Gasp",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-humanitys-last-gasp",
+      "published": "2026-04-15T03:05:54+00:00",
+      "summary": "a quiet day lets us reflect on work in the time of AI"
+    },
+    {
+      "title": "datasette-ports 0.3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
+      "published": "2026-04-15T02:50:57+00:00",
+      "summary": "Release: datasette-ports 0.3\n    A small update for my tool for helping me figure out what all of the Datasette instances on my laptop are up to.\n\n\nShow working directory derived from each PID\nShow the full path to each database file\n\n\nOutput now looks like this:\nhttp://127.0.0.1:8007/ - v1.0a26\n  Directory: /Users/simon/dev/blog\n  Databases:\n    simonwillisonblog: /Users/simon/dev/blog/simonwillisonblog.db\n  Plugins:\n    datasette-llm\n    datasette-secrets\nhttp://127.0.0.1:8001/ - v1.0a26\n  Dir"
+    },
+    {
+      "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+      "published": "2026-04-15T01:59:21+00:00",
+      "summary": "Zig 0.16.0 release notes: &quot;Juicy Main&quot;\nZig has really good release notes - comprehensive, detailed, and with relevant usage examples for each of the new features.\nOf particular note in the newly released Zig 0.16.0 is what they are calling \"Juicy Main\" - a dependency injection feature for your program's main() function where accepting a process.Init parameter grants access to a struct of useful properties:\nconst std = @import(\"std\");\n\npub fn main(init: std.process.Init) !void {\n    ///"
+    },
+    {
+      "title": "Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last & Sarah Sachs of Notion",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/notion",
+      "published": "2026-04-15T00:31:14+00:00",
+      "summary": "Notion's cofounder and head of AI peel back the curtains to talk about finally shipping the Knowledge Work AI agents the world has been waiting for."
+    },
+    {
+      "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+      "published": "2026-04-14T23:58:53+00:00",
+      "summary": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection\nDatasette has long protected against CSRF attacks using CSRF tokens, implemented using my asgi-csrf Python library. These are something of a pain to work with - you need to scatter forms in templates with &lt;input type=\"hidden\" name=\"csrftoken\" value=\"{{ csrftoken() }}\"&gt; lines and then selectively disable CSRF protection for APIs that are intended to be called from outside the browser.\nI've been following Fili"
+    },
+    {
+      "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
+      "published": "2026-04-14T22:42:22+00:00",
+      "summary": "Ukraine is replacing more soldiers with robots in the battlefield kill zone."
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+      "published": "2026-04-14T21:23:59+00:00",
+      "summary": "Trusted access for the next era of cyber defense\nOpenAI's answer to Claude Mythos appears to be a new model called GPT-5.4-Cyber:\n\nIn preparation for increasingly more capable models from OpenAI over the next few months, we are fine-tuning our models specifically to enable defensive cybersecurity use cases, starting today with a variant of GPT‑5.4 trained to be cyber-permissive: GPT‑5.4‑Cyber.\n\nThey're also extending a program they launched in February (which I had missed) called Trusted Access"
+    },
+    {
+      "title": "What I’ve been building: ATOM Report, post-training course, finishing my book, and ongoing research",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+      "published": "2026-04-14T20:41:12+00:00",
+      "summary": "What I've been up to!"
+    },
+    {
+      "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+      "published": "2026-04-14T20:30:20+00:00",
+      "summary": "Do you trust AI chatbots for health advice? What about one in your patient portal?"
+    },
+    {
+      "title": "​Boston Dynamics and Google DeepMind Teach Spot to Reason​",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "published": "2026-04-14T19:45:01+00:00",
+      "summary": "The amazing and frustrating thing about robots is that they can do almost anything you want them to do, as long as you know how to ask properly. In the not-so-distant past, asking properly meant writing code, and while we’ve thankfully moved beyond that brittle constraint, there’s still an irritatingly inverse correlation between ease of use and complexity of task. AI has promised to change that. The idea is that when AI is embodied within robots—giving AI software a physical presence in the wor"
+    }
+  ]
+}
