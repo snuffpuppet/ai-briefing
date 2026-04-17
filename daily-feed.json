@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-16T23:38:56.201616+00:00",
+  "generated_at": "2026-04-17T02:26:54.176441+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 34,
   "items": [
+    {
+      "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
+      "published": "2026-04-17T01:36:17+00:00",
+      "summary": "The new SOTA model asserts its dominance."
+    },
     {
       "title": "OpenAI starts offering a biology-tuned LLM",
       "source": "AI - Ars Technica",
@@ -267,14 +275,6 @@
       "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
       "published": "2026-04-15T15:26:56+00:00",
       "summary": "Desperate stock-boosting move recalls 2017's \"Long Island Blockchain\" frenzy."
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "published": "2026-04-15T12:07:25+00:00",
-      "summary": ""
     }
   ]
 }
