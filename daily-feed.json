@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-17T02:26:54.176441+00:00",
+  "generated_at": "2026-04-17T05:26:38.924885+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 28,
   "items": [
+    {
+      "title": "datasette 1.0a28",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+      "published": "2026-04-17T04:01:56+00:00",
+      "summary": "Release: datasette 1.0a28\n    I was upgrading Datasette Cloud to 1.0a27 and discovered a nasty collection of accidental breakages caused by changes in that alpha. This new alpha addresses those directly:\n\n\nFixed a compatibility bug introduced in 1.0a27 where execute_write_fn() callbacks with a parameter name other than conn were seeing errors. (#2691)\nThe database.close() method now also shuts down the write connection for that database.\nNew datasette.close() method for closing down all database"
+    },
     {
       "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
       "source": "Latent.Space",
@@ -219,62 +227,6 @@
       "url": "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
       "published": "2026-04-15T18:20:00+00:00",
       "summary": "What I expect to come next and why, focused on the open-closed gap."
-    },
-    {
-      "title": "Quoting John Gruber",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
-      "published": "2026-04-15T17:13:57+00:00",
-      "summary": "The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, to some extent, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted idiom"
-    },
-    {
-      "title": "Gemini 3.1 Flash TTS",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
-      "published": "2026-04-15T17:13:14+00:00",
-      "summary": "Gemini 3.1 Flash TTS\nGoogle released Gemini 3.1 Flash TTS today, a new text-to-speech model that can be directed using prompts.\nIt's presented via the standard Gemini API using gemini-3.1-flash-tts-preview as the model ID, but can only output audio files.\nThe prompting guide is surprising, to say the least. Here's their example prompt to generate just a few short sentences of audio:\n# AUDIO PROFILE: Jaz R.\n## \"The Morning Hype\"\n\n## THE SCENE: The London Studio\nIt is 10:00 PM in a glass-walled st"
-    },
-    {
-      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
-      "published": "2026-04-15T16:54:33+00:00",
-      "summary": "This is a big step in a new strategic direction for Adobe."
-    },
-    {
-      "title": "Gemini 3.1 Flash TTS",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything",
-      "published": "2026-04-15T16:41:46+00:00",
-      "summary": "Tool: Gemini 3.1 Flash TTS\n    See my notes on Google's new Gemini 3.1 Flash TTS text-to-speech model.\n    \n        Tags: gemini, google"
-    },
-    {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "published": "2026-04-15T16:03:19+00:00",
-      "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
-    },
-    {
-      "title": "Quoting Kyle Kingsbury",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
-      "published": "2026-04-15T15:36:02+00:00",
-      "summary": "I think we will see some people employed (though perhaps not explicitly) as meat shields: people who are accountable for ML systems under their supervision. The accountability may be purely internal, as when Meta hires human beings to review the decisions of automated moderation systems. It may be external, as when lawyers are penalized for submitting LLM lies to the court. It may involve formalized responsibility, like a Data Protection Officer. It may be convenient for a company to have third-"
-    },
-    {
-      "title": "Allbirds abandons clothes, pivots to \"AI compute infrastructure\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
-      "published": "2026-04-15T15:26:56+00:00",
-      "summary": "Desperate stock-boosting move recalls 2017's \"Long Island Blockchain\" frenzy."
     }
   ]
 }
