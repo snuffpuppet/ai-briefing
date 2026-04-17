@@ -1,15 +1,23 @@
 {
-  "generated_at": "2026-04-17T15:59:26.957143+00:00",
+  "generated_at": "2026-04-17T17:02:19.852277+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
-      "title": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "published": "2026-04-17T16:23:20+00:00",
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments."
+    },
+    {
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/gr00t-n1-7",
-      "published": "2026-04-17T15:45:10+00:00",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "published": "2026-04-17T16:17:55+00:00",
       "summary": ""
     },
     {
