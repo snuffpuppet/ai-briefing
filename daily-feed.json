@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T11:51:25.024916+00:00",
+  "generated_at": "2026-04-17T13:15:47.900634+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 19,
   "items": [
     {
       "title": "How robots learn: A brief, contemporary history",
@@ -155,54 +155,6 @@
       "url": "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026",
       "published": "2026-04-16T06:41:12+00:00",
       "summary": "a quiet day lets us report on the death of the pull requests"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "published": "2026-04-16T01:00:00+00:00",
-      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
-    },
-    {
-      "title": "datasette.io news preview",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
-      "published": "2026-04-16T00:18:03+00:00",
-      "summary": "Tool: datasette.io news preview\n    The datasette.io website has a news section built from this news.yaml file in the underlying GitHub repository. The YAML format looks like this:\n- date: 2026-04-15\n  body: |-\n    [Datasette 1.0a27](https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15) changes how CSRF protection works in a way that simplifies form and API integration, and introduces a new `RenameTableEvent` for when a table is renamed by a SQL query.\n- date: 2026-03-18\n  body: |-"
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "published": "2026-04-16T00:00:00+00:00",
-      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense."
-    },
-    {
-      "title": "The PR you would have opened yourself",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/transformers-to-mlx",
-      "published": "2026-04-16T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "published": "2026-04-16T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "datasette-export-database 0.3a1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
-      "published": "2026-04-15T23:52:35+00:00",
-      "summary": "Release: datasette-export-database 0.3a1\n    This plugin was using the ds_csrftoken cookie as part of a custom signed URL, which needed upgrading now that Datasette 1.0a27 no longer sets that cookie.\n    \n        Tags: datasette"
     }
   ]
 }
