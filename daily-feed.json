@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T05:26:38.924885+00:00",
+  "generated_at": "2026-04-17T07:43:45.634746+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 26,
   "items": [
     {
       "title": "datasette 1.0a28",
@@ -211,22 +211,6 @@
       "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
       "published": "2026-04-15T19:46:43+00:00",
       "summary": "Google mostly creates products for the web, but it has some new desktop apps today."
-    },
-    {
-      "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-      "published": "2026-04-15T19:34:33+00:00",
-      "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities."
-    },
-    {
-      "title": "My bets on open models, mid-2026",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
-      "published": "2026-04-15T18:20:00+00:00",
-      "summary": "What I expect to come next and why, focused on the open-closed gap."
     }
   ]
 }
