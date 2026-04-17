@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-17T14:54:17.956754+00:00",
+  "generated_at": "2026-04-17T15:59:26.957143+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/gr00t-n1-7",
+      "published": "2026-04-17T15:45:10+00:00",
+      "summary": ""
+    },
     {
       "title": "How robots learn: A brief, contemporary history",
       "source": "Artificial intelligence – MIT Technology Review",
