@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-17T09:15:50.834669+00:00",
+  "generated_at": "2026-04-17T10:54:07.895599+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "How robots learn: A brief, contemporary history",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "published": "2026-04-17T10:00:00+00:00",
+      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;"
+    },
     {
       "title": "datasette 1.0a28",
       "source": "Simon Willison's Weblog",
