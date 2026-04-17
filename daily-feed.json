@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T21:50:03.318831+00:00",
+  "generated_at": "2026-04-17T22:37:01.210825+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "Satellite and drone images reveal big delays in US data center construction",
@@ -163,14 +163,6 @@
       "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
       "published": "2026-04-16T12:00:00+00:00",
       "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an&#8230;"
-    },
-    {
-      "title": "Codex for (almost) everything",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/codex-for-almost-everything",
-      "published": "2026-04-16T10:00:00+00:00",
-      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
     }
   ]
 }
