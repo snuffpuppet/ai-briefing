@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-17T17:02:19.852277+00:00",
+  "generated_at": "2026-04-17T18:58:16.624158+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 21,
   "items": [
+    {
+      "title": "Satellite and drone images reveal big delays in US data center construction",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+      "published": "2026-04-17T18:08:25+00:00",
+      "summary": "Data centers face construction delays and energy bottleneck as resistance grows."
+    },
     {
       "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
       "source": "AI - Ars Technica",
@@ -163,14 +171,6 @@
       "url": "https://openai.com/index/codex-for-almost-everything",
       "published": "2026-04-16T10:00:00+00:00",
       "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
-    },
-    {
-      "title": "[AINews] RIP Pull Requests (2005-2026)",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026",
-      "published": "2026-04-16T06:41:12+00:00",
-      "summary": "a quiet day lets us report on the death of the pull requests"
     }
   ]
 }
