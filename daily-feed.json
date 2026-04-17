@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T07:43:45.634746+00:00",
+  "generated_at": "2026-04-17T09:15:50.834669+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "title": "datasette 1.0a28",
@@ -203,14 +203,6 @@
       "url": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
       "published": "2026-04-15T23:16:34+00:00",
       "summary": "Release: datasette 1.0a27\n    Two major changes in this new Datasette alpha. I covered the first of those in detail yesterday - Datasette no longer uses Django-style CSRF form tokens, instead using modern browser headers as described by Filippo Valsorda.\nThe second big change is that Datasette now fires a new RenameTableEvent any time a table is renamed during a SQLite transaction. This is useful because some plugins (like datasette-comments) attach additional data to table records by name, so a"
-    },
-    {
-      "title": "Google releases new apps for Windows and MacOS",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
-      "published": "2026-04-15T19:46:43+00:00",
-      "summary": "Google mostly creates products for the web, but it has some new desktop apps today."
     }
   ]
 }
