@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:33:26.394920+00:00",
+  "generated_at": "2026-04-18T12:58:57.523172+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 9,
@@ -18,7 +18,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
       "published": "2026-04-18T03:15:36+00:00",
-      "summary": "Agentic Engineering Patterns &gt;\n    Here's an example of a deceptively short prompt that got a lot of work done in a single shot.\nFirst, some background. I send out a free Substack newsletter around once a week containing content copied-and-pasted from my blog. I'm effectively using Substack as a lightweight way to allow people to subscribe to my blog via email.\nI generate the newsletter with my blog-to-newsletter tool - an HTML and JavaScript app that fetches my latest content from this Datas"
+      "summary": "Agentic Engineering Patterns &gt;\n    Here's an example of a deceptively short prompt that got a quite a lot of work done in a single shot.\nFirst, some background. I send out a free Substack newsletter around once a week containing content copied-and-pasted from my blog. I'm effectively using Substack as a lightweight way to allow people to subscribe to my blog via email.\nI generate the newsletter with my blog-to-newsletter tool - an HTML and JavaScript app that fetches my latest content from th"
     },
     {
       "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
