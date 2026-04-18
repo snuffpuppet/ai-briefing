@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T08:46:57.141514+00:00",
+  "generated_at": "2026-04-18T09:45:37.236456+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 9,
   "items": [
     {
       "title": "[AINews] The Two Sides of OpenClaw",
@@ -75,14 +75,6 @@
       "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
       "published": "2026-04-17T01:36:17+00:00",
       "summary": "The new SOTA model asserts its dominance."
-    },
-    {
-      "title": "OpenAI starts offering a biology-tuned LLM",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "published": "2026-04-16T21:17:47+00:00",
-      "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access."
     }
   ]
 }
