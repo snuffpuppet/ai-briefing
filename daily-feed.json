@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T07:05:17.297524+00:00",
+  "generated_at": "2026-04-18T08:46:57.141514+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 10,
   "items": [
     {
       "title": "[AINews] The Two Sides of OpenClaw",
@@ -83,22 +83,6 @@
       "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
       "published": "2026-04-16T21:17:47+00:00",
       "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access."
-    },
-    {
-      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-      "published": "2026-04-16T20:43:46+00:00",
-      "summary": "New tool builds on deepset’s Haystack toward a “decentralized open source AI ecosystem.”"
-    },
-    {
-      "title": "llm-anthropic 0.25",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
-      "published": "2026-04-16T20:37:12+00:00",
-      "summary": "Release: llm-anthropic 0.25\n    \n\nNew model: claude-opus-4.7, which supports thinking_effort: xhigh. #66\nNew thinking_display and thinking_adaptive boolean options. thinking_display summarized output is currently only available in JSON output or JSON logs.\nIncreased default max_tokens to the maximum allowed for each model.\nNo longer uses obsolete structured-outputs-2025-11-13 beta header for older models.\n\n\n    \n        Tags: llm, anthropic, claude"
     }
   ]
 }
