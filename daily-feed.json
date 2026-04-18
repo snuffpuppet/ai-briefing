@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-18T02:09:53.010156+00:00",
+  "generated_at": "2026-04-18T05:05:32.299906+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Adding a new content type to my blog-to-newsletter tool",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+      "published": "2026-04-18T03:15:36+00:00",
+      "summary": "Agentic Engineering Patterns &gt;\n    Here's an example of a deceptively short prompt that got a lot of work done in a single shot.\nFirst, some background. I send out a free Substack newsletter around once a week containing content copied-and-pasted from my blog. I'm effectively using Substack as a lightweight way to allow people to subscribe to my blog via email.\nI generate the newsletter with my blog-to-newsletter tool - an HTML and JavaScript app that fetches my latest content from this Datas"
+    },
     {
       "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
       "source": "Simon Willison's Weblog",
@@ -107,46 +115,6 @@
       "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
       "published": "2026-04-16T17:16:52+00:00",
       "summary": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning's two big model releases - Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic.\nHere's the Qwen 3.6 pelican, generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running on my MacBook Pro M5 via LM Studio (and the llm-lmstudio plugin) - transcript here:\n\nAnd here's one I got from Anthropic's"
-    },
-    {
-      "title": "Gemini can now create personalized AI images by digging around in Google Photos",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
-      "published": "2026-04-16T16:59:25+00:00",
-      "summary": "Google is making it easier to feed your photos into Nano Banana for more personal image generation."
-    },
-    {
-      "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tokenmaxxing-as-a-weird",
-      "published": "2026-04-16T16:47:08+00:00",
-      "summary": "&#8230; which will probably be the shortest-lived trend because it&#8217;s so wasteful. Also: coding AI agent subsidies could be ending, Cal.com going closed source and blaming it on AI, and more."
-    },
-    {
-      "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/",
-      "published": "2026-04-16T16:00:34+00:00",
-      "summary": "We&#8217;re sharing insights into Meta&#8217;s Capacity Efficiency Program, where we&#8217;ve built an AI agent platform that helps automate finding and fixing performance issues throughout our infrastructure. By leveraging encoded domain expertise across a unified, standardized tool interface these agents help save power and free up engineers&#8217; time away from addressing performance issues to innovating on [...]\nRead More...\nThe post Capacity Efficiency at Meta: How Unified AI Agents Optimi"
-    },
-    {
-      "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways",
-      "published": "2026-04-16T15:02:45+00:00",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nRail networks are vast, which makes it difficult to conduct comprehensive, continuous safety monitoring. Researchers in China have suggested analyzing the vibrations of existing fiber cables buried underground alongside railway tracks to detect problems. In a study published 5 March in the Journal of Optical Communications and Networking, the research group demonstrated through experiments how the t"
-    },
-    {
-      "title": "Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/04/16/security/post-quantum-cryptography-migration-at-meta-framework-lessons-and-takeaways/",
-      "published": "2026-04-16T14:59:44+00:00",
-      "summary": "We’re sharing lessons learned from Meta’s post-quantum cryptography (PQC) migration to help other organizations strengthen their resilience as industry transitions to post-quantum cryptography standards. We’re proposing the idea of PQC Migration Levels to help teams within organizations manage the complexity of PQC migration for their various use cases. By outlining Meta’s approach to this work [...]\nRead More...\nThe post Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takea"
     }
   ]
 }
