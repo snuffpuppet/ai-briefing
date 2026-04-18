@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T12:58:57.523172+00:00",
+  "generated_at": "2026-04-18T14:03:36.706183+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 8,
   "items": [
     {
       "title": "[AINews] The Two Sides of OpenClaw",
@@ -67,14 +67,6 @@
       "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
       "published": "2026-04-17T04:01:56+00:00",
       "summary": "Release: datasette 1.0a28\n    I was upgrading Datasette Cloud to 1.0a27 and discovered a nasty collection of accidental breakages caused by changes in that alpha. This new alpha addresses those directly:\n\n\nFixed a compatibility bug introduced in 1.0a27 where execute_write_fn() callbacks with a parameter name other than conn were seeing errors. (#2691)\nThe database.close() method now also shuts down the write connection for that database.\nNew datasette.close() method for closing down all database"
-    },
-    {
-      "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
-      "published": "2026-04-17T01:36:17+00:00",
-      "summary": "The new SOTA model asserts its dominance."
     }
   ]
 }
