@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T15:35:58.067954+00:00",
+  "generated_at": "2026-04-18T16:38:18.907816+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 7,
   "items": [
     {
       "title": "[AINews] The Two Sides of OpenClaw",
@@ -59,14 +59,6 @@
       "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
       "published": "2026-04-17T10:00:00+00:00",
       "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;"
-    },
-    {
-      "title": "datasette 1.0a28",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
-      "published": "2026-04-17T04:01:56+00:00",
-      "summary": "Release: datasette 1.0a28\n    I was upgrading Datasette Cloud to 1.0a27 and discovered a nasty collection of accidental breakages caused by changes in that alpha. This new alpha addresses those directly:\n\n\nFixed a compatibility bug introduced in 1.0a27 where execute_write_fn() callbacks with a parameter name other than conn were seeing errors. (#2691)\nThe database.close() method now also shuts down the write connection for that database.\nNew datasette.close() method for closing down all database"
     }
   ]
 }
