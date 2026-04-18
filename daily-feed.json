@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-18T05:05:32.299906+00:00",
+  "generated_at": "2026-04-18T07:05:17.297524+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 12,
   "items": [
+    {
+      "title": "[AINews] The Two Sides of OpenClaw",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+      "published": "2026-04-18T06:50:57+00:00",
+      "summary": "a quiet day lets us reflect on openclaw this week."
+    },
     {
       "title": "Adding a new content type to my blog-to-newsletter tool",
       "source": "Simon Willison's Weblog",
@@ -91,30 +99,6 @@
       "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
       "published": "2026-04-16T20:37:12+00:00",
       "summary": "Release: llm-anthropic 0.25\n    \n\nNew model: claude-opus-4.7, which supports thinking_effort: xhigh. #66\nNew thinking_display and thinking_adaptive boolean options. thinking_display summarized output is currently only available in JSON output or JSON logs.\nIncreased default max_tokens to the maximum allowed for each model.\nNo longer uses obsolete structured-outputs-2025-11-13 beta header for older models.\n\n\n    \n        Tags: llm, anthropic, claude"
-    },
-    {
-      "title": "New Codex features include the ability to use your computer in the background",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
-      "published": "2026-04-16T18:30:44+00:00",
-      "summary": "An in-app browser allows visual feedback while building websites and more."
-    },
-    {
-      "title": "Microsoft and Stellantis want to use AI to help car owners",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
-      "published": "2026-04-16T17:29:12+00:00",
-      "summary": "Digital services for brands from Jeep to Peugeot will feel the presence of AI."
-    },
-    {
-      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
-      "published": "2026-04-16T17:16:52+00:00",
-      "summary": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning's two big model releases - Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic.\nHere's the Qwen 3.6 pelican, generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running on my MacBook Pro M5 via LM Studio (and the llm-lmstudio plugin) - transcript here:\n\nAnd here's one I got from Anthropic's"
     }
   ]
 }
