@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-18T22:33:06.242961+00:00",
+  "generated_at": "2026-04-18T23:33:11.384199+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 7,
   "items": [
+    {
+      "title": "Claude system prompts as a git timeline",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+      "published": "2026-04-18T12:25:00+00:00",
+      "summary": "Research: Claude system prompts as a git timeline\n    Anthropic publish the system prompts for Claude chat and make that page available as Markdown. I had Claude Code turn that page into separate files for each model and model family with fake git commit dates to enable browsing the changes via the GitHub commit view.\n    \n        Tags: system-prompts, anthropic, claude, generative-ai, ai, llms"
+    },
     {
       "title": "[AINews] The Two Sides of OpenClaw",
       "source": "Latent.Space",
