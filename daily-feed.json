@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-19T14:01:59.872556+00:00",
+  "generated_at": "2026-04-19T15:36:09.161831+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
@@ -27,14 +27,6 @@
       "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
       "published": "2026-04-18T06:50:57+00:00",
       "summary": "a quiet day lets us reflect on openclaw this week."
-    },
-    {
-      "title": "Adding a new content type to my blog-to-newsletter tool",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
-      "published": "2026-04-18T03:15:36+00:00",
-      "summary": "Agentic Engineering Patterns &gt;\n    Here's an example of a deceptively short prompt that got a quite a lot of work done in a single shot.\nFirst, some background. I send out a free Substack newsletter around once a week containing content copied-and-pasted from my blog. I'm effectively using Substack as a lightweight way to allow people to subscribe to my blog via email.\nI generate the newsletter with my blog-to-newsletter tool - an HTML and JavaScript app that fetches my latest content from th"
     }
   ]
 }
