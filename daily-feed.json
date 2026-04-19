@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-19T21:34:23.043538+00:00",
+  "generated_at": "2026-04-19T22:34:22.402010+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Headless everything for personal AI",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+      "published": "2026-04-19T21:46:38+00:00",
+      "summary": "Headless everything for personal AI\nMatt Webb thinks headless services are about to become much more common:\n\nWhy? Because using personal AIs is a better experience for users than using services directly (honestly); and headless services are quicker and more dependable for the personal AIs than having them click round a GUI with a bot-controlled mouse.\n\nEvidently Marc Benioff thinks so too:\n\nWelcome Salesforce Headless 360: No Browser Required!  Our API is the UI. Entire Salesforce &amp; Agentfo"
+    },
     {
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "source": "Simon Willison's Weblog",
