@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-19T05:27:26.615528+00:00",
+  "generated_at": "2026-04-19T07:17:05.559031+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
@@ -43,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
       "published": "2026-04-17T23:59:03+00:00",
       "summary": "This year's PyCon US is coming up next month from May 13th to May 19th, with the core conference talks from Friday 15th to Sunday 17th and tutorial and sprint days either side. It's in Long Beach, California this year, the first time PyCon US has come to the West Coast since Portland, Oregon in 2017 and the first time in California since Santa Clara in 2013.\nIf you're based in California this is a great opportunity to catch up with the Python community, meet a whole lot of interesting people and"
-    },
-    {
-      "title": "Satellite and drone images reveal big delays in US data center construction",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-      "published": "2026-04-17T18:08:25+00:00",
-      "summary": "Data centers face construction delays and energy bottleneck as resistance grows."
     }
   ]
 }
