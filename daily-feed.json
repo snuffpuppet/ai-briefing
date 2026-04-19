@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-19T18:48:11.033742+00:00",
+  "generated_at": "2026-04-19T19:40:08.864230+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
@@ -19,14 +19,6 @@
       "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
       "published": "2026-04-18T12:25:00+00:00",
       "summary": "Research: Claude system prompts as a git timeline\n    Anthropic publish the system prompts for Claude chat and make that page available as Markdown. I had Claude Code turn that page into separate files for each model and model family with fake git commit dates to enable browsing the changes via the GitHub commit view.\nI used this to write my own detailed notes on the changes between Opus 4.6 and 4.7.\n    \n        Tags: system-prompts, anthropic, claude, generative-ai, ai, llms"
-    },
-    {
-      "title": "[AINews] The Two Sides of OpenClaw",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
-      "published": "2026-04-18T06:50:57+00:00",
-      "summary": "a quiet day lets us reflect on openclaw this week."
     }
   ]
 }
