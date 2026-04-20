@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-20T20:43:23.535332+00:00",
+  "generated_at": "2026-04-20T21:44:28.683972+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "Reading today's open-closed performance gap",
@@ -67,6 +67,14 @@
       "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
       "published": "2026-04-20T02:33:58+00:00",
       "summary": "TIL: SQL functions in Google Sheets to fetch data from Datasette\n    I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the importdata() function, a \"named function\" that wraps it or a Google Apps Script if you need to send an API token in an HTTP header (not supported by importdata().)\nHere's an example sheet demonstrating all three methods.\n    \n        Tags: spreadsheets, datasette, google"
+    },
+    {
+      "title": "Gradient-based Planning for World Models at Longer Horizons",
+      "source": "The Berkeley Artificial Intelligence Research Blog",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
+      "published": "2026-04-20T02:00:00-07:00",
+      "summary": "GRASP is a new gradient-based planner for learned dynamics (a “world model”) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel across time, (2) adding stochasticity directly to the state iterates for exploration, and (3) reshaping gradients so actions get clean signals while we avoid brittle “state-input” gradients through high-dimensional vision models.\n\n\n\nLarge, learned world models are becoming incr"
     },
     {
       "title": "Claude Token Counter, now with model comparisons",
