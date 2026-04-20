@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-20T16:07:37.574802+00:00",
+  "generated_at": "2026-04-20T17:56:05.848900+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+      "published": "2026-04-20T17:15:51+00:00",
+      "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud."
+    },
+    {
+      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/noetik",
+      "published": "2026-04-20T16:17:17+00:00",
+      "summary": "95% of cancer treatments fail to pass clinical trials, but it may be a matching problem &#8212; that Noetik is solving with autoregressive transformers like TARIO-2!"
+    },
     {
       "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
       "source": "AI - Ars Technica",
