@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-20T12:02:31.958135+00:00",
+  "generated_at": "2026-04-20T14:49:09.696258+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 8,
   "items": [
+    {
+      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+      "published": "2026-04-20T14:21:40+00:00",
+      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed."
+    },
+    {
+      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/04/20/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
+      "published": "2026-04-20T12:30:19+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Huawei’s HiFloat4 training format beats Western-developed MXFP4 in Ascend chip bakeoff:…Could this also be a symptom of the impact of export controls in driving Chinese interest towards [&#8230;]"
+    },
     {
       "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -27,6 +43,14 @@
       "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
       "published": "2026-04-20T00:50:45+00:00",
       "summary": "Claude Token Counter, now with model comparisons\nI upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them.\nAs far as I can tell Claude Opus 4.7 is the first model to change the tokenizer, so it's only worth running comparisons between 4.7 and 4.6. The Claude token counting API accepts any Claude model ID though so I've included options for all four of the notable current models (Opus 4.7 and 4.6, Sonnet 4.6, and Haiku 4.5)"
+    },
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "published": "2026-04-20T00:00:00+00:00",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences."
     },
     {
       "title": "Cybernetics and the “human-on-the-loop” in agentic coding",
