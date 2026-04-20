@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T10:46:58.873170+00:00",
+  "generated_at": "2026-04-20T12:02:31.958135+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 5,
@@ -29,20 +29,20 @@
       "summary": "Claude Token Counter, now with model comparisons\nI upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them.\nAs far as I can tell Claude Opus 4.7 is the first model to change the tokenizer, so it's only worth running comparisons between 4.7 and 4.6. The Claude token counting API accepts any Claude model ID though so I've included options for all four of the notable current models (Opus 4.7 and 4.6, Sonnet 4.6, and Haiku 4.5)"
     },
     {
+      "title": "Cybernetics and the “human-on-the-loop” in agentic coding",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/cybernetics-and-human-on-the-loop-in-agentic-coding",
+      "published": "2026-04-20T00:00:00+00:00",
+      "summary": "Cybernetics and the “human-on-the-loop” in agentic coding"
+    },
+    {
       "title": "Headless everything for personal AI",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
       "published": "2026-04-19T21:46:38+00:00",
       "summary": "Headless everything for personal AI\nMatt Webb thinks headless services are about to become much more common:\n\nWhy? Because using personal AIs is a better experience for users than using services directly (honestly); and headless services are quicker and more dependable for the personal AIs than having them click round a GUI with a bot-controlled mouse.\n\nEvidently Marc Benioff thinks so too:\n\nWelcome Salesforce Headless 360: No Browser Required!  Our API is the UI. Entire Salesforce &amp; Agentfo"
-    },
-    {
-      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
-      "published": "2026-04-18T23:59:40+00:00",
-      "summary": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 in July 2024 and it's always interesting to see how the system prompt evolves as they publish new models.\nOpus 4.7 shipped the other day (April 16, 2026) with a Claude.ai system prompt update since Opus 4.6 (February 5, 2026).\nI had Claude Code take the Markdown version of their system prompts, break that up into separate documen"
     }
   ]
 }
