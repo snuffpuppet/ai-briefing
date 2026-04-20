@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-20T17:56:05.848900+00:00",
+  "generated_at": "2026-04-20T19:09:10.634615+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Reading today's open-closed performance gap",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+      "published": "2026-04-20T18:25:02+00:00",
+      "summary": "The complex factors that determine the single evaluation number so many focus on. Plus, how this changes in the future."
+    },
+    {
+      "title": "Robot runner handily beats humans in half-marathon, setting new record",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
+      "published": "2026-04-20T17:56:27+00:00",
+      "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics."
+    },
     {
       "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
       "source": "AI - Ars Technica",
