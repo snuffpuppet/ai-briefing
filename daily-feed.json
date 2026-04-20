@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-20T02:32:14.188237+00:00",
+  "generated_at": "2026-04-20T05:39:23.993404+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "SQL functions in Google Sheets to fetch data from Datasette",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+      "published": "2026-04-20T02:33:58+00:00",
+      "summary": "TIL: SQL functions in Google Sheets to fetch data from Datasette\n    I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the importdata() function, a \"named function\" that wraps it or a Google Apps Script if you need to send an API token in an HTTP header (not supported by importdata().)\nHere's an example sheet demonstrating all three methods.\n    \n        Tags: spreadsheets, datasette, google"
+    },
     {
       "title": "Claude Token Counter, now with model comparisons",
       "source": "Simon Willison's Weblog",
