@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-19T23:34:25.964236+00:00",
+  "generated_at": "2026-04-20T02:32:14.188237+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 3,
   "items": [
+    {
+      "title": "Claude Token Counter, now with model comparisons",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+      "published": "2026-04-20T00:50:45+00:00",
+      "summary": "Claude Token Counter, now with model comparisons\nI upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them.\nAs far as I can tell Claude Opus 4.7 is the first model to change the tokenizer, so it's only worth running comparisons between 4.7 and 4.6. The Claude token counting API accepts any Claude model ID though so I've included options for all four of the notable current models (Opus 4.7 and 4.6, Sonnet 4.6, and Haiku 4.5)"
+    },
     {
       "title": "Headless everything for personal AI",
       "source": "Simon Willison's Weblog",
@@ -19,14 +27,6 @@
       "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
       "published": "2026-04-18T23:59:40+00:00",
       "summary": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 in July 2024 and it's always interesting to see how the system prompt evolves as they publish new models.\nOpus 4.7 shipped the other day (April 16, 2026) with a Claude.ai system prompt update since Opus 4.6 (February 5, 2026).\nI had Claude Code take the Markdown version of their system prompts, break that up into separate documen"
-    },
-    {
-      "title": "Claude system prompts as a git timeline",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
-      "published": "2026-04-18T12:25:00+00:00",
-      "summary": "Research: Claude system prompts as a git timeline\n    Anthropic publish the system prompts for Claude chat and make that page available as Markdown. I had Claude Code turn that page into separate files for each model and model family with fake git commit dates to enable browsing the changes via the GitHub commit view.\nI used this to write my own detailed notes on the changes between Opus 4.6 and 4.7.\n    \n        Tags: system-prompts, anthropic, claude, generative-ai, ai, llms"
     }
   ]
 }
