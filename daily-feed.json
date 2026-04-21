@@ -1,9 +1,113 @@
 {
-  "generated_at": "2026-04-21T20:02:05.515813+00:00",
+  "generated_at": "2026-04-21T21:43:26.797777+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "published": "2026-04-21T21:40:41+00:00",
+      "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers."
+    },
+    {
+      "title": "10 Things That Matter in AI Right Now",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "LLMs+",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;"
+    },
+    {
+      "title": "Supercharged scams",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,&#8230;"
+    },
+    {
+      "title": "World models",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many&#8230;"
+    },
+    {
+      "title": "Weaponized deepfakes",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier&#8230;"
+    },
+    {
+      "title": "Agent orchestration",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs&#8230;"
+    },
+    {
+      "title": "Humanoid data",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in which I&#8217;d remotely control a robotic arm in Shenzhen, China, as it completed puzzles and&#8230;"
+    },
+    {
+      "title": "China’s open-source bet",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight” packages. This lets developers adapt the models and run them on their own hardware to build products without negotiating a&#8230;"
+    },
+    {
+      "title": "Artificial scientists",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it.&#160; Already, LLMs can assist scientists in all sorts of ways. They can point people to&#8230;"
+    },
+    {
+      "title": "Resistance",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
+      "published": "2026-04-21T20:45:00+00:00",
+      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—among other concerns.&#160; This anti-AI movement is taking shape&#8230;"
+    },
+    {
+      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+      "published": "2026-04-21T20:32:24+00:00",
+      "summary": "OpenAI released ChatGPT Images 2.0 today, their latest image generation model. On the livestream Sam Altman said that the leap from gpt-image-1 to gpt-image-2 was equivalent to jumping from GPT-3 to GPT-5. Here's how I put it to the test.\nMy prompt:\n\nDo a where's Waldo style image but it's where is the raccoon holding a ham radio\n\ngpt-image-1\nFirst as a baseline here's what I got from the older gpt-image-1 using ChatGPT directly:\n\nI wasn't able to spot the raccoon - I quickly realized that testi"
+    },
+    {
+      "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+      "published": "2026-04-21T20:01:36+00:00",
+      "summary": "Can ChatGPT be blamed for a mass shooting? Florida is investigating."
+    },
     {
       "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
       "source": "AI - Ars Technica",
@@ -11,14 +115,6 @@
       "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
       "published": "2026-04-21T19:30:52+00:00",
       "summary": "Move highlights the difficulty of finding high-quality interactive training data."
-    },
-    {
-      "title": "Building agent-first governance and security",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
-      "published": "2026-04-21T17:22:54+00:00",
-      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (NHI) are outpacing human identities, and that trend will explode with agentic AI. Solid governance and&#8230;"
     },
     {
       "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
@@ -163,22 +259,6 @@
       "url": "https://jack-clark.net/2026/04/20/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
       "published": "2026-04-20T12:30:19+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Huawei’s HiFloat4 training format beats Western-developed MXFP4 in Ascend chip bakeoff:…Could this also be a symptom of the impact of export controls in driving Chinese interest towards [&#8230;]"
-    },
-    {
-      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "published": "2026-04-20T09:00:00+00:00",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with&#8230;"
-    },
-    {
-      "title": "Gradient-based Planning for World Models at Longer Horizons",
-      "source": "The Berkeley Artificial Intelligence Research Blog",
-      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
-      "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
-      "published": "2026-04-20T02:00:00-07:00",
-      "summary": "GRASP is a new gradient-based planner for learned dynamics (a “world model”) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel across time, (2) adding stochasticity directly to the state iterates for exploration, and (3) reshaping gradients so actions get clean signals while we avoid brittle “state-input” gradients through high-dimensional vision models.\n\n\n\nLarge, learned world models are becoming incr"
     }
   ]
 }
