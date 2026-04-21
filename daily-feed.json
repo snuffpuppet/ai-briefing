@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-21T15:12:04.251117+00:00",
+  "generated_at": "2026-04-21T16:59:12.372815+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Quoting Andreas Påhlsson-Notini",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+      "published": "2026-04-21T16:39:33+00:00",
+      "summary": "AI agents are already too human. Not in the romantic sense, not because they love or fear or dream, but in the more banal and frustrating one. The current implementations keep showing their human origin again and again: lack of stringency, lack of patience, lack of focus. Faced with an awkward task, they drift towards the familiar. Faced with hard constraints, they start negotiating with reality.\n&mdash; Andreas Påhlsson-Notini, Less human AI agents, please.\n\n    Tags: ai-agents, coding-agents,"
+    },
     {
       "title": "Fragments: April 21",
       "source": "Martin Fowler",
@@ -11,6 +19,22 @@
       "url": "https://martinfowler.com/fragments/2026-04-21.html",
       "published": "2026-04-21T16:34:00+02:00",
       "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.\n\nAs we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:\n\n\n  An interest"
+    },
+    {
+      "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/",
+      "published": "2026-04-21T16:00:19+00:00",
+      "summary": "We’ve fundamentally transformed Facebook Groups Search to help people more reliably discover, sort through, and validate community content that’s most relevant to them. We’ve adopted a new hybrid retrieval architecture and implemented automated model-based evaluation to address the major friction points people experience when searching community content. Under this new framework, we’ve made tangible improvements [...]\nRead More...\nThe post Modernizing the Facebook Groups Search to Unlock the Pow"
+    },
+    {
+      "title": "scosman/pelicans_riding_bicycles",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+      "published": "2026-04-21T15:54:43+00:00",
+      "summary": "scosman/pelicans_riding_bicycles\nI firmly approve of Steve Cosman's efforts to pollute the training set of pelicans riding bicycles.\n\n(To be fair, most of the examples I've published count as poisoning too.)\n\n    Via Hacker News comment\n\n\n    Tags: ai, generative-ai, llms, training-data, pelican-riding-a-bicycle"
     },
     {
       "title": "Learnings from conducting ~1,000 interviews at Amazon",
@@ -74,7 +98,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
       "published": "2026-04-20T18:00:26+00:00",
-      "summary": "Release: llm-openrouter 0.6\n    \n\nllm openrouter refresh command for refreshing the list of available models without waiting for the cache to expire.\n\n\nI added this feature so I could try Kimi 2.6 on OpenRouter as soon as it became available there.\n    \n        Tags: openrouter, llm"
+      "summary": "Release: llm-openrouter 0.6\n    \n\nllm openrouter refresh command for refreshing the list of available models without waiting for the cache to expire.\n\n\nI added this feature so I could try Kimi 2.6 on OpenRouter as soon as it became available there.\nHere's its pelican - this time as an HTML page because Kimi chose to include an HTML and JavaScript UI to control the animation. Transcript here.\n\n    \n        Tags: openrouter, llm, llm-release, pelican-riding-a-bicycle, kimi, ai-in-china, llms, ai,"
     },
     {
       "title": "Robot runner handily beats humans in half-marathon, setting new record",
@@ -117,7 +141,7 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Huawei’s HiFloat4 training format beats Western-developed MXFP4 in Ascend chip bakeoff:…Could this also be a symptom of the impact of export controls in driving Chinese interest towards [&#8230;]"
     },
     {
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
