@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-21T11:05:02.329301+00:00",
+  "generated_at": "2026-04-21T13:22:54.638176+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Learnings from conducting ~1,000 interviews at Amazon",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews",
+      "published": "2026-04-21T12:49:16+00:00",
+      "summary": "Steve Huynh, formerly Principal Engineer at Amazon, shares observations from 10+ years of interviewing software engineers, and an excerpt from his new book, Technical Behavioral Interview"
+    },
     {
       "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
       "source": "Hugging Face - Blog",
@@ -27,6 +35,14 @@
       "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
       "published": "2026-04-21T00:19:33+00:00",
       "summary": "Yay Kimi!!!"
+    },
+    {
+      "title": "Scaling Codex to enterprises worldwide",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "published": "2026-04-21T00:00:00+00:00",
+      "summary": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle."
     },
     {
       "title": "Reading today's open-closed performance gap",
@@ -99,30 +115,6 @@
       "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
       "published": "2026-04-20T02:00:00-07:00",
       "summary": "GRASP is a new gradient-based planner for learned dynamics (a “world model”) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel across time, (2) adding stochasticity directly to the state iterates for exploration, and (3) reshaping gradients so actions get clean signals while we avoid brittle “state-input” gradients through high-dimensional vision models.\n\n\n\nLarge, learned world models are becoming incr"
-    },
-    {
-      "title": "Claude Token Counter, now with model comparisons",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
-      "published": "2026-04-20T00:50:45+00:00",
-      "summary": "Claude Token Counter, now with model comparisons\nI upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them.\nAs far as I can tell Claude Opus 4.7 is the first model to change the tokenizer, so it's only worth running comparisons between 4.7 and 4.6. The Claude token counting API accepts any Claude model ID though so I've included options for all four of the notable current models (Opus 4.7 and 4.6, Sonnet 4.6, and Haiku 4.5)"
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "published": "2026-04-20T00:00:00+00:00",
-      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences."
-    },
-    {
-      "title": "Cybernetics and the “human-on-the-loop” in agentic coding",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/cybernetics-and-human-on-the-loop-in-agentic-coding",
-      "published": "2026-04-20T00:00:00+00:00",
-      "summary": "Cybernetics and the “human-on-the-loop” in agentic coding"
     }
   ]
 }
