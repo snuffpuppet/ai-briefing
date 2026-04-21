@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-21T16:59:12.372815+00:00",
+  "generated_at": "2026-04-21T18:06:01.177512+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Building agent-first governance and security",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
+      "published": "2026-04-21T17:22:54+00:00",
+      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (NHI) are outpacing human identities, and that trend will explode with agentic AI. Solid governance and&#8230;"
+    },
+    {
+      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+      "published": "2026-04-21T17:00:04+00:00",
+      "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars."
+    },
     {
       "title": "Quoting Andreas Påhlsson-Notini",
       "source": "Simon Willison's Weblog",
