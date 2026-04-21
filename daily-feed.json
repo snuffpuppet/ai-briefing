@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-21T21:43:26.797777+00:00",
+  "generated_at": "2026-04-21T22:36:41.017106+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 33,
   "items": [
     {
-      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+      "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+      "published": "2026-04-21T21:57:54+00:00",
+      "summary": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget."
+    },
+    {
+      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
