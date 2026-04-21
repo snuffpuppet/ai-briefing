@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-21T09:24:28.759098+00:00",
+  "generated_at": "2026-04-21T11:05:02.329301+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "published": "2026-04-21T10:09:58+00:00",
+      "summary": ""
+    },
     {
       "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
       "source": "Hugging Face - Blog",
@@ -115,14 +123,6 @@
       "url": "https://www.thoughtworks.com/insights/blog/generative-ai/cybernetics-and-human-on-the-loop-in-agentic-coding",
       "published": "2026-04-20T00:00:00+00:00",
       "summary": "Cybernetics and the “human-on-the-loop” in agentic coding"
-    },
-    {
-      "title": "Headless everything for personal AI",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
-      "published": "2026-04-19T21:46:38+00:00",
-      "summary": "Headless everything for personal AI\nMatt Webb thinks headless services are about to become much more common:\n\nWhy? Because using personal AIs is a better experience for users than using services directly (honestly); and headless services are quicker and more dependable for the personal AIs than having them click round a GUI with a bot-controlled mouse.\n\nEvidently Marc Benioff thinks so too:\n\nWelcome Salesforce Headless 360: No Browser Required!  Our API is the UI. Entire Salesforce &amp; Agentfo"
     }
   ]
 }
