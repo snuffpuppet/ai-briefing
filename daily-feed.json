@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-21T18:06:01.177512+00:00",
+  "generated_at": "2026-04-21T20:02:05.515813+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+      "published": "2026-04-21T19:30:52+00:00",
+      "summary": "Move highlights the difficulty of finding high-quality interactive training data."
+    },
     {
       "title": "Building agent-first governance and security",
       "source": "Artificial intelligence – MIT Technology Review",
