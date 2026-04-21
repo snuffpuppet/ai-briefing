@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-20T23:40:57.167503+00:00",
+  "generated_at": "2026-04-21T02:27:57.321800+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 15,
   "items": [
+    {
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "published": "2026-04-21T00:40:10+00:00",
+      "summary": ""
+    },
+    {
+      "title": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+      "published": "2026-04-21T00:19:33+00:00",
+      "summary": "Yay Kimi!!!"
+    },
     {
       "title": "Reading today's open-closed performance gap",
       "source": "Interconnects AI",
