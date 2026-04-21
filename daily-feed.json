@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-21T13:22:54.638176+00:00",
+  "generated_at": "2026-04-21T15:12:04.251117+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Fragments: April 21",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-04-21.html",
+      "published": "2026-04-21T16:34:00+02:00",
+      "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.\n\nAs we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:\n\n\n  An interest"
+    },
     {
       "title": "Learnings from conducting ~1,000 interviews at Amazon",
       "source": "The Pragmatic Engineer",
@@ -42,7 +50,15 @@
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "published": "2026-04-21T00:00:00+00:00",
-      "summary": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle."
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU."
+    },
+    {
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "published": "2026-04-21T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Reading today's open-closed performance gap",
@@ -51,6 +67,14 @@
       "url": "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
       "published": "2026-04-20T18:25:02+00:00",
       "summary": "The complex factors that determine the single evaluation number so many focus on. Plus, how this changes in the future."
+    },
+    {
+      "title": "llm-openrouter 0.6",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+      "published": "2026-04-20T18:00:26+00:00",
+      "summary": "Release: llm-openrouter 0.6\n    \n\nllm openrouter refresh command for refreshing the list of available models without waiting for the cache to expire.\n\n\nI added this feature so I could try Kimi 2.6 on OpenRouter as soon as it became available there.\n    \n        Tags: openrouter, llm"
     },
     {
       "title": "Robot runner handily beats humans in half-marathon, setting new record",
@@ -99,14 +123,6 @@
       "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
       "published": "2026-04-20T09:00:00+00:00",
       "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with&#8230;"
-    },
-    {
-      "title": "SQL functions in Google Sheets to fetch data from Datasette",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
-      "published": "2026-04-20T02:33:58+00:00",
-      "summary": "TIL: SQL functions in Google Sheets to fetch data from Datasette\n    I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the importdata() function, a \"named function\" that wraps it or a Google Apps Script if you need to send an API token in an HTTP header (not supported by importdata().)\nHere's an example sheet demonstrating all three methods.\n    \n        Tags: spreadsheets, datasette, google"
     },
     {
       "title": "Gradient-based Planning for World Models at Longer Horizons",
