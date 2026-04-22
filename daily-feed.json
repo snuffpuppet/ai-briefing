@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-22T13:23:23.202754+00:00",
+  "generated_at": "2026-04-22T15:12:13.029538+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 30,
   "items": [
+    {
+      "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+      "published": "2026-04-22T14:13:01+00:00",
+      "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes."
+    },
     {
       "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
       "source": "IEEE Spectrum",
@@ -51,6 +59,14 @@
       "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
       "published": "2026-04-22T00:23:52+00:00",
       "summary": "with Cursor getting a $10B contract with xAI and a right to acquire for $60B."
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "published": "2026-04-22T00:00:00+00:00",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
     },
     {
       "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
