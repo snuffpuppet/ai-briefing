@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-22T11:03:15.771022+00:00",
+  "generated_at": "2026-04-22T13:23:23.202754+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 28,
   "items": [
     {
       "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
@@ -205,6 +205,14 @@
       "summary": "scosman/pelicans_riding_bicycles\nI firmly approve of Steve Cosman's efforts to pollute the training set of pelicans riding bicycles.\n\n(To be fair, most of the examples I've published count as poisoning too.)\n\n    Via Hacker News comment\n\n\n    Tags: ai, generative-ai, llms, training-data, pelican-riding-a-bicycle"
     },
     {
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "published": "2026-04-21T14:54:15+00:00",
+      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
+    },
+    {
       "title": "Learnings from conducting ~1,000 interviews at Amazon",
       "source": "The Pragmatic Engineer",
       "feed_url": "https://newsletter.pragmaticengineer.com/feed",
@@ -218,38 +226,6 @@
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published": "2026-04-21T10:09:58+00:00",
-      "summary": ""
-    },
-    {
-      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-      "published": "2026-04-21T00:40:10+00:00",
-      "summary": ""
-    },
-    {
-      "title": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
-      "published": "2026-04-21T00:19:33+00:00",
-      "summary": "Yay Kimi!!!"
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "published": "2026-04-21T00:00:00+00:00",
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU."
-    },
-    {
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
-      "published": "2026-04-21T00:00:00+00:00",
       "summary": ""
     }
   ]
