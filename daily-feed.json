@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-22T09:19:04.197066+00:00",
+  "generated_at": "2026-04-22T11:03:15.771022+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 31,
   "items": [
+    {
+      "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-chip-design",
+      "published": "2026-04-22T11:00:01+00:00",
+      "summary": "In 2020 researchers fine-tuned a GPT-2 model to design fragments of logic circuits; in 2023 researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could design and test chips with basic functionality, like dice rolls (though often these were flawed).Now Verkor.io, an AI chip design start-up, claims a bigger milestone: a RISC-V CPU core designed entirely by an agentic AI system. The CPU, dubbed VerCore, has a clock speed of 1.5 gigahertz"
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "published": "2026-04-22T10:05:06+00:00",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
+    },
     {
       "title": "Quoting Bobby Holley",
       "source": "Simon Willison's Weblog",
@@ -123,14 +139,6 @@
       "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
       "published": "2026-04-21T20:45:00+00:00",
       "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it.&#160; Already, LLMs can assist scientists in all sorts of ways. They can point people to&#8230;"
-    },
-    {
-      "title": "Resistance",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—among other concerns.&#160; This anti-AI movement is taking shape&#8230;"
     },
     {
       "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
