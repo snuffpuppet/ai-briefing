@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-22T02:25:59.209563+00:00",
+  "generated_at": "2026-04-22T05:24:10.792300+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Changes to GitHub Copilot Individual plans",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
+      "published": "2026-04-22T03:30:02+00:00",
+      "summary": "Changes to GitHub Copilot Individual plans\nOn the same day as Claude Code's temporary will-they-won't-they $100/month kerfuffle (for the moment, they won't), here's the latest on GitHub Copilot pricing.\nUnlike Anthropic, GitHub put up an official announcement about their changes, which include tightening usage limits, pausing signups for individual plans (!), restricting Claude Opus 4.7 to the more expensive $39/month \"Pro+\" plan, and dropping the previous Opus models entirely.\nThe key paragraph"
+    },
     {
       "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
       "source": "Simon Willison's Weblog",
@@ -251,22 +259,6 @@
       "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
       "published": "2026-04-20T17:56:27+00:00",
       "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics."
-    },
-    {
-      "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
-      "published": "2026-04-20T17:15:51+00:00",
-      "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud."
-    },
-    {
-      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/noetik",
-      "published": "2026-04-20T16:17:17+00:00",
-      "summary": "95% of cancer treatments fail to pass clinical trials, but it may be a matching problem &#8212; that Noetik is solving with autoregressive transformers like TARIO-2!"
     }
   ]
 }
