@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-22T16:58:01.525004+00:00",
+  "generated_at": "2026-04-22T18:03:16.566174+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 37,
   "items": [
+    {
+      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+      "published": "2026-04-22T17:10:32+00:00",
+      "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training."
+    },
     {
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "source": "Simon Willison's Weblog",
@@ -42,7 +50,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-chip-design",
       "published": "2026-04-22T11:00:01+00:00",
-      "summary": "In 2020 researchers fine-tuned a GPT-2 model to design fragments of logic circuits; in 2023 researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could design and test chips with basic functionality, like dice rolls (though often these were flawed).Now Verkor.io, an AI chip design start-up, claims a bigger milestone: a RISC-V CPU core designed entirely by an agentic AI system. The CPU, dubbed VerCore, has a clock speed of 1.5 gigahertz"
+      "summary": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits; in 2023, researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could design and test chips with basic functionality, like dice rolls (though often these were flawed).Now Verkor.io, an AI chip design startup, claims a bigger milestone: a RISC-V CPU core designed entirely by an agentic AI system. The CPU, dubbed VerCore, has a clock speed of 1.5 gigahertz"
     },
     {
       "title": "AI needs a strong data fabric to deliver business value",
@@ -51,6 +59,22 @@
       "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "published": "2026-04-22T10:05:06+00:00",
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
+    },
+    {
+      "title": "Workspace agents",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+    },
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
