@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-21T23:33:42.475235+00:00",
+  "generated_at": "2026-04-22T02:25:59.209563+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 33,
   "items": [
+    {
+      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+      "published": "2026-04-22T02:07:34+00:00",
+      "summary": "Anthropic today quietly (as in silently, no announcement anywhere at all) updated their claude.com/pricing page (but not their Choosing a Claude plan page, which shows up first for me on Google) to add this tiny but significant detail (arrow is mine, and it's already reverted):\n\nThe Internet Archive copy from yesterday shows a checkbox there. Claude Code used to be a feature of the $20/month Pro plan, but according to the new pricing page it is now exclusive to the $100/month or $200/month Max p"
+    },
+    {
+      "title": "[AINews] OpenAI launches GPT-Image-2",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+      "published": "2026-04-22T00:23:52+00:00",
+      "summary": "with Cursor getting a $10B contract with xAI and a right to acquire for $60B."
+    },
     {
       "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
       "source": "AI - Ars Technica",
@@ -251,22 +267,6 @@
       "url": "https://www.latent.space/p/noetik",
       "published": "2026-04-20T16:17:17+00:00",
       "summary": "95% of cancer treatments fail to pass clinical trials, but it may be a matching problem &#8212; that Noetik is solving with autoregressive transformers like TARIO-2!"
-    },
-    {
-      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
-      "published": "2026-04-20T14:21:40+00:00",
-      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed."
-    },
-    {
-      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/04/20/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/",
-      "published": "2026-04-20T12:30:19+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Huawei’s HiFloat4 training format beats Western-developed MXFP4 in Ascend chip bakeoff:…Could this also be a symptom of the impact of export controls in driving Chinese interest towards [&#8230;]"
     }
   ]
 }
