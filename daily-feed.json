@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-22T05:24:10.792300+00:00",
+  "generated_at": "2026-04-22T07:44:15.538135+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 30,
   "items": [
+    {
+      "title": "Quoting Bobby Holley",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
+      "published": "2026-04-22T05:40:56+00:00",
+      "summary": "As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation. [...]\nOur experience is a hopeful one for teams who shake off the vertigo and get to work. You may need to reprioritize everything else to bring relentless and single-minded focus to the task, but there is light at the end of the tunnel. We a"
+    },
     {
       "title": "Changes to GitHub Copilot Individual plans",
       "source": "Simon Willison's Weblog",
@@ -235,30 +243,6 @@
       "url": "https://huggingface.co/blog/cybersecurity-openness",
       "published": "2026-04-21T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Reading today's open-closed performance gap",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
-      "published": "2026-04-20T18:25:02+00:00",
-      "summary": "The complex factors that determine the single evaluation number so many focus on. Plus, how this changes in the future."
-    },
-    {
-      "title": "llm-openrouter 0.6",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
-      "published": "2026-04-20T18:00:26+00:00",
-      "summary": "Release: llm-openrouter 0.6\n    \n\nllm openrouter refresh command for refreshing the list of available models without waiting for the cache to expire.\n\n\nI added this feature so I could try Kimi 2.6 on OpenRouter as soon as it became available there.\nHere's its pelican - this time as an HTML page because Kimi chose to include an HTML and JavaScript UI to control the animation. Transcript here.\n\n    \n        Tags: openrouter, llm, llm-release, pelican-riding-a-bicycle, kimi, ai-in-china, llms, ai,"
-    },
-    {
-      "title": "Robot runner handily beats humans in half-marathon, setting new record",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
-      "published": "2026-04-20T17:56:27+00:00",
-      "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics."
     }
   ]
 }
