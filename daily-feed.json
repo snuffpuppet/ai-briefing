@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:45:30.154234+00:00",
+  "generated_at": "2026-04-22T23:43:28.591009+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 40,
@@ -85,20 +85,20 @@
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
     },
     {
-      "title": "Workspace agents",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
-    },
-    {
       "title": "Introducing workspace agents in ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
+    },
+    {
+      "title": "Workspace agents",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
