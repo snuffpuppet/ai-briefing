@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T05:28:45.039585+00:00",
+  "generated_at": "2026-04-23T07:49:22.122445+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 32,
   "items": [
     {
       "title": "[AINews] Tasteful Tokenmaxxing",
@@ -93,6 +93,14 @@
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
     },
     {
+      "title": "Workspace agents",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+    },
+    {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -107,14 +115,6 @@
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
-    },
-    {
-      "title": "Workspace agents",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     },
     {
       "title": "Quoting Bobby Holley",
@@ -259,14 +259,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
       "published": "2026-04-21T20:01:36+00:00",
       "summary": "Can ChatGPT be blamed for a mass shooting? Florida is investigating."
-    },
-    {
-      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-      "published": "2026-04-21T19:30:52+00:00",
-      "summary": "Move highlights the difficulty of finding high-quality interactive training data."
     }
   ]
 }
