@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-23T21:43:32.264109+00:00",
+  "generated_at": "2026-04-23T22:41:57.738158+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 29,
   "items": [
+    {
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+      "published": "2026-04-23T21:54:24+00:00",
+      "summary": "LlamaIndex have a most excellent open source project called LiteParse, which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LiteParse uses to run in Node.js.\nSpatial text parsing\nRefreshingly, LiteParse doesn't use AI models to do what it does: it's good old-fashioned PDF parsing, falling back to Tesseract OCR (or other pluggable OCR engines) for PDFs that contain images of text rather"
+    },
+    {
+      "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+      "published": "2026-04-23T21:45:10+00:00",
+      "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions."
+    },
     {
       "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
       "source": "Simon Willison's Weblog",
@@ -219,46 +235,6 @@
       "url": "https://spectrum.ieee.org/ai-chip-design",
       "published": "2026-04-22T11:00:01+00:00",
       "summary": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits; in 2023, researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could design and test chips with basic functionality, like dice rolls (though often these were flawed).Now Verkor.io, an AI chip design startup, claims a bigger milestone: a RISC-V CPU core designed entirely by an agentic AI system. The CPU, dubbed VerCore, has a clock speed of 1.5 gigahertz"
-    },
-    {
-      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "published": "2026-04-22T10:20:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AI needs a strong data fabric to deliver business value",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "published": "2026-04-22T10:05:06+00:00",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
-    },
-    {
-      "title": "Introducing workspace agents in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
-    },
-    {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
-    },
-    {
-      "title": "Workspace agents",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     }
   ]
 }
