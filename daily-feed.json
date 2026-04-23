@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-23T02:29:29.456205+00:00",
+  "generated_at": "2026-04-23T05:28:45.039585+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 38,
+  "item_count": 33,
   "items": [
+    {
+      "title": "[AINews] Tasteful Tokenmaxxing",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
+      "published": "2026-04-23T02:45:37+00:00",
+      "summary": "a quiet day lets us reflect on the top conversation that AI leaders are having everywhere."
+    },
     {
       "title": "Shopify’s AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO",
       "source": "Latent.Space",
@@ -85,12 +93,12 @@
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
     },
     {
-      "title": "Workspace agents",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/workspace-agents",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
     },
     {
       "title": "Introducing workspace agents in ChatGPT",
@@ -101,12 +109,12 @@
       "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
     },
     {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "title": "Workspace agents",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "url": "https://openai.com/academy/workspace-agents",
       "published": "2026-04-22T10:00:00+00:00",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
     },
     {
       "title": "Quoting Bobby Holley",
@@ -259,54 +267,6 @@
       "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
       "published": "2026-04-21T19:30:52+00:00",
       "summary": "Move highlights the difficulty of finding high-quality interactive training data."
-    },
-    {
-      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-      "published": "2026-04-21T17:00:04+00:00",
-      "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars."
-    },
-    {
-      "title": "Quoting Andreas Påhlsson-Notini",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
-      "published": "2026-04-21T16:39:33+00:00",
-      "summary": "AI agents are already too human. Not in the romantic sense, not because they love or fear or dream, but in the more banal and frustrating one. The current implementations keep showing their human origin again and again: lack of stringency, lack of patience, lack of focus. Faced with an awkward task, they drift towards the familiar. Faced with hard constraints, they start negotiating with reality.\n&mdash; Andreas Påhlsson-Notini, Less human AI agents, please.\n\n    Tags: ai-agents, coding-agents,"
-    },
-    {
-      "title": "Fragments: April 21",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-04-21.html",
-      "published": "2026-04-21T16:34:00+02:00",
-      "summary": "Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.\n\nAs we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:\n\n\n  An interest"
-    },
-    {
-      "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/",
-      "published": "2026-04-21T16:00:19+00:00",
-      "summary": "We’ve fundamentally transformed Facebook Groups Search to help people more reliably discover, sort through, and validate community content that’s most relevant to them. We’ve adopted a new hybrid retrieval architecture and implemented automated model-based evaluation to address the major friction points people experience when searching community content. Under this new framework, we’ve made tangible improvements [...]\nRead More...\nThe post Modernizing the Facebook Groups Search to Unlock the Pow"
-    },
-    {
-      "title": "scosman/pelicans_riding_bicycles",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
-      "published": "2026-04-21T15:54:43+00:00",
-      "summary": "scosman/pelicans_riding_bicycles\nI firmly approve of Steve Cosman's efforts to pollute the training set of pelicans riding bicycles.\n\n(To be fair, most of the examples I've published count as poisoning too.)\n\n    Via Hacker News comment\n\n\n    Tags: ai, generative-ai, llms, training-data, pelican-riding-a-bicycle"
-    },
-    {
-      "title": "Partnering with industry leaders to accelerate AI transformation",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-      "published": "2026-04-21T14:54:15+00:00",
-      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
     }
   ]
 }
