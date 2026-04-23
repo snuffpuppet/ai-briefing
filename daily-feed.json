@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T11:06:56.589498+00:00",
+  "generated_at": "2026-04-23T13:25:07.045394+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 18,
   "items": [
     {
       "title": "AI Designs Thermoelectric Generators 10,000 Times Faster Than We Can",
@@ -147,22 +147,6 @@
       "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
       "published": "2026-04-22T02:07:34+00:00",
       "summary": "Anthropic today quietly (as in silently, no announcement anywhere at all) updated their claude.com/pricing page (but not their Choosing a Claude plan page, which shows up first for me on Google) to add this tiny but significant detail (arrow is mine, and it's already reverted):\n\nThe Internet Archive copy from yesterday shows a checkbox there. Claude Code used to be a feature of the $20/month Pro plan, but according to the new pricing page it is now exclusive to the $100/month or $200/month Max p"
-    },
-    {
-      "title": "[AINews] OpenAI launches GPT-Image-2",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
-      "published": "2026-04-22T00:23:52+00:00",
-      "summary": "with Cursor getting a $10B contract with xAI and a right to acquire for $60B."
-    },
-    {
-      "title": "Introducing OpenAI Privacy Filter",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "published": "2026-04-22T00:00:00+00:00",
-      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
     }
   ]
 }
