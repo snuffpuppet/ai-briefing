@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-23T09:26:39.309881+00:00",
+  "generated_at": "2026-04-23T11:06:56.589498+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "AI Designs Thermoelectric Generators 10,000 Times Faster Than We Can",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-designed-thermoelectric-generator",
+      "published": "2026-04-23T11:00:01+00:00",
+      "summary": "Waste heat is everywhere: car engines, industrial machinery, kitchen appliances—even your own body. Some of that lost energy can be converted into electricity using thermoelectric generators: compact, solid-state devices that produce power directly from temperature differences without the need for spinning turbines or moving parts.But designing materials that make these systems efficient has long been an engineering slog, requiring slow simulations and painstaking experiments to identify combina"
+    },
     {
       "title": "[AINews] Tasteful Tokenmaxxing",
       "source": "Latent.Space",
@@ -155,22 +163,6 @@
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
       "published": "2026-04-22T00:00:00+00:00",
       "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
-    },
-    {
-      "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
-      "published": "2026-04-21T21:57:54+00:00",
-      "summary": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget."
-    },
-    {
-      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-      "published": "2026-04-21T21:40:41+00:00",
-      "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers."
     }
   ]
 }
