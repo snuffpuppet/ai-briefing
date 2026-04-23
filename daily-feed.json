@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T22:41:57.738158+00:00",
+  "generated_at": "2026-04-23T23:42:57.649843+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 28,
   "items": [
     {
       "title": "Extract PDF text in your browser with LiteParse for the web",
@@ -227,14 +227,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
       "published": "2026-04-22T14:13:01+00:00",
       "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes."
-    },
-    {
-      "title": "AI Agent Designs a RISC-V CPU Core From Scratch",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-chip-design",
-      "published": "2026-04-22T11:00:01+00:00",
-      "summary": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits; in 2023, researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could design and test chips with basic functionality, like dice rolls (though often these were flawed).Now Verkor.io, an AI chip design startup, claims a bigger milestone: a RISC-V CPU core designed entirely by an agentic AI system. The CPU, dubbed VerCore, has a clock speed of 1.5 gigahertz"
     }
   ]
 }
