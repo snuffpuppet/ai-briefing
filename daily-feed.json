@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-22T23:43:28.591009+00:00",
+  "generated_at": "2026-04-23T02:29:29.456205+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 40,
+  "item_count": 38,
   "items": [
     {
       "title": "Shopify’s AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO",
@@ -10,7 +10,7 @@
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/shopify",
       "published": "2026-04-22T19:33:49+00:00",
-      "summary": "Early bird discounts for the San Francisco World&#8217;s Fair, the biggest AIE gathering of the year, end today - prices will go up by ~$500 tonight so do please lock in ASAP!"
+      "summary": "A rare interview with Shopify's CTO on -everything- that Shopify is doing to maximize AI for their customers, with exclusive data on their own AI adoption."
     },
     {
       "title": "Anthropic tested removing Claude Code from the Pro plan",
@@ -85,20 +85,20 @@
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
     },
     {
-      "title": "Introducing workspace agents in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
-    },
-    {
       "title": "Workspace agents",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/academy/workspace-agents",
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+    },
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
@@ -307,22 +307,6 @@
       "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
       "published": "2026-04-21T14:54:15+00:00",
       "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
-    },
-    {
-      "title": "Learnings from conducting ~1,000 interviews at Amazon",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews",
-      "published": "2026-04-21T12:49:16+00:00",
-      "summary": "Steve Huynh, formerly Principal Engineer at Amazon, shares observations from 10+ years of interviewing software engineers, and an excerpt from his new book, Technical Behavioral Interview"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.0",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "published": "2026-04-21T12:00:00+00:00",
-      "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning."
     }
   ]
 }
