@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T17:18:58.432039+00:00",
+  "generated_at": "2026-04-23T19:05:27.205940+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
     {
       "title": "The Pulse: AI token spending out of control – what’s next?",
@@ -45,12 +45,36 @@
       "summary": "Waste heat is everywhere: car engines, industrial machinery, kitchen appliances—even your own body. Some of that lost energy can be converted into electricity using thermoelectric generators: compact, solid-state devices that produce power directly from temperature differences without the need for spinning turbines or moving parts.But designing materials that make these systems efficient has long been an engineering slog, requiring slow simulations and painstaking experiments to identify combina"
     },
     {
+      "title": "Introducing GPT-5.5",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "published": "2026-04-23T11:00:00+00:00",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+    },
+    {
+      "title": "GPT-5.5 System Card",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "published": "2026-04-23T11:00:00+00:00",
+      "summary": ""
+    },
+    {
       "title": "[AINews] Tasteful Tokenmaxxing",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
       "published": "2026-04-23T02:45:37+00:00",
       "summary": "a quiet day lets us reflect on the top conversation that AI leaders are having everywhere."
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "published": "2026-04-23T00:00:00+00:00",
+      "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
     },
     {
       "title": "Shopify’s AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO",
@@ -141,6 +165,14 @@
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
     },
     {
+      "title": "Workspace agents",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+    },
+    {
       "title": "Introducing workspace agents in ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -155,22 +187,6 @@
       "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
-    },
-    {
-      "title": "Workspace agents",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
-    },
-    {
-      "title": "Quoting Bobby Holley",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
-      "published": "2026-04-22T05:40:56+00:00",
-      "summary": "As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation. [...]\nOur experience is a hopeful one for teams who shake off the vertigo and get to work. You may need to reprioritize everything else to bring relentless and single-minded focus to the task, but there is light at the end of the tunnel. We a"
     }
   ]
 }
