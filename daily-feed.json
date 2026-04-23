@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-23T13:25:07.045394+00:00",
+  "generated_at": "2026-04-23T15:51:36.652245+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Greenhouse gases from data center boom could outpace entire nations",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+      "published": "2026-04-23T14:51:16+00:00",
+      "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually."
+    },
+    {
+      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
+      "published": "2026-04-23T14:00:01+00:00",
+      "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromising the devices and services we use every day. As a result, Ant"
+    },
+    {
+      "title": "Quoting Maggie Appleton",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+      "published": "2026-04-23T13:35:37+00:00",
+      "summary": "[...] if you ever needed another reason to learn in public by digital gardening or podcasting or streaming or whathaveyou, add on that people will assume you’re more competent than you are. This will get you invites to very cool exclusive events filled with high-achieving, interesting people, even though you have no right to be there. A+ side benefit.\n&mdash; Maggie Appleton, Gathering Structures (via)\n\n    Tags: blogging, maggie-appleton"
+    },
     {
       "title": "AI Designs Thermoelectric Generators 10,000 Times Faster Than We Can",
       "source": "IEEE Spectrum",
@@ -93,6 +117,14 @@
       "summary": "In 2020, researchers fine-tuned a GPT-2 model to design fragments of logic circuits; in 2023, researchers used GPT-4 to help design an 8-bit processor with a novel instruction set; by 2024, a variety of LLMs could design and test chips with basic functionality, like dice rolls (though often these were flawed).Now Verkor.io, an AI chip design startup, claims a bigger milestone: a RISC-V CPU core designed entirely by an agentic AI system. The CPU, dubbed VerCore, has a clock speed of 1.5 gigahertz"
     },
     {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "published": "2026-04-22T10:20:03+00:00",
+      "summary": ""
+    },
+    {
       "title": "AI needs a strong data fabric to deliver business value",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -131,22 +163,6 @@
       "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
       "published": "2026-04-22T05:40:56+00:00",
       "summary": "As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation. [...]\nOur experience is a hopeful one for teams who shake off the vertigo and get to work. You may need to reprioritize everything else to bring relentless and single-minded focus to the task, but there is light at the end of the tunnel. We a"
-    },
-    {
-      "title": "Changes to GitHub Copilot Individual plans",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
-      "published": "2026-04-22T03:30:02+00:00",
-      "summary": "Changes to GitHub Copilot Individual plans\nOn the same day as Claude Code's temporary will-they-won't-they $100/month kerfuffle (for the moment, they won't), here's the latest on GitHub Copilot pricing.\nUnlike Anthropic, GitHub put up an official announcement about their changes, which include tightening usage limits, pausing signups for individual plans (!), restricting Claude Opus 4.7 to the more expensive $39/month \"Pro+\" plan, and dropping the previous Opus models entirely.\nThe key paragraph"
-    },
-    {
-      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
-      "published": "2026-04-22T02:07:34+00:00",
-      "summary": "Anthropic today quietly (as in silently, no announcement anywhere at all) updated their claude.com/pricing page (but not their Choosing a Claude plan page, which shows up first for me on Google) to add this tiny but significant detail (arrow is mine, and it's already reverted):\n\nThe Internet Archive copy from yesterday shows a checkbox there. Claude Code used to be a feature of the $20/month Pro plan, but according to the new pricing page it is now exclusive to the $100/month or $200/month Max p"
     }
   ]
 }
