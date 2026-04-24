@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-24T11:55:52.503772+00:00",
+  "generated_at": "2026-04-24T13:22:58.568785+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 28,
   "items": [
     {
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
@@ -227,22 +227,6 @@
       "url": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
       "published": "2026-04-23T02:45:37+00:00",
       "summary": "a quiet day lets us reflect on the top conversation that AI leaders are having everywhere."
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-      "published": "2026-04-23T00:00:00+00:00",
-      "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
-    },
-    {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "published": "2026-04-23T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
