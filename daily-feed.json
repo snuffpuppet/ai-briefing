@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-24T15:06:42.954924+00:00",
+  "generated_at": "2026-04-24T16:54:11.325214+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+      "published": "2026-04-24T15:05:23+00:00",
+      "summary": "Beloved wolf gripped the nation after burrowing out of the zoo."
+    },
     {
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
       "source": "Simon Willison's Weblog",
