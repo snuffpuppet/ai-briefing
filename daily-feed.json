@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-24T10:19:44.912743+00:00",
+  "generated_at": "2026-04-24T11:55:52.503772+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 30,
   "items": [
     {
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
@@ -59,6 +59,14 @@
       "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
       "published": "2026-04-24T01:08:17+00:00",
       "summary": "Serving the For You feed\nOne of Bluesky's most interesting features is that anyone can run their own custom \"feed\" implementation and make it available to other users - effectively enabling custom algorithms that can use any mechanism they like to recommend posts.\nspacecowboy runs the For You Feed, used by around 72,000 people. This guest post on the AT Protocol blog explains how it works.\nThe architecture is fascinating. The feed is served by a single Go process using SQLite on a \"gaming\" PC in"
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "published": "2026-04-24T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Extract PDF text in your browser with LiteParse for the web",
