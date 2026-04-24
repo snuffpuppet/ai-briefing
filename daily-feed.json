@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-24T22:37:36.020788+00:00",
+  "generated_at": "2026-04-24T23:38:02.358492+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 22,
   "items": [
+    {
+      "title": "The people do not yearn for automation",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+      "published": "2026-04-24T22:38:49+00:00",
+      "summary": "The people do not yearn for automation\nThis written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket.\nIt’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come.\nNilay’s core idea is that people afflicted with “software brain” - who see the world as something to be automated as much as possible, and attempt to model everything in terms of information flows and"
+    },
     {
       "title": "Google will invest as much as $40 billion in Anthropic",
       "source": "AI - Ars Technica",
@@ -171,30 +179,6 @@
       "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
       "published": "2026-04-23T13:35:37+00:00",
       "summary": "[...] if you ever needed another reason to learn in public by digital gardening or podcasting or streaming or whathaveyou, add on that people will assume you’re more competent than you are. This will get you invites to very cool exclusive events filled with high-achieving, interesting people, even though you have no right to be there. A+ side benefit.\n&mdash; Maggie Appleton, Gathering Structures (via)\n\n    Tags: blogging, maggie-appleton"
-    },
-    {
-      "title": "AI Designs Thermoelectric Generators 10,000 Times Faster Than We Can",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-designed-thermoelectric-generator",
-      "published": "2026-04-23T11:00:01+00:00",
-      "summary": "Waste heat is everywhere: car engines, industrial machinery, kitchen appliances—even your own body. Some of that lost energy can be converted into electricity using thermoelectric generators: compact, solid-state devices that produce power directly from temperature differences without the need for spinning turbines or moving parts.But designing materials that make these systems efficient has long been an engineering slog, requiring slow simulations and painstaking experiments to identify combina"
-    },
-    {
-      "title": "Introducing GPT-5.5",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
-    },
-    {
-      "title": "GPT-5.5 System Card",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": ""
     }
   ]
 }
