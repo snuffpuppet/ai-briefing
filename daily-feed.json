@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-24T13:22:58.568785+00:00",
+  "generated_at": "2026-04-24T15:06:42.954924+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 27,
   "items": [
     {
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
@@ -219,14 +219,6 @@
       "url": "https://openai.com/academy/codex-how-to-start",
       "published": "2026-04-23T10:00:00+00:00",
       "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
-    },
-    {
-      "title": "[AINews] Tasteful Tokenmaxxing",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
-      "published": "2026-04-23T02:45:37+00:00",
-      "summary": "a quiet day lets us reflect on the top conversation that AI leaders are having everywhere."
     }
   ]
 }
