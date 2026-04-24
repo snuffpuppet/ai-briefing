@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-23T23:42:57.649843+00:00",
+  "generated_at": "2026-04-24T02:29:56.788205+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 30,
   "items": [
+    {
+      "title": "russellromney/honker",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
+      "published": "2026-04-24T01:50:07+00:00",
+      "summary": "russellromney/honker\n\"Postgres NOTIFY/LISTEN semantics\" for SQLite, implemented as a Rust SQLite extension and various language bindings to help make use of it.\nThe design of this looks very solid. It lets you write Python code for queues that looks like this:\nimport honker\n\ndb = honker.open(\"app.db\")\nemails = db.queue(\"emails\")\nemails.enqueue({\"to\": \"alice@example.com\"})\n\n# Consume (in a worker process)\nasync for job in emails.claim(\"worker-1\"):\n    send(job.payload)\n    job.ack()\nAnd Kafka-sty"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+      "published": "2026-04-24T01:31:25+00:00",
+      "summary": "An update on recent Claude Code quality reports\nIt turns out the high volume of complaints that Claude Code was providing worse quality results over the past two months was grounded in real problems.\nThe models themselves were not to blame, but three separate issues in the Claude Code harness caused complex but material problems which directly affected users.\nAnthropic's postmortem describes these in detail. This one in particular stood out to me:\n\nOn March 26, we shipped a change to clear Claud"
+    },
+    {
+      "title": "Serving the For You feed",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
+      "published": "2026-04-24T01:08:17+00:00",
+      "summary": "Serving the For You feed\nOne of Bluesky's most interesting features is that anyone can run their own custom \"feed\" implementation and make it available to other users - effectively enabling custom algorithms that can use any mechanism they like to recommend posts.\nspacecowboy runs the For You Feed, used by around 72,000 people. This guest post on the AT Protocol blog explains how it works.\nThe architecture is fascinating. The feed is served by a single Go process using SQLite on a \"gaming\" PC in"
+    },
     {
       "title": "Extract PDF text in your browser with LiteParse for the web",
       "source": "Simon Willison's Weblog",
@@ -77,14 +101,6 @@
       "summary": "Waste heat is everywhere: car engines, industrial machinery, kitchen appliances—even your own body. Some of that lost energy can be converted into electricity using thermoelectric generators: compact, solid-state devices that produce power directly from temperature differences without the need for spinning turbines or moving parts.But designing materials that make these systems efficient has long been an engineering slog, requiring slow simulations and painstaking experiments to identify combina"
     },
     {
-      "title": "GPT-5.5 System Card",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": ""
-    },
-    {
       "title": "Introducing GPT-5.5",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -93,12 +109,12 @@
       "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
     },
     {
-      "title": "What is Codex?",
+      "title": "GPT-5.5 System Card",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/what-is-codex",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "published": "2026-04-23T11:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Automations",
@@ -107,6 +123,14 @@
       "url": "https://openai.com/academy/codex-automations",
       "published": "2026-04-23T10:00:00+00:00",
       "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort."
+    },
+    {
+      "title": "Top 10 uses for Codex at work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
     },
     {
       "title": "Plugins and skills",
@@ -125,14 +149,6 @@
       "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance."
     },
     {
-      "title": "How to get started with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
-    },
-    {
       "title": "Codex settings",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -141,12 +157,20 @@
       "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow."
     },
     {
-      "title": "Top 10 uses for Codex at work",
+      "title": "What is Codex?",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "url": "https://openai.com/academy/what-is-codex",
       "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
+      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
+    },
+    {
+      "title": "How to get started with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
     },
     {
       "title": "[AINews] Tasteful Tokenmaxxing",
@@ -219,14 +243,6 @@
       "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
       "published": "2026-04-22T15:00:00+00:00",
       "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
-    },
-    {
-      "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
-      "published": "2026-04-22T14:13:01+00:00",
-      "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes."
     }
   ]
 }
