@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T17:36:29.085835+00:00",
+  "generated_at": "2026-04-25T18:51:09.223398+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 10,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -83,14 +83,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
       "published": "2026-04-24T15:05:23+00:00",
       "summary": "Beloved wolf gripped the nation after burrowing out of the zoo."
-    },
-    {
-      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
-      "published": "2026-04-24T06:01:04+00:00",
-      "summary": "Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, DeepSeek-V4-Pro and DeepSeek-V4-Flash.\nBoth models are 1 million token context Mixture of Experts. Pro is 1.6T total parameters, 49B active. Flash is 284B total, 13B active. They're using the standard MIT license.\nI think this makes DeepSeek-V4-Pro the new largest open weights model. It's larger than Kimi K2."
     }
   ]
 }
