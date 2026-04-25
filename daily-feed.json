@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T09:51:31.411083+00:00",
+  "generated_at": "2026-04-25T10:42:01.367011+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
@@ -131,14 +131,6 @@
       "url": "https://huggingface.co/blog/deepseekv4",
       "published": "2026-04-24T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Extract PDF text in your browser with LiteParse for the web",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
-      "published": "2026-04-23T21:54:24+00:00",
-      "summary": "LlamaIndex have a most excellent open source project called LiteParse, which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LiteParse uses to run in Node.js.\nSpatial text parsing\nRefreshingly, LiteParse doesn't use AI models to do what it does: it's good old-fashioned PDF parsing, falling back to Tesseract OCR (or other pluggable OCR engines) for PDFs that contain images of text rather"
     }
   ]
 }
