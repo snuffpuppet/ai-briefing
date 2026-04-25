@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T07:13:00.381893+00:00",
+  "generated_at": "2026-04-25T08:50:52.894636+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 18,
   "items": [
     {
       "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
@@ -147,30 +147,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
       "published": "2026-04-23T21:45:10+00:00",
       "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions."
-    },
-    {
-      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
-      "published": "2026-04-23T19:59:47+00:00",
-      "summary": "GPT-5.5 is out. It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it to be a fast, effective and highly capable model. As is usually the case these days, it's hard to put into words what's good about it - I ask it to build things and it builds exactly what I ask for!\nThere's one notable omission from today's release - the API:\n\nAPI deployments require different safeguards and we are working closely with partners and customers on"
-    },
-    {
-      "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/unsupervised-learning-2026",
-      "published": "2026-04-23T19:37:19+00:00",
-      "summary": "Note: This episode was recorded just after AIE Europe, but before the Cursor-xAI deal."
-    },
-    {
-      "title": "llm-openai-via-codex 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything",
-      "published": "2026-04-23T19:22:29+00:00",
-      "summary": "Release: llm-openai-via-codex 0.1a0\n    Hijacks your Codex CLI credentials to make API calls with LLM, as described in my post about GPT-5.5.\n    \n        Tags: openai, llm, codex-cli"
     }
   ]
 }
