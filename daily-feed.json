@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-24T23:38:02.358492+00:00",
+  "generated_at": "2026-04-25T02:11:48.774106+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "llm 0.31",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+      "published": "2026-04-24T23:35:07+00:00",
+      "summary": "Release: llm 0.31\n    \n\nNew GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418\nNew option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high.\nNew option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - values are low, high and auto, and GPT-5.4 and 5.5 also accept original.\nModels listed in extra-openai-models.yaml are now also registered as asynchronous. #1395\n\n\n    \n        Tags: gpt, openai, ll"
+    },
     {
       "title": "The people do not yearn for automation",
       "source": "Simon Willison's Weblog",
@@ -21,7 +29,7 @@
       "summary": "This follows a similar, but smaller, investment by Amazon just days ago."
     },
     {
-      "title": "Three reasons why DeepSeek’s new model V4 matters",
+      "title": "Three reasons why DeepSeek’s new model matters",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
@@ -163,22 +171,6 @@
       "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
       "published": "2026-04-23T14:51:16+00:00",
       "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually."
-    },
-    {
-      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
-      "published": "2026-04-23T14:00:01+00:00",
-      "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromising the devices and services we use every day. As a result, Ant"
-    },
-    {
-      "title": "Quoting Maggie Appleton",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
-      "published": "2026-04-23T13:35:37+00:00",
-      "summary": "[...] if you ever needed another reason to learn in public by digital gardening or podcasting or streaming or whathaveyou, add on that people will assume you’re more competent than you are. This will get you invites to very cool exclusive events filled with high-achieving, interesting people, even though you have no right to be there. A+ side benefit.\n&mdash; Maggie Appleton, Gathering Structures (via)\n\n    Tags: blogging, maggie-appleton"
     }
   ]
 }
