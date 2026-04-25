@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-25T02:11:48.774106+00:00",
+  "generated_at": "2026-04-25T05:10:18.598595+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+      "published": "2026-04-25T05:00:48+00:00",
+      "summary": "The prodigal Tiger returns... but is no longer the benchmarks leader."
+    },
+    {
+      "title": "GPT-5.5 prompting guide",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+      "published": "2026-04-25T04:13:36+00:00",
+      "summary": "GPT-5.5 prompting guide\nNow that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model.\nHere's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response:\nBefore any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences.\n\nI've already noticed their Codex app doing th"
+    },
     {
       "title": "llm 0.31",
       "source": "Simon Willison's Weblog",
@@ -155,22 +171,6 @@
       "url": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything",
       "published": "2026-04-23T19:22:29+00:00",
       "summary": "Release: llm-openai-via-codex 0.1a0\n    Hijacks your Codex CLI credentials to make API calls with LLM, as described in my post about GPT-5.5.\n    \n        Tags: openai, llm, codex-cli"
-    },
-    {
-      "title": "The Pulse: AI token spending out of control – what’s next?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of",
-      "published": "2026-04-23T16:51:01+00:00",
-      "summary": "Details from 15 tech companies on the rapid growth of token spend, and their responses to it. Also: AI vendors can&#8217;t keep up with demand, plummeting morale at Meta, and more."
-    },
-    {
-      "title": "Greenhouse gases from data center boom could outpace entire nations",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
-      "published": "2026-04-23T14:51:16+00:00",
-      "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually."
     }
   ]
 }
