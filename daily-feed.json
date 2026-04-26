@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T02:34:51.460811+00:00",
+  "generated_at": "2026-04-26T05:37:59.494886+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 8,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -67,22 +67,6 @@
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "published": "2026-04-24T21:40:58+00:00",
       "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;"
-    },
-    {
-      "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
-      "published": "2026-04-24T16:58:45+00:00",
-      "summary": "The AI-driven memory shortage is hitting Samsung's bottom line."
-    },
-    {
-      "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
-      "published": "2026-04-24T15:05:23+00:00",
-      "summary": "Beloved wolf gripped the nation after burrowing out of the zoo."
     }
   ]
 }
