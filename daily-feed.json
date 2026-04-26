@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T10:55:17.555608+00:00",
+  "generated_at": "2026-04-26T11:38:18.004245+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -35,14 +35,6 @@
       "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
       "published": "2026-04-25T04:13:36+00:00",
       "summary": "GPT-5.5 prompting guide\nNow that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model.\nHere's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response:\n\nBefore any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences.\n\nI've already noticed their Codex app doing t"
-    },
-    {
-      "title": "llm 0.31",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
-      "published": "2026-04-24T23:35:07+00:00",
-      "summary": "Release: llm 0.31\n    \n\nNew GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418\nNew option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high.\nNew option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - values are low, high and auto, and GPT-5.4 and 5.5 also accept original.\nModels listed in extra-openai-models.yaml are now also registered as asynchronous. #1395\n\n\n    \n        Tags: gpt, openai, ll"
     }
   ]
 }
