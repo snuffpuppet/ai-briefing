@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-26T22:36:24.842784+00:00",
+  "generated_at": "2026-04-26T23:37:27.746151+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Our Principles",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/our-principles",
+      "published": "2026-04-26T16:00:00+00:00",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
+    },
     {
       "title": "WHY ARE YOU LIKE THIS",
       "source": "Simon Willison's Weblog",
