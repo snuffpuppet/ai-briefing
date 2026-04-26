@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T08:58:48.539497+00:00",
+  "generated_at": "2026-04-26T10:00:04.566997+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 7,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -59,14 +59,6 @@
       "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
       "published": "2026-04-24T22:05:45+00:00",
       "summary": "This follows a similar, but smaller, investment by Amazon just days ago."
-    },
-    {
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "published": "2026-04-24T21:40:58+00:00",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;"
     }
   ]
 }
