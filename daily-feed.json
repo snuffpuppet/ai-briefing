@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T10:00:04.566997+00:00",
+  "generated_at": "2026-04-26T10:55:17.555608+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 5,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -43,22 +43,6 @@
       "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
       "published": "2026-04-24T23:35:07+00:00",
       "summary": "Release: llm 0.31\n    \n\nNew GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418\nNew option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high.\nNew option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - values are low, high and auto, and GPT-5.4 and 5.5 also accept original.\nModels listed in extra-openai-models.yaml are now also registered as asynchronous. #1395\n\n\n    \n        Tags: gpt, openai, ll"
-    },
-    {
-      "title": "The people do not yearn for automation",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
-      "published": "2026-04-24T22:38:49+00:00",
-      "summary": "The people do not yearn for automation\nThis written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket.\nIt’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come.\nNilay’s core idea is that people afflicted with “software brain” - who see the world as something to be automated as much as possible, and attempt to model everything in terms of information flows and"
-    },
-    {
-      "title": "Google will invest as much as $40 billion in Anthropic",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-      "published": "2026-04-24T22:05:45+00:00",
-      "summary": "This follows a similar, but smaller, investment by Amazon just days ago."
     }
   ]
 }
