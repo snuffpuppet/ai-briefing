@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T16:40:26.895964+00:00",
+  "generated_at": "2026-04-26T17:37:03.910949+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -19,14 +19,6 @@
       "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
       "published": "2026-04-25T12:06:55+00:00",
       "summary": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore.\nGPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer.\n&mdash; Romain Huet, confirming OpenAI won't release a GPT-5.5-Codex model\n\n    Tags: generative-ai, gpt, openai, ai, llms"
-    },
-    {
-      "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
-      "published": "2026-04-25T05:00:48+00:00",
-      "summary": "The prodigal Tiger returns... but is no longer the benchmarks leader."
     }
   ]
 }
