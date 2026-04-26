@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T15:40:23.409252+00:00",
+  "generated_at": "2026-04-26T16:40:26.895964+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "WHY ARE YOU LIKE THIS",
@@ -27,14 +27,6 @@
       "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
       "published": "2026-04-25T05:00:48+00:00",
       "summary": "The prodigal Tiger returns... but is no longer the benchmarks leader."
-    },
-    {
-      "title": "GPT-5.5 prompting guide",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
-      "published": "2026-04-25T04:13:36+00:00",
-      "summary": "GPT-5.5 prompting guide\nNow that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model.\nHere's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response:\n\nBefore any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences.\n\nI've already noticed their Codex app doing t"
     }
   ]
 }
