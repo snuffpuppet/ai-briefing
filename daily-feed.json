@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-27T17:20:52.156262+00:00",
+  "generated_at": "2026-04-27T19:17:59.805118+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+      "published": "2026-04-27T18:38:17+00:00",
+      "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com.\nOpenAI, July 22nd 2019 in Microsoft invests in and partners with OpenAI to support us building beneficial AGI (emphasis mine):\n\nOpenAI is producing a sequence of increasingly powerful AI technologies,"
+    },
+    {
+      "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+      "published": "2026-04-27T18:12:04+00:00",
+      "summary": "The unwinding of Meta’s deal shows how tech founders struggle to cut China ties."
+    },
+    {
+      "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+      "published": "2026-04-27T17:37:47+00:00",
+      "summary": "Speech translation in Google Meet is now rolling out to mobile devices\nI just encountered this feature via a \"try this out now\" prompt in a Google Meet meeting. It kind-of worked!\nThis is Google's implementation of the ultimate sci-fi translation app, where two people can talk to each other in two separate languages and Meet translates from one to the other and - with a short delay - repeats the text in your preferred language, with a rough imitation of the original speaker's voice.\nIt can only"
+    },
     {
       "title": "The missing step between hype and profit",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -59,6 +83,14 @@
       "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published": "2026-04-27T06:00:00+00:00",
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "published": "2026-04-27T00:00:00+00:00",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching."
     },
     {
       "title": "Choco automates food distribution with AI agents",
