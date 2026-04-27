@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-27T15:46:34.065838+00:00",
+  "generated_at": "2026-04-27T17:20:52.156262+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "The missing step between hype and profit",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "published": "2026-04-27T16:13:41+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;"
+    },
     {
       "title": "Claude Mythos Preview Requires New Ways to Keep Code Secure",
       "source": "IEEE Spectrum",
@@ -51,6 +59,14 @@
       "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published": "2026-04-27T06:00:00+00:00",
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/choco",
+      "published": "2026-04-27T00:00:00+00:00",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact."
     },
     {
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
