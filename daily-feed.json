@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-27T13:48:56.686280+00:00",
+  "generated_at": "2026-04-27T15:46:34.065838+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "Claude Mythos Preview Requires New Ways to Keep Code Secure",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/anthropic-claude-mythos-preview-code",
+      "published": "2026-04-27T15:18:34+00:00",
+      "summary": "Malicious actors are now exploiting generative AI to carry out cyberattacks: scamming victims using AI-generated deepfakes, deploying malware developed with the help of AI coding tools, using chatbots to pull off phishing campaigns, and hacking widely used open-source code repositories with AI agents. And these AI-driven threats are rising.In early April, Anthropic’s Frontier Red Team, which evaluates the potential safety and security risks posed by the company’s AI models, announced that the co"
+    },
     {
       "title": "Rebuilding the data stack for AI",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -43,6 +51,14 @@
       "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "published": "2026-04-27T06:00:00+00:00",
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "published": "2026-04-27T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Our principles",
