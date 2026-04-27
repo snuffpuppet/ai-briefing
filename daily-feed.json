@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T21:00:34.441846+00:00",
+  "generated_at": "2026-04-27T22:50:36.724685+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "Musk and Altman face off in trial that will determine OpenAI's future",
@@ -67,6 +67,14 @@
       "url": "https://spectrum.ieee.org/anthropic-claude-mythos-preview-code",
       "published": "2026-04-27T15:18:34+00:00",
       "summary": "Malicious actors are now exploiting generative AI to carry out cyberattacks: scamming victims using AI-generated deepfakes, deploying malware developed with the help of AI coding tools, using chatbots to pull off phishing campaigns, and hacking widely used open-source code repositories with AI agents. And these AI-driven threats are rising.In early April, Anthropic’s Frontier Red Team, which evaluates the potential safety and security risks posed by the company’s AI models, announced that the co"
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published": "2026-04-27T14:00:00+00:00",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
     },
     {
       "title": "Rebuilding the data stack for AI",
