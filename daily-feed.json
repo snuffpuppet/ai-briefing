@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-27T11:02:09.551837+00:00",
+  "generated_at": "2026-04-27T13:48:56.686280+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 6,
   "items": [
+    {
+      "title": "Rebuilding the data stack for AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "published": "2026-04-27T13:00:00+00:00",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;"
+    },
+    {
+      "title": "Engineering Collisions: How NYU Is Remaking Health Research",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/nyu-health-research",
+      "published": "2026-04-27T12:45:01+00:00",
+      "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients.NYU is turning that model inside out. At its new Institute for Engineering Health, the organizing principle centers around disease states rather than tra"
+    },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
       "source": "IEEE Spectrum",
@@ -19,6 +35,14 @@
       "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
       "published": "2026-04-27T07:00:06+00:00",
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "published": "2026-04-27T06:00:00+00:00",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
     },
     {
       "title": "Our principles",
