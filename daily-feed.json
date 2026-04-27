@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-27T22:50:36.724685+00:00",
+  "generated_at": "2026-04-27T23:52:14.633840+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 21,
   "items": [
+    {
+      "title": "microsoft/VibeVoice",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+      "published": "2026-04-27T23:46:56+00:00",
+      "summary": "microsoft/VibeVoice\nVibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model.\nMicrosoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv, mlx-audio (by Prince Canuma) and the 5.71GB mlx-community/VibeVoice-ASR-4bit MLX conversion of the 17.3GB VibeVoice-ASR model, in this case against a downloaded copy of my recent podcast appearance with Lenny Rachitsky:"
+    },
+    {
+      "title": "Physical AI that Moves the World — Qasar Younis & Peter Ludwig, Applied Intuition",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/appliedintuition",
+      "published": "2026-04-27T23:02:37+00:00",
+      "summary": "Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge."
+    },
+    {
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "published": "2026-04-27T22:52:57+00:00",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;"
+    },
     {
       "title": "Musk and Altman face off in trial that will determine OpenAI's future",
       "source": "AI - Ars Technica",
