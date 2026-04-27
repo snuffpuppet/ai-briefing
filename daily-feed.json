@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-27T08:21:34.112898+00:00",
+  "generated_at": "2026-04-27T11:02:09.551837+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Modeling and Simulation Approaches for Modern Power System Studies",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
+      "published": "2026-04-27T10:00:01+00:00",
+      "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn how to build power system networks programmatically from standard data formats, configure models for specific engineering objectives, and work across fidelity levels from quasi-static phasor simulatio"
+    },
     {
       "title": "Announcing our partnership with the Republic of Korea",
       "source": "Google DeepMind News",
