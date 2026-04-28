@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-28T02:44:17.080667+00:00",
+  "generated_at": "2026-04-28T05:57:54.354734+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] ImageGen is on the Path to AGI",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+      "published": "2026-04-28T05:38:19+00:00",
+      "summary": "reflecting on the continued GPT-Image-2 explosion"
+    },
+    {
+      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+      "published": "2026-04-28T05:23:05+00:00",
+      "summary": "What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns!\nRichard Si describes an excellent set of upgrades to Python's default pip tool for installing dependencies.\nThis version drops support for Python 3.9 - fair enough, since it's been EOL since October. macOS still ships with python3 as a default Python 3.9, so I tried out the new Python version against Python 3.14 like this:\nuv python install 3.14\nmkdir /tmp/experiment\ncd /tmp/experiment\npython3.14 -m venv venv\nsource venv/bin/activ"
+    },
+    {
+      "title": "Introducing talkie: a 13B vintage language model from 1930",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+      "published": "2026-04-28T02:47:42+00:00",
+      "summary": "Introducing talkie: a 13B vintage language model from 1930\nNew project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame).\ntalkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". \ntalkie-1930-13b-it (26.6 GB) is a checkpoint \"finetuned using a novel dataset of instruction-response pairs extracted from pre-1931 reference works\", designed to power a chat interface. You can try that out here.\nBoth models are"
+    },
     {
       "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
       "source": "Hugging Face - Blog",
@@ -171,14 +195,6 @@
       "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published": "2026-04-27T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Our principles",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/our-principles",
-      "published": "2026-04-26T16:00:00+00:00",
-      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
     }
   ]
 }
