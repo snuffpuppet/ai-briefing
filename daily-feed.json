@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T18:16:13.198895+00:00",
+  "generated_at": "2026-04-28T20:14:45.724947+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 28,
   "items": [
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
@@ -227,14 +227,6 @@
       "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
       "published": "2026-04-27T10:00:01+00:00",
       "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn how to build power system networks programmatically from standard data formats, configure models for specific engineering objectives, and work across fidelity levels from quasi-static phasor simulatio"
-    },
-    {
-      "title": "Announcing our partnership with the Republic of Korea",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "published": "2026-04-27T07:00:06+00:00",
-      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
     }
   ]
 }
