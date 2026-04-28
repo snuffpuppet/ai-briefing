@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-28T21:56:05.538461+00:00",
+  "generated_at": "2026-04-28T22:56:49.254397+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 28,
   "items": [
+    {
+      "title": "Quoting OpenAI Codex base_instructions",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+      "published": "2026-04-28T22:02:53+00:00",
+      "summary": "Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query.\n&mdash; OpenAI Codex base_instructions, for GPT-5.5\n\n    Tags: openai, ai, llms, system-prompts, prompt-engineering, codex-cli, generative-ai, gpt"
+    },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
       "source": "IEEE Spectrum",
@@ -219,14 +227,6 @@
       "url": "https://spectrum.ieee.org/nyu-health-research",
       "published": "2026-04-27T12:45:01+00:00",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients.NYU is turning that model inside out. At its new Institute for Engineering Health, the organizing principle centers around disease states rather than tra"
-    },
-    {
-      "title": "Modeling and Simulation Approaches for Modern Power System Studies",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
-      "published": "2026-04-27T10:00:01+00:00",
-      "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn how to build power system networks programmatically from standard data formats, configure models for specific engineering objectives, and work across fidelity levels from quasi-static phasor simulatio"
     }
   ]
 }
