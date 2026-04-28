@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-27T23:52:14.633840+00:00",
+  "generated_at": "2026-04-28T02:44:17.080667+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "published": "2026-04-28T00:28:13+00:00",
+      "summary": ""
+    },
     {
       "title": "microsoft/VibeVoice",
       "source": "Simon Willison's Weblog",
