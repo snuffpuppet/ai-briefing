@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-28T16:50:03.092162+00:00",
+  "generated_at": "2026-04-28T18:16:13.198895+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 29,
   "items": [
+    {
+      "title": "Better Hardware Could Turn Zeros into AI Heroes",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/sparse-ai",
+      "published": "2026-04-28T18:03:40+00:00",
+      "summary": "When it comes to AI models, size matters.Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion parameters that define the model.As models grow in size, their capabilities increase. But so do the energy demands and the time it takes to run the models, which increases their carbon footprint. To mit"
+    },
+    {
+      "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+      "published": "2026-04-28T18:01:36+00:00",
+      "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport."
+    },
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "source": "Hugging Face - Blog",
@@ -83,6 +99,14 @@
       "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
       "published": "2026-04-28T02:47:42+00:00",
       "summary": "Introducing talkie: a 13B vintage language model from 1930\nNew project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame).\ntalkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". \ntalkie-1930-13b-it (26.6 GB) is a checkpoint \"finetuned using a novel dataset of instruction-response pairs extracted from pre-1931 reference works\", designed to power a chat interface. You can try that out here.\nBoth models are"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published": "2026-04-28T00:00:00+00:00",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
     },
     {
       "title": "microsoft/VibeVoice",
@@ -211,14 +235,6 @@
       "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
       "published": "2026-04-27T07:00:06+00:00",
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
-    },
-    {
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "published": "2026-04-27T06:00:00+00:00",
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
     }
   ]
 }
