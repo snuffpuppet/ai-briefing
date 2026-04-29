@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T22:55:30.317863+00:00",
+  "generated_at": "2026-04-29T23:53:46.614184+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "LLM 0.32a0  is a major backwards-compatible refactor",
@@ -43,6 +43,14 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "published": "2026-04-29T15:01:48+00:00",
       "summary": ""
+    },
+    {
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "published": "2026-04-29T15:00:00+00:00",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
     },
     {
       "title": "Building Pi, and what makes self-modifying software so fascinating",
