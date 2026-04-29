@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-29T15:55:08.332717+00:00",
+  "generated_at": "2026-04-29T17:26:21.542221+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "AI evals are becoming the new compute bottleneck",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "published": "2026-04-29T16:45:09+00:00",
+      "summary": ""
+    },
     {
       "title": "Granite 4.1 LLMs: How They’re Built",
       "source": "Hugging Face - Blog",
@@ -51,6 +59,14 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today",
       "published": "2026-04-29T01:46:59+00:00",
       "summary": "a quiet day."
+    },
+    {
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "published": "2026-04-29T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Quoting OpenAI Codex base_instructions",
@@ -139,14 +155,6 @@
       "url": "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
       "published": "2026-04-28T05:38:19+00:00",
       "summary": "reflecting on the continued GPT-Image-2 explosion"
-    },
-    {
-      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
-      "published": "2026-04-28T05:23:05+00:00",
-      "summary": "What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns!\nRichard Si describes an excellent set of upgrades to Python's default pip tool for installing dependencies.\nThis version drops support for Python 3.9 - fair enough, since it's been EOL since October. macOS still ships with python3 as a default Python 3.9, so I tried out the new Python version against Python 3.14 like this:\nuv python install 3.14\nmkdir /tmp/experiment\ncd /tmp/experiment\npython3.14 -m venv venv\nsource venv/bin/activ"
     }
   ]
 }
