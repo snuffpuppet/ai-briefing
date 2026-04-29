@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T03:21:56.365378+00:00",
+  "generated_at": "2026-04-29T06:21:57.485639+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 23,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -117,20 +117,20 @@
       "summary": "Introducing talkie: a 13B vintage language model from 1930\nNew project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame).\ntalkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". \ntalkie-1930-13b-it (26.6 GB) is a checkpoint \"finetuned using a novel dataset of instruction-response pairs extracted from pre-1931 reference works\", designed to power a chat interface. You can try that out here.\nBoth models are"
     },
     {
-      "title": "Our commitment to community safety",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "2026-04-28T00:00:00+00:00",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
-    },
-    {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/openai-on-aws",
       "published": "2026-04-28T00:00:00+00:00",
       "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
+    },
+    {
+      "title": "Our commitment to community safety",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "published": "2026-04-28T00:00:00+00:00",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
     },
     {
       "title": "microsoft/VibeVoice",
@@ -187,30 +187,6 @@
       "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
       "published": "2026-04-27T18:38:17+00:00",
       "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com.\nOpenAI, July 22nd 2019 in Microsoft invests in and partners with OpenAI to support us building beneficial AGI (emphasis mine):\n\nOpenAI is producing a sequence of increasingly powerful AI technologies,"
-    },
-    {
-      "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
-      "published": "2026-04-27T18:12:04+00:00",
-      "summary": "The unwinding of Meta’s deal shows how tech founders struggle to cut China ties."
-    },
-    {
-      "title": "Speech translation in Google Meet is now rolling out to mobile devices",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
-      "published": "2026-04-27T17:37:47+00:00",
-      "summary": "Speech translation in Google Meet is now rolling out to mobile devices\nI just encountered this feature via a \"try this out now\" prompt in a Google Meet meeting. It kind-of worked!\nThis is Google's implementation of the ultimate sci-fi translation app, where two people can talk to each other in two separate languages and Meet translates from one to the other and - with a short delay - repeats the text in your preferred language, with a rough imitation of the original speaker's voice.\nIt can only"
-    },
-    {
-      "title": "The missing step between hype and profit",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "published": "2026-04-27T16:13:41+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;"
     }
   ]
 }
