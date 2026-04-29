@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-28T23:56:38.951428+00:00",
+  "generated_at": "2026-04-29T03:21:56.365378+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 26,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today",
+      "published": "2026-04-29T01:46:59+00:00",
+      "summary": "a quiet day."
+    },
     {
       "title": "Quoting OpenAI Codex base_instructions",
       "source": "Simon Willison's Weblog",
@@ -109,6 +117,14 @@
       "summary": "Introducing talkie: a 13B vintage language model from 1930\nNew project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame).\ntalkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". \ntalkie-1930-13b-it (26.6 GB) is a checkpoint \"finetuned using a novel dataset of instruction-response pairs extracted from pre-1931 reference works\", designed to power a chat interface. You can try that out here.\nBoth models are"
     },
     {
+      "title": "Our commitment to community safety",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "published": "2026-04-28T00:00:00+00:00",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
+    },
+    {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -195,38 +211,6 @@
       "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
       "published": "2026-04-27T16:13:41+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;"
-    },
-    {
-      "title": "Claude Mythos Preview Requires New Ways to Keep Code Secure",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/anthropic-claude-mythos-preview-code",
-      "published": "2026-04-27T15:18:34+00:00",
-      "summary": "Malicious actors are now exploiting generative AI to carry out cyberattacks: scamming victims using AI-generated deepfakes, deploying malware developed with the help of AI coding tools, using chatbots to pull off phishing campaigns, and hacking widely used open-source code repositories with AI agents. And these AI-driven threats are rising.In early April, Anthropic’s Frontier Red Team, which evaluates the potential safety and security risks posed by the company’s AI models, announced that the co"
-    },
-    {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "published": "2026-04-27T14:00:00+00:00",
-      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
-    },
-    {
-      "title": "Rebuilding the data stack for AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "published": "2026-04-27T13:00:00+00:00",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;"
-    },
-    {
-      "title": "Engineering Collisions: How NYU Is Remaking Health Research",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/nyu-health-research",
-      "published": "2026-04-27T12:45:01+00:00",
-      "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients.NYU is turning that model inside out. At its new Institute for Engineering Health, the organizing principle centers around disease states rather than tra"
     }
   ]
 }
