@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T06:21:57.485639+00:00",
+  "generated_at": "2026-04-29T09:07:58.323525+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 19,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -155,38 +155,6 @@
       "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "published": "2026-04-27T22:52:57+00:00",
       "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;"
-    },
-    {
-      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
-      "published": "2026-04-27T20:45:18+00:00",
-      "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission."
-    },
-    {
-      "title": "OpenAI ends its exclusive partnership with Microsoft",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
-      "published": "2026-04-27T20:10:11+00:00",
-      "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock."
-    },
-    {
-      "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-      "published": "2026-04-27T20:03:49+00:00",
-      "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe)."
-    },
-    {
-      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
-      "published": "2026-04-27T18:38:17+00:00",
-      "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com.\nOpenAI, July 22nd 2019 in Microsoft invests in and partners with OpenAI to support us building beneficial AGI (emphasis mine):\n\nOpenAI is producing a sequence of increasingly powerful AI technologies,"
     }
   ]
 }
