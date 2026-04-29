@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-29T13:51:37.061241+00:00",
+  "generated_at": "2026-04-29T15:55:08.332717+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "published": "2026-04-29T15:01:48+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Building Pi, and what makes self-modifying software so fascinating",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying",
+      "published": "2026-04-29T14:30:17+00:00",
+      "summary": "Mario Zechner, creator of Pi, joins Armin Ronacher to explore AI coding&#8217;s limits, arguing that human judgment still matters most in an agent-driven world."
+    },
     {
       "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
       "source": "AI - Ars Technica",
@@ -131,14 +147,6 @@
       "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
       "published": "2026-04-28T05:23:05+00:00",
       "summary": "What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns!\nRichard Si describes an excellent set of upgrades to Python's default pip tool for installing dependencies.\nThis version drops support for Python 3.9 - fair enough, since it's been EOL since October. macOS still ships with python3 as a default Python 3.9, so I tried out the new Python version against Python 3.14 like this:\nuv python install 3.14\nmkdir /tmp/experiment\ncd /tmp/experiment\npython3.14 -m venv venv\nsource venv/bin/activ"
-    },
-    {
-      "title": "Introducing talkie: a 13B vintage language model from 1930",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
-      "published": "2026-04-28T02:47:42+00:00",
-      "summary": "Introducing talkie: a 13B vintage language model from 1930\nNew project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame).\ntalkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". \ntalkie-1930-13b-it (26.6 GB) is a checkpoint \"finetuned using a novel dataset of instruction-response pairs extracted from pre-1931 reference works\", designed to power a chat interface. You can try that out here.\nBoth models are"
     }
   ]
 }
