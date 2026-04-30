@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-29T23:53:46.614184+00:00",
+  "generated_at": "2026-04-30T02:44:50.483910+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] The Inference Inflection",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-the-inference-inflection",
+      "published": "2026-04-30T01:42:51+00:00",
+      "summary": "a quiet day lets us reflect on the growing implications of the inference age"
+    },
+    {
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
+      "published": "2026-04-30T01:24:23+00:00",
+      "summary": "Zig has one of the most stringent anti-LLM policies of any major open source project:\n\nNo LLMs for issues.\nNo LLMs for pull requests.\nNo LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words.\n\nThe most prominent project written in Zig may be the Bun JavaScript runtime, which was acquired by Anthropic in December 2"
+    },
+    {
+      "title": "llm 0.32a1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
+      "published": "2026-04-29T23:52:50+00:00",
+      "summary": "Release: llm 0.32a1\n    \n\nFixed a bug in 0.32a0 where tool-calling conversations were not correctly reinflated from SQLite. #1426\n\n\n    \n        Tags: llm"
+    },
     {
       "title": "LLM 0.32a0  is a major backwards-compatible refactor",
       "source": "Simon Willison's Weblog",
@@ -19,6 +43,14 @@
       "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
       "published": "2026-04-29T19:00:58+00:00",
       "summary": "Directions also include system instructions to act like \"you have a vivid inner life.\""
+    },
+    {
+      "title": "llm 0.32a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+      "published": "2026-04-29T18:57:47+00:00",
+      "summary": "Release: llm 0.32a0\n    See the annotated release notes.\n    \n        Tags: llm"
     },
     {
       "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
@@ -67,6 +99,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
       "published": "2026-04-29T12:00:41+00:00",
       "summary": "Lawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO."
+    },
+    {
+      "title": "Can Biologists Rewrite the Genome’s Spaghetti Code?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/synthetic-biology-ai-adrian-woolfson",
+      "published": "2026-04-29T11:00:01+00:00",
+      "summary": "What if biology stopped being something we study and started becoming something we design? That’s the premise of Adrian Woolfson’s new book, On the Future of Species: Authoring Life by Means of Artificial Biological Intelligence, which published on 28 April from MIT Press. He argues that advances in AI and DNA synthesis are pushing biology toward an engineering paradigm—one in which scientists can generate new genetic sequences and eventually build organisms to order. He calls this emerging capa"
     },
     {
       "title": "Fragments: April 29",
@@ -139,46 +179,6 @@
       "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
       "published": "2026-04-28T15:41:32+00:00",
       "summary": "GitHub says it can no longer absorb \"escalating inference cost\" from it heaviest AI users."
-    },
-    {
-      "title": "How will AI change operating systems? Part 1: Ubuntu and Linux",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/ubuntu-and-ai",
-      "published": "2026-04-28T14:25:18+00:00",
-      "summary": "A deepdive with the Canonical team into how AI is changing Ubuntu, why they&#8217;re betting on local-first LLMs, and a look into other Linux distributions"
-    },
-    {
-      "title": "The great American data center divide",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
-      "published": "2026-04-28T14:15:11+00:00",
-      "summary": "Many rural communities are viscerally opposed to AI infrastructure."
-    },
-    {
-      "title": "“Entanglement: A Brief History of Human Connection”",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/entanglement-poem",
-      "published": "2026-04-28T14:00:01+00:00",
-      "summary": "It started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.Coyote tales, forbidden scripts,Medieval texts hidden from flame.What lived in Aristotle’s lost Poetics II?Was it God who laughed last, or we who made God laugh?Letters carried by doves, telepathic waves.Then Nikola Tesla conjured radio,electromagnetic pulses across the void,the founding signal of our networked age.Wiener dreamed in feedback loops.Sha"
-    },
-    {
-      "title": "Quoting Matthew Yglesias",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
-      "published": "2026-04-28T13:25:29+00:00",
-      "summary": "Five months in, I think I've decided that I don't want to vibecode — I want professionally managed software companies to use AI coding assistance to make more/better/cheaper software products that they sell to me for money.\n&mdash; Matthew Yglesias\n\n    Tags: agentic-engineering, vibe-coding, ai-assisted-programming, ai"
-    },
-    {
-      "title": "Structured-Prompt-Driven Development (SPDD)",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/structured-prompt-driven/",
-      "published": "2026-04-28T09:02:00-04:00",
-      "summary": "LLM programming assistants have demonstrated considerable value, but\n      mostly with individual developers. The internal IT organization in\n      Thoughtworks has been using them for their teams and have developed a\n      method and workflow called Structured Prompt-Driven Development (SPDD).\n      Wei Zhang and Jessie Jie Xia describe a simple example of\n      this workflow with details in github. This workflow treats the prompts as\n      a first-class artifact, kept with the code in versio"
     }
   ]
 }
