@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T05:57:21.978582+00:00",
+  "generated_at": "2026-04-30T08:26:41.942676+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 19,
   "items": [
     {
       "title": "[AINews] The Inference Inflection",
@@ -155,22 +155,6 @@
       "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
       "published": "2026-04-28T22:02:53+00:00",
       "summary": "Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query.\n&mdash; OpenAI Codex base_instructions, for GPT-5.5\n\n    Tags: openai, ai, llms, system-prompts, prompt-engineering, codex-cli, generative-ai, gpt"
-    },
-    {
-      "title": "Better Hardware Could Turn Zeros into AI Heroes",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/sparse-ai",
-      "published": "2026-04-28T18:03:40+00:00",
-      "summary": "When it comes to AI models, size matters.Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion parameters that define the model.As models grow in size, their capabilities increase. But so do the energy demands and the time it takes to run the models, which increases their carbon footprint. To mit"
-    },
-    {
-      "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
-      "published": "2026-04-28T18:01:36+00:00",
-      "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport."
     }
   ]
 }
