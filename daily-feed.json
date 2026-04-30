@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T08:26:41.942676+00:00",
+  "generated_at": "2026-04-30T10:53:49.693247+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 18,
   "items": [
     {
       "title": "[AINews] The Inference Inflection",
@@ -147,14 +147,6 @@
       "url": "https://huggingface.co/blog/inference-providers-deepinfra",
       "published": "2026-04-29T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Quoting OpenAI Codex base_instructions",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
-      "published": "2026-04-28T22:02:53+00:00",
-      "summary": "Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query.\n&mdash; OpenAI Codex base_instructions, for GPT-5.5\n\n    Tags: openai, ai, llms, system-prompts, prompt-engineering, codex-cli, generative-ai, gpt"
     }
   ]
 }
