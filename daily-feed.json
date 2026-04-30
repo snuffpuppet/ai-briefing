@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-30T20:58:32.104459+00:00",
+  "generated_at": "2026-04-30T22:01:54.949256+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Quoting Andrew Kelley",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+      "published": "2026-04-30T21:24:55+00:00",
+      "summary": "It's a common misconception that we can't tell who is using LLM and who is not. I'm sure we didn't catch 100% of LLM-assisted PRs over the past few months, but the kind of mistakes humans make are fundamentally different than LLM hallucinations, making them easy to spot. Furthermore, people who come from the world of agentic coding have a certain digital smell that is not obvious to them but is obvious to those who abstain. It's like when a smoker walks into the room, everybody who doesn't smoke"
+    },
+    {
+      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+      "published": "2026-04-30T21:11:51+00:00",
+      "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI."
+    },
     {
       "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
       "source": "AI - Ars Technica",
