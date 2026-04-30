@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T02:44:50.483910+00:00",
+  "generated_at": "2026-04-30T05:57:21.978582+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
     {
       "title": "[AINews] The Inference Inflection",
@@ -27,6 +27,14 @@
       "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
       "published": "2026-04-29T23:52:50+00:00",
       "summary": "Release: llm 0.32a1\n    \n\nFixed a bug in 0.32a0 where tool-calling conversations were not correctly reinflated from SQLite. #1426\n\n\n    \n        Tags: llm"
+    },
+    {
+      "title": "Where the goblins came from",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "published": "2026-04-29T20:00:00+00:00",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior."
     },
     {
       "title": "LLM 0.32a0  is a major backwards-compatible refactor",
@@ -163,22 +171,6 @@
       "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
       "published": "2026-04-28T18:01:36+00:00",
       "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport."
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "published": "2026-04-28T15:58:57+00:00",
-      "summary": ""
-    },
-    {
-      "title": "GitHub will start charging Copilot users based on their actual AI usage",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
-      "published": "2026-04-28T15:41:32+00:00",
-      "summary": "GitHub says it can no longer absorb \"escalating inference cost\" from it heaviest AI users."
     }
   ]
 }
