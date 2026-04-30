@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-30T15:08:27.747744+00:00",
+  "generated_at": "2026-04-30T17:19:24.181475+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "published": "2026-04-30T15:59:41+00:00",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;"
+    },
     {
       "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
       "source": "The Pragmatic Engineer",
@@ -51,6 +59,14 @@
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
       "published": "2026-04-30T01:24:23+00:00",
       "summary": "Zig has one of the most stringent anti-LLM policies of any major open source project:\n\nNo LLMs for issues.\nNo LLMs for pull requests.\nNo LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words.\n\nThe most prominent project written in Zig may be the Bun JavaScript runtime, which was acquired by Anthropic in December 2"
+    },
+    {
+      "title": "Introducing Advanced Account Security",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advanced-account-security",
+      "published": "2026-04-30T00:00:00+00:00",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
     },
     {
       "title": "llm 0.32a1",
@@ -155,14 +171,6 @@
       "url": "https://martinfowler.com/fragments/2026-04-29.html",
       "published": "2026-04-29T09:23:00-04:00",
       "summary": "Chris Parsons has updated his guide on using AI to code. This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also resonates with the better advice I’ve seen out there, so the article makes a good overview of the state of using AI for software development.\n\n\n  I wrote the previous version of this post in March 2025, updated it once in August, and it has been linked from al"
-    },
-    {
-      "title": "Cybersecurity in the Intelligence Age",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "published": "2026-04-29T04:00:00+00:00",
-      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
     }
   ]
 }
