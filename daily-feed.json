@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-04-30T12:14:44.372689+00:00",
+  "generated_at": "2026-04-30T15:08:27.747744+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-github-breaks",
+      "published": "2026-04-30T14:23:43+00:00",
+      "summary": "Also: Anthropic&#8217;s speed run to break devs&#8217; goodwill, big price increases from GitHub Copilot, Mitchell Hashimoto on the &#8220;building block economy,&#8221; and more"
+    },
+    {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "published": "2026-04-30T13:22:51+00:00",
+      "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and th"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "published": "2026-04-30T12:14:15+00:00",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
+    },
     {
       "title": "The hidden cost of Google's AI defaults and the illusion of choice",
       "source": "AI - Ars Technica",
@@ -139,14 +163,6 @@
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "published": "2026-04-29T04:00:00+00:00",
       "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today",
-      "published": "2026-04-29T01:46:59+00:00",
-      "summary": "a quiet day."
     }
   ]
 }
