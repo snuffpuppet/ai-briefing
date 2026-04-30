@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-30T10:53:49.693247+00:00",
+  "generated_at": "2026-04-30T12:14:44.372689+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
   "items": [
+    {
+      "title": "The hidden cost of Google's AI defaults and the illusion of choice",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
+      "published": "2026-04-30T11:00:31+00:00",
+      "summary": "Google says it respects user privacy in AI, but the reality is not so black and white."
+    },
     {
       "title": "[AINews] The Inference Inflection",
       "source": "Latent.Space",
@@ -139,14 +147,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today",
       "published": "2026-04-29T01:46:59+00:00",
       "summary": "a quiet day."
-    },
-    {
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "published": "2026-04-29T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
