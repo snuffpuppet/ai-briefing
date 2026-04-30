@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-04-30T17:19:24.181475+00:00",
+  "generated_at": "2026-04-30T19:18:25.305990+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "We need RSS for sharing abundant vibe-coded apps",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
+      "published": "2026-04-30T18:38:48+00:00",
+      "summary": "We need RSS for sharing abundant vibe-coded apps\nMatt Webb:\n\nI would love an RSS web feed for all those various tools and apps pages, each item with an “Install” button. (But install to where?)\nThe lesson here is that when vibe-coding accelerates app development, apps become more personal, more situated, and more frequent. Shipping a tool or a micro-app is less like launching a website and more like posting on a blog.\n\nThis inspired me to have Claude add an Atom feed (and icon) to my /elsewhere/"
+    },
     {
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
       "source": "Artificial intelligence – MIT Technology Review",
