@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-04-30T22:01:54.949256+00:00",
+  "generated_at": "2026-04-30T23:51:54.178303+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Codex CLI 0.128.0 adds /goal",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+      "published": "2026-04-30T23:23:17+00:00",
+      "summary": "Codex CLI 0.128.0 adds /goal\nThe latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted.\nIt looks like the feature is mainly implemented though the goals/continuation.md and goals/budget_limit.md prompts, which are automatically injected at the end of a turn.\n\n\n    Tags: ai, openai, prompt-engineering,"
+    },
+    {
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "published": "2026-04-30T23:03:24+00:00",
+      "summary": "Our evaluation of OpenAI&#x27;s GPT-5.5 cyber capabilities\nThe UK's AI Security Institute previously evaluated Claude Mythos: now they've evaluated GPT-5.5 for finding security vulnerability and found it to be comparable to Mythos, but unlike Mythos it's generally available right now.\n\n\n    Tags: ai, openai, generative-ai, llms, anthropic, claude, ai-security-research, gpt"
+    },
     {
       "title": "Quoting Andrew Kelley",
       "source": "Simon Willison's Weblog",
@@ -195,14 +211,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
       "published": "2026-04-29T12:00:41+00:00",
       "summary": "Lawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO."
-    },
-    {
-      "title": "Can Biologists Rewrite the Genome’s Spaghetti Code?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/synthetic-biology-ai-adrian-woolfson",
-      "published": "2026-04-29T11:00:01+00:00",
-      "summary": "What if biology stopped being something we study and started becoming something we design? That’s the premise of Adrian Woolfson’s new book, On the Future of Species: Authoring Life by Means of Artificial Biological Intelligence, which published on 28 April from MIT Press. He argues that advances in AI and DNA synthesis are pushing biology toward an engineering paradigm—one in which scientists can generate new genetic sequences and eventually build organisms to order. He calls this emerging capa"
     },
     {
       "title": "Fragments: April 29",
