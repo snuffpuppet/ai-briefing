@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-01T11:58:19.292283+00:00",
+  "generated_at": "2026-05-01T13:40:18.747813+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
     {
       "title": "A new US phone network for Christians aims to block porn and gender-related content",
@@ -123,22 +123,6 @@
       "url": "https://www.latent.space/p/ainews-the-inference-inflection",
       "published": "2026-04-30T01:42:51+00:00",
       "summary": "a quiet day lets us reflect on the growing implications of the inference age"
-    },
-    {
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
-      "published": "2026-04-30T01:24:23+00:00",
-      "summary": "Zig has one of the most stringent anti-LLM policies of any major open source project:\n\nNo LLMs for issues.\nNo LLMs for pull requests.\nNo LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words.\n\nThe most prominent project written in Zig may be the Bun JavaScript runtime, which was acquired by Anthropic in December 2"
-    },
-    {
-      "title": "Introducing Advanced Account Security",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advanced-account-security",
-      "published": "2026-04-30T00:00:00+00:00",
-      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
     }
   ]
 }
