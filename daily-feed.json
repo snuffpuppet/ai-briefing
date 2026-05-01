@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-01T15:56:01.134510+00:00",
+  "generated_at": "2026-05-01T16:57:26.624818+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 19,
   "items": [
+    {
+      "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
+      "published": "2026-05-01T16:00:58+00:00",
+      "summary": "The HSM-based Backup Key Vault Meta&#8217;s HSM-based Backup Key Vault provides the foundation for end-to-end encrypted backups for WhatsApp and Messenger. The system allows people to protect their backed-up message history with a recovery code, ensuring that the recovery code is stored in tamper-resistant hardware security modules (HSMs) and is inaccessible to Meta, cloud storage [...]\nRead More...\nThe post How Meta Is Strengthening End-to-End Encrypted Backups appeared first on Engineering at"
+    },
+    {
+      "title": "Cyber-Insecurity in the AI Era",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "published": "2026-05-01T15:54:01+00:00",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;"
+    },
     {
       "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
       "source": "AI - Ars Technica",
@@ -11,6 +27,14 @@
       "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
       "published": "2026-05-01T15:32:27+00:00",
       "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\""
+    },
+    {
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "published": "2026-05-01T15:31:09+00:00",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;"
     },
     {
       "title": "AI Processing of Earth Images Can Now Run In Space",
