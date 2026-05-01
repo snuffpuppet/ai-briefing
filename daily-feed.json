@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-01T22:47:59.479503+00:00",
+  "generated_at": "2026-05-01T23:50:53.198582+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
     {
       "title": "Study: AI models that consider user's feeling are more likely to make errors",
@@ -18,7 +18,7 @@
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "published": "2026-05-01T22:08:19+00:00",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160; that AI could destroy us all and sat&#8230;"
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;"
     },
     {
       "title": "iNaturalist Sightings",
@@ -179,14 +179,6 @@
       "url": "https://deepmind.google/blog/ai-co-clinician/",
       "published": "2026-04-30T12:14:15+00:00",
       "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
-    },
-    {
-      "title": "The hidden cost of Google's AI defaults and the illusion of choice",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-      "published": "2026-04-30T11:00:31+00:00",
-      "summary": "Google says it respects user privacy in AI, but the reality is not so black and white."
     }
   ]
 }
