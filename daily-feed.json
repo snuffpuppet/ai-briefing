@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-01T13:40:18.747813+00:00",
+  "generated_at": "2026-05-01T14:54:16.996381+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "AI Processing of Earth Images Can Now Run In Space",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-earth-observation-in-space",
+      "published": "2026-05-01T14:00:01+00:00",
+      "summary": "AI image processing onboard satellites in space has been a goal of the Earth observation industry for years. Now, it has finally been achieved. California-based Planet Labs released an image captured by its Pelican-4 multi-spectral satellite showing an airport in Alice Springs, Australia. On the tarmac, more than a dozen aircraft are scattered, each highlighted in a neat green box, identified by an AI model running on board the satellite. Planet Labs’ engineers had worked 18 months to accomplish"
+    },
     {
       "title": "A new US phone network for Christians aims to block porn and gender-related content",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -115,14 +123,6 @@
       "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
       "published": "2026-04-30T11:00:31+00:00",
       "summary": "Google says it respects user privacy in AI, but the reality is not so black and white."
-    },
-    {
-      "title": "[AINews] The Inference Inflection",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-the-inference-inflection",
-      "published": "2026-04-30T01:42:51+00:00",
-      "summary": "a quiet day lets us reflect on the growing implications of the inference age"
     }
   ]
 }
