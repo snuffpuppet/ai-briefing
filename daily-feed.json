@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-01T14:54:16.996381+00:00",
+  "generated_at": "2026-05-01T15:56:01.134510+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 16,
   "items": [
+    {
+      "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+      "published": "2026-05-01T15:32:27+00:00",
+      "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\""
+    },
     {
       "title": "AI Processing of Earth Images Can Now Run In Space",
       "source": "IEEE Spectrum",
