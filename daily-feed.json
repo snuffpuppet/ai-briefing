@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-01T02:52:05.205034+00:00",
+  "generated_at": "2026-05-01T06:15:26.992175+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
+      "published": "2026-05-01T04:53:41+00:00",
+      "summary": "a quiet day lets us reflect on coding agents \"breaking containment\""
+    },
     {
       "title": "Codex CLI 0.128.0 adds /goal",
       "source": "Simon Willison's Weblog",
@@ -163,38 +171,6 @@
       "url": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
       "published": "2026-04-29T18:57:47+00:00",
       "summary": "Release: llm 0.32a0\n    See the annotated release notes.\n    \n        Tags: llm"
-    },
-    {
-      "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-      "published": "2026-04-29T17:27:53+00:00",
-      "summary": "Uninsurable war damage is forcing tech companies to rethink Middle East plans."
-    },
-    {
-      "title": "AI evals are becoming the new compute bottleneck",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "published": "2026-04-29T16:45:09+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "published": "2026-04-29T15:01:48+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "published": "2026-04-29T15:00:00+00:00",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
     }
   ]
 }
