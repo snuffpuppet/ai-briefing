@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-01T08:59:16.327399+00:00",
+  "generated_at": "2026-05-01T10:40:14.763039+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+      "published": "2026-05-01T09:00:00+00:00",
+      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;"
+    },
     {
       "title": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
       "source": "Latent.Space",
