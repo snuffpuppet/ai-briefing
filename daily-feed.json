@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-01T21:52:19.973338+00:00",
+  "generated_at": "2026-05-01T22:47:59.479503+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Study: AI models that consider user's feeling are more likely to make errors",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "published": "2026-05-01T22:23:36+00:00",
+      "summary": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”"
+    },
+    {
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "published": "2026-05-01T22:08:19+00:00",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160; that AI could destroy us all and sat&#8230;"
+    },
     {
       "title": "iNaturalist Sightings",
       "source": "Simon Willison's Weblog",
