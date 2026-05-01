@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-01T16:57:26.624818+00:00",
+  "generated_at": "2026-05-01T18:01:04.634240+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+      "published": "2026-05-01T17:36:29+00:00",
+      "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban."
+    },
     {
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
       "source": "Engineering at Meta",
