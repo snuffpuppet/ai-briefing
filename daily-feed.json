@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T23:51:54.178303+00:00",
+  "generated_at": "2026-05-01T02:52:05.205034+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 24,
   "items": [
     {
       "title": "Codex CLI 0.128.0 adds /goal",
@@ -10,7 +10,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
       "published": "2026-04-30T23:23:17+00:00",
-      "summary": "Codex CLI 0.128.0 adds /goal\nThe latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted.\nIt looks like the feature is mainly implemented though the goals/continuation.md and goals/budget_limit.md prompts, which are automatically injected at the end of a turn.\n\n\n    Tags: ai, openai, prompt-engineering,"
+      "summary": "Codex CLI 0.128.0 adds /goal\nThe latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted.\nIt looks like the feature is mainly implemented though the goals/continuation.md and goals/budget_limit.md prompts, which are automatically injected at the end of a turn.\n\n    Via @fcoury\n\n\n    Tags: ai, openai, pr"
     },
     {
       "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
@@ -195,30 +195,6 @@
       "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "published": "2026-04-29T15:00:00+00:00",
       "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
-    },
-    {
-      "title": "Building Pi, and what makes self-modifying software so fascinating",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying",
-      "published": "2026-04-29T14:30:17+00:00",
-      "summary": "Mario Zechner, creator of Pi, joins Armin Ronacher to explore AI coding&#8217;s limits, arguing that human judgment still matters most in an agent-driven world."
-    },
-    {
-      "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
-      "published": "2026-04-29T12:00:41+00:00",
-      "summary": "Lawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO."
-    },
-    {
-      "title": "Fragments: April 29",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-04-29.html",
-      "published": "2026-04-29T09:23:00-04:00",
-      "summary": "Chris Parsons has updated his guide on using AI to code. This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also resonates with the better advice I’ve seen out there, so the article makes a good overview of the state of using AI for software development.\n\n\n  I wrote the previous version of this post in March 2025, updated it once in August, and it has been linked from al"
     }
   ]
 }
