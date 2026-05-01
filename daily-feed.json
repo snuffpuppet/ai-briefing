@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-01T10:40:14.763039+00:00",
+  "generated_at": "2026-05-01T11:58:19.292283+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "A new US phone network for Christians aims to block porn and gender-related content",
@@ -139,14 +139,6 @@
       "url": "https://openai.com/index/advanced-account-security",
       "published": "2026-04-30T00:00:00+00:00",
       "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
-    },
-    {
-      "title": "llm 0.32a1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
-      "published": "2026-04-29T23:52:50+00:00",
-      "summary": "Release: llm 0.32a1\n    \n\nFixed a bug in 0.32a0 where tool-calling conversations were not correctly reinflated from SQLite. #1426\n\n\n    \n        Tags: llm"
     }
   ]
 }
