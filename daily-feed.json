@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-02T05:35:30.157235+00:00",
+  "generated_at": "2026-05-02T07:41:15.699241+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+      "published": "2026-05-02T07:21:55+00:00",
+      "summary": "a quiet day lets us make a call for speakers!"
+    },
     {
       "title": "Study: AI models that consider user's feeling are more likely to make errors",
       "source": "AI - Ars Technica",
@@ -26,7 +34,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
       "published": "2026-05-01T19:35:41+00:00",
-      "summary": "Tool: iNaturalist Sightings\n    I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web.\nI started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other.\nThen I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record the"
+      "summary": "Tool: iNaturalist Sightings\n        I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web.\nI started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other.\nThen I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record"
     },
     {
       "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
@@ -131,22 +139,6 @@
       "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
       "published": "2026-04-30T19:55:18+00:00",
       "summary": "Meta said the Kenyan workers didn't \"meet our standards.\""
-    },
-    {
-      "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
-      "published": "2026-04-30T19:34:15+00:00",
-      "summary": "Using AI tools, the team reworked part of the ribosome to need one less amino acid."
-    },
-    {
-      "title": "We need RSS for sharing abundant vibe-coded apps",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
-      "published": "2026-04-30T18:38:48+00:00",
-      "summary": "We need RSS for sharing abundant vibe-coded apps\nMatt Webb:\n\nI would love an RSS web feed for all those various tools and apps pages, each item with an “Install” button. (But install to where?)\nThe lesson here is that when vibe-coding accelerates app development, apps become more personal, more situated, and more frequent. Shipping a tool or a micro-app is less like launching a website and more like posting on a blog.\n\nThis inspired me to have Claude add an Atom feed (and icon) to my /elsewhere/"
     }
   ]
 }
