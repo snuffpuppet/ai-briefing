@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-02T02:33:17.383330+00:00",
+  "generated_at": "2026-05-02T05:35:30.157235+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 18,
   "items": [
     {
       "title": "Study: AI models that consider user's feeling are more likely to make errors",
@@ -147,14 +147,6 @@
       "url": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
       "published": "2026-04-30T18:38:48+00:00",
       "summary": "We need RSS for sharing abundant vibe-coded apps\nMatt Webb:\n\nI would love an RSS web feed for all those various tools and apps pages, each item with an “Install” button. (But install to where?)\nThe lesson here is that when vibe-coding accelerates app development, apps become more personal, more situated, and more frequent. Shipping a tool or a micro-app is less like launching a website and more like posting on a blog.\n\nThis inspired me to have Claude add an Atom feed (and icon) to my /elsewhere/"
-    },
-    {
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "published": "2026-04-30T15:59:41+00:00",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;"
     }
   ]
 }
