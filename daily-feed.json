@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-02T10:50:19.321664+00:00",
+  "generated_at": "2026-05-02T11:43:11.350082+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 12,
   "items": [
     {
       "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
@@ -99,22 +99,6 @@
       "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
       "published": "2026-05-01T04:53:41+00:00",
       "summary": "a quiet day lets us reflect on coding agents \"breaking containment\""
-    },
-    {
-      "title": "Codex CLI 0.128.0 adds /goal",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
-      "published": "2026-04-30T23:23:17+00:00",
-      "summary": "Codex CLI 0.128.0 adds /goal\nThe latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted.\nIt looks like the feature is mainly implemented though the goals/continuation.md and goals/budget_limit.md prompts, which are automatically injected at the end of a turn.\n\n    Via @fcoury\n\n\n    Tags: ai, openai, pr"
-    },
-    {
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-      "published": "2026-04-30T23:03:24+00:00",
-      "summary": "Our evaluation of OpenAI&#x27;s GPT-5.5 cyber capabilities\nThe UK's AI Security Institute previously evaluated Claude Mythos: now they've evaluated GPT-5.5 for finding security vulnerability and found it to be comparable to Mythos, but unlike Mythos it's generally available right now.\n\n\n    Tags: ai, openai, generative-ai, llms, anthropic, claude, ai-security-research, gpt"
     }
   ]
 }
