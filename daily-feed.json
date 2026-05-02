@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-02T20:39:39.142288+00:00",
+  "generated_at": "2026-05-02T21:38:54.938277+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 11,
   "items": [
     {
       "title": "Sightings",
@@ -91,14 +91,6 @@
       "url": "https://spectrum.ieee.org/ai-earth-observation-in-space",
       "published": "2026-05-01T14:00:01+00:00",
       "summary": "AI image processing aboard satellites in space has been a goal of the Earth observation industry for years. Now it has finally been achieved. Planet Labs, based in Calif., released an image captured by its Pelican-4 multispectral satellite showing an airport in Alice Springs, Australia. On the tarmac, more than a dozen aircraft are scattered, each highlighted in a neat green box, identified by an AI model running aboard the satellite. Planet Labs’ engineers had worked 18 months to accomplish rel"
-    },
-    {
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "published": "2026-05-01T09:00:00+00:00",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;"
     }
   ]
 }
