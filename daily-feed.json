@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T05:57:12.655261+00:00",
+  "generated_at": "2026-05-03T08:05:12.579484+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Sightings",
@@ -35,14 +35,6 @@
       "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "published": "2026-05-01T22:08:19+00:00",
       "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;"
-    },
-    {
-      "title": "iNaturalist Sightings",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
-      "published": "2026-05-01T19:35:41+00:00",
-      "summary": "Tool: iNaturalist Sightings\n        I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web.\nI started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other.\nThen I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record"
     }
   ]
 }
