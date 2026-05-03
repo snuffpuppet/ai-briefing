@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T02:43:48.265009+00:00",
+  "generated_at": "2026-05-03T05:57:12.655261+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 5,
   "items": [
     {
       "title": "Sightings",
@@ -43,46 +43,6 @@
       "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
       "published": "2026-05-01T19:35:41+00:00",
       "summary": "Tool: iNaturalist Sightings\n        I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web.\nI started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other.\nThen I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record"
-    },
-    {
-      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-      "published": "2026-05-01T17:36:29+00:00",
-      "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban."
-    },
-    {
-      "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
-      "published": "2026-05-01T16:00:58+00:00",
-      "summary": "The HSM-based Backup Key Vault Meta&#8217;s HSM-based Backup Key Vault provides the foundation for end-to-end encrypted backups for WhatsApp and Messenger. The system allows people to protect their backed-up message history with a recovery code, ensuring that the recovery code is stored in tamper-resistant hardware security modules (HSMs) and is inaccessible to Meta, cloud storage [...]\nRead More...\nThe post How Meta Is Strengthening End-to-End Encrypted Backups appeared first on Engineering at"
-    },
-    {
-      "title": "Cyber-Insecurity in the AI Era",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "published": "2026-05-01T15:54:01+00:00",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;"
-    },
-    {
-      "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
-      "published": "2026-05-01T15:32:27+00:00",
-      "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\""
-    },
-    {
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "published": "2026-05-01T15:31:09+00:00",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;"
     }
   ]
 }
