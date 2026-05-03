@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-03T11:40:50.010581+00:00",
+  "generated_at": "2026-05-03T13:05:46.455689+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Deepfake Detection Dataset Aims to Keep Up With Generative AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
+      "published": "2026-05-03T13:00:01+00:00",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nWith the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip or video is real or fake. To combat the problem, a team of researchers from Microsoft, Northwestern University in Evanston, Ill., and Witness, a non-profit organization that assists activists and journalists in addressing the challenges associated wit"
+    },
     {
       "title": "Sightings",
       "source": "Simon Willison's Weblog",
