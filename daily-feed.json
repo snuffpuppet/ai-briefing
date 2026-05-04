@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-04T16:01:25.589592+00:00",
+  "generated_at": "2026-05-04T18:13:02.537473+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 10,
   "items": [
+    {
+      "title": "TRE Python binding — ReDoS robustness demo",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+      "published": "2026-05-04T17:52:00+00:00",
+      "summary": "Research: TRE Python binding — ReDoS robustness demo\n        If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail.\nI had Claude Code build an experimental Python binding (it used ctypes) and try some malicious regular expression attacks against the library. TRE handles those much better than Python's standard library implementation, thanks mainly to the lack of support for backtracking."
+    },
     {
       "title": "The distillation panic",
       "source": "Interconnects AI",
@@ -11,6 +19,22 @@
       "url": "https://www.interconnects.ai/p/the-distillation-panic",
       "published": "2026-05-04T15:56:44+00:00",
       "summary": "&#8216;Distillation attacks&#8217; is a horrible term for what is happening right now."
+    },
+    {
+      "title": "Redis Array Playground",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "published": "2026-05-04T15:53:57+00:00",
+      "summary": "Tool: Redis Array Playground\n        Salvatore Sanfilippo submitted a PR adding a new data type - arrays - to Redis. \nThe new commands are ARCOUNT, ARDEL, ARDELRANGE, ARGET, ARGETRANGE, ARGREP, ARINFO, ARINSERT, ARLASTITEMS, ARLEN, ARMGET, ARMSET, ARNEXT, AROP, ARRING, ARSCAN, ARSEEK, ARSET.\nThe implementation is currently available in a branch, so I had Claude Code for web \nbuild this interactive playground for trying out the new commands in a WASM-compiled build of a subset of Redis running in"
+    },
+    {
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "published": "2026-05-04T15:51:27+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;"
     },
     {
       "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
