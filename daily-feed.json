@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T02:41:15.082963+00:00",
+  "generated_at": "2026-05-04T06:11:23.156830+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "Quoting Anthropic",
@@ -19,14 +19,6 @@
       "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
       "published": "2026-05-03T13:00:01+00:00",
       "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nWith the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip or video is real or fake. To combat the problem, a team of researchers from Microsoft, Northwestern University in Evanston, Ill., and Witness, a non-profit organization that assists activists and journalists in addressing the challenges associated wit"
-    },
-    {
-      "title": "Sightings",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
-      "published": "2026-05-02T17:26:40+00:00",
-      "summary": "/elsewhere/sightings/\nI have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist, and based on yesterday's successful prototype  I decided to add those to my blog.\n\nI built this feature on my phone using Claude Code for web, as an extension of my beats system for syndicating external content. Here's the PR and prompt.\nAs with my other forms of incoming syndicated content sightings show up on the homepage, the date archive pag"
     }
   ]
 }
