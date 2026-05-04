@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-05-04T21:58:30.821425+00:00",
+  "generated_at": "2026-05-04T23:00:25.242482+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 16,
   "items": [
     {
-      "title": "Unofficial vibe-coded \"Notepad++ for Mac\" draws objections from original author",
+      "title": "Quoting Andy Masley",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+      "published": "2026-05-04T22:51:09+00:00",
+      "summary": "[...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their own, 77 times all land on data center property in 2028, and grew more food than ever on what was left. None of this caused any problems for US food access.\nAnd then, in the middle of all this, a farmer in Loudoun County sells a few acres of mediocre hay field to a hyperscaler for ten times its agricultural value, and the response is that we’re running out of farmland.\n&mdash; Andy Masley, pushing back"
+    },
+    {
+      "title": "April 2026 newsletter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+      "published": "2026-05-04T22:38:36+00:00",
+      "summary": "I just sent out the April edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here.\nIn this month's newsletter:\n\nOpus 4.7 and GPT-5.5, both with price increases\nClaude Mythos and LLM security research\nChatGPT Images 2.0\nMore model releases\nOther highlights from my blog\nWhat I'm using, April 2026 edition\n\nHere's a copy of the March newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy"
+    },
+    {
+      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
