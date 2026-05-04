@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-04T11:47:16.299224+00:00",
+  "generated_at": "2026-05-04T13:55:15.086885+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 5,
   "items": [
+    {
+      "title": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-alignment",
+      "published": "2026-05-04T13:00:01+00:00",
+      "summary": "One of the hardest problems in artificial intelligence is “alignment,” or making sure AI goals match our own, a challenge that may prove especially important if superintelligent AIs that outmatch us intellectually are ever developed. But scientists in England and their colleagues now report in the journal PNAS Nexus that perfect alignment between AI systems and human interests is mathematically impossible.All may not be lost, the scientists say. To cope with this impossibility, they suggest a st"
+    },
+    {
+      "title": "Import AI 455: Automating AI Research",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
+      "published": "2026-05-04T12:32:09+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I’m writing this post because when I look at all the publicly available information I [&#8230;]"
+    },
     {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
       "source": "IEEE Spectrum",
