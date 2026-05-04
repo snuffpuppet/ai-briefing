@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-04T13:55:15.086885+00:00",
+  "generated_at": "2026-05-04T16:01:25.589592+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 7,
   "items": [
+    {
+      "title": "The distillation panic",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/the-distillation-panic",
+      "published": "2026-05-04T15:56:44+00:00",
+      "summary": "&#8216;Distillation attacks&#8217; is a horrible term for what is happening right now."
+    },
+    {
+      "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+      "published": "2026-05-04T15:05:58+00:00",
+      "summary": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started."
+    },
     {
       "title": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible",
       "source": "IEEE Spectrum",
@@ -42,7 +58,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
       "published": "2026-05-03T13:00:01+00:00",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nWith the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip or video is real or fake. To combat the problem, a team of researchers from Microsoft, Northwestern University in Evanston, Ill., and Witness, a non-profit organization that assists activists and journalists in addressing the challenges associated wit"
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nWith the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip, or video is real or fake. To combat the problem, a team of researchers from Microsoft; Northwestern University, in Evanston, Ill.; and Witness, a nonprofit organization that assists activists and journalists in addressing the challenges associated wi"
     }
   ]
 }
