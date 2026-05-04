@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-04T09:16:38.230970+00:00",
+  "generated_at": "2026-05-04T11:47:16.299224+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "published": "2026-05-04T11:08:34+00:00",
+      "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and th"
+    },
     {
       "title": "Quoting Anthropic",
       "source": "Simon Willison's Weblog",
