@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T02:35:21.864189+00:00",
+  "generated_at": "2026-05-05T05:41:57.024178+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
@@ -51,6 +51,14 @@
       "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
       "published": "2026-05-04T21:38:37+00:00",
       "summary": "\"To be clear: Notepad++ has never released a macOS version.\""
+    },
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "published": "2026-05-04T21:00:00+00:00",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
     },
     {
       "title": "Canadian election databases use \"canary traps\"—and they work",
@@ -139,14 +147,6 @@
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "published": "2026-05-04T00:00:00+00:00",
       "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
-    },
-    {
-      "title": "Quoting Anthropic",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
-      "published": "2026-05-03T15:13:23+00:00",
-      "summary": "We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situations, Claude expressed no sycophancy—only 9% of conversations included sycophantic behavior (Figure 2). But two domains were exceptions: we saw sycophantic behavior in 38% of conversations focused on spi"
     }
   ]
 }
