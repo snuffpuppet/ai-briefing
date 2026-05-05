@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-05T21:59:47.229587+00:00",
+  "generated_at": "2026-05-05T23:03:27.182214+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 33,
   "items": [
+    {
+      "title": "OpenAI president forced to read his personal diary entries to jury",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+      "published": "2026-05-05T22:28:12+00:00",
+      "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission."
+    },
+    {
+      "title": "Our AI started a cafe in Stockholm",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+      "published": "2026-05-05T22:14:21+00:00",
+      "summary": "Our AI started a cafe in Stockholm\nAndon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe.\nThese experiments are interesting, and often throw out amusing anecdotes:\n\nDuring the first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the staff told her they couldn’t cook them, she suggested using the high-speed oven, until they pointed out the eggs would likely"
+    },
     {
       "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
       "source": "AI - Ars Technica",
