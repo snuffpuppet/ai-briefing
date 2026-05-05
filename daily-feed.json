@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-05T20:06:22.264642+00:00",
+  "generated_at": "2026-05-05T21:59:47.229587+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 31,
   "items": [
+    {
+      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+      "published": "2026-05-05T21:41:32+00:00",
+      "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026."
+    },
+    {
+      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+      "published": "2026-05-05T20:58:56+00:00",
+      "summary": "State says chatbot claimed to practice medicine, gave invalid license number."
+    },
+    {
+      "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/lupsasca",
+      "published": "2026-05-05T20:34:11+00:00",
+      "summary": "The full story of how GPT&#8209;5.x derived new results in theoretical physics and quantum gravity."
+    },
     {
       "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
       "source": "AI - Ars Technica",
@@ -42,7 +66,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/can-ai-cure-cancer-javorsky",
       "published": "2026-05-05T12:00:01+00:00",
-      "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies including Meta and OpenAI are still not content with today’s AI, and say they have set their sights on powerful, versatile AI that by some measure would match or even exceed human performance. A remarkable amount of resources is being poured into developing artificial general intelligence (AGI) or even more capable artificial super intelligence (ASI).Excitement around t"
+      "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies, including Meta and OpenAI, are still not content with today’s AI; they say they’ve set their sights on powerful, versatile AI that by some measure would match or even exceed human performance. A remarkable amount of resources is being poured into developing artificial general intelligence (AGI) or even more capable artificial super intelligence (ASI).Excitement around"
     },
     {
       "title": "GPT-5.5 Instant System Card",
