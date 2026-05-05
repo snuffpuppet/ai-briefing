@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-04T23:00:25.242482+00:00",
+  "generated_at": "2026-05-05T02:35:21.864189+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Quoting John Gruber",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+      "published": "2026-05-05T00:46:29+00:00",
+      "summary": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current $852 billion valuation, that’s worth over $5 billion.\n&mdash; John Gruber, Y Combinator’s Stake in OpenAI\n\n    Tags: openai, y-combinator, ai, john-gruber"
+    },
+    {
+      "title": "Granite 4.1 3B SVG Pelican Gallery",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
+      "published": "2026-05-04T23:49:24+00:00",
+      "summary": "Granite 4.1 3B SVG Pelican Gallery\nIBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes.\nGranite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail.\nUnsloth released the unsloth/granite-4.1-3b-GGUF collection of GGUF encoded quantized variants of the 3B model - 21 different model files ranging in size from 1.2GB to 6.34GB.\nAll 21 of those Unsloth files add up to 51.3GB, whic"
+    },
+    {
+      "title": "[AINews] The Other vs The Utility",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-the-other-vs-the-utility",
+      "published": "2026-05-04T23:29:05+00:00",
+      "summary": "a quiet day lets us reflect on the nature of AI \"character\" in the Clippy vs Anton debate"
+    },
     {
       "title": "Quoting Andy Masley",
       "source": "Simon Willison's Weblog",
@@ -123,14 +147,6 @@
       "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
       "published": "2026-05-03T15:13:23+00:00",
       "summary": "We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situations, Claude expressed no sycophancy—only 9% of conversations included sycophantic behavior (Figure 2). But two domains were exceptions: we saw sycophantic behavior in 38% of conversations focused on spi"
-    },
-    {
-      "title": "Deepfake Detection Dataset Aims to Keep Up With Generative AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
-      "published": "2026-05-03T13:00:01+00:00",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nWith the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip, or video is real or fake. To combat the problem, a team of researchers from Microsoft; Northwestern University, in Evanston, Ill.; and Witness, a nonprofit organization that assists activists and journalists in addressing the challenges associated wi"
     }
   ]
 }
