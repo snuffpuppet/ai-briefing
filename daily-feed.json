@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-05-05T16:23:23.648239+00:00",
+  "generated_at": "2026-05-05T18:09:40.874354+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "published": "2026-05-05T17:17:25+00:00",
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp."
+    },
+    {
+      "title": "Designing Data-Intensive Applications: The Cloud & Doing the Right Thing",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt",
+      "published": "2026-05-05T16:46:00+00:00",
+      "summary": "How the cloud changes the way we build applications, and why engineers&#8217; ethical choices matter more than ever. Excerpt from the book, &#8216;Designing Data-Intensive Applications&#8217;, 2nd edition"
+    },
+    {
+      "title": "Fragments: May  5",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-05-05.html",
+      "published": "2026-05-05T12:23:00-04:00",
+      "summary": "Over the last couple of months Rahul Garg published a series of posts here on how to reduce the friction in AI-assisted programming. To make it easier to put these ideas into practice he’s now built an open-source framework to operationalize these patterns.\n\n\n  AI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real engineering standards. Lattice fixes this with composable skills in three tie"
+    },
+    {
+      "title": "Bliki: Mythical Man Month",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "published": "2026-05-05T12:18:00-04:00",
+      "summary": "In the early 1960s, Fred Brooks managed the development of IBM's System/360\n  computer systems. After it was done he penned his thoughts in the book The\n  Mythical Man-Month which became one of the most influential books on software\n  development after its publication in 1975. Reading it in 2026, we'll find some\n  of it outdated, but it also retains many lessons that are still relevant today.\n\nThe book contains Brooks's law: “Adding manpower to a late software project\n  makes it later.” The issu"
+    },
     {
       "title": "Do We Really Need Smarter AI to Cure Cancer?",
       "source": "IEEE Spectrum",
@@ -11,6 +43,22 @@
       "url": "https://spectrum.ieee.org/can-ai-cure-cancer-javorsky",
       "published": "2026-05-05T12:00:01+00:00",
       "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies including Meta and OpenAI are still not content with today’s AI, and say they have set their sights on powerful, versatile AI that by some measure would match or even exceed human performance. A remarkable amount of resources is being poured into developing artificial general intelligence (AGI) or even more capable artificial super intelligence (ASI).Excitement around t"
+    },
+    {
+      "title": "GPT-5.5 Instant System Card",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
     },
     {
       "title": "A blueprint for using AI to strengthen democracy",
@@ -43,6 +91,14 @@
       "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
       "published": "2026-05-05T00:46:29+00:00",
       "summary": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current $852 billion valuation, that’s worth over $5 billion.\n&mdash; John Gruber, Y Combinator’s Stake in OpenAI\n\n    Tags: openai, y-combinator, ai, john-gruber"
+    },
+    {
+      "title": "New ways to buy ChatGPT ads",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "published": "2026-05-05T00:00:00+00:00",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads."
     },
     {
       "title": "Granite 4.1 3B SVG Pelican Gallery",
