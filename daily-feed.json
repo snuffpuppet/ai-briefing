@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T22:51:39.789158+00:00",
+  "generated_at": "2026-05-06T23:50:31.613729+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 29,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -117,12 +117,12 @@
       "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
     },
     {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/uber",
+      "url": "https://openai.com/index/singular-bank",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
     },
     {
       "title": "How frontier enterprises are building an AI advantage",
@@ -131,6 +131,14 @@
       "url": "https://openai.com/index/introducing-b2b-signals",
       "published": "2026-05-06T00:00:00+00:00",
       "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+    },
+    {
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/uber",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
     },
     {
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
