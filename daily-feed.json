@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T11:05:20.302208+00:00",
+  "generated_at": "2026-05-06T14:05:54.192900+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 19,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -125,6 +125,14 @@
       "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies, including Meta and OpenAI, are still not content with today’s AI; they say they’ve set their sights on powerful, versatile AI that by some measure would match or even exceed human performance. A remarkable amount of resources is being poured into developing artificial general intelligence (AGI) or even more capable artificial super intelligence (ASI).Excitement around"
     },
     {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
+    },
+    {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -147,54 +155,6 @@
       "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
       "published": "2026-05-05T09:00:00+00:00",
       "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;"
-    },
-    {
-      "title": "datasette-llm 0.1a7",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
-      "published": "2026-05-05T01:56:55+00:00",
-      "summary": "Release: datasette-llm 0.1a7\n        \n\nMechanism for configuring default options for specific models.\n\n\nPart of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to configure a model with default options, e.g. to say all enrichment operations should use a specific model with temperature set to 0.5.\n    \n    \n        Tags: llm, datasette"
-    },
-    {
-      "title": "llm-echo 0.5a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
-      "published": "2026-05-05T01:31:54+00:00",
-      "summary": "Release: llm-echo 0.5a0\n        \n\nNew -o thinking 1 option to help test against LLM 0.32a0 and higher.\n\n\nThis plugin provides a fake model called \"echo\" for LLM which doesn't run an LLM at all - it's useful for writing automated tests. You can now do this:\nuvx --with llm==0.32a1 --with llm-echo==0.5a0 llm -m echo hi -o thinking 1\n\nThis will fake a reasoning block to standard error before returning JSON echoing the prompt.\n    \n    \n        Tags: llm"
-    },
-    {
-      "title": "Quoting John Gruber",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
-      "published": "2026-05-05T00:46:29+00:00",
-      "summary": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current $852 billion valuation, that’s worth over $5 billion.\n&mdash; John Gruber, Y Combinator’s Stake in OpenAI\n\n    Tags: openai, y-combinator, ai, john-gruber"
-    },
-    {
-      "title": "New ways to buy ChatGPT ads",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads."
-    },
-    {
-      "title": "Granite 4.1 3B SVG Pelican Gallery",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
-      "published": "2026-05-04T23:49:24+00:00",
-      "summary": "Granite 4.1 3B SVG Pelican Gallery\nIBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes.\nGranite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail.\nUnsloth released the unsloth/granite-4.1-3b-GGUF collection of GGUF encoded quantized variants of the 3B model - 21 different model files ranging in size from 1.2GB to 6.34GB.\nAll 21 of those Unsloth files add up to 51.3GB, whic"
-    },
-    {
-      "title": "[AINews] The Other vs The Utility",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-the-other-vs-the-utility",
-      "published": "2026-05-04T23:29:05+00:00",
-      "summary": "a quiet day lets us reflect on the nature of AI \"character\" in the Clippy vs Anton debate"
     }
   ]
 }
