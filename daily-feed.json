@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-06T05:56:07.394576+00:00",
+  "generated_at": "2026-05-06T08:26:58.227422+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 26,
   "items": [
+    {
+      "title": "The agentic journey from idea to product",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
+      "published": "2026-05-08T00:00:00+00:00",
+      "summary": "The agentic journey from idea to product"
+    },
     {
       "title": "[AINews] Silicon Valley gets Serious about Services",
       "source": "Latent.Space",
@@ -101,20 +109,20 @@
       "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies, including Meta and OpenAI, are still not content with today’s AI; they say they’ve set their sights on powerful, versatile AI that by some measure would match or even exceed human performance. A remarkable amount of resources is being poured into developing artificial general intelligence (AGI) or even more capable artificial super intelligence (ASI).Excitement around"
     },
     {
-      "title": "GPT-5.5 Instant System Card",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": ""
-    },
-    {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/gpt-5-5-instant",
       "published": "2026-05-05T10:00:00+00:00",
       "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+    },
+    {
+      "title": "GPT-5.5 Instant System Card",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "A blueprint for using AI to strengthen democracy",
@@ -203,22 +211,6 @@
       "url": "https://openai.com/index/openai-pwc-finance-collaboration",
       "published": "2026-05-04T21:00:00+00:00",
       "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
-    },
-    {
-      "title": "Canadian election databases use \"canary traps\"—and they work",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
-      "published": "2026-05-04T19:45:57+00:00",
-      "summary": "Intentional errors can be useful."
-    },
-    {
-      "title": "Influential study touting ChatGPT in education retracted over red flags",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
-      "published": "2026-05-04T19:03:39+00:00",
-      "summary": "The retracted study on ChatGPT in education was already cited hundreds of times."
     }
   ]
 }
