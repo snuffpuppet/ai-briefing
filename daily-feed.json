@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T21:55:05.860646+00:00",
+  "generated_at": "2026-05-06T22:51:39.789158+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 28,
@@ -11,6 +11,22 @@
       "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
       "published": "2026-05-08T00:00:00+00:00",
       "summary": "The agentic journey from idea to product"
+    },
+    {
+      "title": "Chatbots Need Guardrails to Prevent Delusions and Psychosis",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/mental-health-chatbot-guardrails",
+      "published": "2026-05-06T22:11:00+00:00",
+      "summary": "Millions of people worldwide are turning to chatbots like ChatGPT or Claude, and a proliferating class of specialized AI companionship apps for friendship, therapy or even romance.While some users report psychological benefits from these simulated relationships, research has also shown the relationships can reinforce or amplify delusions, particularly among users already vulnerable to psychosis. AIs have been linked to multiple suicides, including the death of a Florida teenager who had a months"
+    },
+    {
+      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+      "published": "2026-05-06T22:09:14+00:00",
+      "summary": "Deal follows others with Microsoft, Amazon, and more."
     },
     {
       "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
@@ -99,6 +115,14 @@
       "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "published": "2026-05-06T00:00:00+00:00",
       "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
+    },
+    {
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/uber",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
     },
     {
       "title": "How frontier enterprises are building an AI advantage",
@@ -203,30 +227,6 @@
       "url": "https://spectrum.ieee.org/can-ai-cure-cancer-javorsky",
       "published": "2026-05-05T12:00:01+00:00",
       "summary": "By some estimates, more than a trillion dollars have already been invested in artificial intelligence. But large tech companies, including Meta and OpenAI, are still not content with today’s AI; they say they’ve set their sights on powerful, versatile AI that by some measure would match or even exceed human performance. A remarkable amount of resources is being poured into developing artificial general intelligence (AGI) or even more capable artificial super intelligence (ASI).Excitement around"
-    },
-    {
-      "title": "GPT-5.5 Instant System Card",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
-    },
-    {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
     }
   ]
 }
