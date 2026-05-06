@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T20:20:44.531342+00:00",
+  "generated_at": "2026-05-06T21:55:05.860646+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -11,6 +11,22 @@
       "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
       "published": "2026-05-08T00:00:00+00:00",
       "summary": "The agentic journey from idea to product"
+    },
+    {
+      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+      "published": "2026-05-06T21:47:27+00:00",
+      "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing."
+    },
+    {
+      "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+      "published": "2026-05-06T21:20:14+00:00",
+      "summary": "Trump forced to admit Biden was right on AI safety testing."
     },
     {
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
@@ -211,14 +227,6 @@
       "url": "https://openai.com/index/mrc-supercomputer-networking",
       "published": "2026-05-05T10:00:00+00:00",
       "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
-    },
-    {
-      "title": "A blueprint for using AI to strengthen democracy",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "published": "2026-05-05T09:00:00+00:00",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;"
     }
   ]
 }
