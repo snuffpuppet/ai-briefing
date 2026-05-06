@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-05T23:03:27.182214+00:00",
+  "generated_at": "2026-05-06T02:39:22.103459+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 31,
   "items": [
+    {
+      "title": "datasette-referrer-policy 0.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+      "published": "2026-05-05T23:44:27+00:00",
+      "summary": "Release: datasette-referrer-policy 0.1\n        The OpenStreetMap tiles on the Datasette global-power-plants demo weren't displaying correctly. This turned out to be caused by two bugs.\nThe first is that the CAPTCHA I added to that site a few weeks ago was triggering for the .json fetch requests used by the map plugin, and since those weren't HTML the user was not being asked to solve them. Here's the fix.\nThe second was that OpenStreetMap quite reasonably block tile requests from sites that use"
+    },
     {
       "title": "OpenAI president forced to read his personal diary entries to jury",
       "source": "AI - Ars Technica",
@@ -243,30 +251,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
       "published": "2026-05-04T15:05:58+00:00",
       "summary": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started."
-    },
-    {
-      "title": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-alignment",
-      "published": "2026-05-04T13:00:01+00:00",
-      "summary": "One of the hardest problems in artificial intelligence is “alignment,” or making sure AI goals match our own, a challenge that may prove especially important if superintelligent AIs that outmatch us intellectually are ever developed. But scientists in England and their colleagues now report in the journal PNAS Nexus that perfect alignment between AI systems and human interests is mathematically impossible.All may not be lost, the scientists say. To cope with this impossibility, they suggest a st"
-    },
-    {
-      "title": "Import AI 455: Automating AI Research",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
-      "published": "2026-05-04T12:32:09+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I’m writing this post because when I look at all the publicly available information I [&#8230;]"
-    },
-    {
-      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "published": "2026-05-04T11:08:34+00:00",
-      "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and th"
     }
   ]
 }
