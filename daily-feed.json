@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T06:08:16.330829+00:00",
+  "generated_at": "2026-05-07T09:30:17.629737+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 23,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -125,12 +125,12 @@
       "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
     },
     {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "title": "How frontier enterprises are building an AI advantage",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/singular-bank",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
     },
     {
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
@@ -141,12 +141,12 @@
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
     },
     {
-      "title": "How frontier enterprises are building an AI advantage",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "url": "https://openai.com/index/singular-bank",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
     },
     {
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
@@ -187,22 +187,6 @@
       "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
       "published": "2026-05-05T21:41:32+00:00",
       "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026."
-    },
-    {
-      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
-      "published": "2026-05-05T20:58:56+00:00",
-      "summary": "State says chatbot claimed to practice medicine, gave invalid license number."
-    },
-    {
-      "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/lupsasca",
-      "published": "2026-05-05T20:34:11+00:00",
-      "summary": "The full story of how GPT&#8209;5.x derived new results in theoretical physics and quantum gravity."
     }
   ]
 }
