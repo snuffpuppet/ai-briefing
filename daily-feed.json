@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T16:48:41.491038+00:00",
+  "generated_at": "2026-05-07T18:23:04.794763+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 25,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -11,6 +11,22 @@
       "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
       "published": "2026-05-08T00:00:00+00:00",
       "summary": "The agentic journey from idea to product"
+    },
+    {
+      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+      "published": "2026-05-07T17:56:25+00:00",
+      "summary": "Behind the Scenes Hardening Firefox with Claude Mythos Preview\nFascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of vulnerabilities in Firefox:\n\nSuddenly, the bugs are very good\nJust a few months ago, AI-generated security bug reports to open source projects were mostly known for being unwanted slop. Dealing with reports that look plausibly correct but are wrong imposes an asymmetric cost on project maintainers: it’s cheap"
+    },
+    {
+      "title": "Notes on the xAI/Anthropic data center deal",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+      "published": "2026-05-07T17:09:28+00:00",
+      "summary": "There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude event, but the biggest by far was the deal they've struck with SpaceX/xAI to use \"all of the capacity of their Colossus data center\".\nAs I mentioned in my live blog of the keynote, that's the one with the particularly bad environmental record. The gas turbines installed to power the facility initially ran without Clean Air Act permits or pollution control devices, which they got away with by classifying the"
     },
     {
       "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
@@ -61,12 +77,28 @@
       "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
     },
     {
+      "title": "Advancing voice intelligence with new models in the API",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "published": "2026-05-07T10:00:00+00:00",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
+    },
+    {
       "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
       "published": "2026-05-07T05:57:14+00:00",
       "summary": "And the kingmaker picks a side."
+    },
+    {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
     },
     {
       "title": "GitHub Copilot and me: The evolution of my partnership with a coding assistant",
@@ -171,14 +203,6 @@
       "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
       "published": "2026-05-06T10:00:02+00:00",
       "summary": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks.What Attendees will LearnWhich frequencies 6G will use — Understand why THz bands (above 100 GHz) and the7–24 GHz range are under consideration, what challenges CMOS technology faces at sub-THz frequencies, and how new semiconductor approaches aim to close the output-power gap for future link budgets.How AI/ML and joint communications and sens"
-    },
-    {
-      "title": "[AINews] Silicon Valley gets Serious about Services",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
-      "published": "2026-05-06T05:40:41+00:00",
-      "summary": "A series of announcements line up to a big theme: Services are the next big opportunity."
     }
   ]
 }
