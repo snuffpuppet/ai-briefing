@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T21:56:27.720526+00:00",
+  "generated_at": "2026-05-07T23:01:05.105836+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 29,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -235,22 +235,6 @@
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
       "published": "2026-05-06T14:24:08+00:00",
       "summary": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my highlights, including my disturbing realization that vibe coding and agentic engineering have started to converge in my own work.\nOne thing I really enjoy about podcasts is that they sometimes push me to think out loud in a way that exposes an idea I've not previously been able to put into words.\nVibe coding and agentic eng"
-    },
-    {
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "published": "2026-05-06T10:43:49+00:00",
-      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science."
-    },
-    {
-      "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
-      "published": "2026-05-06T10:00:02+00:00",
-      "summary": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks.What Attendees will LearnWhich frequencies 6G will use — Understand why THz bands (above 100 GHz) and the7–24 GHz range are under consideration, what challenges CMOS technology faces at sub-THz frequencies, and how new semiconductor approaches aim to close the output-power gap for future link budgets.How AI/ML and joint communications and sens"
     }
   ]
 }
