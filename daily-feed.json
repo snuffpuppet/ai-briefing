@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T20:13:06.619512+00:00",
+  "generated_at": "2026-05-07T21:56:27.720526+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 31,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -85,6 +85,14 @@
       "summary": "Musk was “prepared to do the for-profit, provided he would get control.”"
     },
     {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
+    },
+    {
       "title": "AI Is Starting to Build Better AI",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
@@ -125,20 +133,20 @@
       "summary": "And the kingmaker picks a side."
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-    },
-    {
       "title": "Introducing Trusted Contact in ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
       "published": "2026-05-07T00:00:00+00:00",
       "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     },
     {
       "title": "GitHub Copilot and me: The evolution of my partnership with a coding assistant",
