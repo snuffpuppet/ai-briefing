@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T14:03:30.585405+00:00",
+  "generated_at": "2026-05-07T16:48:41.491038+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 22,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -11,6 +11,30 @@
       "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
       "published": "2026-05-08T00:00:00+00:00",
       "summary": "The agentic journey from idea to product"
+    },
+    {
+      "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-did-capacity-shortages",
+      "published": "2026-05-07T16:45:31+00:00",
+      "summary": "Also: Amazon finally allows engineers to use Claude Code and Codex, Meta forcefully assigns engineers to data labelling work ahead of layoffs, more small &#8220;AI-forward&#8221; teams, and more"
+    },
+    {
+      "title": "Notes from inside China's AI labs",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+      "published": "2026-05-07T15:42:43+00:00",
+      "summary": "Lessons from my trip to talk to most of the leading AI labs in China."
+    },
+    {
+      "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+      "published": "2026-05-07T14:00:50+00:00",
+      "summary": "The $100 Fitbit Air is available for preorder today."
     },
     {
       "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
@@ -43,6 +67,14 @@
       "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
       "published": "2026-05-07T05:57:14+00:00",
       "summary": "And the kingmaker picks a side."
+    },
+    {
+      "title": "GitHub Copilot and me: The evolution of my partnership with a coding assistant",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/github-copilot-me-evolution-partnership-coding-assistant",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "GitHub Copilot and me: The evolution of my partnership with a coding assistant"
     },
     {
       "title": "Chatbots Need Guardrails to Prevent Delusions and Psychosis",
@@ -123,6 +155,14 @@
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
       "published": "2026-05-06T14:24:08+00:00",
       "summary": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my highlights, including my disturbing realization that vibe coding and agentic engineering have started to converge in my own work.\nOne thing I really enjoy about podcasts is that they sometimes push me to think out loud in a way that exposes an idea I've not previously been able to put into words.\nVibe coding and agentic eng"
+    },
+    {
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "published": "2026-05-06T10:43:49+00:00",
+      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science."
     },
     {
       "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
