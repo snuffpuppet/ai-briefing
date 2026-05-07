@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T09:30:17.629737+00:00",
+  "generated_at": "2026-05-07T11:45:47.609924+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 20,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -11,6 +11,14 @@
       "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
       "published": "2026-05-08T00:00:00+00:00",
       "summary": "The agentic journey from idea to product"
+    },
+    {
+      "title": "Parloa builds service agents customers want to talk to",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/parloa",
+      "published": "2026-05-07T11:00:00+00:00",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
     },
     {
       "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
@@ -125,20 +133,20 @@
       "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
     },
     {
-      "title": "How frontier enterprises are building an AI advantage",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
-    },
-    {
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/uber",
       "published": "2026-05-06T00:00:00+00:00",
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
+    },
+    {
+      "title": "How frontier enterprises are building an AI advantage",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
     },
     {
       "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -155,38 +163,6 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
       "published": "2026-05-06T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "datasette-referrer-policy 0.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
-      "published": "2026-05-05T23:44:27+00:00",
-      "summary": "Release: datasette-referrer-policy 0.1\n        The OpenStreetMap tiles on the Datasette global-power-plants demo weren't displaying correctly. This turned out to be caused by two bugs.\nThe first is that the CAPTCHA I added to that site a few weeks ago was triggering for the .json fetch requests used by the map plugin, and since those weren't HTML the user was not being asked to solve them. Here's the fix.\nThe second was that OpenStreetMap quite reasonably block tile requests from sites that use"
-    },
-    {
-      "title": "OpenAI president forced to read his personal diary entries to jury",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-      "published": "2026-05-05T22:28:12+00:00",
-      "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission."
-    },
-    {
-      "title": "Our AI started a cafe in Stockholm",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
-      "published": "2026-05-05T22:14:21+00:00",
-      "summary": "Our AI started a cafe in Stockholm\nAndon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe.\nThese experiments are interesting, and often throw out amusing anecdotes:\n\nDuring the first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the staff told her they couldn’t cook them, she suggested using the high-speed oven, until they pointed out the eggs would likely"
-    },
-    {
-      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
-      "published": "2026-05-05T21:41:32+00:00",
-      "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026."
     }
   ]
 }
