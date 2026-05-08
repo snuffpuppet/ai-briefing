@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-08T05:28:50.005468+00:00",
+  "generated_at": "2026-05-08T07:27:41.043826+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 25,
   "items": [
+    {
+      "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+      "published": "2026-05-08T07:11:24+00:00",
+      "summary": "OpenAI continues deploying GPT-5 everywhere"
+    },
     {
       "title": "The agentic journey from idea to product",
       "source": "Thoughtworks Insights",
@@ -133,20 +141,20 @@
       "summary": "And the kingmaker picks a side."
     },
     {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "2026-05-07T00:00:00+00:00",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
     },
     {
       "title": "Simplex rethinks software development with Codex",
@@ -195,14 +203,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
       "published": "2026-05-06T21:20:14+00:00",
       "summary": "Trump forced to admit Biden was right on AI safety testing."
-    },
-    {
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "published": "2026-05-06T19:06:55+00:00",
-      "summary": ""
     }
   ]
 }
