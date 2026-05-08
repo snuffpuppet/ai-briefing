@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T23:01:05.105836+00:00",
+  "generated_at": "2026-05-08T02:46:21.226477+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 29,
@@ -149,6 +149,14 @@
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     },
     {
+      "title": "Simplex rethinks software development with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/simplex",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows."
+    },
+    {
       "title": "GitHub Copilot and me: The evolution of my partnership with a coding assistant",
       "source": "Thoughtworks Insights",
       "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
@@ -227,14 +235,6 @@
       "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
       "published": "2026-05-06T15:44:20+00:00",
       "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?"
-    },
-    {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
-      "published": "2026-05-06T14:24:08+00:00",
-      "summary": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my highlights, including my disturbing realization that vibe coding and agentic engineering have started to converge in my own work.\nOne thing I really enjoy about podcasts is that they sometimes push me to think out loud in a way that exposes an idea I've not previously been able to put into words.\nVibe coding and agentic eng"
     }
   ]
 }
