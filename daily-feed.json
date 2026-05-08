@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T11:12:32.507399+00:00",
+  "generated_at": "2026-05-08T13:29:13.236462+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 18,
   "items": [
     {
       "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
@@ -147,38 +147,6 @@
       "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
       "published": "2026-05-07T05:57:14+00:00",
       "summary": "And the kingmaker picks a side."
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
-    },
-    {
-      "title": "Simplex rethinks software development with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/simplex",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows."
-    },
-    {
-      "title": "GitHub Copilot and me: The evolution of my partnership with a coding assistant",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/github-copilot-me-evolution-partnership-coding-assistant",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "GitHub Copilot and me: The evolution of my partnership with a coding assistant"
     }
   ]
 }
