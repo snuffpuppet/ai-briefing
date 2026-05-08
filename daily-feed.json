@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T22:02:27.584465+00:00",
+  "generated_at": "2026-05-08T23:54:47.114998+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
     {
       "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -171,14 +171,6 @@
       "url": "https://spectrum.ieee.org/recursive-self-improvement",
       "published": "2026-05-07T12:00:02+00:00",
       "summary": "The field of artificial intelligence was built on the premise that machines might someday improve themselves. In 1966, the English mathematician I. J. Good wrote that “an ultraintelligent machine could design even better machines; there would then unquestionably be an ‘intelligence explosion,’ and the intelligence of man would be left far behind.” AI researchers have long seen recursive self-improvement, or RSI, as something to both desire and fear. Today, advances in AI are raising the question"
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/parloa",
-      "published": "2026-05-07T11:00:00+00:00",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
     }
   ]
 }
