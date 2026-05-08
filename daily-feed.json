@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T09:18:13.747174+00:00",
+  "generated_at": "2026-05-08T11:12:32.507399+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 22,
   "items": [
     {
       "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
@@ -179,38 +179,6 @@
       "url": "https://www.thoughtworks.com/insights/blog/generative-ai/github-copilot-me-evolution-partnership-coding-assistant",
       "published": "2026-05-07T00:00:00+00:00",
       "summary": "GitHub Copilot and me: The evolution of my partnership with a coding assistant"
-    },
-    {
-      "title": "Chatbots Need Guardrails to Prevent Delusions and Psychosis",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/mental-health-chatbot-guardrails",
-      "published": "2026-05-06T22:11:00+00:00",
-      "summary": "Millions of people worldwide are turning to chatbots like ChatGPT or Claude, and a proliferating class of specialized AI companionship apps for friendship, therapy, or even romance.While some users report psychological benefits from these simulated relationships, research has also shown the relationships can reinforce or amplify delusions, particularly among users already vulnerable to psychosis. AIs have been linked to multiple suicides, including the death of a Florida teenager who had a month"
-    },
-    {
-      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-      "published": "2026-05-06T22:09:14+00:00",
-      "summary": "Deal follows others with Microsoft, Amazon, and more."
-    },
-    {
-      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-      "published": "2026-05-06T21:47:27+00:00",
-      "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing."
-    },
-    {
-      "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
-      "published": "2026-05-06T21:20:14+00:00",
-      "summary": "Trump forced to admit Biden was right on AI safety testing."
     }
   ]
 }
