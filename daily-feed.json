@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-08T17:14:43.864577+00:00",
+  "generated_at": "2026-05-08T19:14:35.291275+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "published": "2026-05-08T17:41:05+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+      "published": "2026-05-08T17:17:17+00:00",
+      "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem."
+    },
     {
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "source": "Hugging Face - Blog",
@@ -13,20 +29,20 @@
       "summary": ""
     },
     {
-      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
-      "published": "2026-05-08T07:54:18+00:00",
-      "summary": ""
-    },
-    {
       "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
       "published": "2026-05-08T07:11:24+00:00",
       "summary": "OpenAI continues deploying GPT-5 everywhere"
+    },
+    {
+      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+      "source": "The Berkeley Artificial Intelligence Research Blog",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+      "published": "2026-05-08T02:00:00-07:00",
+      "summary": "Overview of adaptive parallel reasoning.\n\n\nWhat if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to coordinate them based on the problem at hand? We provide a detailed analysis of recent progress in the field of parallel reasoning, especially Adaptive Parallel Reasoning.\n\n\n\n\nDisclosure: this post is part landscape survey, part perspective on adaptive parallel reasoning. One of the a"
     },
     {
       "title": "The agentic journey from idea to product",
@@ -147,14 +163,6 @@
       "url": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
       "published": "2026-05-07T07:25:14+00:00",
       "summary": "Tool: GitHub Repo Stats\n        One of the things I always look for when evaluating a new GitHub repository is the number of commits it has... but that number isn't visible on GitHub's mobile site layout. I built this tool to fix that, using this prompt:\n\nGiven a GitHub repo URL or foo/bar repo ID show information about that repo absorbed via wither REST or graphql CORS fetch() including the number of commits in the repo and other useful stats\n\nExample output for simonw/datasette and simonw/llm."
-    },
-    {
-      "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
-      "published": "2026-05-07T05:57:14+00:00",
-      "summary": "And the kingmaker picks a side."
     }
   ]
 }
