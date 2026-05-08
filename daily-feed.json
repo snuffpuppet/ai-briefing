@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-08T15:20:35.531836+00:00",
+  "generated_at": "2026-05-08T17:14:43.864577+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "published": "2026-05-08T16:03:50+00:00",
+      "summary": ""
+    },
     {
       "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
       "source": "Hugging Face - Blog",
