@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T02:46:21.226477+00:00",
+  "generated_at": "2026-05-08T05:28:50.005468+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 25,
   "items": [
     {
       "title": "The agentic journey from idea to product",
@@ -203,38 +203,6 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "published": "2026-05-06T19:06:55+00:00",
       "summary": ""
-    },
-    {
-      "title": "Google DeepMind partners with EVE Online for AI model testing",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-      "published": "2026-05-06T16:56:49+00:00",
-      "summary": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations."
-    },
-    {
-      "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
-      "published": "2026-05-06T16:15:27+00:00",
-      "summary": "Also, 5-hour usage limits will double for Pro and Max users of Claude Code."
-    },
-    {
-      "title": "Live blog: Code w/ Claude 2026",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
-      "published": "2026-05-06T15:58:27+00:00",
-      "summary": "I'm at Anthropic's Code w/ Claude event today. Here's my live blog of the morning keynote sessions.\n    \n        Tags: ai, generative-ai, llms, anthropic, claude, claude-code, live-blog"
-    },
-    {
-      "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-      "published": "2026-05-06T15:44:20+00:00",
-      "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?"
     }
   ]
 }
