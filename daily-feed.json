@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-09T17:50:02.772196+00:00",
+  "generated_at": "2026-05-09T18:58:30.235344+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 13,
   "items": [
+    {
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "published": "2026-05-09T18:09:28+00:00",
+      "summary": ""
+    },
     {
       "title": "The new Wild West of AI kids’ toys",
       "source": "AI - Ars Technica",
@@ -59,14 +67,6 @@
       "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
       "published": "2026-05-08T19:43:47+00:00",
       "summary": "Google's AI search will start citing its sources in several new ways."
-    },
-    {
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "published": "2026-05-08T17:41:05+00:00",
-      "summary": ""
     },
     {
       "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
