@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-08T23:54:47.114998+00:00",
+  "generated_at": "2026-05-09T02:40:43.273660+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+      "published": "2026-05-09T01:08:28+00:00",
+      "summary": "A quiet day lets us reflect on an interesting dichotomy in the economy."
+    },
+    {
+      "title": "Quoting Luke Curley",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
+      "published": "2026-05-09T01:03:58+00:00",
+      "summary": "WebRTC is designed to degrade and drop my prompt during poor network conditions.\nwtf my dude\nWebRTC aggressively drops audio packets to keep latency low. If you’ve ever heard distorted audio on a conference call, that’s WebRTC baybee. The idea is that conference calls depend on rapid back-and-forth, so pausing to wait for audio is unacceptable.\n…but as a user, I would much rather wait an extra 200ms for my slow/expensive prompt to be accurate. After all, I’m paying good money to boil the ocean,"
+    },
+    {
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "published": "2026-05-08T23:59:19+00:00",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;"
+    },
     {
       "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
       "source": "Simon Willison's Weblog",
@@ -139,38 +163,6 @@
       "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
       "published": "2026-05-07T15:42:43+00:00",
       "summary": "Lessons from my trip to talk to most of the leading AI labs in China."
-    },
-    {
-      "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
-      "published": "2026-05-07T14:00:50+00:00",
-      "summary": "The $100 Fitbit Air is available for preorder today."
-    },
-    {
-      "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
-      "published": "2026-05-07T13:14:01+00:00",
-      "summary": "Musk was “prepared to do the for-profit, provided he would get control.”"
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "published": "2026-05-07T13:00:00+00:00",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
-    },
-    {
-      "title": "AI Is Starting to Build Better AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/recursive-self-improvement",
-      "published": "2026-05-07T12:00:02+00:00",
-      "summary": "The field of artificial intelligence was built on the premise that machines might someday improve themselves. In 1966, the English mathematician I. J. Good wrote that “an ultraintelligent machine could design even better machines; there would then unquestionably be an ‘intelligence explosion,’ and the intelligence of man would be left far behind.” AI researchers have long seen recursive self-improvement, or RSI, as something to both desire and fear. Today, advances in AI are raising the question"
     }
   ]
 }
