@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T20:55:49.890464+00:00",
+  "generated_at": "2026-05-09T21:41:21.487964+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 11,
   "items": [
     {
       "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
@@ -91,14 +91,6 @@
       "url": "https://openai.com/index/running-codex-safely",
       "published": "2026-05-08T12:30:00+00:00",
       "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
-    },
-    {
-      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "source": "The Berkeley Artificial Intelligence Research Blog",
-      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
-      "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-      "published": "2026-05-08T02:00:00-07:00",
-      "summary": "Overview of adaptive parallel reasoning.\n\n\nWhat if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to coordinate them based on the problem at hand? We provide a detailed analysis of recent progress in the field of parallel reasoning, especially Adaptive Parallel Reasoning.\n\n\n\n\nDisclosure: this post is part landscape survey, part perspective on adaptive parallel reasoning. One of the a"
     }
   ]
 }
