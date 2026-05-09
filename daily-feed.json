@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-09T10:55:50.093532+00:00",
+  "generated_at": "2026-05-09T11:50:22.673709+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 14,
   "items": [
+    {
+      "title": "The new Wild West of AI kids’ toys",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+      "published": "2026-05-09T11:00:51+00:00",
+      "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned."
+    },
     {
       "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
       "source": "Latent.Space",
