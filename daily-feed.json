@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T02:40:43.273660+00:00",
+  "generated_at": "2026-05-09T05:47:09.376391+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
@@ -139,30 +139,6 @@
       "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
       "published": "2026-05-07T17:56:25+00:00",
       "summary": "Behind the Scenes Hardening Firefox with Claude Mythos Preview\nFascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of vulnerabilities in Firefox:\n\nSuddenly, the bugs are very good\nJust a few months ago, AI-generated security bug reports to open source projects were mostly known for being unwanted slop. Dealing with reports that look plausibly correct but are wrong imposes an asymmetric cost on project maintainers: it’s cheap"
-    },
-    {
-      "title": "Notes on the xAI/Anthropic data center deal",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
-      "published": "2026-05-07T17:09:28+00:00",
-      "summary": "There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude event, but the biggest by far was the deal they've struck with SpaceX/xAI to use \"all of the capacity of their Colossus data center\".\nAs I mentioned in my live blog of the keynote, that's the one with the particularly bad environmental record. The gas turbines installed to power the facility initially ran without Clean Air Act permits or pollution control devices, which they got away with by classifying the"
-    },
-    {
-      "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-did-capacity-shortages",
-      "published": "2026-05-07T16:45:31+00:00",
-      "summary": "Also: Amazon finally allows engineers to use Claude Code and Codex, Meta forcefully assigns engineers to data labelling work ahead of layoffs, more small &#8220;AI-forward&#8221; teams, and more"
-    },
-    {
-      "title": "Notes from inside China's AI labs",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
-      "published": "2026-05-07T15:42:43+00:00",
-      "summary": "Lessons from my trip to talk to most of the leading AI labs in China."
     }
   ]
 }
