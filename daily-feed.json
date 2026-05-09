@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T11:50:22.673709+00:00",
+  "generated_at": "2026-05-09T13:13:41.670639+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 13,
   "items": [
     {
       "title": "The new Wild West of AI kids’ toys",
@@ -107,14 +107,6 @@
       "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
       "published": "2026-05-08T02:00:00-07:00",
       "summary": "Overview of adaptive parallel reasoning.\n\n\nWhat if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to coordinate them based on the problem at hand? We provide a detailed analysis of recent progress in the field of parallel reasoning, especially Adaptive Parallel Reasoning.\n\n\n\n\nDisclosure: this post is part landscape survey, part perspective on adaptive parallel reasoning. One of the a"
-    },
-    {
-      "title": "The agentic journey from idea to product",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product",
-      "published": "2026-05-08T00:00:00+00:00",
-      "summary": "The agentic journey from idea to product"
     }
   ]
 }
