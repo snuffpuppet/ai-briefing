@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T05:47:09.376391+00:00",
+  "generated_at": "2026-05-09T07:53:46.465247+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 14,
   "items": [
     {
       "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
@@ -115,30 +115,6 @@
       "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
       "published": "2026-05-07T19:57:06+00:00",
       "summary": "Release: llm-gemini 0.31\n        \n\ngemini-3.1-flash-lite is no longer a preview. \n\n\nHere's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has changed since then.\n    \n    \n        Tags: llm-release, gemini, llm, google, generative-ai, ai, llms"
-    },
-    {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-      "published": "2026-05-07T19:18:16+00:00",
-      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery."
-    },
-    {
-      "title": "Big Words",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
-      "published": "2026-05-07T18:47:09+00:00",
-      "summary": "Tool: Big Words\n        I'm using my vibe coded macOS presentations tool to put together a talk, and I wanted to add a slide with some text on it. The tool only accepts URLs, so I put together a quick page that accepts query string arguments and turns them into a simple slide.\nHere's an example: https://tools.simonwillison.net/big-words?text=simonwillison.net&amp;gradient=1&amp;size=9.5\nDouble click or double tap the page to access a form for modifying the different options.\n\n    \n    \n        T"
-    },
-    {
-      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
-      "published": "2026-05-07T17:56:25+00:00",
-      "summary": "Behind the Scenes Hardening Firefox with Claude Mythos Preview\nFascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of vulnerabilities in Firefox:\n\nSuddenly, the bugs are very good\nJust a few months ago, AI-generated security bug reports to open source projects were mostly known for being unwanted slop. Dealing with reports that look plausibly correct but are wrong imposes an asymmetric cost on project maintainers: it’s cheap"
     }
   ]
 }
