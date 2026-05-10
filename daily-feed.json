@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T08:52:13.808082+00:00",
+  "generated_at": "2026-05-10T10:12:53.789191+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
@@ -43,14 +43,6 @@
       "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
       "published": "2026-05-08T23:59:19+00:00",
       "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;"
-    },
-    {
-      "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
-      "published": "2026-05-08T21:00:11+00:00",
-      "summary": "Using Claude Code: The Unreasonable Effectiveness of HTML\nThought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude.\nThe article is crammed with interesting examples (collected on this site) and prompt suggestions like this one:\n\nHelp me review this PR by creating an HTML artifact that describes it. I'm not very familiar with the streaming/backpressure logic so focus on that. Render the actual di"
     }
   ]
 }
