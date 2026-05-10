@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T02:46:14.081409+00:00",
+  "generated_at": "2026-05-10T06:10:09.053030+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 8,
   "items": [
     {
       "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
@@ -67,22 +67,6 @@
       "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
       "published": "2026-05-08T19:43:47+00:00",
       "summary": "Google's AI search will start citing its sources in several new ways."
-    },
-    {
-      "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
-      "published": "2026-05-08T17:17:17+00:00",
-      "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem."
-    },
-    {
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "published": "2026-05-08T16:03:50+00:00",
-      "summary": ""
     }
   ]
 }
