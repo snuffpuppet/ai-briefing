@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T06:10:09.053030+00:00",
+  "generated_at": "2026-05-10T08:52:13.808082+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 6,
   "items": [
     {
       "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
@@ -51,22 +51,6 @@
       "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
       "published": "2026-05-08T21:00:11+00:00",
       "summary": "Using Claude Code: The Unreasonable Effectiveness of HTML\nThought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude.\nThe article is crammed with interesting examples (collected on this site) and prompt suggestions like this one:\n\nHelp me review this PR by creating an HTML artifact that describes it. I'm not very familiar with the streaming/backpressure logic so focus on that. Render the actual di"
-    },
-    {
-      "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
-      "published": "2026-05-08T20:51:17+00:00",
-      "summary": "But human artists still \"must remain at the center,\" PlayStation maker says."
-    },
-    {
-      "title": "Course correction: Google to link more sources in AI Overviews",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-      "published": "2026-05-08T19:43:47+00:00",
-      "summary": "Google's AI search will start citing its sources in several new ways."
     }
   ]
 }
