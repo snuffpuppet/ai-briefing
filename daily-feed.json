@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T23:45:06.635441+00:00",
+  "generated_at": "2026-05-10T02:46:14.081409+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 10,
   "items": [
     {
       "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
@@ -83,14 +83,6 @@
       "url": "https://huggingface.co/blog/allenai/emo",
       "published": "2026-05-08T16:03:50+00:00",
       "summary": ""
-    },
-    {
-      "title": "Running Codex safely at OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/running-codex-safely",
-      "published": "2026-05-08T12:30:00+00:00",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
     }
   ]
 }
