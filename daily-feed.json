@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T22:44:09.054714+00:00",
+  "generated_at": "2026-05-10T23:51:16.091508+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
@@ -27,14 +27,6 @@
       "url": "https://spectrum.ieee.org/orbital-inference-data-center",
       "published": "2026-05-10T13:00:01+00:00",
       "summary": "The rapid advancement of large language models is fueling a global data center boom and driving a surge in energy demand. But the electricity required to power data centers is straining the grid, pushing infrastructure operators to search for alternative sources of power. Some are even looking beyond Earth.One company that’s looking to the stars for energy is Orbital Inc. In mid-April, the Los Angeles–based startup emerged from stealth and announced plans to build space data centers. Backed by A"
-    },
-    {
-      "title": "The new Wild West of AI kids’ toys",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
-      "published": "2026-05-09T11:00:51+00:00",
-      "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned."
     }
   ]
 }
