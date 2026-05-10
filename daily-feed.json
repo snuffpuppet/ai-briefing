@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-10T17:51:29.004512+00:00",
+  "generated_at": "2026-05-10T19:00:51.537548+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 4,
   "items": [
+    {
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "published": "2026-05-10T18:44:11+00:00",
+      "summary": ""
+    },
     {
       "title": "Quoting Andrew Quinn",
       "source": "Simon Willison's Weblog",
@@ -19,14 +27,6 @@
       "url": "https://spectrum.ieee.org/orbital-inference-data-center",
       "published": "2026-05-10T13:00:01+00:00",
       "summary": "The rapid advancement of large language models is fueling a global data center boom and driving a surge in energy demand. But the electricity required to power data centers is straining the grid, pushing infrastructure operators to search for alternative sources of power. Some are even looking beyond Earth.One company that’s looking to the stars for energy is Orbital Inc. In mid-April, the Los Angeles–based startup emerged from stealth and announced plans to build space data centers. Backed by A"
-    },
-    {
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "published": "2026-05-09T18:09:28+00:00",
-      "summary": ""
     },
     {
       "title": "The new Wild West of AI kids’ toys",
