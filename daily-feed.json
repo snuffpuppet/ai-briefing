@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T20:47:43.857857+00:00",
+  "generated_at": "2026-05-11T22:05:55.748068+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
     {
-      "title": "Data center used 30 million gallons of water without initially paying",
+      "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
@@ -59,6 +59,14 @@
       "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
       "published": "2026-05-11T15:46:36+00:00",
       "summary": "Learning on the Shop floor\nTobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack:\n\nRiver does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work with river in #tobi_river channel and many followed this pattern.  Every conversation is therefore searchable.  Anyone at Shopify  can jump in. In my own channel, there are over 100 people who, reac"
+    },
+    {
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "published": "2026-05-11T15:00:00+00:00",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
     },
     {
       "title": "Fostering breakthrough AI innovation through customer-back engineering",
