@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-05-11T06:39:21.000214+00:00",
+  "generated_at": "2026-05-11T10:37:17.119046+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 6,
   "items": [
-    {
-      "title": "How enterprises are scaling AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
-    },
     {
       "title": "OpenAI Campus Network: Student club interest form",
       "source": "OpenAI News",
@@ -19,6 +11,14 @@
       "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "published": "2026-05-11T10:00:00+00:00",
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+    },
+    {
+      "title": "How enterprises are scaling AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
     },
     {
       "title": "Quoting New York Times Editors’ Note",
