@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-11T16:32:15.127552+00:00",
+  "generated_at": "2026-05-11T18:57:21.686197+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "published": "2026-05-11T17:35:12+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;"
+    },
     {
       "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
       "source": "Engineering at Meta",
