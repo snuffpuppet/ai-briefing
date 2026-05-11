@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-10T23:51:16.091508+00:00",
+  "generated_at": "2026-05-11T02:55:36.982714+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Quoting New York Times Editors’ Note",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+      "published": "2026-05-10T23:58:49+00:00",
+      "summary": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned.  The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech.\n&mdash; New Yor"
+    },
     {
       "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
       "source": "Hugging Face - Blog",
