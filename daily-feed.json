@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-11T10:37:17.119046+00:00",
+  "generated_at": "2026-05-11T13:47:23.407454+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "Implementing advanced AI technologies in finance",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "published": "2026-05-11T13:00:00+00:00",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;"
+    },
+    {
+      "title": "How enterprises are scaling AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+    },
     {
       "title": "OpenAI Campus Network: Student club interest form",
       "source": "OpenAI News",
@@ -13,12 +29,12 @@
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
     },
     {
-      "title": "How enterprises are scaling AI",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "published": "2026-05-11T06:00:00+00:00",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
     },
     {
       "title": "Quoting New York Times Editors’ Note",
