@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-05-11T18:57:21.686197+00:00",
+  "generated_at": "2026-05-11T20:47:43.857857+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Data center used 30 million gallons of water without initially paying",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+      "published": "2026-05-11T20:37:00+00:00",
+      "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good."
+    },
+    {
+      "title": "Quoting James Shore",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+      "published": "2026-05-11T19:48:32+00:00",
+      "summary": "Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re trading a temporary speed boost for permanent indenture. [...]\nThe math only works if the LLM decreases your maintenance costs, and by exactly the inverse of the rate it adds code. If you double your"
+    },
+    {
+      "title": "Your AI Use Is Breaking My Brain",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+      "published": "2026-05-11T19:21:27+00:00",
+      "summary": "Your AI Use Is Breaking My Brain\nExcellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to distort regular human writing styles.\nI particularly liked his use of the term \"Zombie Internet\" to define a different, more insidious alternative to the \"Dead Internet\" (which is just bots talking to each other):\n\nI called it the Zombie Internet because the truth is that large parts of the internet are no"
+    },
+    {
+      "title": "Using LLM in the shebang line of a script",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+      "published": "2026-05-11T18:48:57+00:00",
+      "summary": "TIL: Using LLM in the shebang line of a script\n        Kim_Bruning on Hacker News:\n\nBut seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...]\n\nThis inspired me to look at patterns for doing exactly that with LLM. Here's the simplest, which takes advantage of LLM fragments:\n#!/usr/bin/env -S llm -f\nGenerate an SVG of a pelican riding a bicycle\n\nBut you can also incorporate tool calls using the -T name_of_tool option:\n#!/usr/bin/env -S llm -T llm_time -f"
+    },
     {
       "title": "Three things in AI to watch, according to a Nobel-winning economist",
       "source": "Artificial intelligence – MIT Technology Review",
