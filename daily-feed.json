@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-11T22:05:55.748068+00:00",
+  "generated_at": "2026-05-11T23:56:28.557207+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "published": "2026-05-11T23:18:26+00:00",
+      "summary": ""
+    },
     {
       "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
       "source": "AI - Ars Technica",
