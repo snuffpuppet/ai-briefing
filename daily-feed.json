@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-11T13:47:23.407454+00:00",
+  "generated_at": "2026-05-11T16:32:15.127552+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 11,
   "items": [
+    {
+      "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable/",
+      "published": "2026-05-11T16:00:55+00:00",
+      "summary": "We’re rolling out version 1.1 of Labyrinth, the encrypted storage system and protocol that secures messages and history on Messenger. Labyrinth 1.1 enhances the reliability of end-to-end encrypted backups with a new sub-protocol that helps messages survive the loss of a device, a switched device, and long gaps between sign-ins. Read our updated white paper, [...]\nRead More...\nThe post Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable  appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Learning on the Shop floor",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+      "published": "2026-05-11T15:46:36+00:00",
+      "summary": "Learning on the Shop floor\nTobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack:\n\nRiver does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work with river in #tobi_river channel and many followed this pattern.  Every conversation is therefore searchable.  Anyone at Shopify  can jump in. In my own channel, there are over 100 people who, reac"
+    },
+    {
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "published": "2026-05-11T13:33:06+00:00",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;"
+    },
     {
       "title": "Implementing advanced AI technologies in finance",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -11,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
       "published": "2026-05-11T13:00:00+00:00",
       "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;"
+    },
+    {
+      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
+      "published": "2026-05-11T12:46:12+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Optionality:…Governments should invest in the tools now that they might need in a future crisis…Researchers with the Institute [&#8230;]"
     },
     {
       "title": "How enterprises are scaling AI",
@@ -43,14 +75,6 @@
       "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
       "published": "2026-05-10T23:58:49+00:00",
       "summary": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned.  The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech.\n&mdash; New Yor"
-    },
-    {
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "published": "2026-05-10T18:44:11+00:00",
-      "summary": ""
     },
     {
       "title": "Quoting Andrew Quinn",
