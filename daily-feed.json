@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-05-12T14:21:35.197788+00:00",
+  "generated_at": "2026-05-12T17:09:25.751155+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+      "published": "2026-05-12T17:00:49+00:00",
+      "summary": "Google has revealed its vision for the AI laptop of tomorrow."
+    },
+    {
+      "title": "Android is getting a big AI overhaul in 2026",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
+      "published": "2026-05-12T17:00:41+00:00",
+      "summary": "Google has big plans for Android in 2026, and most of it is AI."
+    },
+    {
+      "title": "Migrating Data Ingestion Systems at Meta Scale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/",
+      "published": "2026-05-12T16:00:57+00:00",
+      "summary": "Meta’s data ingestion system, which our engineering teams leverage for up-to-date snapshots of the social graph, has recently undergone a significant revamp to enhance its reliability at scale.  Moving from our legacy system to our new architecture required a large-scale migration of our entire data ingestion system.  We’re sharing the solutions and strategies that enabled [...]\nRead More...\nThe post Migrating Data Ingestion Systems at Meta Scale appeared first on Engineering at Meta."
+    },
+    {
+      "title": "How open model ecosystems compound",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+      "published": "2026-05-12T15:54:47+00:00",
+      "summary": "Further reflections on China's high-participation, open-first AI ecosystem."
+    },
     {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
       "source": "AI - Ars Technica",
@@ -18,7 +50,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/distributed-inference-data-centers",
       "published": "2026-05-12T12:00:01+00:00",
-      "summary": "The rise of electricity-guzzling data centers has forced the AI industry to get creative about finding power. One of the latest ideas: Build micro data centers next to utility substations and operate them in concert, shifting the computation around based on power availability.That’s the approach Nvidia and its collaborators are taking in a new pilot project they plan to build later this year. They’ll construct about 25 of these small data centers, each ranging from 5 to 20 megawatts, across 5 ut"
+      "summary": "The rise of electricity-guzzling data centers has forced the artificial intelligence industry to get creative about finding power. One of the latest ideas: Build micro data centers next to utility substations and operate them in concert, shifting the computation around based on power availability.That’s the approach Nvidia and its collaborators are taking in a new pilot project they plan to build later this year. They’ll construct about 25 of these small data centers, each ranging from 5 to 20 m"
     },
     {
       "title": "What is Code",
