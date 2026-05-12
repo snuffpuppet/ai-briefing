@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T06:35:37.594681+00:00",
+  "generated_at": "2026-05-12T09:36:23.879901+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
@@ -117,20 +117,20 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Optionality:…Governments should invest in the tools now that they might need in a future crisis…Researchers with the Institute [&#8230;]"
     },
     {
-      "title": "How enterprises are scaling AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
-    },
-    {
       "title": "OpenAI Campus Network: Student club interest form",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "published": "2026-05-11T10:00:00+00:00",
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+    },
+    {
+      "title": "How enterprises are scaling AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
     },
     {
       "title": "OpenAI launches DeployCo to help businesses build around intelligence",
