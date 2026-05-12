@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-11T23:56:28.557207+00:00",
+  "generated_at": "2026-05-12T03:24:12.743817+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+      "published": "2026-05-11T23:58:55+00:00",
+      "summary": "GitLab Act 2\nThere's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era.\n\nThey're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most interesting things about GitLab is that they have employees spread across a large number of countries - 18 are listed in their public employee handbook but this post says they are \"operating in nearl"
+    },
     {
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "source": "Hugging Face - Blog",
@@ -131,22 +139,6 @@
       "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
       "published": "2026-05-10T23:58:49+00:00",
       "summary": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned.  The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech.\n&mdash; New Yor"
-    },
-    {
-      "title": "Quoting Andrew Quinn",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
-      "published": "2026-05-10T14:59:17+00:00",
-      "summary": "One could say in the first quarter-century of my life, that while I was always fascinated by programming, I could never overcome the guilt of not really knowing whether the tool I am building right now isn’t already superceded by some much better implementation someone else has already written 30 or 40 years ago; I could write a TSV-aware search and replace, or I could find out about awk and solve that entire class of problems in one fell swoop, for example. My central conceit is that this is a"
-    },
-    {
-      "title": "Startup Wants to Run AI Inference From Space",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/orbital-inference-data-center",
-      "published": "2026-05-10T13:00:01+00:00",
-      "summary": "The rapid advancement of large language models is fueling a global data center boom and driving a surge in energy demand. But the electricity required to power data centers is straining the grid, pushing infrastructure operators to search for alternative sources of power. Some are even looking beyond Earth.One company that’s looking to the stars for energy is Orbital Inc. In mid-April, the Los Angeles–based startup emerged from stealth and announced plans to build space data centers. Backed by A"
     }
   ]
 }
