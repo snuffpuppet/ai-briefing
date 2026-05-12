@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-12T17:09:25.751155+00:00",
+  "generated_at": "2026-05-12T19:48:21.366201+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 27,
   "items": [
+    {
+      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+      "published": "2026-05-12T19:00:25+00:00",
+      "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show."
+    },
+    {
+      "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
+      "published": "2026-05-12T17:15:15+00:00",
+      "summary": "This sponsored article is brought to you by Ampace.As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the power chain.Modern AI computing clusters, driven by massive GPU clusters, generate high-frequency, abrupt, and synchronized spikey pulse loads. As rack densities soar beyond 100 kW, these fluctuation"
+    },
+    {
+      "title": "Revisiting “No Silver Bullets” in the age of AI",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
+      "published": "2026-05-12T17:10:28+00:00",
+      "summary": "Does the noted &#8220;No Silver Bullets&#8221; paper by the author of a classic engineering book still hold up, 40 years later? Is AI the long-sought single silver bullet &#8211; or has one been around for years?"
+    },
     {
       "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
       "source": "AI - Ars Technica",
@@ -67,6 +91,14 @@
       "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
       "published": "2026-05-12T04:33:46+00:00",
       "summary": "well done, Team Thinky."
+    },
+    {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints."
     },
     {
       "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
@@ -173,14 +205,6 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Optionality:…Governments should invest in the tools now that they might need in a future crisis…Researchers with the Institute [&#8230;]"
     },
     {
-      "title": "OpenAI Campus Network: Student club interest form",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
-    },
-    {
       "title": "How enterprises are scaling AI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -189,12 +213,12 @@
       "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
     },
     {
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "title": "OpenAI Campus Network: Student club interest form",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "published": "2026-05-11T06:00:00+00:00",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
     }
   ]
 }
