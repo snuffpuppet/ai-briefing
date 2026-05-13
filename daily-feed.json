@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-13T10:25:04.055980+00:00",
+  "generated_at": "2026-05-13T13:10:19.877898+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Reel Friends: Building Social Discovery that Scales to Billions",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/",
+      "published": "2026-05-13T13:00:44+00:00",
+      "summary": "On its face the new Friend Bubbles feature looks simple enough. It highlights Reels your friends have watched and reacted to. But sometimes the features that seem the most straightforward require the deepest engineering work. On this episode of the Meta Tech Podcast, Pascal Hartig chats with Subasree and Joseph, two software engineers from the Facebook [...]\nRead More...\nThe post Reel Friends: Building Social Discovery that Scales to Billions appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Rivian adds a new onboard AI assistant to its latest software update",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+      "published": "2026-05-13T12:45:30+00:00",
+      "summary": "The Rivian Assistant is available for both Gen1 and Gen2 hardware."
+    },
+    {
+      "title": "Archivists Turn to LLMs to Decipher Handwriting at Scale",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun",
+      "published": "2026-05-13T12:00:01+00:00",
+      "summary": "When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her handwriting was dense cursive, all loops that looked identical to my eye, and there were years of journals to go through. I found myself photographing pages and feeding them to ChatGPT just to read what she’d written. My tool of choice worked well, and it turns out I’m not the fi"
+    },
     {
       "title": "CSP Allow-list Experiment",
       "source": "Simon Willison's Weblog",
@@ -155,46 +179,6 @@
       "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
       "published": "2026-05-12T04:33:46+00:00",
       "summary": "well done, Team Thinky."
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/nvidia",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
-    },
-    {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints."
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/autoscout24",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
-    },
-    {
-      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
-      "published": "2026-05-11T23:58:55+00:00",
-      "summary": "GitLab Act 2\nThere's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era.\n\nThey're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most interesting things about GitLab is that they have employees spread across a large number of countries - 18 are listed in their public employee handbook but this post says they are \"operating in nearl"
-    },
-    {
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "published": "2026-05-11T23:18:26+00:00",
-      "summary": ""
     }
   ]
 }
