@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T07:47:57.976013+00:00",
+  "generated_at": "2026-05-13T10:25:04.055980+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 24,
   "items": [
     {
       "title": "CSP Allow-list Experiment",
@@ -195,22 +195,6 @@
       "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "published": "2026-05-11T23:18:26+00:00",
       "summary": ""
-    },
-    {
-      "title": "Data center guzzled 30 million gallons of water, and nobody noticed for months",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
-      "published": "2026-05-11T20:37:00+00:00",
-      "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good."
-    },
-    {
-      "title": "Quoting James Shore",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
-      "published": "2026-05-11T19:48:32+00:00",
-      "summary": "Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re trading a temporary speed boost for permanent indenture. [...]\nThe math only works if the LLM decreases your maintenance costs, and by exactly the inverse of the rate it adds code. If you double your"
     }
   ]
 }
