@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-13T13:10:19.877898+00:00",
+  "generated_at": "2026-05-13T16:17:35.889613+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Can AI Chatbots Reason Like Doctors?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-clinical-decision-support",
+      "published": "2026-05-13T14:00:02+00:00",
+      "summary": "One of the earliest stated goals for computing in medicine was to aid in clinical reasoning: the decision-making steps required to reach a diagnosis and form a treatment plan. And over the years, researchers have built many clinical decision support systems, which have typically been purpose-built, with painstakingly written rules about symptoms, test thresholds, and medication interactions. As artificial intelligence capabilities develop, clinical reasoning is a natural application.Now, a large"
+    },
     {
       "title": "Reel Friends: Building Social Discovery that Scales to Billions",
       "source": "Engineering at Meta",
@@ -50,7 +58,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
       "published": "2026-05-12T23:41:06+00:00",
-      "summary": "Release: datasette 1.0a29\n        \n\nNew TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695\nTable headers and column options are now visible even if a table contains zero rows. #2701\nFixed bug with display of column actions dialog on Mobile Safari. #2708\nFixed bug where tests could crash with a segfault due to a race condition between Datasette.close() and Datasette.close(). #2709\n\n\nThat segfault bug was gnarly. I added a mechanism to Datasette recently"
+      "summary": "Release: datasette 1.0a29\n        \n\nNew TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695\nTable headers and column options are now visible even if a table contains zero rows. #2701\nFixed bug with display of column actions dialog on Mobile Safari. #2708\nFixed bug where tests could crash with a segfault due to a race condition between Datasette.close() and Database.close(). #2709\n\n\nThat segfault bug was gnarly. I added a mechanism to Datasette recently t"
     },
     {
       "title": "Quoting Mo Bitar",
