@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-13T18:55:53.576898+00:00",
+  "generated_at": "2026-05-13T20:44:47.291577+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 29,
   "items": [
     {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
+      "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+      "published": "2026-05-13T19:47:24+00:00",
+      "summary": "Old \"honor code\" systems are under strain."
     },
     {
       "title": "AI chatbots are giving out people’s real phone numbers",
@@ -83,6 +83,14 @@
       "url": "https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun",
       "published": "2026-05-13T12:00:01+00:00",
       "summary": "When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her handwriting was dense cursive, all loops that looked identical to my eye, and there were years of journals to go through. I found myself photographing pages and feeding them to ChatGPT just to read what she’d written. My tool of choice worked well, and it turns out I’m not the fi"
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "published": "2026-05-13T11:00:00+00:00",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
     },
     {
       "title": "CSP Allow-list Experiment",
