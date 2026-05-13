@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-12T22:58:58.798724+00:00",
+  "generated_at": "2026-05-13T00:08:25.949677+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 33,
   "items": [
+    {
+      "title": "datasette 1.0a29",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+      "published": "2026-05-12T23:41:06+00:00",
+      "summary": "Release: datasette 1.0a29\n        \n\nNew TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695\nTable headers and column options are now visible even if a table contains zero rows. #2701\nFixed bug with display of column actions dialog on Mobile Safari. #2708\nFixed bug where tests could crash with a segfault due to a race condition between Datasette.close() and Datasette.close(). #2709\n\n\nThat segfault bug was gnarly. I added a mechanism to Datasette recently"
+    },
+    {
+      "title": "Quoting Mo Bitar",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+      "published": "2026-05-12T22:59:58+00:00",
+      "summary": "Now, if your CEO has never heard the phrase Ralph Loop, oh man, you are less than 30 days away from your next promotion. I'm not even exaggerating. Walk into his office, close the door, and say, hey chief, been experimenting with something. It's called Ralph Loops. And I think it could change literally everything. And he's gonna say, what's a Ralph loop? And you will say, give me $18,000 worth of API credits and I'll show you. Now you won't actually do anything, because you can't do anything. Be"
+    },
     {
       "title": "Quoting Mitchell Hashimoto",
       "source": "Simon Willison's Weblog",
@@ -27,6 +43,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
       "published": "2026-05-12T19:00:25+00:00",
       "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show."
+    },
+    {
+      "title": "llm 0.32a2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+      "published": "2026-05-12T17:45:07+00:00",
+      "summary": "Release: llm 0.32a2\n        A bunch of useful stuff in this LLM alpha, but the most important detail is this one:\n\nMost reasoning-capable OpenAI models now use the /v1/responses endpoint instead of /v1/chat/completions. This enables interleaved reasoning across tool calls for GPT-5 class models. #1435\n\nThis means you can now see the summarized reasoning tokens when you run prompts against an OpenAI model, displayed in a different color to standard error. Use the -R or --hide-reasoning flags if y"
     },
     {
       "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
