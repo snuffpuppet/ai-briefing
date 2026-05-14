@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T19:43:45.445848+00:00",
+  "generated_at": "2026-05-14T21:07:58.699847+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
     {
       "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
@@ -43,6 +43,14 @@
       "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
       "published": "2026-05-14T16:05:04+00:00",
       "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field, and for the leaves of trees in an area vulnerable to forest fires.But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health in real time.Now, researchers in Texas have developed a graphene “tattoo” that can be stuck directly"
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "published": "2026-05-14T13:00:00+00:00",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
     },
     {
       "title": "Data readiness for agentic AI in financial services",
