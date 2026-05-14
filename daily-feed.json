@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-05-14T11:50:38.506096+00:00",
+  "generated_at": "2026-05-14T14:06:34.869620+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Data readiness for agentic AI in financial services",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "published": "2026-05-14T13:00:00+00:00",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;"
+    },
+    {
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "published": "2026-05-14T13:00:00+00:00",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;"
+    },
     {
       "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
       "published": "2026-05-14T11:00:58+00:00",
-      "summary": "Xi meeting may force Trump to pivot on semiconductor tariffs and Taiwan."
+      "summary": "Xi meeting may force Trump to pivot on chip restrictions and Taiwan."
     },
     {
       "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
@@ -147,14 +163,6 @@
       "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
       "published": "2026-05-13T02:47:22+00:00",
       "summary": "a quiet day lets us reflect on whither finetuning"
-    },
-    {
-      "title": "Our response to the TanStack npm supply chain attack",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published": "2026-05-13T00:00:00+00:00",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats."
     }
   ]
 }
