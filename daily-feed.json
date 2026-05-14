@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-14T21:07:58.699847+00:00",
+  "generated_at": "2026-05-14T22:55:05.653851+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 31,
   "items": [
+    {
+      "title": "Quoting Mitchell Hashimoto",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+      "published": "2026-05-14T22:31:20+00:00",
+      "summary": "[...] On the interesting side is how fungible programming languages are nowadays. Programming languages used to be LOCK IN, and they're increasingly not so. You think the Bun rewrite in Rust is good for Rust? Bun has shown they can be in probably any language they want in roughly a week or two. Rust is expendable. Its useful until its not then it can be thrown out. That's interesting!\n&mdash; Mitchell Hashimoto, on Bun porting from Zig to Rust\n\n    Tags: zig, ai, mitchell-hashimoto, llms, rust,"
+    },
+    {
+      "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/abridge",
+      "published": "2026-05-14T22:05:31+00:00",
+      "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare"
+    },
     {
       "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
       "source": "AI - Ars Technica",
@@ -19,6 +35,14 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "published": "2026-05-14T18:55:01+00:00",
       "summary": ""
+    },
+    {
+      "title": "Fragments: May 14",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-05-14.html",
+      "published": "2026-05-14T17:52:00-04:00",
+      "summary": "Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.\n\n ❄                ❄\n\nOne group developed a behavioral clone of GNU Cobol compiler in Rust"
     },
     {
       "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
