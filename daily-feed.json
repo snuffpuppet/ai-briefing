@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-14T14:06:34.869620+00:00",
+  "generated_at": "2026-05-14T17:02:24.043176+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 23,
   "items": [
+    {
+      "title": "The Pulse: Forward deployed engineering heats up again",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
+      "published": "2026-05-14T16:09:57+00:00",
+      "summary": "Also: a look into rising tech job losses, self-reporting 100% AI usage at big companies, vibe coding & agentic engineering merging, and more"
+    },
+    {
+      "title": "Graphene “Tattoos” for Plants Could Form Neural Networks",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
+      "published": "2026-05-14T16:05:04+00:00",
+      "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field, and for the leaves of trees in an area vulnerable to forest fires.But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health in real time.Now, researchers in Texas have developed a graphene “tattoo” that can be stuck directly"
+    },
     {
       "title": "Data readiness for agentic AI in financial services",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -19,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "published": "2026-05-14T13:00:00+00:00",
       "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;"
+    },
+    {
+      "title": "Bliki: Interrogatory LLM",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+      "published": "2026-05-14T11:04:00-04:00",
+      "summary": "When we need an LLM to perform a complex task, we often need to feed it a\n  lot of context. Coming up with a design for a new feature requires\n  descriptions of how we want the feature to appear to the user, guidelines on\n  how it should be implemented, information on external systems to consult, and\n  so on. All this can be several pages of markdown. The obvious way to do\n  this is for a human to write this context, but an alternative is to use an LLM to write\n  this context after interviewing"
     },
     {
       "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
@@ -45,12 +69,28 @@
       "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;"
     },
     {
+      "title": "datasette-ip-rate-limit 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+      "published": "2026-05-14T04:10:23+00:00",
+      "summary": "Release: datasette-ip-rate-limit 0.1a0\n        The datasette.io site was being hammered by poorly-behaved crawlers, so I had Codex (GPT-5.5 xhigh) build a configurable rate limiting plugin to block IPs that were hammering specific areas of the site too quickly.\nHere's the production configuration I'm using on that site for the new plugin:\n  datasette-ip-rate-limit:\n    header: Fly-Client-IP\n    max_keys: 10000\n    exempt_paths:\n    - \"/static/*\"\n    - \"/-/turnstile*\"\n    rules:\n    - name: publi"
+    },
+    {
       "title": "[AINews] Codex Rises, Claude Meters Programmatic Usage",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
       "published": "2026-05-14T03:53:26+00:00",
       "summary": "a quiet day lets us report on a long trend of the major coding agents"
+    },
+    {
+      "title": "Unlocking asynchronicity in continuous batching",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/continuous_async",
+      "published": "2026-05-14T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Welcome to the Datasette blog",
@@ -147,22 +187,6 @@
       "url": "https://openai.com/index/building-codex-windows-sandbox",
       "published": "2026-05-13T11:00:00+00:00",
       "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
-    },
-    {
-      "title": "CSP Allow-list Experiment",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
-      "published": "2026-05-13T04:50:45+00:00",
-      "summary": "Tool: CSP Allow-list Experiment\n        An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and passes them up to the parent window... which can then prompt the user to add that domain to an allow-list and then refresh the page.\n\nI built this one with GPT-5.5 xhigh running in the Codex desktop app.\n    \n    \n        Tags: content-security-policy, iframes, security"
-    },
-    {
-      "title": "[AINews] The End of Finetuning",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
-      "published": "2026-05-13T02:47:22+00:00",
-      "summary": "a quiet day lets us reflect on whither finetuning"
     }
   ]
 }
