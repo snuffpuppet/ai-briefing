@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-14T06:44:27.293541+00:00",
+  "generated_at": "2026-05-14T09:33:20.773507+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 21,
   "items": [
+    {
+      "title": "The shock of seeing your body used in deepfake porn",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "published": "2026-05-14T09:00:00+00:00",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;"
+    },
     {
       "title": "[AINews] Codex Rises, Claude Meters Programmatic Usage",
       "source": "Latent.Space",
@@ -163,14 +171,6 @@
       "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
       "published": "2026-05-12T21:59:03+00:00",
       "summary": "The plan aims to speed up AI compute deployment while compensating residents."
-    },
-    {
-      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-      "published": "2026-05-12T19:00:25+00:00",
-      "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show."
     }
   ]
 }
