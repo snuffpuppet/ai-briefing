@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-14T22:55:05.653851+00:00",
+  "generated_at": "2026-05-14T23:56:21.004965+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 31,
   "items": [
+    {
+      "title": "Not so locked in any more",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+      "published": "2026-05-14T22:53:49+00:00",
+      "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week.\nI was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps.\nThey told me they had just completed a coding-agent driven rewrite of both apps to React Native.\nI asked why they chose that, given that coding agents presumably drive down the cost of maintaining separate iPhone and Android apps."
+    },
     {
       "title": "Quoting Mitchell Hashimoto",
       "source": "Simon Willison's Weblog",
@@ -243,14 +251,6 @@
       "url": "https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun",
       "published": "2026-05-13T12:00:01+00:00",
       "summary": "When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her handwriting was dense cursive, all loops that looked identical to my eye, and there were years of journals to go through. I found myself photographing pages and feeding them to ChatGPT just to read what she’d written. My tool of choice worked well, and it turns out I’m not the fi"
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "published": "2026-05-13T11:00:00+00:00",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
     }
   ]
 }
