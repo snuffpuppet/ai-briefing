@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T21:58:26.896924+00:00",
+  "generated_at": "2026-05-15T23:01:16.441030+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 23,
   "items": [
     {
-      "title": "Authors fight for higher payouts from Anthropic’s $1.5B copyright settlement",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
@@ -187,22 +187,6 @@
       "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
       "published": "2026-05-14T11:04:00-04:00",
       "summary": "When we need an LLM to perform a complex task, we often need to feed it a\n  lot of context. Coming up with a design for a new feature requires\n  descriptions of how we want the feature to appear to the user, guidelines on\n  how it should be implemented, information on external systems to consult, and\n  so on. All this can be several pages of markdown. The obvious way to do\n  this is for a human to write this context, but an alternative is to use an LLM to write\n  this context after interviewing"
-    },
-    {
-      "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-      "published": "2026-05-14T11:00:58+00:00",
-      "summary": "Xi meeting may force Trump to pivot on chip restrictions and Taiwan."
-    },
-    {
-      "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/applied-materials-epic-center",
-      "published": "2026-05-14T10:00:01+00:00",
-      "summary": "This sponsored article is brought to you by Applied Materials.At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’s best talent around a single mission, establish a common platform, share critical infrastructure, and collapse feedback loops. When stakes are high and timelines are compressed, sequential and siloed"
     }
   ]
 }
