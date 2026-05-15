@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-15T16:52:05.615917+00:00",
+  "generated_at": "2026-05-15T18:22:21.351456+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 24,
   "items": [
+    {
+      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+      "published": "2026-05-15T18:13:33+00:00",
+      "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal."
+    },
     {
       "title": "Pennsylvanians use town hall meeting to rail against data center boom",
       "source": "AI - Ars Technica",
@@ -27,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
       "published": "2026-05-15T09:00:00+00:00",
       "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&#8230;"
+    },
+    {
+      "title": "QR code generator",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
+      "published": "2026-05-15T04:00:49+00:00",
+      "summary": "Tool: QR code generator\n        Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks.\n\n    \n    \n        Tags: vibe-coding, tools, generative-ai, ai, llms"
     },
     {
       "title": "[AINews] Everything is Conductor",
@@ -93,6 +109,14 @@
       "summary": ""
     },
     {
+      "title": "Fragments: May 14",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-05-14.html",
+      "published": "2026-05-14T17:52:00-04:00",
+      "summary": "Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.\n\n ❄                ❄\n\nOne group developed a behavioral clone of GNU Cobol compiler in Rust"
+    },
+    {
       "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -139,6 +163,14 @@
       "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "published": "2026-05-14T13:00:00+00:00",
       "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;"
+    },
+    {
+      "title": "Bliki: Interrogatory LLM",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+      "published": "2026-05-14T11:04:00-04:00",
+      "summary": "When we need an LLM to perform a complex task, we often need to feed it a\n  lot of context. Coming up with a design for a new feature requires\n  descriptions of how we want the feature to appear to the user, guidelines on\n  how it should be implemented, information on external systems to consult, and\n  so on. All this can be several pages of markdown. The obvious way to do\n  this is for a human to write this context, but an alternative is to use an LLM to write\n  this context after interviewing"
     },
     {
       "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
