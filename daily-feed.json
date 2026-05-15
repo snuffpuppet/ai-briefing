@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-15T03:33:30.231413+00:00",
+  "generated_at": "2026-05-15T06:53:38.065668+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 24,
   "items": [
     {
       "title": "[AINews] Everything is Conductor",
@@ -35,6 +35,14 @@
       "url": "https://www.latent.space/p/abridge",
       "published": "2026-05-14T22:05:31+00:00",
       "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare"
+    },
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/sea-david-chen",
+      "published": "2026-05-14T20:30:00+00:00",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
     },
     {
       "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
@@ -187,46 +195,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
       "published": "2026-05-13T19:47:24+00:00",
       "summary": "Old \"honor code\" systems are under strain."
-    },
-    {
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "published": "2026-05-13T18:09:03+00:00",
-      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI.&#160; In March, a software developer in Israel was contacted on WhatsApp&#8230;"
-    },
-    {
-      "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-      "published": "2026-05-13T17:48:05+00:00",
-      "summary": "\"Very painful\": Altman relives his Muskian reaction to losing control over OpenAI."
-    },
-    {
-      "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with",
-      "published": "2026-05-13T17:06:59+00:00",
-      "summary": "Anders Hejlsberg reflects on building Turbo Pascal, C#, and TypeScript, and shares what AI may change about the future of software engineering."
-    },
-    {
-      "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-      "published": "2026-05-13T16:31:18+00:00",
-      "summary": "But training on \"synthetic stories\" that model good AI behavior can help."
-    },
-    {
-      "title": "Quoting Boris Mann",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
-      "published": "2026-05-13T16:15:50+00:00",
-      "summary": "“11 AI agents” is meaningless as a phrase. \nIf I said “I have 11 spreadsheets” or “I have 11 browser tabs” to do my work, it means about the same thing.\n&mdash; Boris Mann\n\n    Tags: ai-agents, ai, agent-definitions"
     }
   ]
 }
