@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-15T09:46:39.808020+00:00",
+  "generated_at": "2026-05-15T11:54:28.721450+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "published": "2026-05-15T10:30:01+00:00",
+      "summary": "\"We have no grand plan,\" says Anthropic's Cat Wu—but that's by design."
+    },
     {
       "title": "How Chinese short dramas became AI content machines",
       "source": "Artificial intelligence – MIT Technology Review",
