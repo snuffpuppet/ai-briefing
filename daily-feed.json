@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-15T20:15:19.414635+00:00",
+  "generated_at": "2026-05-15T21:58:26.896924+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 25,
   "items": [
+    {
+      "title": "Authors fight for higher payouts from Anthropic’s $1.5B copyright settlement",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "published": "2026-05-15T21:51:24+00:00",
+      "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees."
+    },
     {
       "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
       "source": "AI - Ars Technica",
@@ -195,14 +203,6 @@
       "url": "https://spectrum.ieee.org/applied-materials-epic-center",
       "published": "2026-05-14T10:00:01+00:00",
       "summary": "This sponsored article is brought to you by Applied Materials.At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’s best talent around a single mission, establish a common platform, share critical infrastructure, and collapse feedback loops. When stakes are high and timelines are compressed, sequential and siloed"
-    },
-    {
-      "title": "The shock of seeing your body used in deepfake porn",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-      "published": "2026-05-14T09:00:00+00:00",
-      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;"
     }
   ]
 }
