@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-15T18:22:21.351456+00:00",
+  "generated_at": "2026-05-15T20:15:19.414635+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+      "published": "2026-05-15T18:25:53+00:00",
+      "summary": "One of the site's moderators described the new policy on social media."
+    },
     {
       "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
       "source": "AI - Ars Technica",
