@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-15T06:53:38.065668+00:00",
+  "generated_at": "2026-05-15T09:46:39.808020+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 24,
   "items": [
+    {
+      "title": "How Chinese short dramas became AI content machines",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "published": "2026-05-15T09:00:00+00:00",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&#8230;"
+    },
     {
       "title": "[AINews] Everything is Conductor",
       "source": "Latent.Space",
@@ -187,14 +195,6 @@
       "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
       "published": "2026-05-13T23:59:39+00:00",
       "summary": "Welcome to the Datasette blog\nWe have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog.\nI built this using OpenAI Codex desktop, which turns out to have the Markdown session transcript export feature I've always wanted. Here's the session that built the blog. See also issue 179.\n\n\n    Tags: ai, datasette, generative-ai, llms, ai-assisted-programming, codex"
-    },
-    {
-      "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
-      "published": "2026-05-13T19:47:24+00:00",
-      "summary": "Old \"honor code\" systems are under strain."
     }
   ]
 }
