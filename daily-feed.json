@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-15T11:54:28.721450+00:00",
+  "generated_at": "2026-05-15T14:02:57.870148+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Pennsylvanians use town hall meeting to rail against data center boom",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+      "published": "2026-05-15T13:51:04+00:00",
+      "summary": "“This is a public trust and transparency issue.”"
+    },
     {
       "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
       "source": "AI - Ars Technica",
@@ -106,7 +114,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
       "published": "2026-05-14T16:05:04+00:00",
-      "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field, and for the leaves of trees in an area vulnerable to forest fires.But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health in real time.Now, researchers in Texas have developed a graphene “tattoo” that can be stuck directly"
+      "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field and for the leaves of trees in an area vulnerable to forest fires.But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health in real time.Now, researchers in Texas have developed a graphene “tattoo” that can be stuck directly o"
     },
     {
       "title": "Work with Codex from anywhere",
@@ -179,30 +187,6 @@
       "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
       "published": "2026-05-14T03:53:26+00:00",
       "summary": "a quiet day lets us report on a long trend of the major coding agents"
-    },
-    {
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "published": "2026-05-14T00:00:00+00:00",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
-    },
-    {
-      "title": "Unlocking asynchronicity in continuous batching",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "published": "2026-05-14T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Welcome to the Datasette blog",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
-      "published": "2026-05-13T23:59:39+00:00",
-      "summary": "Welcome to the Datasette blog\nWe have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog.\nI built this using OpenAI Codex desktop, which turns out to have the Markdown session transcript export feature I've always wanted. Here's the session that built the blog. See also issue 179.\n\n\n    Tags: ai, datasette, generative-ai, llms, ai-assisted-programming, codex"
     }
   ]
 }
