@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T21:45:51.833686+00:00",
+  "generated_at": "2026-05-16T22:42:25.605968+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
     {
       "title": "Warelay -> OpenClaw",
@@ -115,14 +115,6 @@
       "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
       "published": "2026-05-15T13:51:04+00:00",
       "summary": "“This is a public trust and transparency issue.”"
-    },
-    {
-      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-      "published": "2026-05-15T10:30:01+00:00",
-      "summary": "\"We have no grand plan,\" says Anthropic's Cat Wu—but that's by design."
     }
   ]
 }
