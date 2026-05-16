@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T20:43:09.047950+00:00",
+  "generated_at": "2026-05-16T21:45:51.833686+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 15,
   "items": [
     {
       "title": "Warelay -> OpenClaw",
@@ -123,14 +123,6 @@
       "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
       "published": "2026-05-15T10:30:01+00:00",
       "summary": "\"We have no grand plan,\" says Anthropic's Cat Wu—but that's by design."
-    },
-    {
-      "title": "How Chinese short dramas became AI content machines",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "published": "2026-05-15T09:00:00+00:00",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&#8230;"
     }
   ]
 }
