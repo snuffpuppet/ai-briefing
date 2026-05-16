@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T14:55:02.412657+00:00",
+  "generated_at": "2026-05-16T15:57:03.495147+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
@@ -45,7 +45,7 @@
       "summary": "Release: inaturalist-clumper 0.1\n        Part of the infrastructure I use for publishing my iNaturalist sightings on my blog. I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release.\nYou can see an example of the output in this JSON file.\n    \n    \n        Tags: projects, inaturalist"
     },
     {
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
