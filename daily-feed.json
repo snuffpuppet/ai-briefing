@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-16T10:13:21.054442+00:00",
+  "generated_at": "2026-05-16T11:48:59.147950+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
   "items": [
+    {
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "published": "2026-05-16T11:00:01+00:00",
+      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously."
+    },
     {
       "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
       "source": "Latent.Space",
@@ -11,6 +19,14 @@
       "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
       "published": "2026-05-16T04:36:50+00:00",
       "summary": "Congrats Big Chip!"
+    },
+    {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "published": "2026-05-16T00:00:00+00:00",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
     },
     {
       "title": "inaturalist-clumper 0.1",
@@ -109,28 +125,12 @@
       "summary": "an ultra quiet day lets us highlight a smaller trend."
     },
     {
-      "title": "How sales teams use Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
       "title": "How business operations teams use Codex",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "published": "2026-05-15T00:00:00+00:00",
       "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
-    },
-    {
-      "title": "How data science teams use Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     },
     {
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
@@ -141,6 +141,14 @@
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     },
     {
+      "title": "How data science teams use Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
       "title": "A new personal finance experience in ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -149,20 +157,12 @@
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities."
     },
     {
-      "title": "Not so locked in any more",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
-      "published": "2026-05-14T22:53:49+00:00",
-      "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week.\nI was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps.\nThey told me they had just completed a coding-agent driven rewrite of both apps to React Native.\nI asked why they chose that, given that coding agents presumably drive down the cost of maintaining separate iPhone and Android apps."
-    },
-    {
-      "title": "Quoting Mitchell Hashimoto",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
-      "published": "2026-05-14T22:31:20+00:00",
-      "summary": "[...] On the interesting side is how fungible programming languages are nowadays. Programming languages used to be LOCK IN, and they're increasingly not so. You think the Bun rewrite in Rust is good for Rust? Bun has shown they can be in probably any language they want in roughly a week or two. Rust is expendable. Its useful until its not then it can be thrown out. That's interesting!\n&mdash; Mitchell Hashimoto, on Bun porting from Zig to Rust\n\n    Tags: zig, ai, mitchell-hashimoto, llms, rust,"
+      "title": "How sales teams use Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     }
   ]
 }
