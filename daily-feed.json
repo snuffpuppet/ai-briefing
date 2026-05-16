@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-16T02:43:59.161844+00:00",
+  "generated_at": "2026-05-16T05:53:11.794580+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+      "published": "2026-05-16T04:36:50+00:00",
+      "summary": "Congrats Big Chip!"
+    },
     {
       "title": "inaturalist-clumper 0.1",
       "source": "Simon Willison's Weblog",
@@ -171,38 +179,6 @@
       "url": "https://martinfowler.com/fragments/2026-05-14.html",
       "published": "2026-05-14T17:52:00-04:00",
       "summary": "Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.\n\n ❄                ❄\n\nOne group developed a behavioral clone of GNU Cobol compiler in Rust"
-    },
-    {
-      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
-      "published": "2026-05-14T17:28:43+00:00",
-      "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes."
-    },
-    {
-      "title": "The Pulse: Forward deployed engineering heats up again",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
-      "published": "2026-05-14T16:09:57+00:00",
-      "summary": "Also: a look into rising tech job losses, self-reporting 100% AI usage at big companies, vibe coding & agentic engineering merging, and more"
-    },
-    {
-      "title": "Graphene “Tattoos” for Plants Could Form Neural Networks",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
-      "published": "2026-05-14T16:05:04+00:00",
-      "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field and for the leaves of trees in an area vulnerable to forest fires.But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health in real time.Now, researchers in Texas have developed a graphene “tattoo” that can be stuck directly o"
-    },
-    {
-      "title": "Bliki: Interrogatory LLM",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
-      "published": "2026-05-14T11:04:00-04:00",
-      "summary": "When we need an LLM to perform a complex task, we often need to feed it a\n  lot of context. Coming up with a design for a new feature requires\n  descriptions of how we want the feature to appear to the user, guidelines on\n  how it should be implemented, information on external systems to consult, and\n  so on. All this can be several pages of markdown. The obvious way to do\n  this is for a human to write this context, but an alternative is to use an LLM to write\n  this context after interviewing"
     }
   ]
 }
