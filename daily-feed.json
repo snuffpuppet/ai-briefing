@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-16T17:00:39.369550+00:00",
+  "generated_at": "2026-05-16T19:02:01.806925+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+      "published": "2026-05-16T17:00:11+00:00",
+      "summary": "An eventful month with one flagship release after another"
+    },
     {
       "title": "Quoting Julia Evans",
       "source": "Simon Willison's Weblog",
