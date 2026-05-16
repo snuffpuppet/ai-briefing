@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-16T11:48:59.147950+00:00",
+  "generated_at": "2026-05-16T13:18:05.734219+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 14,
   "items": [
+    {
+      "title": "AI Rings on Fingers Can Interpret Sign Language",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/sign-language-interpreter",
+      "published": "2026-05-16T13:00:01+00:00",
+      "summary": "Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds.“I believe this is an important step toward making sign language translation systems more practical, lightweight, and usable in real-world environments,” says Ki Jun Yu, an associate professor of electrical and electronic engineering at Yonsei University in Korea.More than 300 differen tsign languages are used worldwide, and many research projects are developing t"
+    },
     {
       "title": "The US is betting on AI to catch insider trading in prediction markets",
       "source": "AI - Ars Technica",
@@ -107,62 +115,6 @@
       "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
       "published": "2026-05-15T04:00:49+00:00",
       "summary": "Tool: QR code generator\n        Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks.\n\n    \n    \n        Tags: vibe-coding, tools, generative-ai, ai, llms"
-    },
-    {
-      "title": "datasette-llm-limits 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
-      "published": "2026-05-15T00:42:09+00:00",
-      "summary": "Release: datasette-llm-limits 0.1a0\n        This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of Datasette. Configuration looks something like this:\nplugins:\n  datasette-llm-limits:\n    limits:\n      per-user-daily:\n        scope: actor\n        window: rolling-24h\n        amount_usd: 1.00\n\n    \n    \n        Tags: llm, datasette"
-    },
-    {
-      "title": "[AINews] Everything is Conductor",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-everything-is-conductor",
-      "published": "2026-05-15T00:30:21+00:00",
-      "summary": "an ultra quiet day lets us highlight a smaller trend."
-    },
-    {
-      "title": "How business operations teams use Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
-    },
-    {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/databricks",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
-    },
-    {
-      "title": "How data science teams use Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities."
-    },
-    {
-      "title": "How sales teams use Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     }
   ]
 }
