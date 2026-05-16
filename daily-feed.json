@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-15T23:01:16.441030+00:00",
+  "generated_at": "2026-05-16T02:43:59.161844+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 25,
   "items": [
+    {
+      "title": "inaturalist-clumper 0.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+      "published": "2026-05-15T23:53:11+00:00",
+      "summary": "Release: inaturalist-clumper 0.1\n        Part of the infrastructure I use for publishing my iNaturalist sightings on my blog. I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release.\nYou can see an example of the output in this JSON file.\n    \n    \n        Tags: projects, inaturalist"
+    },
+    {
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "published": "2026-05-15T23:39:35+00:00",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&#8230;"
+    },
     {
       "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
       "source": "AI - Ars Technica",
@@ -27,6 +43,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
       "published": "2026-05-15T18:13:33+00:00",
       "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal."
+    },
+    {
+      "title": "Western Gull, Rock Pigeon",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+      "published": "2026-05-15T14:42:00+00:00",
+      "summary": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, USI went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks."
     },
     {
       "title": "Pennsylvanians use town hall meeting to rail against data center boom",
@@ -61,6 +85,14 @@
       "summary": "Tool: QR code generator\n        Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks.\n\n    \n    \n        Tags: vibe-coding, tools, generative-ai, ai, llms"
     },
     {
+      "title": "datasette-llm-limits 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+      "published": "2026-05-15T00:42:09+00:00",
+      "summary": "Release: datasette-llm-limits 0.1a0\n        This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of Datasette. Configuration looks something like this:\nplugins:\n  datasette-llm-limits:\n    limits:\n      per-user-daily:\n        scope: actor\n        window: rolling-24h\n        amount_usd: 1.00\n\n    \n    \n        Tags: llm, datasette"
+    },
+    {
       "title": "[AINews] Everything is Conductor",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -75,6 +107,14 @@
       "url": "https://openai.com/index/personal-finance-chatgpt",
       "published": "2026-05-15T00:00:00+00:00",
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities."
+    },
+    {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/databricks",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     },
     {
       "title": "Not so locked in any more",
@@ -155,30 +195,6 @@
       "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
       "published": "2026-05-14T16:05:04+00:00",
       "summary": "A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field and for the leaves of trees in an area vulnerable to forest fires.But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health in real time.Now, researchers in Texas have developed a graphene “tattoo” that can be stuck directly o"
-    },
-    {
-      "title": "Work with Codex from anywhere",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
-    },
-    {
-      "title": "Data readiness for agentic AI in financial services",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;"
-    },
-    {
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;"
     },
     {
       "title": "Bliki: Interrogatory LLM",
