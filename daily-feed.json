@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T08:01:36.298466+00:00",
+  "generated_at": "2026-05-16T10:13:21.054442+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 20,
   "items": [
     {
       "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
@@ -163,30 +163,6 @@
       "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
       "published": "2026-05-14T22:31:20+00:00",
       "summary": "[...] On the interesting side is how fungible programming languages are nowadays. Programming languages used to be LOCK IN, and they're increasingly not so. You think the Bun rewrite in Rust is good for Rust? Bun has shown they can be in probably any language they want in roughly a week or two. Rust is expendable. Its useful until its not then it can be thrown out. That's interesting!\n&mdash; Mitchell Hashimoto, on Bun porting from Zig to Rust\n\n    Tags: zig, ai, mitchell-hashimoto, llms, rust,"
-    },
-    {
-      "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/abridge",
-      "published": "2026-05-14T22:05:31+00:00",
-      "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/sea-david-chen",
-      "published": "2026-05-14T20:30:00+00:00",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
-    },
-    {
-      "title": "Fragments: May 14",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-05-14.html",
-      "published": "2026-05-14T17:52:00-04:00",
-      "summary": "Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.\n\n ❄                ❄\n\nOne group developed a behavioral clone of GNU Cobol compiler in Rust"
     }
   ]
 }
