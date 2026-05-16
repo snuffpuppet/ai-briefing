@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-16T19:02:01.806925+00:00",
+  "generated_at": "2026-05-16T20:43:09.047950+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Warelay -> OpenClaw",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+      "published": "2026-05-16T20:23:30+00:00",
+      "summary": "In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November.\nThanks to this first_line_history.py tool (code here) the answer, according to the Git history of the OpenClaw README, is:\nWarelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw\nOr in detail (the output from the tool):\n\n2025-11-24T11:23:15+01:00 16dfc1 # Warelay — WhatsApp Relay CLI (Twilio)\n2025-11-24T11:41:37"
+    },
     {
       "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
       "source": "Interconnects AI",
