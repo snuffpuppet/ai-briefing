@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T22:52:17.640728+00:00",
+  "generated_at": "2026-05-17T23:55:45.593570+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
@@ -43,14 +43,6 @@
       "url": "https://spectrum.ieee.org/sign-language-interpreter",
       "published": "2026-05-16T13:00:01+00:00",
       "summary": "Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds.“I believe this is an important step toward making sign language translation systems more practical, lightweight, and usable in real-world environments,” says Ki Jun Yu, an associate professor of electrical and electronic engineering at Yonsei University in Korea.More than 300 differen tsign languages are used worldwide, and many research projects are developing t"
-    },
-    {
-      "title": "The US is betting on AI to catch insider trading in prediction markets",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-      "published": "2026-05-16T11:00:01+00:00",
-      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously."
     }
   ]
 }
