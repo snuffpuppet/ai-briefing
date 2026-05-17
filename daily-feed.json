@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T23:51:16.008051+00:00",
+  "generated_at": "2026-05-17T02:52:49.155767+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 12,
   "items": [
     {
       "title": "Warelay -> OpenClaw",
@@ -99,22 +99,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
       "published": "2026-05-15T18:13:33+00:00",
       "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal."
-    },
-    {
-      "title": "Western Gull, Rock Pigeon",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
-      "published": "2026-05-15T14:42:00+00:00",
-      "summary": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, USI went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks."
-    },
-    {
-      "title": "Pennsylvanians use town hall meeting to rail against data center boom",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
-      "published": "2026-05-15T13:51:04+00:00",
-      "summary": "“This is a public trust and transparency issue.”"
     }
   ]
 }
