@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-17T15:57:50.802325+00:00",
+  "generated_at": "2026-05-17T17:01:53.590995+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 6,
   "items": [
+    {
+      "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+      "published": "2026-05-17T15:59:41+00:00",
+      "summary": "GDS weighs in on the NHS&#x27;s decision to retreat from Open Source\nTerence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in response to vulnerabilities reported to them as part of Project Glasswing.\nNow the Government Digital Service have joined the conversation with AI, open code and vulnerability risk in the public sector, published May 14th. Their key recommendation:\n\nKeep open by default. Making everything private"
+    },
     {
       "title": "Warelay -> OpenClaw",
       "source": "Simon Willison's Weblog",
@@ -43,14 +51,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
       "published": "2026-05-16T11:00:01+00:00",
       "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously."
-    },
-    {
-      "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
-      "published": "2026-05-16T04:36:50+00:00",
-      "summary": "Congrats Big Chip!"
     }
   ]
 }
