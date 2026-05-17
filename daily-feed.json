@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T02:52:49.155767+00:00",
+  "generated_at": "2026-05-17T06:23:53.049177+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 11,
   "items": [
     {
       "title": "Warelay -> OpenClaw",
@@ -91,14 +91,6 @@
       "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
       "published": "2026-05-15T18:25:53+00:00",
       "summary": "One of the site's moderators described the new policy on social media."
-    },
-    {
-      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-      "published": "2026-05-15T18:13:33+00:00",
-      "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal."
     }
   ]
 }
