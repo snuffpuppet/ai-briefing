@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T09:03:25.775530+00:00",
+  "generated_at": "2026-05-17T11:04:01.028123+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 9,
   "items": [
     {
       "title": "Warelay -> OpenClaw",
@@ -75,14 +75,6 @@
       "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "published": "2026-05-15T23:39:35+00:00",
       "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&#8230;"
-    },
-    {
-      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-      "published": "2026-05-15T21:51:24+00:00",
-      "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees."
     }
   ]
 }
