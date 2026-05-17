@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T06:23:53.049177+00:00",
+  "generated_at": "2026-05-17T09:03:25.775530+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 10,
   "items": [
     {
       "title": "Warelay -> OpenClaw",
@@ -83,14 +83,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
       "published": "2026-05-15T21:51:24+00:00",
       "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees."
-    },
-    {
-      "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-      "published": "2026-05-15T18:25:53+00:00",
-      "summary": "One of the site's moderators described the new policy on social media."
     }
   ]
 }
