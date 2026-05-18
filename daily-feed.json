@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-05-18T12:28:00.864897+00:00",
+  "generated_at": "2026-05-18T16:21:11.208486+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "published": "2026-05-18T16:00:21+00:00",
+      "summary": ""
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "published": "2026-05-18T15:12:46+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The Open Agent Leaderboard",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "published": "2026-05-18T14:12:58+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/the-fourth-law",
+      "published": "2026-05-18T13:45:32+00:00",
+      "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel."
+    },
+    {
+      "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+      "published": "2026-05-18T13:31:17+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Stuxnet before Stuxnet:…Fast16 bugs software likely used in weapons programs…Here’s a fascinating investigation of a ~20+ year old computer virus called fast16.sys. This software is interesting [&#8230;]"
+    },
+    {
+      "title": "Bug bounty businesses bombarded with AI slop",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+      "published": "2026-05-18T13:23:34+00:00",
+      "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes."
+    },
     {
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
       "source": "IEEE Spectrum",
