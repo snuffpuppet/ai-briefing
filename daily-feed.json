@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-18T16:21:11.208486+00:00",
+  "generated_at": "2026-05-18T18:49:39.113412+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+      "published": "2026-05-18T18:09:41+00:00",
+      "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision."
+    },
+    {
+      "title": "What to expect from Google this week",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "published": "2026-05-18T17:35:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;"
+    },
+    {
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "published": "2026-05-18T16:01:39+00:00",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;"
+    },
     {
       "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
       "source": "Hugging Face - Blog",
@@ -19,6 +43,14 @@
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "published": "2026-05-18T15:12:46+00:00",
       "summary": ""
+    },
+    {
+      "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+      "published": "2026-05-18T14:51:00+00:00",
+      "summary": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, USI'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one! Didn't get a great photo of that, but I did see some goslings down by the swan boat lake."
     },
     {
       "title": "The Open Agent Leaderboard",
@@ -67,6 +99,14 @@
       "url": "https://events.bizzabo.com/867156",
       "published": "2026-05-18T10:00:01+00:00",
       "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes with key challenges encountered and practical lessons learned from ongoing research and development.Key"
+    },
+    {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "published": "2026-05-18T10:00:00+00:00",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
     },
     {
       "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
