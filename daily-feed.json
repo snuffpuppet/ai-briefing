@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-18T08:01:01.412628+00:00",
+  "generated_at": "2026-05-18T12:28:00.864897+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
+      "published": "2026-05-18T10:00:01+00:00",
+      "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long recognized for delivering complex international events, the city is applying the same organisational capab"
+    },
+    {
+      "title": "Agentic AI for Robot Teams",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://events.bizzabo.com/867156",
+      "published": "2026-05-18T10:00:01+00:00",
+      "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes with key challenges encountered and practical lessons learned from ongoing research and development.Key"
+    },
     {
       "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
       "source": "Simon Willison's Weblog",
@@ -13,12 +29,12 @@
       "summary": "GDS weighs in on the NHS&#x27;s decision to retreat from Open Source\nTerence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in response to vulnerabilities reported to them as part of Project Glasswing.\nNow the Government Digital Service have joined the conversation with AI, open code and vulnerability risk in the public sector, published May 14th. Their key recommendation:\n\nKeep open by default. Making everything private"
     },
     {
-      "title": "Warelay -> OpenClaw",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-      "published": "2026-05-16T20:23:30+00:00",
-      "summary": "In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November.\nThanks to this first_line_history.py tool (code here) the answer, according to the Git history of the OpenClaw README, is:\nWarelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw\nOr in detail (the output from the tool):\n\n2025-11-24T11:23:15+01:00 16dfc1a # Warelay — WhatsApp Relay CLI (Twilio)\n2025-11-24T11:41:3"
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "published": "2026-05-17T13:00:01+00:00",
+      "summary": "AI-powered voice and audio tools are becoming increasingly embedded in daily life, from digital assistants to smart speakers and customer service bots. Advances in large audio-language models (LALMs), which can both analyze and generate audio, now make it possible to control devices using voice commands, transcribe meetings automatically, or identify a song playing in the background. These models are also increasingly equipped with the ability to communicate with external services and operate ot"
     }
   ]
 }
