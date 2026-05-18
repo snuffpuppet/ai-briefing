@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-18T20:22:56.289028+00:00",
+  "generated_at": "2026-05-18T22:00:46.828037+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+      "published": "2026-05-18T20:27:15+00:00",
+      "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit."
+    },
     {
       "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
       "source": "AI - Ars Technica",
