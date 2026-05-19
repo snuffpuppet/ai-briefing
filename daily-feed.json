@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-19T12:08:21.835714+00:00",
+  "generated_at": "2026-05-19T16:18:22.344609+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Electrical utility megamerger is all about the data centers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
+      "published": "2026-05-19T13:45:31+00:00",
+      "summary": "NextEra’s blockbuster deal with Dominion likely means higher bills for consumers."
+    },
     {
       "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
       "source": "Latent.Space",
@@ -27,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "published": "2026-05-19T00:53:10+00:00",
       "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;"
+    },
+    {
+      "title": "Introducing the Ettin Reranker Family",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "published": "2026-05-19T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
@@ -117,20 +133,20 @@
       "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes."
     },
     {
-      "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
-      "published": "2026-05-18T10:00:01+00:00",
-      "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long recognized for delivering complex international events, the city is applying the same organisational capab"
-    },
-    {
       "title": "Agentic AI for Robot Teams",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://events.bizzabo.com/867156",
       "published": "2026-05-18T10:00:01+00:00",
       "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes with key challenges encountered and practical lessons learned from ongoing research and development.Key"
+    },
+    {
+      "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
+      "published": "2026-05-18T10:00:01+00:00",
+      "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long recognized for delivering complex international events, the city is applying the same organisational capab"
     },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
