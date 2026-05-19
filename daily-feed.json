@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-19T00:03:51.698575+00:00",
+  "generated_at": "2026-05-19T04:59:00.654713+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 16,
   "items": [
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+      "published": "2026-05-19T01:09:44+00:00",
+      "summary": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool.\n\n\n  \n  #\n  I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes.\n  \n\n\n  \n  #\n  Six months is a pretty convenient time period to cover, because it captures what I've been calling the November 2025 inflection point. November was a critical month in LLMs, especially fo"
+    },
+    {
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "published": "2026-05-19T00:53:10+00:00",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;"
+    },
     {
       "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
       "source": "AI - Ars Technica",
@@ -115,22 +131,6 @@
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "published": "2026-05-18T10:00:00+00:00",
       "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
-    },
-    {
-      "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
-      "published": "2026-05-17T15:59:41+00:00",
-      "summary": "GDS weighs in on the NHS&#x27;s decision to retreat from Open Source\nTerence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in response to vulnerabilities reported to them as part of Project Glasswing.\nNow the Government Digital Service have joined the conversation with AI, open code and vulnerability risk in the public sector, published May 14th. Their key recommendation:\n\nKeep open by default. Making everything private"
-    },
-    {
-      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-      "published": "2026-05-17T13:00:01+00:00",
-      "summary": "AI-powered voice and audio tools are becoming increasingly embedded in daily life, from digital assistants to smart speakers and customer service bots. Advances in large audio-language models (LALMs), which can both analyze and generate audio, now make it possible to control devices using voice commands, transcribe meetings automatically, or identify a song playing in the background. These models are also increasingly equipped with the ability to communicate with external services and operate ot"
     }
   ]
 }
