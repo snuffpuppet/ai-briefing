@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-19T20:47:35.532254+00:00",
+  "generated_at": "2026-05-19T22:14:40.584007+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 24,
   "items": [
     {
       "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
@@ -195,30 +195,6 @@
       "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
       "published": "2026-05-18T13:23:34+00:00",
       "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes."
-    },
-    {
-      "title": "Agentic AI for Robot Teams",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://events.bizzabo.com/867156",
-      "published": "2026-05-18T10:00:01+00:00",
-      "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes with key challenges encountered and practical lessons learned from ongoing research and development.Key"
-    },
-    {
-      "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
-      "published": "2026-05-18T10:00:01+00:00",
-      "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long recognized for delivering complex international events, the city is applying the same organisational capab"
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "published": "2026-05-18T10:00:00+00:00",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
     }
   ]
 }
