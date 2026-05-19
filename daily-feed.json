@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-19T18:58:47.418757+00:00",
+  "generated_at": "2026-05-19T20:47:35.532254+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+      "published": "2026-05-19T18:55:56+00:00",
+      "summary": "Both tools generate hypotheses; one goes on to analyze some of the data."
+    },
     {
       "title": "OlmoEarth v1.1: A more efficient family of models",
       "source": "Hugging Face - Blog",
