@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-19T04:59:00.654713+00:00",
+  "generated_at": "2026-05-19T08:34:18.457189+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+      "published": "2026-05-19T07:31:40+00:00",
+      "summary": "a quiet day before google i/o lets us amplify a notable blogpost"
+    },
     {
       "title": "The last six months in LLMs in five minutes",
       "source": "Simon Willison's Weblog",
