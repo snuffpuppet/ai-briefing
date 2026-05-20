@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-20T00:03:12.113607+00:00",
+  "generated_at": "2026-05-20T05:03:01.138221+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 23,
   "items": [
+    {
+      "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+      "published": "2026-05-20T03:34:17+00:00",
+      "summary": "Google has been busy!"
+    },
     {
       "title": "llm-gemini 0.32",
       "source": "Simon Willison's Weblog",
@@ -35,6 +43,14 @@
       "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
       "published": "2026-05-19T20:36:23+00:00",
       "summary": "Release: llm-gemini 0.32a0\n        \n\nCompatible with llm&gt;=0.32a0 alpha - adds the ability to stream reasoning tokens.\n\n\n    \n    \n        Tags: gemini, llm"
+    },
+    {
+      "title": "Introducing OpenAI for Singapore",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published": "2026-05-19T20:30:00+00:00",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
     },
     {
       "title": "datasette-llm 0.1a8",
@@ -171,70 +187,6 @@
       "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "published": "2026-05-18T17:35:43+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;"
-    },
-    {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "published": "2026-05-18T16:01:39+00:00",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;"
-    },
-    {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "published": "2026-05-18T16:00:21+00:00",
-      "summary": ""
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "published": "2026-05-18T15:12:46+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
-      "published": "2026-05-18T14:51:00+00:00",
-      "summary": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, USI'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one! Didn't get a great photo of that, but I did see some goslings down by the swan boat lake."
-    },
-    {
-      "title": "The Open Agent Leaderboard",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "published": "2026-05-18T14:12:58+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/the-fourth-law",
-      "published": "2026-05-18T13:45:32+00:00",
-      "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel."
-    },
-    {
-      "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
-      "published": "2026-05-18T13:31:17+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Stuxnet before Stuxnet:…Fast16 bugs software likely used in weapons programs…Here’s a fascinating investigation of a ~20+ year old computer virus called fast16.sys. This software is interesting [&#8230;]"
-    },
-    {
-      "title": "Bug bounty businesses bombarded with AI slop",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-      "published": "2026-05-18T13:23:34+00:00",
-      "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes."
     }
   ]
 }
