@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-20T09:28:45.956920+00:00",
+  "generated_at": "2026-05-20T12:22:43.841887+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
   "items": [
+    {
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+      "published": "2026-05-20T11:00:34+00:00",
+      "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots."
+    },
     {
       "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
       "source": "Latent.Space",
@@ -155,14 +163,6 @@
       "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "published": "2026-05-19T00:53:10+00:00",
       "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;"
-    },
-    {
-      "title": "Introducing the Ettin Reranker Family",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "published": "2026-05-19T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
