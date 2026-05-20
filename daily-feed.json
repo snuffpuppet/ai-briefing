@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-20T21:51:07.340436+00:00",
+  "generated_at": "2026-05-20T23:11:18.522826+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/railway",
+      "published": "2026-05-20T22:42:06+00:00",
+      "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs"
+    },
+    {
+      "title": "Quoting SpaceX S-1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+      "published": "2026-05-20T22:26:36+00:00",
+      "summary": "We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access to select compute capacity to third-party customers. For example, in May 2026, we entered into Cloud Services Agreements with Anthropic PBC (“Anthropic”), an AI research and development public benefit corporation, with respect to access to compute capacity across COLOSSUS and COLOSSUS II. Pursuant to these agreement"
+    },
     {
       "title": "How fast is 10 tokens per second really?",
       "source": "Simon Willison's Weblog",
@@ -195,14 +211,6 @@
       "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
       "published": "2026-05-19T12:38:00-04:00",
       "summary": "In her recent article about harness engineering for coding agent users,\n      Birgitta B&#xf6;ckeler laid out a mental model for expanding a\n      coding agent harness: a system of guides and sensors that increase the\n      probability of good agent outputs and enable self-correction before issues\n      reach human eyes. Birgitta has now started publishing an article where she\n      walks though her experiences using sensors to keep a codebase\n      maintainable. This part looks at static anal"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "published": "2026-05-19T10:45:00+00:00",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
     }
   ]
 }
