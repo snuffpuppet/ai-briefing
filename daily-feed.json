@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T05:03:01.138221+00:00",
+  "generated_at": "2026-05-20T09:28:45.956920+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 20,
   "items": [
     {
       "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
@@ -11,6 +11,14 @@
       "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
       "published": "2026-05-20T03:34:17+00:00",
       "summary": "Google has been busy!"
+    },
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
       "title": "llm-gemini 0.32",
@@ -155,38 +163,6 @@
       "url": "https://huggingface.co/blog/ettin-reranker",
       "published": "2026-05-19T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-      "published": "2026-05-18T20:27:15+00:00",
-      "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit."
-    },
-    {
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published": "2026-05-18T18:21:39+00:00",
-      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
-    },
-    {
-      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-      "published": "2026-05-18T18:09:41+00:00",
-      "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision."
-    },
-    {
-      "title": "What to expect from Google this week",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "published": "2026-05-18T17:35:43+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;"
     }
   ]
 }
