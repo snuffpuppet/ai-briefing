@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-05-19T22:14:40.584007+00:00",
+  "generated_at": "2026-05-20T00:03:12.113607+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 29,
   "items": [
+    {
+      "title": "llm-gemini 0.32",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "published": "2026-05-19T23:46:27+00:00",
+      "summary": "Release: llm-gemini 0.32\n        \n\nNew model gemini-3.5-flash for Gemini 3.5 Flash.\n\n\nSee also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin.\n    \n    \n        Tags: gemini, llm"
+    },
+    {
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "published": "2026-05-19T22:40:25+00:00",
+      "summary": "Today at Google I/O, Google released Gemini 3.5 Flash. This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key products:\n\n3.5 Flash is available today to billions of people globally:\n\nFor everyone via the Gemini app and AI Mode in Google Search\n\nFor developers in our agent-first development platform Google Antigravity and Gemini API in Google AI Studio and Android Studio\nFor enterprises in Gemini Enterprise A"
+    },
+    {
+      "title": "datasette-llm-accountant 0.1a4",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+      "published": "2026-05-19T20:45:43+00:00",
+      "summary": "Release: datasette-llm-accountant 0.1a4\n        \n\nFixed bug tracking chains of responses. Refs datasette-llm#7\n\n\n    \n    \n        Tags: llm, datasette"
+    },
+    {
+      "title": "llm-gemini 0.32a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+      "published": "2026-05-19T20:36:23+00:00",
+      "summary": "Release: llm-gemini 0.32a0\n        \n\nCompatible with llm&gt;=0.32a0 alpha - adds the ability to stream reasoning tokens.\n\n\n    \n    \n        Tags: gemini, llm"
+    },
+    {
+      "title": "datasette-llm 0.1a8",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+      "published": "2026-05-19T20:28:16+00:00",
+      "summary": "Release: datasette-llm 0.1a8\n        \n\nFix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7"
+    },
     {
       "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
       "source": "AI - Ars Technica",
