@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-20T16:27:25.268749+00:00",
+  "generated_at": "2026-05-20T19:24:32.455410+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 25,
   "items": [
+    {
+      "title": "How fast is 10 tokens per second really?",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+      "published": "2026-05-20T17:57:45+00:00",
+      "summary": "How fast is 10 tokens per second really?\nNeat little HTML app by Mike Veerman (source code here) which simulates LLM token output speeds from 5/second to 800/second.\nUseful if you see a model advertised as \"30 tokens/second\" and want to get a feel for what that actually looks like.\n\n    Via Hacker News\n\n\n    Tags: ai, generative-ai, llms"
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "published": "2026-05-20T17:31:04+00:00",
+      "summary": "Google's AI search evolution is accelerating at I/O 2026."
+    },
     {
       "title": "Why Rust is different, with Alice Ryhl",
       "source": "The Pragmatic Engineer",
@@ -43,6 +59,14 @@
       "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
       "published": "2026-05-20T03:34:17+00:00",
       "summary": "Google has been busy!"
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     },
     {
       "title": "The next phase of OpenAI’s Education for Countries",
