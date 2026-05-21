@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-05-21T19:51:53.420242+00:00",
+  "generated_at": "2026-05-21T21:26:09.855580+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "published": "2026-05-21T20:41:05+00:00",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;"
+    },
+    {
+      "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/daytona",
+      "published": "2026-05-21T20:37:40+00:00",
+      "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud"
+    },
+    {
+      "title": "Datasette Agent",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "published": "2026-05-21T19:52:19+00:00",
+      "summary": "We just announced the first release of Datasette Agent, a new extensible AI assistant for Datasette. I've been working on my LLM Python library for just over three years now, and Datasette Agent represents the moment that LLM and Datasette finally come together. I'm really excited about it!\nDatasette Agent provides a conversational interface for asking questions of the data you have stored in Datasette. Add the datasette-agent-charts plugin and it can generate charts of your data as well.\nThe de"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "published": "2026-05-21T19:46:42+00:00",
+      "summary": ""
+    },
     {
       "title": "Scaling creativity in the age of AI",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -13,12 +45,36 @@
       "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;"
     },
     {
+      "title": "datasette-agent-sprites 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "published": "2026-05-21T18:21:07+00:00",
+      "summary": "Release: datasette-agent-sprites 0.1a0\n        A Datasette Agent plugin for running commands in a Fly Sprites sandbox.\n    \n    \n        Tags: sandboxing, datasette, fly, datasette-agent"
+    },
+    {
       "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
       "source": "The Pragmatic Engineer",
       "feed_url": "https://newsletter.pragmaticengineer.com/feed",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
       "published": "2026-05-21T17:01:39+00:00",
       "summary": "Negative feedback greets Google&#8217;s redesigned AI IDE, why Google&#8217;s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more"
+    },
+    {
+      "title": "datasette-agent-charts 0.1a2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+      "published": "2026-05-21T15:15:58+00:00",
+      "summary": "Release: datasette-agent-charts 0.1a2\n        \n\n\"View SQL query\" buttons below rendered charts.\n\n\n    \n    \n        Tags: datasette, datasette-agent"
+    },
+    {
+      "title": "datasette-agent 0.1a3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "published": "2026-05-21T15:04:09+00:00",
+      "summary": "Release: datasette-agent 0.1a3\n        \n\n\"View SQL query\" buttons for both visible tables and collapsed SQL result tool calls.\nDon't display empty reasoning chunks\nImproved handling of truncated responses - table still displays to the user even if the SQL results were truncated when showing the agent.\n\n\nSee Datasette Agent, an extensible AI assistant for Datasette.\n    \n    \n        Tags: datasette, datasette-agent"
     },
     {
       "title": "Māori Text-to-Speech Model Spurns Big Tech’s Values",
@@ -42,7 +98,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
       "published": "2026-05-21T14:00:02+00:00",
-      "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open-sourced too.The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The ope"
+      "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sourced too.The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The ope"
     },
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
@@ -123,6 +179,14 @@
       "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
       "published": "2026-05-20T15:32:17+00:00",
       "summary": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".\nI actually prefer to write about things that are in general availability, because I've had instances in the past where the previews didn't match what was released to the general public later on.\nAside from Gemini 3.5 Flash the most interesting announcement looks to be Google's upcoming OpenClaw competit"
+    },
+    {
+      "title": "datasette-agent-charts 0.1a1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything",
+      "published": "2026-05-20T14:52:16+00:00",
+      "summary": "Release: datasette-agent-charts 0.1a1\n        \n\nMore color! Bar and waffle charts without a color column are shaded by magnitude with a sequential color scheme; color columns holding text values use the observable10 categorical scheme. #2\nNow checks execute-sql permission before running the query to find the column names.\nCharts now display interactive tooltips.\nFixed a bug where waffleY charts were not described to the agent.\n\n\n    \n    \n        Tags: datasette, datasette-agent"
     },
     {
       "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
