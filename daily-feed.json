@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-21T17:55:44.785443+00:00",
+  "generated_at": "2026-05-21T19:51:53.420242+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Scaling creativity in the age of AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "published": "2026-05-21T19:16:43+00:00",
+      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;"
+    },
     {
       "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
       "source": "The Pragmatic Engineer",
