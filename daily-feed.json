@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-21T07:49:22.587447+00:00",
+  "generated_at": "2026-05-21T11:21:21.419773+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 15,
   "items": [
+    {
+      "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
+      "published": "2026-05-21T10:00:02+00:00",
+      "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a connected lift. A person using an assistive mobility device on a crowded street wants to nudge it forward without taking out a phone or speaking aloud. None of these moments call for a smarter robot. Th"
+    },
     {
       "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
       "source": "Latent.Space",
@@ -85,12 +93,12 @@
       "summary": "Google has been busy!"
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
+      "title": "The next phase of OpenAI’s Education for Countries",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ramp",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
     },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -101,12 +109,12 @@
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
     },
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
+      "title": "How Ramp engineers accelerate code review with Codex",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "url": "https://openai.com/index/ramp",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
     },
     {
       "title": "llm-gemini 0.32",
@@ -114,55 +122,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
       "published": "2026-05-19T23:46:27+00:00",
-      "summary": "Release: llm-gemini 0.32\n        \n\nNew model gemini-3.5-flash for Gemini 3.5 Flash.\n\n\nSee also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin.\n    \n    \n        Tags: gemini, llm"
-    },
-    {
-      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-      "published": "2026-05-19T22:40:25+00:00",
-      "summary": "Today at Google I/O, Google released Gemini 3.5 Flash. This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key products:\n\n3.5 Flash is available today to billions of people globally:\n\nFor everyone via the Gemini app and AI Mode in Google Search\n\nFor developers in our agent-first development platform Google Antigravity and Gemini API in Google AI Studio and Android Studio\nFor enterprises in Gemini Enterprise A"
-    },
-    {
-      "title": "datasette-llm-accountant 0.1a4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-      "published": "2026-05-19T20:45:43+00:00",
-      "summary": "Release: datasette-llm-accountant 0.1a4\n        \n\nFixed bug tracking chains of responses. Refs datasette-llm#7\n\n\n    \n    \n        Tags: llm, datasette"
-    },
-    {
-      "title": "llm-gemini 0.32a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
-      "published": "2026-05-19T20:36:23+00:00",
-      "summary": "Release: llm-gemini 0.32a0\n        \n\nCompatible with llm&gt;=0.32a0 alpha - adds the ability to stream reasoning tokens.\n\n\n    \n    \n        Tags: gemini, llm"
-    },
-    {
-      "title": "Introducing OpenAI for Singapore",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "published": "2026-05-19T20:30:00+00:00",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
-    },
-    {
-      "title": "datasette-llm 0.1a8",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
-      "published": "2026-05-19T20:28:16+00:00",
-      "summary": "Release: datasette-llm 0.1a8\n        \n\nFix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7"
-    },
-    {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "published": "2026-05-19T20:15:18+00:00",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;"
+      "summary": "Release: llm-gemini 0.32\n        \n\nNew model gemini-3.5-flash for Gemini 3.5 Flash.\n\n\nSee also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin.\n    \n    \n        Tags: llm, gemini"
     }
   ]
 }
