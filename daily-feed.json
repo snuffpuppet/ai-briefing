@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-21T11:21:21.419773+00:00",
+  "generated_at": "2026-05-21T15:19:52.668916+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "Māori Text-to-Speech Model Spurns Big Tech’s Values",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/indigenous-ai-voice-models-maori",
+      "published": "2026-05-21T15:00:02+00:00",
+      "summary": "New Zealand is a country famed for its dramatic landscapes, but its linguistic landscape is arguably just as interesting. Of its three official languages, only te reo Māori (the Māori language) could be described as indigenous. Though spoken fluently by just 4.3 percent of the population, national statistics show that about 30 percent of New Zealanders can speak more than a few words or phrases of the language.But ask ChatGPT to write te reo Māori and it will oblige, fluently answering your ques"
+    },
+    {
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "published": "2026-05-21T14:30:45+00:00",
+      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written&#8230;"
+    },
+    {
+      "title": "Open-Source Software Is Starting to Help Robots Think",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
+      "published": "2026-05-21T14:00:02+00:00",
+      "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open-sourced too.The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The ope"
+    },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
       "source": "IEEE Spectrum",
@@ -11,6 +35,14 @@
       "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
       "published": "2026-05-21T10:00:02+00:00",
       "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a connected lift. A person using an assistive mobility device on a crowded street wants to nudge it forward without taking out a phone or speaking aloud. None of these moments call for a smarter robot. Th"
+    },
+    {
+      "title": "Bliki: Vibe Coding",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/VibeCoding.html",
+      "published": "2026-05-21T07:49:00-04:00",
+      "summary": "Vibe coding is building a software application by prompting an LLM, telling it\n  what to build, trying it out, prompting for changes - but without looking at\n  any of the code that the LLM generates. This technique can be used by people\n  without any knowledge of programming. However the resulting software often\n  shows problems with maintainability, correctness, and security - so is best\n  used for disposable software written for a limited audience.\n\nThe term was coined in February 2025 by Andr"
     },
     {
       "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
@@ -91,38 +123,6 @@
       "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
       "published": "2026-05-20T03:34:17+00:00",
       "summary": "Google has been busy!"
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ramp",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
-    },
-    {
-      "title": "llm-gemini 0.32",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
-      "published": "2026-05-19T23:46:27+00:00",
-      "summary": "Release: llm-gemini 0.32\n        \n\nNew model gemini-3.5-flash for Gemini 3.5 Flash.\n\n\nSee also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin.\n    \n    \n        Tags: llm, gemini"
     }
   ]
 }
