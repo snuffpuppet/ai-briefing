@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-22T20:42:06.539379+00:00",
+  "generated_at": "2026-05-22T22:06:35.802556+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 24,
   "items": [
+    {
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "published": "2026-05-22T22:01:31+00:00",
+      "summary": "The memory shortage is causing a repricing of consumer electronics\nDavid Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years.\nThe short version is that memory manufacturers - of which there are just three remaining large companies - have a fixed capacity in terms of how many wafers they can process at any one time. This fixed wafer capacity is then split between DDR - used in desktops"
+    },
     {
       "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
       "source": "AI - Ars Technica",
@@ -179,14 +187,6 @@
       "url": "https://openai.com/index/adventhealth",
       "published": "2026-05-21T12:00:00+00:00",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-    },
-    {
-      "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-      "published": "2026-05-21T10:00:02+00:00",
-      "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a connected lift. A person using an assistive mobility device on a crowded street wants to nudge it forward without taking out a phone or speaking aloud. None of these moments call for a smarter robot. Th"
     },
     {
       "title": "Bliki: Vibe Coding",
