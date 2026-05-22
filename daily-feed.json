@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-22T16:24:14.770162+00:00",
+  "generated_at": "2026-05-22T18:52:36.710407+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "published": "2026-05-22T16:51:40+00:00",
+      "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”"
+    },
     {
       "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "source": "Hugging Face - Blog",
