@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-22T18:52:36.710407+00:00",
+  "generated_at": "2026-05-22T20:42:06.539379+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 24,
   "items": [
+    {
+      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "published": "2026-05-22T19:39:04+00:00",
+      "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings."
+    },
     {
       "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
       "source": "AI - Ars Technica",
@@ -187,14 +195,6 @@
       "url": "https://martinfowler.com/bliki/VibeCoding.html",
       "published": "2026-05-21T07:49:00-04:00",
       "summary": "Vibe coding is building a software application by prompting an LLM, telling it\n  what to build, trying it out, prompting for changes - but without looking at\n  any of the code that the LLM generates. This technique can be used by people\n  without any knowledge of programming. However the resulting software often\n  shows problems with maintainability, correctness, and security - so is best\n  used for disposable software written for a limited audience.\n\nThe term was coined in February 2025 by Andr"
-    },
-    {
-      "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
-      "published": "2026-05-21T07:28:36+00:00",
-      "summary": "a quiet day but a nice result in AI x mathematics"
     }
   ]
 }
