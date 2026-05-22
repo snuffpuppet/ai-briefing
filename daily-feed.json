@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-22T13:30:24.848841+00:00",
+  "generated_at": "2026-05-22T16:24:14.770162+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "published": "2026-05-22T15:25:59+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+      "published": "2026-05-22T14:05:56+00:00",
+      "summary": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth."
+    },
     {
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -27,6 +43,14 @@
       "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
       "published": "2026-05-22T04:48:32+00:00",
       "summary": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service\nBack in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which claimed:\n\n\nSmart devices capture real-time intent data by listening to our conversations\nAdvertisers can pair this voice-data with behavioral data to target in-market consumers\n\n\nI wrote about this in Sep"
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
     },
     {
       "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
