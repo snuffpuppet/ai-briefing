@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-22T03:28:42.111922+00:00",
+  "generated_at": "2026-05-22T07:42:09.438323+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+      "published": "2026-05-22T05:50:58+00:00",
+      "summary": "a quiet day lets us feature fundraises!"
+    },
+    {
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "published": "2026-05-22T04:48:32+00:00",
+      "summary": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service\nBack in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which claimed:\n\n\nSmart devices capture real-time intent data by listening to our conversations\nAdvertisers can pair this voice-data with behavioral data to target in-market consumers\n\n\nI wrote about this in Sep"
+    },
     {
       "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
       "source": "AI - Ars Technica",
@@ -155,38 +171,6 @@
       "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
       "published": "2026-05-20T22:26:36+00:00",
       "summary": "We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access to select compute capacity to third-party customers. For example, in May 2026, we entered into Cloud Services Agreements with Anthropic PBC (“Anthropic”), an AI research and development public benefit corporation, with respect to access to compute capacity across COLOSSUS and COLOSSUS II. Pursuant to these agreement"
-    },
-    {
-      "title": "How fast is 10 tokens per second really?",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
-      "published": "2026-05-20T17:57:45+00:00",
-      "summary": "How fast is 10 tokens per second really?\nNeat little HTML app by Mike Veerman (source code here) which simulates LLM token output speeds from 5/second to 800/second.\nUseful if you see a model advertised as \"30 tokens/second\" and want to get a feel for what that actually looks like.\n\n    Via Hacker News\n\n\n    Tags: ai, generative-ai, llms"
-    },
-    {
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "published": "2026-05-20T17:31:04+00:00",
-      "summary": "Google's AI search evolution is accelerating at I/O 2026."
-    },
-    {
-      "title": "Why Rust is different, with Alice Ryhl",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice",
-      "published": "2026-05-20T16:22:00+00:00",
-      "summary": "Alice Ryhl from Google&#8217;s Android Rust team explains why developers love Rust, and what makes the language so powerful for building reliable software."
-    },
-    {
-      "title": "Google I/O, Gemini Spark, Antigravity",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-      "published": "2026-05-20T15:32:17+00:00",
-      "summary": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".\nI actually prefer to write about things that are in general availability, because I've had instances in the past where the previews didn't match what was released to the general public later on.\nAside from Gemini 3.5 Flash the most interesting announcement looks to be Google's upcoming OpenClaw competit"
     }
   ]
 }
