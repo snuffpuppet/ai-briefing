@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-22T07:42:09.438323+00:00",
+  "generated_at": "2026-05-22T10:48:36.127238+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "published": "2026-05-22T10:00:00+00:00",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;"
+    },
     {
       "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
       "source": "Latent.Space",
@@ -155,22 +163,6 @@
       "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
       "published": "2026-05-21T07:28:36+00:00",
       "summary": "a quiet day but a nice result in AI x mathematics"
-    },
-    {
-      "title": "Railway: The Agent-Native Cloud — Jake Cooper",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/railway",
-      "published": "2026-05-20T22:42:06+00:00",
-      "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs"
-    },
-    {
-      "title": "Quoting SpaceX S-1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
-      "published": "2026-05-20T22:26:36+00:00",
-      "summary": "We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access to select compute capacity to third-party customers. For example, in May 2026, we entered into Cloud Services Agreements with Anthropic PBC (“Anthropic”), an AI research and development public benefit corporation, with respect to access to compute capacity across COLOSSUS and COLOSSUS II. Pursuant to these agreement"
     }
   ]
 }
