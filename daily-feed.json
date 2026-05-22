@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-21T23:02:16.115462+00:00",
+  "generated_at": "2026-05-22T03:28:42.111922+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 23,
   "items": [
     {
       "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
@@ -187,22 +187,6 @@
       "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
       "published": "2026-05-20T15:32:17+00:00",
       "summary": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".\nI actually prefer to write about things that are in general availability, because I've had instances in the past where the previews didn't match what was released to the general public later on.\nAside from Gemini 3.5 Flash the most interesting announcement looks to be Google's upcoming OpenClaw competit"
-    },
-    {
-      "title": "datasette-agent-charts 0.1a1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything",
-      "published": "2026-05-20T14:52:16+00:00",
-      "summary": "Release: datasette-agent-charts 0.1a1\n        \n\nMore color! Bar and waffle charts without a color column are shaded by magnitude with a sequential color scheme; color columns holding text values use the observable10 categorical scheme. #2\nNow checks execute-sql permission before running the query to find the column names.\nCharts now display interactive tooltips.\nFixed a bug where waffleY charts were not described to the agent.\n\n\n    \n    \n        Tags: datasette, datasette-agent"
-    },
-    {
-      "title": "Three more static code analysis sensors",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules",
-      "published": "2026-05-20T10:27:00-04:00",
-      "summary": "Birgitta B&#xf6;ckeler adds discussion of three more\n      sensors for static code analysis, focusing on checking and enforcing\n      better modularity. Computational sensors for dependency checks were good\n      at enforcing rules, but the rules were limited. Building a computational\n      sensor for coupling data proved lackluster. Prompting an inferential\n      sensor to review modularity was more effective.\n\nmore…"
     }
   ]
 }
