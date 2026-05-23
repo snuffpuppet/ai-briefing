@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-23T00:05:12.883189+00:00",
+  "generated_at": "2026-05-23T04:41:20.882115+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 20,
   "items": [
+    {
+      "title": "[AINews] All Model Labs are now Agent Labs",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "published": "2026-05-23T04:21:17+00:00",
+      "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs"
+    },
     {
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
       "source": "Hugging Face - Blog",
@@ -155,46 +163,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
       "published": "2026-05-21T17:01:39+00:00",
       "summary": "Negative feedback greets Google&#8217;s redesigned AI IDE, why Google&#8217;s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more"
-    },
-    {
-      "title": "datasette-agent-charts 0.1a2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
-      "published": "2026-05-21T15:15:58+00:00",
-      "summary": "Release: datasette-agent-charts 0.1a2\n        \n\n\"View SQL query\" buttons below rendered charts.\n\n\n    \n    \n        Tags: datasette, datasette-agent"
-    },
-    {
-      "title": "datasette-agent 0.1a3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-      "published": "2026-05-21T15:04:09+00:00",
-      "summary": "Release: datasette-agent 0.1a3\n        \n\n\"View SQL query\" buttons for both visible tables and collapsed SQL result tool calls.\nDon't display empty reasoning chunks\nImproved handling of truncated responses - table still displays to the user even if the SQL results were truncated when showing the agent.\n\n\nSee Datasette Agent, an extensible AI assistant for Datasette.\n    \n    \n        Tags: datasette, datasette-agent"
-    },
-    {
-      "title": "Māori Text-to-Speech Model Spurns Big Tech’s Values",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/indigenous-ai-voice-models-maori",
-      "published": "2026-05-21T15:00:02+00:00",
-      "summary": "New Zealand is a country famed for its dramatic landscapes, but its linguistic landscape is arguably just as interesting. Of its three official languages, only te reo Māori (the Māori language) could be described as indigenous. Though spoken fluently by just 4.3 percent of the population, national statistics show that about 30 percent of New Zealanders can speak more than a few words or phrases of the language.But ask ChatGPT to write te reo Māori and it will oblige, fluently answering your ques"
-    },
-    {
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "published": "2026-05-21T14:30:45+00:00",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written&#8230;"
-    },
-    {
-      "title": "Open-Source Software Is Starting to Help Robots Think",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
-      "published": "2026-05-21T14:00:02+00:00",
-      "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sourced too.The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The ope"
     }
   ]
 }
