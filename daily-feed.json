@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-23T09:50:33.607051+00:00",
+  "generated_at": "2026-05-23T13:21:01.777206+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 11,
   "items": [
+    {
+      "title": "Radar Can Tell the Difference Between Insect Species",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/mmwave-radar-insects-pollinators",
+      "published": "2026-05-23T13:00:01+00:00",
+      "summary": "Bees and other pollinating insects play vital roles in food webs and crop pollination, yet monitoring them has proven difficult. That’s why researchers have developed a radar system that could lead to a cost-effective, non-invasive way to track pollinators.Traditionally, identifying pollinators has proven tricky and time-consuming, and typically requires capturing and killing insects to get a close look at them. To find a better way to monitor pollinators, scientists are developing vision system"
+    },
     {
       "title": "[AINews] All Model Labs are now Agent Labs",
       "source": "Latent.Space",
@@ -83,30 +91,6 @@
       "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
       "published": "2026-05-22T04:48:32+00:00",
       "summary": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service\nBack in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which claimed:\n\n\nSmart devices capture real-time intent data by listening to our conversations\nAdvertisers can pair this voice-data with behavioral data to target in-market consumers\n\n\nI wrote about this in Sep"
-    },
-    {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
-    },
-    {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
-    },
-    {
-      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-      "published": "2026-05-21T21:51:26+00:00",
-      "summary": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services."
     }
   ]
 }
