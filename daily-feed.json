@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-23T04:41:20.882115+00:00",
+  "generated_at": "2026-05-23T07:30:03.801028+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] All Model Labs are now Agent Labs",
@@ -139,30 +139,6 @@
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
       "published": "2026-05-21T19:46:42+00:00",
       "summary": ""
-    },
-    {
-      "title": "Scaling creativity in the age of AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "published": "2026-05-21T19:16:43+00:00",
-      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;"
-    },
-    {
-      "title": "datasette-agent-sprites 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
-      "published": "2026-05-21T18:21:07+00:00",
-      "summary": "Release: datasette-agent-sprites 0.1a0\n        A Datasette Agent plugin for running commands in a Fly Sprites sandbox.\n    \n    \n        Tags: sandboxing, datasette, fly, datasette-agent"
-    },
-    {
-      "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
-      "published": "2026-05-21T17:01:39+00:00",
-      "summary": "Negative feedback greets Google&#8217;s redesigned AI IDE, why Google&#8217;s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more"
     }
   ]
 }
