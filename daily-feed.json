@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-23T19:23:23.878331+00:00",
+  "generated_at": "2026-05-23T20:48:59.173133+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 10,
   "items": [
+    {
+      "title": "On the <dl>",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+      "published": "2026-05-23T20:24:48+00:00",
+      "summary": "On the &lt;dl&gt;\nI learned a few new-to-me things about the &lt;dl&gt; element from this article by Ben Meyer:\n\nA &lt;dt&gt; can be followed by multiple &lt;dd&gt;\nYou can optionally group the &lt;dt&gt; and &lt;dd&gt; elements in a &lt;div&gt; for styling - but only a &lt;div&gt;.\nYou can label them using ARIA.\nThey've been called \"description lists\", not \"definition lists\", since an HTML5 draft in 2008.\nSo this is valid:\n\n&lt;h2 id=\"credits\"&gt;Credits&lt;/h2&gt;\n&lt;dl aria-labelledby=\"credi"
+    },
     {
       "title": "Radar Can Tell the Difference Between Insect Species",
       "source": "IEEE Spectrum",
