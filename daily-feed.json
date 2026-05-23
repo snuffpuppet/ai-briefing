@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-22T22:06:35.802556+00:00",
+  "generated_at": "2026-05-23T00:05:12.883189+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 24,
   "items": [
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "published": "2026-05-23T00:02:03+00:00",
+      "summary": ""
+    },
     {
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "source": "Simon Willison's Weblog",
@@ -75,6 +83,14 @@
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "published": "2026-05-22T00:00:00+00:00",
       "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
     },
     {
       "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
@@ -179,22 +195,6 @@
       "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
       "published": "2026-05-21T14:00:02+00:00",
       "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sourced too.The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The ope"
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/adventhealth",
-      "published": "2026-05-21T12:00:00+00:00",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-    },
-    {
-      "title": "Bliki: Vibe Coding",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/bliki/VibeCoding.html",
-      "published": "2026-05-21T07:49:00-04:00",
-      "summary": "Vibe coding is building a software application by prompting an LLM, telling it\n  what to build, trying it out, prompting for changes - but without looking at\n  any of the code that the LLM generates. This technique can be used by people\n  without any knowledge of programming. However the resulting software often\n  shows problems with maintainability, correctness, and security - so is best\n  used for disposable software written for a limited audience.\n\nThe term was coined in February 2025 by Andr"
     }
   ]
 }
