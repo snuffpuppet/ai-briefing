@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-23T16:07:03.585308+00:00",
+  "generated_at": "2026-05-23T17:59:35.017610+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
     {
       "title": "Radar Can Tell the Difference Between Insect Species",
@@ -75,22 +75,6 @@
       "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "published": "2026-05-22T10:00:00+00:00",
       "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;"
-    },
-    {
-      "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
-      "published": "2026-05-22T05:50:58+00:00",
-      "summary": "a quiet day lets us feature fundraises!"
-    },
-    {
-      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
-      "published": "2026-05-22T04:48:32+00:00",
-      "summary": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service\nBack in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which claimed:\n\n\nSmart devices capture real-time intent data by listening to our conversations\nAdvertisers can pair this voice-data with behavioral data to target in-market consumers\n\n\nI wrote about this in Sep"
     }
   ]
 }
