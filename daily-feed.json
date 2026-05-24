@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T11:14:47.037288+00:00",
+  "generated_at": "2026-05-24T13:21:42.530868+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "On the <dl>",
@@ -27,14 +27,6 @@
       "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
       "published": "2026-05-23T04:21:17+00:00",
       "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs"
-    },
-    {
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "published": "2026-05-23T00:02:03+00:00",
-      "summary": ""
     }
   ]
 }
