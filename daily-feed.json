@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T03:25:24.636574+00:00",
+  "generated_at": "2026-05-24T06:57:18.510847+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 6,
   "items": [
     {
       "title": "On the <dl>",
@@ -51,22 +51,6 @@
       "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
       "published": "2026-05-22T19:39:04+00:00",
       "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings."
-    },
-    {
-      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-      "published": "2026-05-22T16:51:40+00:00",
-      "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”"
-    },
-    {
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "published": "2026-05-22T15:25:59+00:00",
-      "summary": ""
     }
   ]
 }
