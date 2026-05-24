@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T20:03:40.151338+00:00",
+  "generated_at": "2026-05-24T21:54:42.269031+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "Quoting Armin Ronacher",
@@ -11,6 +11,14 @@
       "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
       "published": "2026-05-24T18:46:53+00:00",
       "summary": "The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adja"
+    },
+    {
+      "title": "Mad House — Usborne Creepy Computer Games",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+      "published": "2026-05-24T17:14:11+00:00",
+      "summary": "Tool: Mad House — Usborne Creepy Computer Games\n        Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books, some of which I remember working through on my Commodore 64 as a child.\nThese were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine.\nI remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF into Claude and had it build an interactive"
     },
     {
       "title": "On the <dl>",
