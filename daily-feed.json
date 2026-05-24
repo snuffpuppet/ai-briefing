@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T15:04:16.053336+00:00",
+  "generated_at": "2026-05-24T16:58:44.810351+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "On the <dl>",
@@ -19,14 +19,6 @@
       "url": "https://spectrum.ieee.org/mmwave-radar-insects-pollinators",
       "published": "2026-05-23T13:00:01+00:00",
       "summary": "Bees and other pollinating insects play vital roles in food webs and crop pollination, yet monitoring them has proven difficult. That’s why researchers have developed a radar system that could lead to a cost-effective, non-invasive way to track pollinators.Traditionally, identifying pollinators has proven tricky and time-consuming, and typically requires capturing and killing insects to get a close look at them. To find a better way to monitor pollinators, scientists are developing vision system"
-    },
-    {
-      "title": "[AINews] All Model Labs are now Agent Labs",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
-      "published": "2026-05-23T04:21:17+00:00",
-      "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs"
     }
   ]
 }
