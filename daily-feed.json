@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T09:22:36.099955+00:00",
+  "generated_at": "2026-05-24T11:14:47.037288+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "On the <dl>",
@@ -35,14 +35,6 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
       "published": "2026-05-23T00:02:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
-      "published": "2026-05-22T22:01:31+00:00",
-      "summary": "The memory shortage is causing a repricing of consumer electronics\nDavid Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years.\nThe short version is that memory manufacturers - of which there are just three remaining large companies - have a fixed capacity in terms of how many wafers they can process at any one time. This fixed wafer capacity is then split between DDR - used in desktops"
     }
   ]
 }
