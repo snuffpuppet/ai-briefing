@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-24T22:56:25.084581+00:00",
+  "generated_at": "2026-05-25T00:00:07.721777+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 7,
   "items": [
+    {
+      "title": "datasette 1.0a30",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "published": "2026-05-24T23:52:37+00:00",
+      "summary": "Release: datasette 1.0a30\n        The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this:\n\nThe new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin.\n    \n    \n        Tags: projects, datasette, annotated-release-notes"
+    },
+    {
+      "title": "datasette-agent 0.1a4",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+      "published": "2026-05-24T23:19:34+00:00",
+      "summary": "Release: datasette-agent 0.1a4\n        Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /:\n\n    \n    \n        Tags: datasette, datasette-agent"
+    },
+    {
+      "title": "datasette-fixtures 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+      "published": "2026-05-24T21:38:32+00:00",
+      "summary": "Release: datasette-fixtures 0.1a0\n        One of the smaller features in Datasette 1.0a30 is this:\n\nNew documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites.\n\nThis new plugin takes advantage of that API. You can try it out using uvx without even installing Datasette like this:\nuvx --prerelease=allow \\\n  --with datasette-fixtures datasette \\\n  --get /fixtures/roadside_attraction"
+    },
     {
       "title": "Quoting Armin Ronacher",
       "source": "Simon Willison's Weblog",
