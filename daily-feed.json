@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T04:44:42.908597+00:00",
+  "generated_at": "2026-05-25T08:55:09.160404+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "datasette 1.0a30",
@@ -43,14 +43,6 @@
       "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
       "published": "2026-05-24T17:14:11+00:00",
       "summary": "Tool: Mad House — Usborne Creepy Computer Games\n        Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books, some of which I remember working through on my Commodore 64 as a child.\nThese were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine.\nI remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF into Claude and had it build an interactive"
-    },
-    {
-      "title": "On the <dl>",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
-      "published": "2026-05-23T20:24:48+00:00",
-      "summary": "On the &lt;dl&gt;\nI learned a few new-to-me things about the &lt;dl&gt; element from this article by Ben Meyer:\n\nA &lt;dt&gt; can be followed by multiple &lt;dd&gt;\nYou can optionally group the &lt;dt&gt; and &lt;dd&gt; elements in a &lt;div&gt; for styling - but only a &lt;div&gt;.\nYou can label them using ARIA.\nThey've been called \"description lists\", not \"definition lists\", since an HTML5 draft in 2008.\n\nSo this is valid:\n&lt;h2 id=\"credits\"&gt;Credits&lt;/h2&gt;\n&lt;dl aria-labelledby=\"credi"
     }
   ]
 }
