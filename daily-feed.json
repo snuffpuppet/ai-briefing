@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T12:28:54.466566+00:00",
+  "generated_at": "2026-05-25T15:49:33.103310+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
@@ -11,6 +11,14 @@
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
       "published": "2026-05-25T10:00:01+00:00",
       "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, verification, and simulation-based testingApply formal verification techniques to assert neural network behaviorCompress the AI model for memory footprint reduction and execution speedupGenerate library-f"
+    },
+    {
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "published": "2026-05-25T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "datasette 1.0a30",
