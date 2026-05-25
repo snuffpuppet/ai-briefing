@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T00:00:07.721777+00:00",
+  "generated_at": "2026-05-25T04:44:42.908597+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "datasette 1.0a30",
@@ -18,7 +18,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
       "published": "2026-05-24T23:19:34+00:00",
-      "summary": "Release: datasette-agent 0.1a4\n        Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /:\n\n    \n    \n        Tags: datasette, datasette-agent"
+      "summary": "Release: datasette-agent 0.1a4\n        Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /:\n\nYou can try this out by signing into agent.datasette.io using your GitHub account.\n    \n    \n        Tags: datasette, datasette-agent"
     },
     {
       "title": "datasette-fixtures 0.1a0",
@@ -51,14 +51,6 @@
       "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
       "published": "2026-05-23T20:24:48+00:00",
       "summary": "On the &lt;dl&gt;\nI learned a few new-to-me things about the &lt;dl&gt; element from this article by Ben Meyer:\n\nA &lt;dt&gt; can be followed by multiple &lt;dd&gt;\nYou can optionally group the &lt;dt&gt; and &lt;dd&gt; elements in a &lt;div&gt; for styling - but only a &lt;div&gt;.\nYou can label them using ARIA.\nThey've been called \"description lists\", not \"definition lists\", since an HTML5 draft in 2008.\n\nSo this is valid:\n&lt;h2 id=\"credits\"&gt;Credits&lt;/h2&gt;\n&lt;dl aria-labelledby=\"credi"
-    },
-    {
-      "title": "Radar Can Tell the Difference Between Insect Species",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/mmwave-radar-insects-pollinators",
-      "published": "2026-05-23T13:00:01+00:00",
-      "summary": "Bees and other pollinating insects play vital roles in food webs and crop pollination, yet monitoring them has proven difficult. That’s why researchers have developed a radar system that could lead to a cost-effective, non-invasive way to track pollinators.Traditionally, identifying pollinators has proven tricky and time-consuming, and typically requires capturing and killing insects to get a close look at them. To find a better way to monitor pollinators, scientists are developing vision system"
     }
   ]
 }
