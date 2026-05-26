@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-26T00:13:16.941767+00:00",
+  "generated_at": "2026-05-26T05:02:00.912533+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
-      "title": "A few notes on Pope Leo XIV's encyclical on AI",
+      "title": "Quoting Corey Quinn",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "published": "2026-05-26T02:28:54+00:00",
+      "summary": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.\n&mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas\n\n    Tags: ai-ethics, corey-quinn, anthropic, ai"
+    },
+    {
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
