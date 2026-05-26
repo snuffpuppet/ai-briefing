@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-26T16:41:28.230735+00:00",
+  "generated_at": "2026-05-26T19:19:57.810269+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 16,
   "items": [
+    {
+      "title": "State of the software engineering job market in 2026",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026",
+      "published": "2026-05-26T18:10:59+00:00",
+      "summary": "A deepdive into today&#8217;s tech jobs market, with exclusive data on software engineering jobs, the AI engineering boom, whether AI engineering is &#8220;replacing&#8221; software engineering hiring, and more"
+    },
+    {
+      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+      "published": "2026-05-26T17:46:01+00:00",
+      "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says."
+    },
+    {
+      "title": "3D-printable humanoid legs let robotics experiments run wild",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+      "published": "2026-05-26T17:16:07+00:00",
+      "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers."
+    },
     {
       "title": "Some ideas for what comes next, May 2026",
       "source": "Interconnects AI",
@@ -45,12 +69,12 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. This issue consists of a lengthy essay based on a speech I recently gave, and a fictional story attempting to think through what a positive singularity might look [&#8230;]"
     },
     {
-      "title": "Thermal Cameras and AI Help Ships Steer Clear Of Gray Whales",
+      "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
       "published": "2026-05-26T12:00:01+00:00",
-      "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commuters to their jobs at AI startups. Looking down at this marine traffic from Angel Island, located near the entrance to the bay, a group of excited scientists point to some sparkles on the surface of the water: Three gray whales are coming up for breaths.A collaboration of governmen"
+      "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commuters to their jobs at AI startups. Looking down at this marine traffic from Angel Island, located near the entrance to the bay, a group of excited scientists point to some sparkles on the surface of the water: Three gray whales are coming up for breath.A collaboration of government"
     },
     {
       "title": "A reality check on the AI jobs hysteria",
