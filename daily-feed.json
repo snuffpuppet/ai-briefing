@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-05-26T09:52:25.367776+00:00",
+  "generated_at": "2026-05-26T16:41:28.230735+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 13,
   "items": [
+    {
+      "title": "Some ideas for what comes next, May 2026",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+      "published": "2026-05-26T15:39:02+00:00",
+      "summary": "Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles and more."
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "published": "2026-05-26T15:36:48+00:00",
+      "summary": "Microsoft Copilot Cowork Exfiltrates Files\nThe biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data.\nIn this case Microsoft Copilot Cowork (yes, that's a real product name) was allowing agents to send emails to the user's own inbox without approval... but those messages were then displayed in a way that could leak data to an attacker via rendered images:\n\nBecause these messages can contain external images that trigger network r"
+    },
+    {
+      "title": "Quoting Paul Graham",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+      "published": "2026-05-26T15:02:30+00:00",
+      "summary": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it.\nI have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that?\n[...] It makes me think less of the author. It means they can't write well unaided (or feel they can't), an"
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "published": "2026-05-26T14:54:10+00:00",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;"
+    },
+    {
+      "title": "Import AI 458: Reckoning with the future; and a singularity story",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
+      "published": "2026-05-26T12:32:03+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. This issue consists of a lengthy essay based on a speech I recently gave, and a fictional story attempting to think through what a positive singularity might look [&#8230;]"
+    },
+    {
+      "title": "Thermal Cameras and AI Help Ships Steer Clear Of Gray Whales",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
+      "published": "2026-05-26T12:00:01+00:00",
+      "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commuters to their jobs at AI startups. Looking down at this marine traffic from Angel Island, located near the entrance to the bay, a group of excited scientists point to some sparkles on the surface of the water: Three gray whales are coming up for breaths.A collaboration of governmen"
+    },
     {
       "title": "A reality check on the AI jobs hysteria",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -37,44 +85,28 @@
       "summary": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society.\nPope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 Rerum novarum encyclical on \"Rights and Duties of Capital and Labor\".\nThis story on Vatican News further clarifies the sig"
     },
     {
+      "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+      "published": "2026-05-25T23:08:00+00:00",
+      "summary": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the docks."
+    },
+    {
+      "title": "Reclaiming Social Engineering for Good",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/social-engineering-good",
+      "published": "2026-05-25T13:00:01+00:00",
+      "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Auth"
+    },
+    {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
       "published": "2026-05-25T10:00:01+00:00",
       "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, verification, and simulation-based testingApply formal verification techniques to assert neural network behaviorCompress the AI model for memory footprint reduction and execution speedupGenerate library-f"
-    },
-    {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "published": "2026-05-25T00:00:00+00:00",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
-    },
-    {
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "published": "2026-05-25T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "datasette 1.0a30",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
-      "published": "2026-05-24T23:52:37+00:00",
-      "summary": "Release: datasette 1.0a30\n        The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this:\n\nThe new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin.\n    \n    \n        Tags: projects, datasette, annotated-release-notes"
-    },
-    {
-      "title": "datasette-agent 0.1a4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
-      "published": "2026-05-24T23:19:34+00:00",
-      "summary": "Release: datasette-agent 0.1a4\n        Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /:\n\nYou can try this out by signing into agent.datasette.io using your GitHub account.\n    \n    \n        Tags: datasette, datasette-agent"
     }
   ]
 }
