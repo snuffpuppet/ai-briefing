@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-25T22:59:47.460727+00:00",
+  "generated_at": "2026-05-26T00:13:16.941767+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 9,
   "items": [
+    {
+      "title": "A few notes on Pope Leo XIV's encyclical on AI",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "published": "2026-05-25T23:58:17+00:00",
+      "summary": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society.\nPope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 Rerum novarum encyclical on \"Rights and Duties of Capital and Labor\".\nThis story on Vatican News further clarifies the sig"
+    },
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "source": "IEEE Spectrum",
