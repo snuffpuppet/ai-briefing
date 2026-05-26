@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-26T05:02:00.912533+00:00",
+  "generated_at": "2026-05-26T09:52:25.367776+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 9,
   "items": [
+    {
+      "title": "A reality check on the AI jobs hysteria",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and&#8230;"
+    },
+    {
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;"
+    },
     {
       "title": "Quoting Corey Quinn",
       "source": "Simon Willison's Weblog",
@@ -59,30 +75,6 @@
       "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
       "published": "2026-05-24T23:19:34+00:00",
       "summary": "Release: datasette-agent 0.1a4\n        Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /:\n\nYou can try this out by signing into agent.datasette.io using your GitHub account.\n    \n    \n        Tags: datasette, datasette-agent"
-    },
-    {
-      "title": "datasette-fixtures 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
-      "published": "2026-05-24T21:38:32+00:00",
-      "summary": "Release: datasette-fixtures 0.1a0\n        One of the smaller features in Datasette 1.0a30 is this:\n\nNew documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites.\n\nThis new plugin takes advantage of that API. You can try it out using uvx without even installing Datasette like this:\nuvx --prerelease=allow \\\n  --with datasette-fixtures datasette \\\n  --get /fixtures/roadside_attraction"
-    },
-    {
-      "title": "Quoting Armin Ronacher",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
-      "published": "2026-05-24T18:46:53+00:00",
-      "summary": "The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adja"
-    },
-    {
-      "title": "Mad House — Usborne Creepy Computer Games",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
-      "published": "2026-05-24T17:14:11+00:00",
-      "summary": "Tool: Mad House — Usborne Creepy Computer Games\n        Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books, some of which I remember working through on my Commodore 64 as a child.\nThese were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine.\nI remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF into Claude and had it build an interactive"
     }
   ]
 }
