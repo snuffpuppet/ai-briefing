@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-26T19:19:57.810269+00:00",
+  "generated_at": "2026-05-26T21:43:20.286355+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "published": "2026-05-26T19:50:33+00:00",
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
+    },
     {
       "title": "State of the software engineering job market in 2026",
       "source": "The Pragmatic Engineer",
