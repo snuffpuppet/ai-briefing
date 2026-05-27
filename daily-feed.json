@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-05-27T16:36:10.872735+00:00",
+  "generated_at": "2026-05-27T19:22:50.842047+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 28,
   "items": [
+    {
+      "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/esmfold2",
+      "published": "2026-05-27T17:46:16+00:00",
+      "summary": "Datasets vs. inductive bias, world models, and programmable biology"
+    },
+    {
+      "title": "YouTube to begin automatically labeling AI videos",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+      "published": "2026-05-27T17:36:10+00:00",
+      "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though."
+    },
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "published": "2026-05-27T17:20:29+00:00",
+      "summary": ""
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+      "published": "2026-05-27T16:38:35+00:00",
+      "summary": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by their staff. I think this is because OpenAI and Anthropic have both found product-market fit.\n\n\n  Enterprise customers are now paying API prices\n  I think they've found product-market fit\n  And they're ramping up\n  The AI-failure stories around this are pretty thin\n  We also know the labs are spending a lot"
+    },
     {
       "title": "Building OpenCode with Dax Raad",
       "source": "The Pragmatic Engineer",
@@ -67,6 +99,14 @@
       "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
       "published": "2026-05-27T03:33:53+00:00",
       "summary": "it's funding news, but it's good news."
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency"
     },
     {
       "title": "Reachy Mini goes fully local",
