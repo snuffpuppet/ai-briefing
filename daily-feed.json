@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-27T03:36:24.734823+00:00",
+  "generated_at": "2026-05-27T08:01:32.699776+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Quoting Kyle Ferrana",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+      "published": "2026-05-27T06:41:43+00:00",
+      "summary": "PICARD: Data, shields up\nDATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy.\n[camera shakes]\nWORF: HULL BREACHES ON NINE DECKS\nDATA: Here's what happened: you told me to raise shields, and I didn't\n&mdash; Kyle Ferrana, @KyleTrainEmoji\n\n    Tags: ai-misuse, coding-agents, ai, llms"
+    },
     {
       "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
       "source": "Latent.Space",
