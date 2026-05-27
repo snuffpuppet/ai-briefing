@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-27T08:01:32.699776+00:00",
+  "generated_at": "2026-05-27T12:18:19.978930+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
+    {
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "published": "2026-05-27T10:30:28+00:00",
+      "summary": "The feds are raising the alarm about a new category of threat."
+    },
     {
       "title": "Quoting Kyle Ferrana",
       "source": "Simon Willison's Weblog",
@@ -131,22 +139,6 @@
       "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
       "published": "2026-05-26T02:28:54+00:00",
       "summary": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.\n&mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas\n\n    Tags: ai-ethics, corey-quinn, anthropic, ai"
-    },
-    {
-      "title": "Notes on Pope Leo XIV's encyclical on AI",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
-      "published": "2026-05-25T23:58:17+00:00",
-      "summary": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society.\nPope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 Rerum novarum encyclical on \"Rights and Duties of Capital and Labor\".\nThis story on Vatican News further clarifies the sig"
-    },
-    {
-      "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
-      "published": "2026-05-25T23:08:00+00:00",
-      "summary": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the docks."
     }
   ]
 }
