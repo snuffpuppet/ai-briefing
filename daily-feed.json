@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-05-27T12:18:19.978930+00:00",
+  "generated_at": "2026-05-27T16:36:10.872735+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Building OpenCode with Dax Raad",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/opencode",
+      "published": "2026-05-27T16:07:30+00:00",
+      "summary": "Dax Raad, co-founder of OpenCode, joins the show to discuss their explosive growth, the limits of AI coding tools, and why engineering judgment still matters."
+    },
+    {
+      "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+      "published": "2026-05-27T13:00:01+00:00",
+      "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence (AI); it is the exception with leverage, and the window to act on it is closing. It holds approximately 88% of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data center supply chains that make AI infrastructure possible. It hosts the largest data center mar"
+    },
+    {
+      "title": "The test suite as a regression sensor",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
+      "published": "2026-05-27T11:01:00-04:00",
+      "summary": "Birgitta B&#xf6;ckeler finishes her post on sensors for\n      coding agents by examining the role of a test suite as a regression\n      sensor, focusing on the role mutation testing can play.\n\nmore…"
+    },
     {
       "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
       "source": "AI - Ars Technica",
@@ -11,6 +35,22 @@
       "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
       "published": "2026-05-27T10:30:28+00:00",
       "summary": "The feds are raising the alarm about a new category of threat."
+    },
+    {
+      "title": "The VibeSec Reckoning",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
+      "published": "2026-05-27T10:03:00-04:00",
+      "summary": "Vibe coding has significantly accelerated software prototyping but AI\n      agents frequently recommend insecure configurations, creating security\n      problems. Gautam Koul, Lucian Moss, Neil Drew-Lopez, and Daberechi\n      Ruth Edeokoh share their experience while building applications\n      for Thoughtworks's global marketing. They learned that to combat this we\n      need to write a security context file to guide the AI, be cautious with AI\n      permission requests, create a daily security"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "published": "2026-05-27T07:00:00+00:00",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows."
     },
     {
       "title": "Quoting Kyle Ferrana",
@@ -27,6 +67,22 @@
       "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
       "published": "2026-05-27T03:33:53+00:00",
       "summary": "it's funding news, but it's good news."
+    },
+    {
+      "title": "Reachy Mini goes fully local",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "The pressure",
@@ -131,14 +187,6 @@
       "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
       "published": "2026-05-26T09:00:00+00:00",
       "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;"
-    },
-    {
-      "title": "Quoting Corey Quinn",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
-      "published": "2026-05-26T02:28:54+00:00",
-      "summary": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.\n&mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas\n\n    Tags: ai-ethics, corey-quinn, anthropic, ai"
     }
   ]
 }
