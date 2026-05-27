@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-26T23:08:02.720038+00:00",
+  "generated_at": "2026-05-27T03:36:24.734823+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+      "published": "2026-05-27T03:33:53+00:00",
+      "summary": "it's funding news, but it's good news."
+    },
+    {
+      "title": "The pressure",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "published": "2026-05-26T23:48:45+00:00",
+      "summary": "The pressure\nDaniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported.\n\nThe rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that on average we now get more than one report per day. The quality is way higher than ever before. The reports are typically very detailed and long. [...]\nFor the first time in my life, my wife voi"
+    },
     {
       "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
       "source": "AI - Ars Technica",
@@ -123,14 +139,6 @@
       "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
       "published": "2026-05-25T23:08:00+00:00",
       "summary": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the docks."
-    },
-    {
-      "title": "Reclaiming Social Engineering for Good",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/social-engineering-good",
-      "published": "2026-05-25T13:00:01+00:00",
-      "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Auth"
     }
   ]
 }
