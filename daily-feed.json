@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-28T06:54:18.210499+00:00",
+  "generated_at": "2026-05-28T10:54:59.951472+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 23,
   "items": [
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "published": "2026-05-28T09:51:11+00:00",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;"
+    },
+    {
+      "title": "[AINews] Cognition raises $1B in $26B Series D",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+      "published": "2026-05-28T07:26:09+00:00",
+      "summary": "coding is an uncapped TAM market"
+    },
     {
       "title": "sqlite AGENTS.md",
       "source": "Simon Willison's Weblog",
@@ -171,14 +187,6 @@
       "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
       "published": "2026-05-26T23:48:45+00:00",
       "summary": "The pressure\nDaniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported.\n\nThe rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that on average we now get more than one report per day. The quality is way higher than ever before. The reports are typically very detailed and long. [...]\nFor the first time in my life, my wife voi"
-    },
-    {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "published": "2026-05-26T19:50:33+00:00",
-      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
     }
   ]
 }
