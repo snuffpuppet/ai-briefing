@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-27T23:15:04.193342+00:00",
+  "generated_at": "2026-05-28T02:55:27.478347+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 29,
   "items": [
+    {
+      "title": "sqlite AGENTS.md",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "published": "2026-05-27T23:44:37+00:00",
+      "summary": "sqlite AGENTS.md\nSQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes:\n\nSQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the chang"
+    },
     {
       "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
       "source": "AI - Ars Technica",
@@ -227,30 +235,6 @@
       "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
       "published": "2026-05-26T15:02:30+00:00",
       "summary": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it.\nI have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that?\n[...] It makes me think less of the author. It means they can't write well unaided (or feel they can't), an"
-    },
-    {
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "published": "2026-05-26T14:54:10+00:00",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;"
-    },
-    {
-      "title": "Import AI 458: Reckoning with the future; and a singularity story",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
-      "published": "2026-05-26T12:32:03+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. This issue consists of a lengthy essay based on a speech I recently gave, and a fictional story attempting to think through what a positive singularity might look [&#8230;]"
-    },
-    {
-      "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
-      "published": "2026-05-26T12:00:01+00:00",
-      "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commuters to their jobs at AI startups. Looking down at this marine traffic from Angel Island, located near the entrance to the bay, a group of excited scientists point to some sparkles on the surface of the water: Three gray whales are coming up for breath.A collaboration of government"
     }
   ]
 }
