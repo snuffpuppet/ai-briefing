@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-28T14:37:15.092138+00:00",
+  "generated_at": "2026-05-28T18:10:35.746800+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+      "published": "2026-05-28T17:01:16+00:00",
+      "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing."
+    },
+    {
+      "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut",
+      "published": "2026-05-28T16:57:38+00:00",
+      "summary": "Top-down and bottom-up efforts to rationalize AI token spend, interesting AI coding stats from Cursor, GCP suspends $2M/month customer without warning, and more"
+    },
     {
       "title": "Finding Success in Industry as a Chip Designer",
       "source": "IEEE Spectrum",
@@ -29,6 +45,14 @@
       "summary": "coding is an uncapped TAM market"
     },
     {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
+    },
+    {
       "title": "sqlite AGENTS.md",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -45,12 +69,12 @@
       "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”"
     },
     {
-      "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+      "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/esmfold2",
       "published": "2026-05-27T17:46:16+00:00",
-      "summary": "Datasets vs. inductive bias, world models, and programmable biology"
+      "summary": "Biohub&#8217;s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology"
     },
     {
       "title": "YouTube to begin automatically labeling AI videos",
@@ -147,14 +171,6 @@
       "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
       "published": "2026-05-27T06:41:43+00:00",
       "summary": "PICARD: Data, shields up\nDATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy.\n[camera shakes]\nWORF: HULL BREACHES ON NINE DECKS\nDATA: Here's what happened: you told me to raise shields, and I didn't\n&mdash; Kyle Ferrana, @KyleTrainEmoji\n\n    Tags: ai-misuse, coding-agents, ai, llms"
-    },
-    {
-      "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
-      "published": "2026-05-27T03:33:53+00:00",
-      "summary": "it's funding news, but it's good news."
     }
   ]
 }
