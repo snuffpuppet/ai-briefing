@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-28T21:06:40.042233+00:00",
+  "generated_at": "2026-05-28T23:14:42.508462+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "published": "2026-05-28T21:29:43+00:00",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\""
+    },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
       "source": "AI - Ars Technica",
@@ -155,22 +163,6 @@
       "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
       "published": "2026-05-27T11:01:00-04:00",
       "summary": "Birgitta B&#xf6;ckeler finishes her post on sensors for\n      coding agents by examining the role of a test suite as a regression\n      sensor, focusing on the role mutation testing can play.\n\nmore…"
-    },
-    {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/cisco",
-      "published": "2026-05-27T11:00:00+00:00",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
-    },
-    {
-      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-      "published": "2026-05-27T10:30:28+00:00",
-      "summary": "The feds are raising the alarm about a new category of threat."
     },
     {
       "title": "The VibeSec Reckoning",
