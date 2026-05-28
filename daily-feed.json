@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T02:55:27.478347+00:00",
+  "generated_at": "2026-05-28T06:54:18.210499+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 22,
   "items": [
     {
       "title": "sqlite AGENTS.md",
@@ -133,20 +133,20 @@
       "summary": "it's funding news, but it's good news."
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/warp",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
-    },
-    {
       "title": "Election information and safeguards in 2026",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/election-safeguards-2026",
       "published": "2026-05-27T00:00:00+00:00",
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency"
+    },
+    {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/warp",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
     },
     {
       "title": "Reachy Mini goes fully local",
@@ -179,62 +179,6 @@
       "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
       "published": "2026-05-26T19:50:33+00:00",
       "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
-    },
-    {
-      "title": "State of the software engineering job market in 2026",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026",
-      "published": "2026-05-26T18:10:59+00:00",
-      "summary": "A deepdive into today&#8217;s tech jobs market, with exclusive data on software engineering jobs, the AI engineering boom, whether AI engineering is &#8220;replacing&#8221; software engineering hiring, and more"
-    },
-    {
-      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-      "published": "2026-05-26T17:46:01+00:00",
-      "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says."
-    },
-    {
-      "title": "3D-printable humanoid legs let robotics experiments run wild",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-      "published": "2026-05-26T17:16:07+00:00",
-      "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers."
-    },
-    {
-      "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
-      "published": "2026-05-26T16:00:01+00:00",
-      "summary": "We’re introducing SilverTorch, a reimagining of recommendation systems that unifies all retrieval components for user generated content under a unified architecture.  SilverTorch shows up to 23.7x higher throughput compared to the state-of-the-art approaches. It’s also showing 20.9x more compute cost efficiency compared to a CPU-based solution while also improving accuracy.  Our research paper, “SilverTorch: A [...]\nRead More...\nThe post SilverTorch: Index as Model — A New Retrieval Paradigm for"
-    },
-    {
-      "title": "Some ideas for what comes next, May 2026",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
-      "published": "2026-05-26T15:39:02+00:00",
-      "summary": "Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles and more."
-    },
-    {
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
-      "published": "2026-05-26T15:36:48+00:00",
-      "summary": "Microsoft Copilot Cowork Exfiltrates Files\nThe biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data.\nIn this case Microsoft Copilot Cowork (yes, that's a real product name) was allowing agents to send emails to the user's own inbox without approval... but those messages were then displayed in a way that could leak data to an attacker via rendered images:\n\nBecause these messages can contain external images that trigger network r"
-    },
-    {
-      "title": "Quoting Paul Graham",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
-      "published": "2026-05-26T15:02:30+00:00",
-      "summary": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it.\nI have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that?\n[...] It makes me think less of the author. It means they can't write well unaided (or feel they can't), an"
     }
   ]
 }
