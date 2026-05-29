@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-05-28T23:14:42.508462+00:00",
+  "generated_at": "2026-05-29T02:58:54.465783+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+      "published": "2026-05-29T02:07:24+00:00",
+      "summary": "Total Anthropic victory!"
+    },
+    {
+      "title": "Anthropic's run-rate revenue hits $47 billion",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+      "published": "2026-05-29T01:23:08+00:00",
+      "summary": "The most interesting thing about Anthropic's $65B Series H announcement is this line (emphasis mine):\n\nSince our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed $47 billion earlier this month.\n\nAnthropic have made a bit of a habit of sharing their \"run-rate revenue\" in this kind of announcement, which is an annualized projection of their current revenue - typically calculated by taking the most recent month and multiplying"
+    },
+    {
+      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+      "published": "2026-05-28T23:59:50+00:00",
+      "summary": "Anthropic shipped Claude Opus 4.8 today. My favourite thing about it is this note in the release announcement:\n\nUsers will find Opus 4.8 to be a modest but tangible improvement on its predecessor. There’s still more to be done: we’re working on developing and releasing models that provide many of the same capabilities as Opus at a lower cost.\n\nIt's so refreshing to see an AI lab honestly describe a release as a minor incremental improvement over the previous model!\nHonesty seems to be a theme. H"
+    },
+    {
+      "title": "llm-anthropic 0.25.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+      "published": "2026-05-28T23:54:56+00:00",
+      "summary": "Release: llm-anthropic 0.25.1\n        \n\nNew model: Claude Opus 4.8 (claude-opus-4.8).\nNew -o fast 1 option for fast mode, for organizations with that feature enabled on their account.\nDefault max_tokens for each model now defaults to that model's maximum output rather than 8,192. #72\n\n\nSee also my notes on Opus 4.8 - I used this new release of llm-anthropic to generate the pelicans."
+    },
     {
       "title": "LLMs believe false statements even after explicit warnings that they're false",
       "source": "AI - Ars Technica",
@@ -59,6 +91,14 @@
       "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
       "published": "2026-05-28T13:00:01+00:00",
       "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the private sector in 2019, I began focusing on a critically important aspect of the electronic industry: silicon intellectual property. As much as 80 percent of the physical area in today’s most advanced"
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/endava",
+      "published": "2026-05-28T12:00:00+00:00",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
     },
     {
       "title": "The AI Hype Index: AI gets booed in graduation season",
@@ -149,28 +189,12 @@
       "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show our frustration that things we’ve been saying for thirty years  still need to be said, we say how anything like a manifesto reunion needs to be led by a younger generation, and opine on what junior deve"
     },
     {
-      "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-      "published": "2026-05-27T13:00:01+00:00",
-      "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center m"
-    },
-    {
       "title": "The test suite as a regression sensor",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
       "published": "2026-05-27T11:01:00-04:00",
       "summary": "Birgitta B&#xf6;ckeler finishes her post on sensors for\n      coding agents by examining the role of a test suite as a regression\n      sensor, focusing on the role mutation testing can play.\n\nmore…"
-    },
-    {
-      "title": "The VibeSec Reckoning",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
-      "published": "2026-05-27T10:03:00-04:00",
-      "summary": "Vibe coding has significantly accelerated software prototyping but AI\n      agents frequently recommend insecure configurations, creating security\n      problems. Gautam Koul, Lucian Moss, Neil Drew-Lopez, and Daberechi\n      Ruth Edeokoh share their experience while building applications\n      for Thoughtworks's global marketing. They learned that to combat this we\n      need to write a security context file to guide the AI, be cautious with AI\n      permission requests, create a daily security"
     }
   ]
 }
