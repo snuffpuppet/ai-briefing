@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T10:52:07.036759+00:00",
+  "generated_at": "2026-05-29T13:58:46.402603+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 19,
   "items": [
     {
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -74,7 +74,7 @@
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
       "published": "2026-05-28T21:29:43+00:00",
-      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\""
+      "summary": "Fine-tuning tests show \"bias... toward confidently representing the claims as true.\""
     },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -155,30 +155,6 @@
       "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
       "published": "2026-05-28T07:26:09+00:00",
       "summary": "coding is an uncapped TAM market"
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/mufg",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
-    },
-    {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
-    },
-    {
-      "title": "sqlite AGENTS.md",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
-      "published": "2026-05-27T23:44:37+00:00",
-      "summary": "sqlite AGENTS.md\nSQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes:\n\nSQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the chang"
     }
   ]
 }
