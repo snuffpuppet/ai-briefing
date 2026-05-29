@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T20:22:39.805727+00:00",
+  "generated_at": "2026-05-29T22:27:57.853254+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
     {
       "title": "Startup offers free home cleaning—if it can record it all for robot training",
@@ -171,14 +171,6 @@
       "url": "https://openai.com/index/endava",
       "published": "2026-05-28T12:00:00+00:00",
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
-    },
-    {
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "published": "2026-05-28T09:51:11+00:00",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;"
     }
   ]
 }
