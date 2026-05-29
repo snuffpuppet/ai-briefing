@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-29T13:58:46.402603+00:00",
+  "generated_at": "2026-05-29T17:37:36.920753+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "published": "2026-05-29T16:16:14+00:00",
+      "summary": "The latest twist in paying humans to wear head cameras for robot training data."
+    },
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "published": "2026-05-29T12:00:00+00:00",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+    },
     {
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -43,6 +59,14 @@
       "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
       "published": "2026-05-29T01:23:08+00:00",
       "summary": "The most interesting thing about Anthropic's $65B Series H announcement is this line (emphasis mine):\n\nSince our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed $47 billion earlier this month.\n\nAnthropic have made a bit of a habit of sharing their \"run-rate revenue\" in this kind of announcement, which is an annualized projection of their current revenue - typically calculated by taking the most recent month and multiplying"
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "published": "2026-05-29T00:00:00+00:00",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
     },
     {
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
