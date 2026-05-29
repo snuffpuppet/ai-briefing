@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-29T02:58:54.465783+00:00",
+  "generated_at": "2026-05-29T06:59:56.852335+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 21,
   "items": [
+    {
+      "title": "datasette 1.0a31",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "published": "2026-05-29T03:32:02+00:00",
+      "summary": "Release: datasette 1.0a31\n        Another significant alpha release, with two new headline features.\n\nDatasette now offers users with the necessary permissions the ability to both execute write queries against their database and to save stored queries (renamed from \"canned queries\") both privately and for use by other members of their Datasette instance.\n\nThere's more detail in SQL write queries and stored queries in Datasette 1.0a31 on the Datasette blog, which now has three posts introducing n"
+    },
     {
       "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
       "source": "Latent.Space",
@@ -51,6 +59,14 @@
       "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
       "published": "2026-05-28T20:29:53+00:00",
       "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output."
+    },
+    {
+      "title": "markdown-svg-renderer",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+      "published": "2026-05-28T19:45:14+00:00",
+      "summary": "Tool: markdown-svg-renderer\n        A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code view.\nYou can paste in Markdown or give it a URL to a CORS-enabled Markdown file or Gist. Here's an example where it loads a Markdown file full of LLM pelican logs for Opus 4.8.\n    \n    \n        Tags: svg, tools, markdown, cors"
     },
     {
       "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
@@ -125,6 +141,14 @@
       "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
     },
     {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/mufg",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
       "title": "sqlite AGENTS.md",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -141,60 +165,12 @@
       "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”"
     },
     {
-      "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/esmfold2",
-      "published": "2026-05-27T17:46:16+00:00",
-      "summary": "Biohub&#8217;s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology"
-    },
-    {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "published": "2026-05-27T17:36:10+00:00",
-      "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though."
-    },
-    {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "published": "2026-05-27T17:20:29+00:00",
-      "summary": ""
-    },
-    {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
-      "published": "2026-05-27T16:38:35+00:00",
-      "summary": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by their staff. I think this is because OpenAI and Anthropic have both found product-market fit.\n\n\n  Enterprise customers are now paying API prices\n  I think they've found product-market fit\n  And they're ramping up\n  The AI-failure stories around this are pretty thin\n  We also know the labs are spending a lot"
-    },
-    {
-      "title": "Building OpenCode with Dax Raad",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/opencode",
-      "published": "2026-05-27T16:07:30+00:00",
-      "summary": "Dax Raad, co-founder of OpenCode, joins the show to discuss their explosive growth, the limits of AI coding tools, and why engineering judgment still matters."
-    },
-    {
       "title": "Fragments: May 27",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/fragments/2026-05-27.html",
       "published": "2026-05-27T15:40:00-04:00",
       "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show our frustration that things we’ve been saying for thirty years  still need to be said, we say how anything like a manifesto reunion needs to be led by a younger generation, and opine on what junior deve"
-    },
-    {
-      "title": "The test suite as a regression sensor",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
-      "published": "2026-05-27T11:01:00-04:00",
-      "summary": "Birgitta B&#xf6;ckeler finishes her post on sensors for\n      coding agents by examining the role of a test suite as a regression\n      sensor, focusing on the role mutation testing can play.\n\nmore…"
     }
   ]
 }
