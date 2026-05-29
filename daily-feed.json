@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T17:37:36.920753+00:00",
+  "generated_at": "2026-05-29T20:22:39.805727+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
@@ -19,6 +19,14 @@
       "url": "https://openai.com/index/boston-childrens-hospital",
       "published": "2026-05-29T12:00:00+00:00",
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/braintrust",
+      "published": "2026-05-29T12:00:00+00:00",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
     },
     {
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -171,14 +179,6 @@
       "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
       "published": "2026-05-28T09:51:11+00:00",
       "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;"
-    },
-    {
-      "title": "[AINews] Cognition raises $1B in $26B Series D",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
-      "published": "2026-05-28T07:26:09+00:00",
-      "summary": "coding is an uncapped TAM market"
     }
   ]
 }
