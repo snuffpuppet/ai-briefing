@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-29T06:59:56.852335+00:00",
+  "generated_at": "2026-05-29T10:52:07.036759+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "published": "2026-05-29T10:00:00+00:00",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;"
+    },
     {
       "title": "datasette 1.0a31",
       "source": "Simon Willison's Weblog",
@@ -11,6 +19,14 @@
       "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
       "published": "2026-05-29T03:32:02+00:00",
       "summary": "Release: datasette 1.0a31\n        Another significant alpha release, with two new headline features.\n\nDatasette now offers users with the necessary permissions the ability to both execute write queries against their database and to save stored queries (renamed from \"canned queries\") both privately and for use by other members of their Datasette instance.\n\nThere's more detail in SQL write queries and stored queries in Datasette 1.0a31 on the Datasette blog, which now has three posts introducing n"
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "published": "2026-05-29T03:00:00+00:00",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
     },
     {
       "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
@@ -27,6 +43,14 @@
       "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
       "published": "2026-05-29T01:23:08+00:00",
       "summary": "The most interesting thing about Anthropic's $65B Series H announcement is this line (emphasis mine):\n\nSince our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed $47 billion earlier this month.\n\nAnthropic have made a bit of a habit of sharing their \"run-rate revenue\" in this kind of announcement, which is an annualized projection of their current revenue - typically calculated by taking the most recent month and multiplying"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "published": "2026-05-29T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
@@ -133,14 +157,6 @@
       "summary": "coding is an uncapped TAM market"
     },
     {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
-    },
-    {
       "title": "MUFG aims to become AI-native with OpenAI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -149,28 +165,20 @@
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
     },
     {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
+    },
+    {
       "title": "sqlite AGENTS.md",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
       "published": "2026-05-27T23:44:37+00:00",
       "summary": "sqlite AGENTS.md\nSQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes:\n\nSQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the chang"
-    },
-    {
-      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-      "published": "2026-05-27T19:59:40+00:00",
-      "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”"
-    },
-    {
-      "title": "Fragments: May 27",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-05-27.html",
-      "published": "2026-05-27T15:40:00-04:00",
-      "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show our frustration that things we’ve been saying for thirty years  still need to be said, we say how anything like a manifesto reunion needs to be led by a younger generation, and opine on what junior deve"
     }
   ]
 }
