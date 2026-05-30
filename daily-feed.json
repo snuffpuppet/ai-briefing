@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T04:51:53.279733+00:00",
+  "generated_at": "2026-05-30T07:40:08.254671+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 16,
   "items": [
     {
       "title": "[AINews] Founders and Forward Deployed Engineers",
@@ -131,38 +131,6 @@
       "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
       "published": "2026-05-28T19:45:14+00:00",
       "summary": "Tool: markdown-svg-renderer\n        A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code view.\nYou can paste in Markdown or give it a URL to a CORS-enabled Markdown file or Gist. Here's an example where it loads a Markdown file full of LLM pelican logs for Opus 4.8.\n    \n    \n        Tags: svg, tools, markdown, cors"
-    },
-    {
-      "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/cognition",
-      "published": "2026-05-28T18:41:24+00:00",
-      "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code"
-    },
-    {
-      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-      "published": "2026-05-28T18:30:48+00:00",
-      "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable."
-    },
-    {
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "published": "2026-05-28T17:01:16+00:00",
-      "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing."
-    },
-    {
-      "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut",
-      "published": "2026-05-28T16:57:38+00:00",
-      "summary": "Top-down and bottom-up efforts to rationalize AI token spend, interesting AI coding stats from Cursor, GCP suspends $2M/month customer without warning, and more"
     }
   ]
 }
