@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T13:25:03.964294+00:00",
+  "generated_at": "2026-05-30T15:04:42.828511+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 6,
   "items": [
     {
       "title": "[AINews] Founders and Forward Deployed Engineers",
@@ -51,22 +51,6 @@
       "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
       "published": "2026-05-29T03:32:02+00:00",
       "summary": "Release: datasette 1.0a31\n        Another significant alpha release, with two new headline features.\n\nDatasette now offers users with the necessary permissions the ability to both execute write queries against their database and to save stored queries (renamed from \"canned queries\") both privately and for use by other members of their Datasette instance.\n\nThere's more detail in SQL write queries and stored queries in Datasette 1.0a31 on the Datasette blog, which now has three posts introducing n"
-    },
-    {
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "published": "2026-05-29T03:00:00+00:00",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
-    },
-    {
-      "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
-      "published": "2026-05-29T02:07:24+00:00",
-      "summary": "Total Anthropic victory!"
     }
   ]
 }
