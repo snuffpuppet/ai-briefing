@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T22:27:57.853254+00:00",
+  "generated_at": "2026-05-30T00:08:33.939303+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "Startup offers free home cleaning—if it can record it all for robot training",
@@ -163,14 +163,6 @@
       "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
       "published": "2026-05-28T13:00:01+00:00",
       "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the private sector in 2019, I began focusing on a critically important aspect of the electronic industry: silicon intellectual property. As much as 80 percent of the physical area in today’s most advanced"
-    },
-    {
-      "title": "How Endava builds an agentic organization with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/endava",
-      "published": "2026-05-28T12:00:00+00:00",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
     }
   ]
 }
