@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-30T00:08:33.939303+00:00",
+  "generated_at": "2026-05-30T04:51:53.279733+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
   "items": [
+    {
+      "title": "[AINews] Founders and Forward Deployed Engineers",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+      "published": "2026-05-30T01:57:15+00:00",
+      "summary": "a quiet day lets us highlight the new AIE WF focuses"
+    },
     {
       "title": "Startup offers free home cleaning—if it can record it all for robot training",
       "source": "AI - Ars Technica",
@@ -155,14 +163,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut",
       "published": "2026-05-28T16:57:38+00:00",
       "summary": "Top-down and bottom-up efforts to rationalize AI token spend, interesting AI coding stats from Cursor, GCP suspends $2M/month customer without warning, and more"
-    },
-    {
-      "title": "Finding Success in Industry as a Chip Designer",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "published": "2026-05-28T13:00:01+00:00",
-      "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the private sector in 2019, I began focusing on a critically important aspect of the electronic industry: silicon intellectual property. As much as 80 percent of the physical area in today’s most advanced"
     }
   ]
 }
