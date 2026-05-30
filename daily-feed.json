@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T21:59:47.449064+00:00",
+  "generated_at": "2026-05-30T23:07:38.074025+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 8,
   "items": [
     {
       "title": "How we contain Claude across products",
@@ -67,14 +67,6 @@
       "url": "https://openai.com/index/braintrust",
       "published": "2026-05-29T12:00:00+00:00",
       "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
-    },
-    {
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;"
     }
   ]
 }
