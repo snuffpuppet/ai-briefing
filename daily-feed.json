@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-30T17:01:26.737266+00:00",
+  "generated_at": "2026-05-30T19:10:34.217284+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "Quoting Daniel Jalkut",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+      "published": "2026-05-30T17:29:55+00:00",
+      "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.\n&mdash; Daniel Jalkut, via John Gruber\n\n    Tags: ai"
+    },
     {
       "title": "[AINews] Founders and Forward Deployed Engineers",
       "source": "Latent.Space",
