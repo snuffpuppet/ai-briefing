@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-05-30T20:53:37.234087+00:00",
+  "generated_at": "2026-05-30T21:59:47.449064+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 9,
   "items": [
+    {
+      "title": "How we contain Claude across products",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "published": "2026-05-30T21:36:24+00:00",
+      "summary": "How we contain Claude across products\nA complaint I often have about sandboxing products is that they are rarely thoroughly documented, and in the absence of detailed documentation it's hard to know how much I can trust them.\nAnthropic just published a fantastic overview of how their various sandbox techniques work across Claude.ai, Claude Code, and Cowork.\n\nWe constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a h"
+    },
+    {
+      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+      "published": "2026-05-30T21:02:16+00:00",
+      "summary": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker\n        Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly.\nWhen I first built it four years ago I used Web Workers and code that intercepts navigation operations and fetches the generated HTML by running the Python app.\nThis worked, but had the disadvantage that any JavaScript in &lt;script&gt; tags would not be executed - breaking some Datasette functionality a"
+    },
     {
       "title": "I Am Retiring from Tech to Live Offline",
       "source": "Simon Willison's Weblog",
