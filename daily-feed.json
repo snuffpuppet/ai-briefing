@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-31T12:10:38.987531+00:00",
+  "generated_at": "2026-05-31T14:42:40.645059+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "Quoting Karen Kwok for Reuters Breakingviews",
@@ -43,14 +43,6 @@
       "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
       "published": "2026-05-30T17:29:55+00:00",
       "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.\n&mdash; Daniel Jalkut, via John Gruber\n\n    Tags: ai, john-gruber"
-    },
-    {
-      "title": "[AINews] Founders and Forward Deployed Engineers",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
-      "published": "2026-05-30T01:57:15+00:00",
-      "summary": "a quiet day lets us highlight the new AIE WF focuses"
     }
   ]
 }
