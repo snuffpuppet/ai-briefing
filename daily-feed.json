@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-31T16:05:53.683762+00:00",
+  "generated_at": "2026-05-31T17:59:56.888499+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "The solution might be cancelling my AI subscription",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+      "published": "2026-05-31T16:31:32+00:00",
+      "summary": "The solution might be cancelling my AI subscription\nI find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes:\n\nI didn't mean to build most of these things. Usually the Claude session started with something like \"write a quick script for X\", and one hour later the result is not a quick script for X, nor in the usual case is my problem solved, whatever the original itch happened to be.\nOn that last point, this technology is horrific for"
+    },
     {
       "title": "Quoting Karen Kwok for Reuters Breakingviews",
       "source": "Simon Willison's Weblog",
