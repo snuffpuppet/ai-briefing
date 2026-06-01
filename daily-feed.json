@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-01T06:00:24.431630+00:00",
+  "generated_at": "2026-06-01T11:53:02.872323+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 6,
   "items": [
+    {
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "published": "2026-06-01T11:00:00+00:00",
+      "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did."
+    },
     {
       "title": "May 2026 newsletter",
       "source": "Simon Willison's Weblog",
@@ -43,30 +51,6 @@
       "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
       "published": "2026-05-31T01:48:12+00:00",
       "summary": "Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by 12, ​and add the two together.\n&mdash; Karen Kwok for Reuters Breakingviews, citing \"a person familiar with the matter\"\n\n    Tags: anthropic, ai"
-    },
-    {
-      "title": "How we contain Claude across products",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
-      "published": "2026-05-30T21:36:24+00:00",
-      "summary": "How we contain Claude across products\nA complaint I often have about sandboxing products is that they are rarely thoroughly documented, and in the absence of detailed documentation it's hard to know how much I can trust them.\nAnthropic just published a fantastic overview of how their various sandbox techniques work across Claude.ai, Claude Code, and Cowork.\n\nWe constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a h"
-    },
-    {
-      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
-      "published": "2026-05-30T21:02:16+00:00",
-      "summary": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker\n        Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly.\nWhen I first built it four years ago I used Web Workers and code that intercepts navigation operations and fetches the generated HTML by running the Python app.\nThis worked, but had the disadvantage that any JavaScript in &lt;script&gt; tags would not be executed - breaking some Datasette functionality a"
-    },
-    {
-      "title": "I Am Retiring from Tech to Live Offline",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
-      "published": "2026-05-30T19:39:08+00:00",
-      "summary": "I Am Retiring from Tech to Live Offline\nI've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter\n\nI'm retiring from tech. Well, \"retiring\" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...]\nAI was the last straw. Have you heard of that island off India where the indigenous population kills any outsiders fool-hardy enough"
     }
   ]
 }
