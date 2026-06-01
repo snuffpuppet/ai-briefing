@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-01T21:30:54.498535+00:00",
+  "generated_at": "2026-06-01T23:26:00.274897+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "published": "2026-06-01T22:18:09+00:00",
+      "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day."
+    },
     {
       "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
       "source": "Simon Willison's Weblog",
@@ -115,6 +123,14 @@
       "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
       "published": "2026-06-01T11:00:00+00:00",
       "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did."
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "published": "2026-06-01T10:00:00+00:00",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production."
     },
     {
       "title": "May 2026 newsletter",
