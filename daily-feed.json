@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-05-31T22:03:18.984118+00:00",
+  "generated_at": "2026-06-01T00:04:44.146241+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 7,
   "items": [
+    {
+      "title": "datasette 1.0a32",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "published": "2026-05-31T23:23:38+00:00",
+      "summary": "Release: datasette 1.0a32\n        A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was experimenting with Service Workers yesterday.\n    \n    \n        Tags: datasette, annotated-release-notes"
+    },
     {
       "title": "The solution might be cancelling my AI subscription",
       "source": "Simon Willison's Weblog",
