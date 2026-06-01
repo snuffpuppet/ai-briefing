@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-01T00:04:44.146241+00:00",
+  "generated_at": "2026-06-01T06:00:24.431630+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 8,
   "items": [
+    {
+      "title": "May 2026 newsletter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "published": "2026-06-01T04:45:00+00:00",
+      "summary": "I just sent out the May edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here.\nThis month:\n\nAl got expensive, and Anthropic had a really good month\nThe model releases were a little disappointing\nConferences and podcasts\nI launched Datasette Agent and made a lot of progress on Datasette\nWhat I'm using, May 2026 edition\nMiscellaneous extras\n\nHere's a copy of the April newsletter as a preview of what you'll get. Pay $10/month"
+    },
+    {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "published": "2026-06-01T04:44:55+00:00",
+      "summary": ""
+    },
     {
       "title": "datasette 1.0a32",
       "source": "Simon Willison's Weblog",
@@ -51,14 +67,6 @@
       "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
       "published": "2026-05-30T19:39:08+00:00",
       "summary": "I Am Retiring from Tech to Live Offline\nI've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter\n\nI'm retiring from tech. Well, \"retiring\" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...]\nAI was the last straw. Have you heard of that island off India where the indigenous population kills any outsiders fool-hardy enough"
-    },
-    {
-      "title": "Quoting Daniel Jalkut",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
-      "published": "2026-05-30T17:29:55+00:00",
-      "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.\n&mdash; Daniel Jalkut, via John Gruber\n\n    Tags: ai, john-gruber"
     }
   ]
 }
