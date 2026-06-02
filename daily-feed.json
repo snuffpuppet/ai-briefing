@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-02T08:27:20.043199+00:00",
+  "generated_at": "2026-06-02T12:39:31.474465+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "published": "2026-06-02T11:23:34+00:00",
+      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.&#8230;"
+    },
+    {
+      "title": "Fragments: June  2",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-06-02.html",
+      "published": "2026-06-02T11:21:00+02:00",
+      "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.\n\n\n  Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;\n\n\nHe lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics"
+    },
+    {
+      "title": "How small businesses can leverage AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "published": "2026-06-02T09:00:00+00:00",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;"
+    },
     {
       "title": "Pasted File Editor",
       "source": "Simon Willison's Weblog",
@@ -19,6 +43,14 @@
       "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
       "published": "2026-06-02T03:28:10+00:00",
       "summary": "Jensen scores a huge win."
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "published": "2026-06-02T02:00:00+00:00",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
     },
     {
       "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
@@ -171,14 +203,6 @@
       "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
       "published": "2026-06-01T04:44:55+00:00",
       "summary": ""
-    },
-    {
-      "title": "datasette 1.0a32",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
-      "published": "2026-05-31T23:23:38+00:00",
-      "summary": "Release: datasette 1.0a32\n        A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was experimenting with Service Workers yesterday.\n    \n    \n        Tags: datasette, annotated-release-notes"
     }
   ]
 }
