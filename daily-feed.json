@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-06-02T12:39:31.474465+00:00",
+  "generated_at": "2026-06-02T17:21:21.312139+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 31,
   "items": [
+    {
+      "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/github",
+      "published": "2026-06-02T16:48:21+00:00",
+      "summary": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan."
+    },
+    {
+      "title": "Ideas: slow down to speed up when working with AI agents",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when",
+      "published": "2026-06-02T16:42:23+00:00",
+      "summary": "Devs are generating twice as much code (or more) than just 6 months ago, which is a problem for quality, reliability, and tech debt. A rational fix is available for these, but who&#8217;s acting rationally?"
+    },
+    {
+      "title": "Farewell Ai2",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/farewell-ai2",
+      "published": "2026-06-02T14:15:59+00:00",
+      "summary": "This was my last week at the Allen Institute for AI (Ai2), where I got the great privilege to work on the Olmo models, to grow, to learn, and to have broad lasting impacts."
+    },
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "published": "2026-06-02T14:13:23+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Why Aren’t We Measuring How AI Affects Humans?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/measuring-ai-societal-impact-khan",
+      "published": "2026-06-02T14:00:01+00:00",
+      "summary": "As AI systems become more capable, a lot of resources and effort are being put toward measuring their abilities. Researchers look at technical evaluation metrics, subject AIs to reasoning tests, track their throughput, and much more. But there’s one key metric that often gets overlooked, and it’s arguably the most important of all: What is AI doing to humans?Imran Khan leads psychosocial evaluation of AI at the nonprofit Center for Humane Technology. In a recent essay published on the organizati"
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/travelers",
+      "published": "2026-06-02T12:00:00+00:00",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
+    },
     {
       "title": "Rehumanizing global health care with agentic AI",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -21,12 +69,28 @@
       "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.\n\n\n  Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;\n\n\nHe lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics"
     },
     {
+      "title": "Codex for every role, tool, and workflow",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "published": "2026-06-02T09:00:00+00:00",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
+    },
+    {
       "title": "How small businesses can leverage AI",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
       "published": "2026-06-02T09:00:00+00:00",
       "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;"
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "published": "2026-06-02T07:00:00+00:00",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
     },
     {
       "title": "Pasted File Editor",
@@ -187,22 +251,6 @@
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "published": "2026-06-01T10:00:00+00:00",
       "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production."
-    },
-    {
-      "title": "May 2026 newsletter",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
-      "published": "2026-06-01T04:45:00+00:00",
-      "summary": "I just sent out the May edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here.\nThis month:\n\nAl got expensive, and Anthropic had a really good month\nThe model releases were a little disappointing\nConferences and podcasts\nI launched Datasette Agent and made a lot of progress on Datasette\nWhat I'm using, May 2026 edition\nMiscellaneous extras\n\nHere's a copy of the April newsletter as a preview of what you'll get. Pay $10/month"
-    },
-    {
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "published": "2026-06-01T04:44:55+00:00",
-      "summary": ""
     }
   ]
 }
