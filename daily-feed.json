@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-02T03:43:42.939352+00:00",
+  "generated_at": "2026-06-02T08:27:20.043199+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
   "items": [
+    {
+      "title": "Pasted File Editor",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "published": "2026-06-02T04:13:36+00:00",
+      "summary": "Tool: Pasted File Editor\n        I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead.\nI decided to have Codex desktop build me a version of that as a prototype.\nYou can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea.\n    \n    \n        Tags: javascript, tools, ai-assisted-programming, claude, codex"
+    },
     {
       "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
       "source": "Latent.Space",
@@ -171,14 +179,6 @@
       "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
       "published": "2026-05-31T23:23:38+00:00",
       "summary": "Release: datasette 1.0a32\n        A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was experimenting with Service Workers yesterday.\n    \n    \n        Tags: datasette, annotated-release-notes"
-    },
-    {
-      "title": "The solution might be cancelling my AI subscription",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
-      "published": "2026-05-31T16:31:32+00:00",
-      "summary": "The solution might be cancelling my AI subscription\nI find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes:\n\nI didn't mean to build most of these things. Usually the Claude session started with something like \"write a quick script for X\", and one hour later the result is not a quick script for X, nor in the usual case is my problem solved, whatever the original itch happened to be.\nOn that last point, this technology is horrific for"
     }
   ]
 }
