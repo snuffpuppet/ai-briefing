@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-01T23:26:00.274897+00:00",
+  "generated_at": "2026-06-02T03:43:42.939352+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+      "published": "2026-06-02T03:28:10+00:00",
+      "summary": "Jensen scores a huge win."
+    },
     {
       "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
       "source": "AI - Ars Technica",
@@ -51,6 +59,14 @@
       "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
       "published": "2026-06-01T17:17:55+00:00",
       "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests."
+    },
+    {
+      "title": "Our views on AI policy and political advocacy",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "published": "2026-06-01T17:00:00+00:00",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
     },
     {
       "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
