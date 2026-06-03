@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-02T23:01:14.391230+00:00",
+  "generated_at": "2026-06-03T03:53:52.562445+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 29,
   "items": [
     {
       "title": "Microsoft's new MAI models",
@@ -10,7 +10,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
       "published": "2026-06-02T22:21:52+00:00",
-      "summary": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 35B parameters, available to \"select early partners\") and MAI-Code-1-Flash (5B parameters, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet.\nIt's very interesting to see Microsoft releasing models with such low parameter counts, especially given how ex"
+      "summary": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet.\nIt's very interesting to see Microsoft releasing models with such low parameter counts,"
     },
     {
       "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
@@ -19,6 +19,22 @@
       "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
       "published": "2026-06-02T20:47:54+00:00",
       "summary": "Microsoft missed the boat on apps, so get ready for agents."
+    },
+    {
+      "title": "datasette-agent-micropython 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "published": "2026-06-02T19:28:36+00:00",
+      "summary": "Release: datasette-agent-micropython 0.1a0\n        I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out of the sandbox!\n    \n    \n        Tags: python, sandboxing, datasette, webassembly, datasette-agent"
+    },
+    {
+      "title": "micropython-wasm 0.1a1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "published": "2026-06-02T19:20:47+00:00",
+      "summary": "Release: micropython-wasm 0.1a1\n        Fixes for some limitations that emerged while I was trying to use this to build datasette-agent-micropython.\n    \n    \n        Tags: python, sandboxing, webassembly"
     },
     {
       "title": "Mathematicians warn of AI threats to profession as industry encroaches",
@@ -141,6 +157,14 @@
       "summary": "Tool: Pasted File Editor\n        I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead.\nI decided to have Codex desktop build me a version of that as a prototype.\nYou can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea.\n    \n    \n        Tags: javascript, tools, ai-assisted-programming, claude, codex"
     },
     {
+      "title": "micropython-wasm 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
+      "published": "2026-06-02T03:43:45+00:00",
+      "summary": "Release: micropython-wasm 0.1a0\n        My latest sandboxing experiment: This alpha package bundles a lightly customized WASM build of MicroPython with a wrapper to execute code in it via wasmtime.\n    \n    \n        Tags: python, sandboxing, webassembly"
+    },
+    {
       "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -211,70 +235,6 @@
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "published": "2026-06-01T17:00:00+00:00",
       "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
-    },
-    {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "published": "2026-06-01T15:45:17+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/video-agents",
-      "published": "2026-06-01T15:41:48+00:00",
-      "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!"
-    },
-    {
-      "title": "New Server Hopes to Break Through AI’s “Memory Wall”",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/huge-memory-ai-server",
-      "published": "2026-06-01T15:00:01+00:00",
-      "summary": "Memory is arguably the most serious constraint on modern AI large language models (LLMs). According to one influential paper, LLM token generation is an inherently memory-bound task, meaning the rate at which models output text is limited by how quickly data can be read in from memory. The severity of this bottleneck grows with model size. This creates a “memory wall” that holds back LLM inference performance.AI hardware startup Majestic Labs is taking a direct—and comprehensive—approach to solv"
-    },
-    {
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "published": "2026-06-01T13:51:18+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-      "published": "2026-06-01T13:32:16+00:00",
-      "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory."
-    },
-    {
-      "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/06/01/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
-      "published": "2026-06-01T13:31:56+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now The AI economy in the US is growing at 2,000% a year:…The more directly you measure the AI economy, the weirder and more unprecedented it seems [&#8230;]"
-    },
-    {
-      "title": "Open and closed models are on different exponentials",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
-      "published": "2026-06-01T13:03:48+00:00",
-      "summary": "Where marginally higher intelligence drives value, and where it doesn't."
-    },
-    {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "published": "2026-06-01T12:00:00+00:00",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
     }
   ]
 }
