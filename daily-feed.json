@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-03T18:21:44.879349+00:00",
+  "generated_at": "2026-06-03T21:47:16.823863+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 29,
   "items": [
+    {
+      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "published": "2026-06-03T20:26:51+00:00",
+      "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\""
+    },
+    {
+      "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/axiom",
+      "published": "2026-06-03T19:27:49+00:00",
+      "summary": "Verified Generation and Compounding Intelligence"
+    },
+    {
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "published": "2026-06-03T19:10:03+00:00",
+      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight."
+    },
     {
       "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
       "source": "AI - Ars Technica",
@@ -45,6 +69,14 @@
       "summary": "Doubts linger over whether Meta can close the gap with rivals."
     },
     {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "published": "2026-06-03T13:15:00+00:00",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+    },
+    {
       "title": "Direct Preference Optimization Beyond Chatbots",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -61,20 +93,20 @@
       "summary": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\nI wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become.\nNatalie Lung for Bloomberg:\n\nThe rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a B"
     },
     {
-      "title": "OpenAI public policy agenda",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
-    },
-    {
       "title": "A blueprint for democratic governance of frontier AI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/frontier-safety-blueprint",
       "published": "2026-06-03T10:00:00+00:00",
       "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
     },
     {
       "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
@@ -203,38 +235,6 @@
       "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
       "published": "2026-06-02T11:23:34+00:00",
       "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.&#8230;"
-    },
-    {
-      "title": "Fragments: June  2",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-06-02.html",
-      "published": "2026-06-02T11:21:00+02:00",
-      "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.\n\n\n  Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;\n\n\nHe lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics"
-    },
-    {
-      "title": "Codex for every role, tool, and workflow",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "published": "2026-06-02T09:00:00+00:00",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
-    },
-    {
-      "title": "How small businesses can leverage AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "published": "2026-06-02T09:00:00+00:00",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;"
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "published": "2026-06-02T07:00:00+00:00",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
     }
   ]
 }
