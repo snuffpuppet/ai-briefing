@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-06-03T13:15:29.474439+00:00",
+  "generated_at": "2026-06-03T18:21:44.879349+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 29,
   "items": [
+    {
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "published": "2026-06-03T18:11:15+00:00",
+      "summary": "Critics say Trump plan to test AI models is short-sighted, performative."
+    },
+    {
+      "title": "7 Ways New Engineers Can Flourish in the Age of AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
+      "published": "2026-06-03T18:00:02+00:00",
+      "summary": "New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition.Here are seven tips to help keep young professionals in demand no matter how quickly the field’s tools evolve.1. Master the fundamentals first. AI tools can help you code, but you still need strong fundamentals in:Data structures and algorithms for problem-solving.Operating systems, databases, and networking for system-level understandin"
+    },
+    {
+      "title": "Kubernetes and retiring at the top with Kelsey Hightower",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
+      "published": "2026-06-03T17:59:17+00:00",
+      "summary": "Kelsey Hightower reflects on his journey from self-taught technician to Google Distinguished Engineer, sharing lessons on open source, Kubernetes, AI, and building technology that serves people."
+    },
+    {
+      "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/satya-2026",
+      "published": "2026-06-03T17:13:57+00:00",
+      "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!"
+    },
+    {
+      "title": "Inside Meta's attempts to play catch-up with AI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "published": "2026-06-03T13:35:58+00:00",
+      "summary": "Doubts linger over whether Meta can close the gap with rivals."
+    },
     {
       "title": "Direct Preference Optimization Beyond Chatbots",
       "source": "Hugging Face - Blog",
@@ -21,12 +61,20 @@
       "summary": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\nI wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become.\nNatalie Lung for Bloomberg:\n\nThe rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a B"
     },
     {
-      "title": "The Classical Advances Needed to Make Quantum Computers Tick",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/quantum-calibration-decoding",
-      "published": "2026-06-03T11:00:01+00:00",
-      "summary": "Quantum computers promise to one day solve problems beyond the most powerful supercomputers imaginable. But it’s often underappreciated how much classical computing it takes just to operate these machines. As qubit counts rise, innovations in this supporting infrastructure will be essential if they’re to live up to their promise.To prepare for the scale of quantum computers the industry is working towards, many companies are also gearing up the classical hardware, and software, required to suppo"
+      "title": "OpenAI public policy agenda",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
     },
     {
       "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
@@ -35,6 +83,14 @@
       "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
       "published": "2026-06-03T05:49:02+00:00",
       "summary": "Microsoft Build recap, and new MAI model technical details"
+    },
+    {
+      "title": "Adding MCP Tools to Reachy Mini",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "published": "2026-06-03T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Microsoft's new MAI models",
@@ -179,38 +235,6 @@
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "published": "2026-06-02T07:00:00+00:00",
       "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
-    },
-    {
-      "title": "Pasted File Editor",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
-      "published": "2026-06-02T04:13:36+00:00",
-      "summary": "Tool: Pasted File Editor\n        I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead.\nI decided to have Codex desktop build me a version of that as a prototype.\nYou can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea.\n    \n    \n        Tags: javascript, tools, ai-assisted-programming, claude, codex"
-    },
-    {
-      "title": "micropython-wasm 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
-      "published": "2026-06-02T03:43:45+00:00",
-      "summary": "Release: micropython-wasm 0.1a0\n        My latest sandboxing experiment: This alpha package bundles a lightly customized WASM build of MicroPython with a wrapper to execute code in it via wasmtime.\n    \n    \n        Tags: python, sandboxing, webassembly"
-    },
-    {
-      "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
-      "published": "2026-06-02T03:28:10+00:00",
-      "summary": "Jensen scores a huge win."
-    },
-    {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "published": "2026-06-02T02:00:00+00:00",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
     }
   ]
 }
