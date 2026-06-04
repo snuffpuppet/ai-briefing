@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-04T20:03:13.083671+00:00",
+  "generated_at": "2026-06-04T22:19:41.023363+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "These LLMs are the best at resisting Russian propaganda",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "published": "2026-06-04T20:44:31+00:00",
+      "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\""
+    },
+    {
+      "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/andon",
+      "published": "2026-06-04T20:39:18+00:00",
+      "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch."
+    },
     {
       "title": "Elon Musk tries again to escape FTC audits of X data handling",
       "source": "AI - Ars Technica",
@@ -75,6 +91,14 @@
       "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
       "published": "2026-06-04T03:24:07+00:00",
       "summary": "a quiet day."
+    },
+    {
+      "title": "Biodefense in the Intelligence Age",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "published": "2026-06-04T00:00:00+00:00",
+      "summary": "An action plan for AI-powered biological resilience"
     },
     {
       "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
@@ -187,22 +211,6 @@
       "url": "https://openai.com/index/wasmer",
       "published": "2026-06-03T12:00:00+00:00",
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
-    },
-    {
-      "title": "OpenAI public policy agenda",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
     }
   ]
 }
