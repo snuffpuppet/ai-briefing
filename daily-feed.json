@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-04T11:51:31.844524+00:00",
+  "generated_at": "2026-06-04T14:55:06.634153+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "How some data center operators are tackling their water use problems",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
+      "published": "2026-06-04T14:11:32+00:00",
+      "summary": "Hyperscalers have come under scrutiny for their impact on water quality and availability."
+    },
+    {
+      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "published": "2026-06-04T12:59:35+00:00",
+      "summary": ""
+    },
+    {
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published": "2026-06-04T12:24:58+00:00",
+      "summary": ""
+    },
     {
       "title": "How Endava is redesigning software delivery around AI agents",
       "source": "OpenAI News",
@@ -11,14 +35,6 @@
       "url": "https://openai.com/index/endava-frontiers",
       "published": "2026-06-04T12:00:00+00:00",
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
-    },
-    {
-      "title": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
-      "published": "2026-06-04T11:24:53+00:00",
-      "summary": ""
     },
     {
       "title": "How courts are coping with a flood of AI-generated lawsuits",
@@ -133,14 +149,6 @@
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-    },
-    {
       "title": "OpenAI public policy agenda",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -149,20 +157,20 @@
       "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
     },
     {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+    },
+    {
       "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
       "published": "2026-06-03T05:49:02+00:00",
       "summary": "Microsoft Build recap, and new MAI model technical details"
-    },
-    {
-      "title": "Adding MCP Tools to Reachy Mini",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "published": "2026-06-03T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
