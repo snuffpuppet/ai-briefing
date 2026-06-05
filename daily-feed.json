@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T21:24:04.822587+00:00",
+  "generated_at": "2026-06-05T23:06:18.629255+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 8,
   "items": [
     {
       "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
@@ -11,30 +11,6 @@
       "url": "https://www.latent.space/p/bad-envs",
       "published": "2026-06-05T18:49:40+00:00",
       "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix."
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "published": "2026-06-05T18:45:20+00:00",
-      "summary": "SpaceX won’t get easy access to billions of dollars from passive investors."
-    },
-    {
-      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-      "published": "2026-06-05T18:23:00+00:00",
-      "summary": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center."
-    },
-    {
-      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-      "published": "2026-06-05T15:40:48+00:00",
-      "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary."
     },
     {
       "title": "Quoting Andreas Kling",
@@ -69,44 +45,12 @@
       "summary": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy\nCharity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams:\n\nThe enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle;"
     },
     {
-      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-      "published": "2026-06-04T22:23:36+00:00",
-      "summary": "Robot demonstrations can distort public perceptions of robotic capabilities."
-    },
-    {
-      "title": "These LLMs are the best at resisting Russian propaganda",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-      "published": "2026-06-04T20:44:31+00:00",
-      "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\""
-    },
-    {
       "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/andon",
       "published": "2026-06-04T20:39:18+00:00",
       "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch."
-    },
-    {
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "published": "2026-06-04T19:49:12+00:00",
-      "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC."
-    },
-    {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "published": "2026-06-04T18:57:45+00:00",
-      "summary": ""
     },
     {
       "title": "Quoting Emanuel Maiberg, 404 Media",
@@ -117,36 +61,12 @@
       "summary": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\"\n&mdash; Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks\n\n    Tags: ai-ethics, journalism, ai, google"
     },
     {
-      "title": "How some data center operators are tackling their water use problems",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
-      "published": "2026-06-04T14:11:32+00:00",
-      "summary": "Hyperscalers have come under scrutiny for their impact on water quality and availability."
-    },
-    {
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "published": "2026-06-04T12:24:58+00:00",
-      "summary": ""
-    },
-    {
       "title": "How Endava is redesigning software delivery around AI agents",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/endava-frontiers",
       "published": "2026-06-04T12:00:00+00:00",
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
-    },
-    {
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "published": "2026-06-04T10:50:18+00:00",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;"
     }
   ]
 }
