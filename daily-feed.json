@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-05T17:52:33.034084+00:00",
+  "generated_at": "2026-06-05T19:51:41.472596+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 19,
   "items": [
+    {
+      "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/bad-envs",
+      "published": "2026-06-05T18:49:40+00:00",
+      "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix."
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published": "2026-06-05T18:45:20+00:00",
+      "summary": "SpaceX won’t get easy access to billions of dollars from passive investors."
+    },
+    {
+      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+      "published": "2026-06-05T18:23:00+00:00",
+      "summary": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center."
+    },
     {
       "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
       "source": "AI - Ars Technica",
