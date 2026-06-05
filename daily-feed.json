@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T19:51:41.472596+00:00",
+  "generated_at": "2026-06-05T21:24:04.822587+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 18,
   "items": [
     {
       "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
@@ -147,14 +147,6 @@
       "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
       "published": "2026-06-04T10:50:18+00:00",
       "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;"
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "published": "2026-06-04T09:00:00+00:00",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
     }
   ]
 }
