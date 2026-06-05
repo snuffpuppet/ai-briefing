@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-04T22:19:41.023363+00:00",
+  "generated_at": "2026-06-05T00:05:11.698573+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
+    {
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "published": "2026-06-04T22:23:36+00:00",
+      "summary": "Robot demonstrations can distort public perceptions of robotic capabilities."
+    },
     {
       "title": "These LLMs are the best at resisting Russian propaganda",
       "source": "AI - Ars Technica",
@@ -195,22 +203,6 @@
       "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
       "published": "2026-06-03T12:55:11+00:00",
       "summary": ""
-    },
-    {
-      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
-      "published": "2026-06-03T12:01:27+00:00",
-      "summary": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\nI wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become.\nNatalie Lung for Bloomberg:\n\nThe rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a B"
-    },
-    {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/wasmer",
-      "published": "2026-06-03T12:00:00+00:00",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
     }
   ]
 }
