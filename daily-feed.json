@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-05T05:14:51.636746+00:00",
+  "generated_at": "2026-06-05T09:42:47.275926+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+      "published": "2026-06-05T06:44:49+00:00",
+      "summary": "a quiet day"
+    },
     {
       "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
       "source": "Simon Willison's Weblog",
@@ -123,54 +131,6 @@
       "url": "https://huggingface.co/blog/hf-cli-for-agents",
       "published": "2026-06-04T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-      "published": "2026-06-03T20:26:51+00:00",
-      "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\""
-    },
-    {
-      "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/axiom",
-      "published": "2026-06-03T19:27:49+00:00",
-      "summary": "Verified Generation and Compounding Intelligence"
-    },
-    {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "published": "2026-06-03T19:10:03+00:00",
-      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight."
-    },
-    {
-      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-      "published": "2026-06-03T18:11:15+00:00",
-      "summary": "Critics say Trump plan to test AI models is short-sighted, performative."
-    },
-    {
-      "title": "7 Ways New Engineers Can Flourish in the Age of AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
-      "published": "2026-06-03T18:00:02+00:00",
-      "summary": "New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition.Here are seven tips to help keep young professionals in demand no matter how quickly the field’s tools evolve.1. Master the fundamentals first. AI tools can help you code, but you still need strong fundamentals in:Data structures and algorithms for problem-solving.Operating systems, databases, and networking for system-level understandin"
-    },
-    {
-      "title": "Kubernetes and retiring at the top with Kelsey Hightower",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
-      "published": "2026-06-03T17:59:17+00:00",
-      "summary": "Kelsey Hightower reflects on his journey from self-taught technician to Google Distinguished Engineer, sharing lessons on open source, Kubernetes, AI, and building technology that serves people."
     }
   ]
 }
