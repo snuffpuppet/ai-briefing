@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-06T02:55:15.813456+00:00",
+  "generated_at": "2026-06-06T06:29:36.651453+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+      "published": "2026-06-06T04:34:47+00:00",
+      "summary": "a quiet day of RSI."
+    },
+    {
+      "title": "micropython-wasm 0.1a2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "published": "2026-06-06T04:26:06+00:00",
+      "summary": "Release: micropython-wasm 0.1a2\n        I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section.\n    \n    \n        Tags: python, sandboxing, webassembly, micropython"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "published": "2026-06-06T03:53:34+00:00",
+      "summary": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython.\n\n  Why do I want a sandbox?\n  What I want from a sandbox\n  WebAssembly looks really promising here\n  MicroPython in WebAss"
+    },
     {
       "title": "OpenAI Help: Lockdown Mode",
       "source": "Simon Willison's Weblog",
@@ -123,14 +147,6 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "published": "2026-06-04T18:57:45+00:00",
       "summary": ""
-    },
-    {
-      "title": "Quoting Emanuel Maiberg, 404 Media",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
-      "published": "2026-06-04T16:38:29+00:00",
-      "summary": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\"\n&mdash; Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks\n\n    Tags: ai-ethics, journalism, ai, google"
     }
   ]
 }
