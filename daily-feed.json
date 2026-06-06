@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-06T17:11:10.364175+00:00",
+  "generated_at": "2026-06-06T19:19:22.982983+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 12,
   "items": [
     {
-      "title": "Job Searcher",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
-      "published": "2026-06-06T15:36:51+00:00",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "published": "2026-06-06T19:02:33+00:00",
       "summary": ""
     },
     {
@@ -99,14 +99,6 @@
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "published": "2026-06-05T09:00:00+00:00",
       "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
-      "published": "2026-06-05T06:44:49+00:00",
-      "summary": "a quiet day"
     }
   ]
 }
