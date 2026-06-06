@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T09:24:19.484606+00:00",
+  "generated_at": "2026-06-06T11:24:32.672194+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 13,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -107,14 +107,6 @@
       "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
       "published": "2026-06-04T23:55:27+00:00",
       "summary": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy\nCharity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams:\n\nThe enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle;"
-    },
-    {
-      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-      "published": "2026-06-04T22:23:36+00:00",
-      "summary": "Robot demonstrations can distort public perceptions of robotic capabilities."
     }
   ]
 }
