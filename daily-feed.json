@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T06:29:36.651453+00:00",
+  "generated_at": "2026-06-06T09:24:19.484606+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 14,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -115,38 +115,6 @@
       "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
       "published": "2026-06-04T22:23:36+00:00",
       "summary": "Robot demonstrations can distort public perceptions of robotic capabilities."
-    },
-    {
-      "title": "These LLMs are the best at resisting Russian propaganda",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-      "published": "2026-06-04T20:44:31+00:00",
-      "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\""
-    },
-    {
-      "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/andon",
-      "published": "2026-06-04T20:39:18+00:00",
-      "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch."
-    },
-    {
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "published": "2026-06-04T19:49:12+00:00",
-      "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC."
-    },
-    {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "published": "2026-06-04T18:57:45+00:00",
-      "summary": ""
     }
   ]
 }
