@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T13:27:47.449397+00:00",
+  "generated_at": "2026-06-06T15:13:13.904714+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 12,
   "items": [
     {
       "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
@@ -11,14 +11,6 @@
       "url": "https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc",
       "published": "2026-06-06T12:00:01+00:00",
       "summary": "At Computex 2026, an annual computer trade show held in Taipei, Taiwan, Nvidia made a long anticipated announcement—a version of the company’s Blackwell GB10 superchip for Windows PCs, called RTX Spark. Originally rumored to launch in 2025, it was finally introduced at this year’s show.It came with full support from Microsoft, which announced two new devices powered by RTX Spark: the Surface Laptop Ultra and the Surface RTX Spark Dev Box. Asus, Dell, Lenovo, HP, and MSI also announced Windows PC"
-    },
-    {
-      "title": "Persona Atlas: Mapping How Famous Minds Think",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
-      "published": "2026-06-06T11:42:01+00:00",
-      "summary": ""
     },
     {
       "title": "[AINews] not much happened today",
