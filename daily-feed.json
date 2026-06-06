@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-06T11:24:32.672194+00:00",
+  "generated_at": "2026-06-06T13:27:47.449397+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 13,
   "items": [
+    {
+      "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc",
+      "published": "2026-06-06T12:00:01+00:00",
+      "summary": "At Computex 2026, an annual computer trade show held in Taipei, Taiwan, Nvidia made a long anticipated announcement—a version of the company’s Blackwell GB10 superchip for Windows PCs, called RTX Spark. Originally rumored to launch in 2025, it was finally introduced at this year’s show.It came with full support from Microsoft, which announced two new devices powered by RTX Spark: the Surface Laptop Ultra and the Surface RTX Spark Dev Box. Asus, Dell, Lenovo, HP, and MSI also announced Windows PC"
+    },
+    {
+      "title": "Persona Atlas: Mapping How Famous Minds Think",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "published": "2026-06-06T11:42:01+00:00",
+      "summary": ""
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -35,14 +51,6 @@
       "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
       "published": "2026-06-05T23:56:40+00:00",
       "summary": "OpenAI Help: Lockdown Mode\nOpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\":\n\nLockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT proc"
-    },
-    {
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "published": "2026-06-05T22:18:46+00:00",
-      "summary": ""
     },
     {
       "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
@@ -99,14 +107,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
       "published": "2026-06-05T06:44:49+00:00",
       "summary": "a quiet day"
-    },
-    {
-      "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
-      "published": "2026-06-04T23:55:27+00:00",
-      "summary": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy\nCharity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams:\n\nThe enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle;"
     }
   ]
 }
