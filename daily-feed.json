@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-06T15:13:13.904714+00:00",
+  "generated_at": "2026-06-06T17:11:10.364175+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 13,
   "items": [
+    {
+      "title": "Job Searcher",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+      "published": "2026-06-06T15:36:51+00:00",
+      "summary": ""
+    },
     {
       "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
       "source": "IEEE Spectrum",
