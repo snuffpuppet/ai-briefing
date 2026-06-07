@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-07T07:53:20.357246+00:00",
+  "generated_at": "2026-06-07T10:27:35.589331+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 6,
   "items": [
     {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "title": "Her · हेर — a detective for your Claude Code sessions",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "published": "2026-06-06T19:02:33+00:00",
+      "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "published": "2026-06-07T10:13:41+00:00",
       "summary": ""
     },
     {
