@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-06T23:01:35.541499+00:00",
+  "generated_at": "2026-06-07T03:40:39.537162+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "published": "2026-06-06T19:02:33+00:00",
+      "summary": ""
+    },
     {
       "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
       "source": "IEEE Spectrum",
@@ -53,12 +61,28 @@
       "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix."
     },
     {
-      "title": "Quoting Andreas Kling",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
-      "published": "2026-06-05T11:10:05+00:00",
-      "summary": "We will no longer accept public pull requests. [...]\nA substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...]\nWhether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes to it must be the people who decide those changes belong in the project, and who will answer for th"
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published": "2026-06-05T18:45:20+00:00",
+      "summary": "SpaceX won’t get easy access to billions of dollars from passive investors."
+    },
+    {
+      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+      "published": "2026-06-05T18:23:00+00:00",
+      "summary": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center."
+    },
+    {
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "published": "2026-06-05T15:40:48+00:00",
+      "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary."
     }
   ]
 }
