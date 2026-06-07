@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-07T10:27:35.589331+00:00",
+  "generated_at": "2026-06-07T12:19:27.296843+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 6,
   "items": [
     {
-      "title": "Her · हेर — a detective for your Claude Code sessions",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
-      "published": "2026-06-07T10:13:41+00:00",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "published": "2026-06-07T11:38:54+00:00",
       "summary": ""
+    },
+    {
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "published": "2026-06-07T11:08:30+00:00",
+      "summary": "How accurate does an AI system need to be?"
     },
     {
       "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
@@ -43,14 +51,6 @@
       "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
       "published": "2026-06-06T03:53:34+00:00",
       "summary": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython.\n\n  Why do I want a sandbox?\n  What I want from a sandbox\n  WebAssembly looks really promising here\n  MicroPython in WebAss"
-    },
-    {
-      "title": "OpenAI Help: Lockdown Mode",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
-      "published": "2026-06-05T23:56:40+00:00",
-      "summary": "OpenAI Help: Lockdown Mode\nOpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\":\n\nLockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT proc"
     }
   ]
 }
