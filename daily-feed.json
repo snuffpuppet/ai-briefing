@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T14:50:41.231118+00:00",
+  "generated_at": "2026-06-07T16:12:52.966251+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
@@ -43,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
       "published": "2026-06-06T04:26:06+00:00",
       "summary": "Release: micropython-wasm 0.1a2\n        I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section.\n    \n    \n        Tags: python, sandboxing, webassembly, micropython"
-    },
-    {
-      "title": "Running Python code in a sandbox with MicroPython and WASM",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-      "published": "2026-06-06T03:53:34+00:00",
-      "summary": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython.\n\n  Why do I want a sandbox?\n  What I want from a sandbox\n  WebAssembly looks really promising here\n  MicroPython in WebAss"
     }
   ]
 }
