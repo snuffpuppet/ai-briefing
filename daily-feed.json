@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T16:12:52.966251+00:00",
+  "generated_at": "2026-06-07T18:02:26.173948+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 3,
   "items": [
     {
       "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
@@ -27,22 +27,6 @@
       "url": "https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc",
       "published": "2026-06-06T12:00:01+00:00",
       "summary": "At Computex 2026, an annual computer trade show held in Taipei, Taiwan, Nvidia made a long anticipated announcement—a version of the company’s Blackwell GB10 superchip for Windows PCs, called RTX Spark. Originally rumored to launch in 2025, it was finally introduced at this year’s show.It came with full support from Microsoft, which announced two new devices powered by RTX Spark: the Surface Laptop Ultra and the Surface RTX Spark Dev Box. Asus, Dell, Lenovo, HP, and MSI also announced Windows PC"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
-      "published": "2026-06-06T04:34:47+00:00",
-      "summary": "a quiet day of RSI."
-    },
-    {
-      "title": "micropython-wasm 0.1a2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
-      "published": "2026-06-06T04:26:06+00:00",
-      "summary": "Release: micropython-wasm 0.1a2\n        I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section.\n    \n    \n        Tags: python, sandboxing, webassembly, micropython"
     }
   ]
 }
