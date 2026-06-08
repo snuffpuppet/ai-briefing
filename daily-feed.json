@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-06-07T22:02:22.981653+00:00",
+  "generated_at": "2026-06-08T00:05:03.240153+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
-  "items": [
-    {
-      "title": "Amazing Digital Dentures (a failed project)",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-      "published": "2026-06-07T19:44:27+00:00",
-      "summary": ""
-    },
-    {
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "published": "2026-06-07T11:08:30+00:00",
-      "summary": "How accurate does an AI system need to be?"
-    },
-    {
-      "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc",
-      "published": "2026-06-06T12:00:01+00:00",
-      "summary": "At Computex 2026, an annual computer trade show held in Taipei, Taiwan, Nvidia made a long anticipated announcement—a version of the company’s Blackwell GB10 superchip for Windows PCs, called RTX Spark. Originally rumored to launch in 2025, it was finally introduced at this year’s show.It came with full support from Microsoft, which announced two new devices powered by RTX Spark: the Surface Laptop Ultra and the Surface RTX Spark Dev Box. Asus, Dell, Lenovo, HP, and MSI also announced Windows PC"
-    }
-  ]
+  "item_count": 0,
+  "items": []
 }
