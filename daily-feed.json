@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-06-08T00:05:03.240153+00:00",
+  "generated_at": "2026-06-08T05:29:04.100475+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 0,
-  "items": []
+  "item_count": 3,
+  "items": [
+    {
+      "title": "datasette-agent-edit 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+      "published": "2026-06-07T23:56:38+00:00",
+      "summary": "Release: datasette-agent-edit 0.1a0\n        I'm planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL queries, and editing SVG files.\nAgentic editing of text is a little tricky to get right. My favorite published design for this is for the Claude text editor, which implements the following tools:\n\nview - view sections of a file, with line numbers added to every line.\nstr_replace - find an exac"
+    },
+    {
+      "title": "Amazing Digital Dentures (a failed project)",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published": "2026-06-07T19:44:27+00:00",
+      "summary": ""
+    },
+    {
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "published": "2026-06-07T11:08:30+00:00",
+      "summary": "How accurate does an AI system need to be?"
+    }
+  ]
 }
