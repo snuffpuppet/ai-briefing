@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08T14:46:47.599374+00:00",
+  "generated_at": "2026-06-08T17:50:54.383480+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
@@ -11,14 +11,6 @@
       "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
       "published": "2026-06-08T13:51:16+00:00",
       "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO."
-    },
-    {
-      "title": "The crash that vanished: control and emergence in a five-model economy",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "published": "2026-06-08T13:10:48+00:00",
-      "summary": ""
     },
     {
       "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
