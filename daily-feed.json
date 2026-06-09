@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-09T20:54:59.924505+00:00",
+  "generated_at": "2026-06-09T22:22:56.519841+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Setting a custom price for a model in AgentsView",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+      "published": "2026-06-09T21:35:31+00:00",
+      "summary": "TIL: Setting a custom price for a model in AgentsView\n        I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop.\nClaude Fable 5 came out today and wasn't yet included in the pricing database AgentsView uses. I used Fable to reverse-engineer AgentsView and figured out this recipe for setting custom prices.\nHere's my Claude Fable 5 usage for today so far, plotted by AgentsView as a treemap across my diffe"
+    },
     {
       "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
       "source": "Hugging Face - Blog",
@@ -43,6 +51,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
       "published": "2026-06-09T16:35:53+00:00",
       "summary": "Deepdive into the tech jobs market with exclusive data revealing AI labs are more attractive than Big Tech, native mobile & frontend roles are declining, management&#8217;s &#8220;great flattening&#8221;, and more"
+    },
+    {
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "published": "2026-06-09T15:56:23+00:00",
+      "summary": ""
     },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
@@ -109,6 +125,14 @@
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;"
     },
     {
+      "title": "What Codex unlocks for Notion",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/notion",
+      "published": "2026-06-09T10:00:00+00:00",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+    },
+    {
       "title": "Five things you need to know about AI",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -123,6 +147,14 @@
       "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
       "published": "2026-06-09T06:12:33+00:00",
       "summary": "We made a thing!"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "published": "2026-06-09T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Siri AI at WWDC 2026",
