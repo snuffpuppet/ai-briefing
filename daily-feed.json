@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-06-09T12:35:31.570488+00:00",
+  "generated_at": "2026-06-09T15:53:15.578042+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published": "2026-06-09T15:16:25+00:00",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published": "2026-06-09T14:10:19+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "published": "2026-06-09T14:02:33+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Apple says its AI is still private, even when it's running on Google's servers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+      "published": "2026-06-09T13:05:49+00:00",
+      "summary": "Some models run in Google's cloud, but without giving Google any kind of access."
+    },
+    {
+      "title": "AI Can Help Track the World’s Shrinking Glaciers",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/tracking-glacier-melting-ai",
+      "published": "2026-06-09T13:00:02+00:00",
+      "summary": "Tracking how fast glaciers are shrinking is crucial for measuring the pace of climate change and projecting future sea level rises. This is normally a painstaking manual job, but a new approach that enables AI to analyze satellite images of glaciers anywhere in the world could help automate the monitoring process.Glaciers that flow directly into the ocean play a crucial role in the earth’s climate, but global warming is making them retreat ever faster. This can have severe knock-on effects as ic"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "published": "2026-06-09T10:46:19+00:00",
+      "summary": ""
+    },
     {
       "title": "Learning to lead in a hybrid human-AI enterprise",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -37,12 +85,52 @@
       "summary": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they announced today. \nThe new Siri AI features do at least look feasible with today's technology, especially since Apple are licensing a custom Gemini-derived model that they can run on their own Private Cloud Compute.\nIt sounds like they'll be taking advantage of vision LLMs to extract information from the use"
     },
     {
+      "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+      "published": "2026-06-08T19:30:05+00:00",
+      "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul."
+    },
+    {
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "published": "2026-06-08T19:00:30+00:00",
+      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now."
+    },
+    {
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "published": "2026-06-08T18:34:23+00:00",
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent."
+    },
+    {
       "title": "Confidential submission of draft S-1 to the SEC",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "published": "2026-06-08T14:00:00+00:00",
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
+    },
+    {
+      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+      "published": "2026-06-08T13:51:16+00:00",
+      "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO."
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "published": "2026-06-08T13:04:59+00:00",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
     },
     {
       "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
@@ -53,12 +141,12 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Society can be reward-hacked, just like cyber environments:…Imagine an army of credit card point optimizers gaming the system… forever…Research from Kings College London, Fudan University, and [&#8230;]"
     },
     {
-      "title": "Built to benefit everyone: our plan",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "published": "2026-06-08T01:30:00+00:00",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone."
+      "title": "The weather and climate science AI revolution isn’t revolutionary",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+      "published": "2026-06-08T11:00:58+00:00",
+      "summary": "Machine learning has its limits—how is it being used?"
     }
   ]
 }
