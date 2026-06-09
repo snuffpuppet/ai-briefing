@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-09T15:53:15.578042+00:00",
+  "generated_at": "2026-06-09T18:01:53.203932+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "State of the software engineering job market in 2026, part 2",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+      "published": "2026-06-09T16:35:53+00:00",
+      "summary": "Deepdive into the tech jobs market with exclusive data revealing AI labs are more attractive than Big Tech, native mobile & frontend roles are declining, management&#8217;s &#8220;great flattening&#8221;, and more"
+    },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "source": "Google DeepMind News",
