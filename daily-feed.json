@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-08T22:24:59.568054+00:00",
+  "generated_at": "2026-06-09T00:04:07.801874+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 12,
   "items": [
+    {
+      "title": "Siri AI at WWDC 2026",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+      "published": "2026-06-08T23:58:04+00:00",
+      "summary": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they announced today. \nThe new Siri AI features do at least look feasible with today's technology, especially since Apple are licensing a custom Gemini-derived model that they can run on their own Private Cloud Compute.\nIt sounds like they'll be taking advantage of vision LLMs to extract information from the use"
+    },
     {
       "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
       "source": "AI - Ars Technica",
@@ -91,14 +99,6 @@
       "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
       "published": "2026-06-07T23:56:38+00:00",
       "summary": "Release: datasette-agent-edit 0.1a0\n        I'm planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL queries, and editing SVG files.\nAgentic editing of text is a little tricky to get right. My favorite published design for this is for the Claude text editor, which implements the following tools:\n\nview - view sections of a file, with line numbers added to every line.\nstr_replace - find an exac"
-    },
-    {
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "published": "2026-06-07T11:08:30+00:00",
-      "summary": "How accurate does an AI system need to be?"
     }
   ]
 }
