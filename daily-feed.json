@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-09T18:01:53.203932+00:00",
+  "generated_at": "2026-06-09T20:54:59.924505+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "published": "2026-06-09T19:38:28+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "published": "2026-06-09T19:20:25+00:00",
+      "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries."
+    },
+    {
+      "title": "Quoting Andrej Karpathy",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
+      "published": "2026-06-09T19:03:10+00:00",
+      "summary": "I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref).\n&mdash; Andrej Karp"
+    },
+    {
+      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "published": "2026-06-09T18:57:25+00:00",
+      "summary": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security."
+    },
     {
       "title": "State of the software engineering job market in 2026, part 2",
       "source": "The Pragmatic Engineer",
@@ -51,6 +83,14 @@
       "url": "https://spectrum.ieee.org/tracking-glacier-melting-ai",
       "published": "2026-06-09T13:00:02+00:00",
       "summary": "Tracking how fast glaciers are shrinking is crucial for measuring the pace of climate change and projecting future sea level rises. This is normally a painstaking manual job, but a new approach that enables AI to analyze satellite images of glaciers anywhere in the world could help automate the monitoring process.Glaciers that flow directly into the ocean play a crucial role in the earth’s climate, but global warming is making them retreat ever faster. This can have severe knock-on effects as ic"
+    },
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/nextdoor",
+      "published": "2026-06-09T12:00:00+00:00",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
     },
     {
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
