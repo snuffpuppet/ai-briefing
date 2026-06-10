@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-10T21:59:45.060153+00:00",
+  "generated_at": "2026-06-10T23:41:55.186295+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 28,
   "items": [
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
     {
       "title": "DiffusionGemma",
       "source": "Simon Willison's Weblog",
@@ -11,6 +19,14 @@
       "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
       "published": "2026-06-10T20:00:54+00:00",
       "summary": "DiffusionGemma\nLast May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it.\nThat research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, google/diffusiongemma-26B-A4B-it.\nNVIDIA are currently hosting the model for free on their NIM cloud API. I used that API to generate this pelican, wh"
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "published": "2026-06-10T20:00:00+00:00",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
     },
     {
       "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
@@ -211,30 +227,6 @@
       "url": "https://openai.com/index/nextdoor",
       "published": "2026-06-09T12:00:00+00:00",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "published": "2026-06-09T10:46:19+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "published": "2026-06-09T10:20:06+00:00",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;"
-    },
-    {
-      "title": "What Codex unlocks for Notion",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/notion",
-      "published": "2026-06-09T10:00:00+00:00",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
     }
   ]
 }
