@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-10T19:33:43.025289+00:00",
+  "generated_at": "2026-06-10T21:59:45.060153+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 29,
   "items": [
     {
-      "title": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
+      "title": "DiffusionGemma",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "published": "2026-06-10T20:00:54+00:00",
+      "summary": "DiffusionGemma\nLast May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it.\nThat research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, google/diffusiongemma-26B-A4B-it.\nNVIDIA are currently hosting the model for free on their NIM cloud API. I used that API to generate this pelican, wh"
+    },
+    {
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
@@ -35,6 +43,14 @@
       "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
       "published": "2026-06-10T15:23:34+00:00",
       "summary": "Easy solution to slow down recursive AI self improvement:\n\nThe lab with the top-ranked model must agree THEY must not use it for working on frontier AI\nBut everyone else should have access to it.\n\nBy definition, this means the frontier doesn't advance.\nIt also has the critical benefit of avoiding a dangerous power imbalance.\nAnthropic has chosen the opposite of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll"
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "published": "2026-06-10T12:00:00+00:00",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
     },
     {
       "title": "Timing Trick Cuts Energy Used in LLM Training by Up to 14 Percent",
@@ -219,14 +235,6 @@
       "url": "https://openai.com/index/notion",
       "published": "2026-06-09T10:00:00+00:00",
       "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
-    },
-    {
-      "title": "Five things you need to know about AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "published": "2026-06-09T09:16:45+00:00",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;"
     }
   ]
 }
