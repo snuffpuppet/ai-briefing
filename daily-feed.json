@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-10T09:55:44.109767+00:00",
+  "generated_at": "2026-06-10T12:56:14.622181+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Timing Trick Cuts Energy Used in LLM Training by Up to 14 Percent",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/llm-training-energy-saving-trick",
+      "published": "2026-06-10T11:00:01+00:00",
+      "summary": "OpenAI’s fourth large language model (LLM), GPT-4, took an estimated 50 Gigawatt-hours to train, or the equivalent of 5,000 American homes‘ yearly power consumption. That was in 2023. Since then, the computational resources used to train frontier LLMs have only increased, though direct power usage numbers are hard to come by.Now, a research group at University of Twente in the Netherlands has shown that you can save up to 14 percent of the energy used in LLM training without sacrificing speed by"
+    },
     {
       "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
       "source": "Latent.Space",
@@ -195,30 +203,6 @@
       "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
       "published": "2026-06-09T06:12:33+00:00",
       "summary": "We made a thing!"
-    },
-    {
-      "title": "Industrial policy for the Intelligence Age",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "published": "2026-06-09T00:00:00+00:00",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
-    },
-    {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "published": "2026-06-09T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Siri AI at WWDC 2026",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-      "published": "2026-06-08T23:58:04+00:00",
-      "summary": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they announced today. \nThe new Siri AI features do at least look feasible with today's technology, especially since Apple are licensing a custom Gemini-derived model that they can run on their own Private Cloud Compute.\nIt sounds like they'll be taking advantage of vision LLMs to extract information from the use"
     }
   ]
 }
