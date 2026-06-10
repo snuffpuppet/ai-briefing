@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-10T16:35:09.851752+00:00",
+  "generated_at": "2026-06-10T19:33:43.025289+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "published": "2026-06-10T19:29:21+00:00",
+      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster."
+    },
+    {
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "published": "2026-06-10T17:19:31+00:00",
+      "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry."
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "published": "2026-06-10T16:24:11+00:00",
+      "summary": ""
+    },
     {
       "title": "Quoting Jeremy Howard",
       "source": "Simon Willison's Weblog",
@@ -203,14 +227,6 @@
       "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
       "published": "2026-06-09T09:16:45+00:00",
       "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;"
-    },
-    {
-      "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
-      "published": "2026-06-09T06:12:33+00:00",
-      "summary": "We made a thing!"
     }
   ]
 }
