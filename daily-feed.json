@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:35:11.736298+00:00",
+  "generated_at": "2026-06-11T22:01:47.063541+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
@@ -170,7 +170,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/llm-training-energy-saving-trick",
       "published": "2026-06-10T11:00:01+00:00",
-      "summary": "OpenAI’s fourth large language model (LLM), GPT-4, took an estimated 50 Gigawatt-hours to train, or the equivalent of 5,000 American homes‘ yearly power consumption. That was in 2023. Since then, the computational resources used to train frontier LLMs have only increased, though direct power usage numbers are hard to come by.Now, a research group at University of Twente in the Netherlands has shown that you can save up to 14 percent of the energy used in LLM training without sacrificing speed by"
+      "summary": "OpenAI’s fourth large language model (LLM), GPT-4, took an estimated 50 gigawatt-hours to train, or the equivalent of 5,000 American homes’ yearly power consumption. That was in 2023. Since then, the computational resources used to train frontier LLMs have only increased, though direct power usage numbers are hard to come by.Now, a research group at the University of Twente in the Netherlands has shown that you can save up to 14 percent of the energy used in LLM training without sacrificing spee"
     },
     {
       "title": "Investing in multi-agent AI safety research",
