@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-11T12:44:11.164040+00:00",
+  "generated_at": "2026-06-11T16:53:43.717595+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
+    {
+      "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
+      "published": "2026-06-11T16:26:58+00:00",
+      "summary": "Anthropic&#8217;s new model, Fable, has restrictions many users find unacceptable. Also: a new trend of smart model routing, Coinbase&#8217;s core service has no automatic cross-zone failover, and more."
+    },
+    {
+      "title": "How a Google DeepMind Spinoff Hunts Hidden Drug Targets",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery",
+      "published": "2026-06-11T12:00:01+00:00",
+      "summary": "For more than a decade, artificial intelligence has been touted as a way to dramatically accelerate drug discovery. Yet despite billions of dollars in investment, relatively few AI-designed medicines have made it to patients. That’s partially because the timelines for careful drug testing can’t be easily compressed—and partially because drug development is just really hard. Isomorphic Labs, the Google DeepMind spinout that’s building on DeepMind’s Nobel Prize-winning work on protein structure pr"
+    },
     {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -29,20 +45,28 @@
       "summary": "a quiet day lets us reflect on a great essay"
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "2026-06-11T00:00:00+00:00",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
@@ -131,14 +155,6 @@
       "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "published": "2026-06-10T10:21:19+00:00",
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
-    },
-    {
-      "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
-      "published": "2026-06-10T03:50:21+00:00",
-      "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies"
     }
   ]
 }
