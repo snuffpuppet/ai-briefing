@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-11T08:44:33.647140+00:00",
+  "generated_at": "2026-06-11T12:44:11.164040+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "published": "2026-06-11T11:00:45+00:00",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;"
+    },
     {
       "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
       "source": "Simon Willison's Weblog",
@@ -21,6 +29,14 @@
       "summary": "a quiet day lets us reflect on a great essay"
     },
     {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+    },
+    {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -29,12 +45,12 @@
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+      "summary": ""
     },
     {
       "title": "datasette-agent 0.2a0",
@@ -109,60 +125,20 @@
       "summary": "OpenAI’s fourth large language model (LLM), GPT-4, took an estimated 50 Gigawatt-hours to train, or the equivalent of 5,000 American homes‘ yearly power consumption. That was in 2023. Since then, the computational resources used to train frontier LLMs have only increased, though direct power usage numbers are hard to come by.Now, a research group at University of Twente in the Netherlands has shown that you can save up to 14 percent of the energy used in LLM training without sacrificing speed by"
     },
     {
+      "title": "Investing in multi-agent AI safety research",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published": "2026-06-10T10:21:19+00:00",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
+    },
+    {
       "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
       "published": "2026-06-10T03:50:21+00:00",
       "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies"
-    },
-    {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
-      "published": "2026-06-10T00:37:25+00:00",
-      "summary": "If Claude Fable stops helping you, you&#x27;ll never know\nJonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here's a longer excerpt, highlights mine:\n\nIn light of the ability of recent models to accelerate their own development, we’ve implemented new interventions that limit Claude’s effectiveness for requests targeting frontier LLM development (for example, on building pretraining pipelines, distributed training infrastruct"
-    },
-    {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/lseg",
-      "published": "2026-06-10T00:00:00+00:00",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
-    },
-    {
-      "title": "Initial impressions of Claude Fable 5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-      "published": "2026-06-09T23:59:54+00:00",
-      "summary": "I didn't have early access to today's Claude Fable 5 release, but I've spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It's slow, expensive and has been quite happily churning through everything I've thrown at it so far. As is frequently the case with current frontier models the challenge is finding tasks that it can't do.\nFirst, let's review the key characteristics.\nAnthropic claim that Claude Fable 5 offers the same performa"
-    },
-    {
-      "title": "Claude Fable 5 and new AI safety fables",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
-      "published": "2026-06-09T22:59:35+00:00",
-      "summary": "One step further into the power politics of frontier AI systems."
-    },
-    {
-      "title": "llm 0.32a3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
-      "published": "2026-06-09T22:27:03+00:00",
-      "summary": "Release: llm 0.32a3\n        Almost entirely written by the new Claude Fable 5, see my write-up for more details.\n    \n    \n        Tags: projects, ai, generative-ai, llms, llm, claude-mythos"
-    },
-    {
-      "title": "Setting a custom price for a model in AgentsView",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
-      "published": "2026-06-09T21:35:31+00:00",
-      "summary": "TIL: Setting a custom price for a model in AgentsView\n        I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop.\nClaude Fable 5 came out today and wasn't yet included in the pricing database AgentsView uses. I used Fable to reverse-engineer AgentsView and figured out this recipe for setting custom prices.\nHere's my Claude Fable 5 usage for today so far, plotted by AgentsView as a treemap across my diffe"
     }
   ]
 }
