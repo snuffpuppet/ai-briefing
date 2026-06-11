@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-10T23:41:55.186295+00:00",
+  "generated_at": "2026-06-11T03:43:55.535626+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+      "published": "2026-06-11T03:14:26+00:00",
+      "summary": "a quiet day lets us reflect on a great essay"
+    },
     {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "source": "OpenAI News",
@@ -11,6 +19,14 @@
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "published": "2026-06-11T00:00:00+00:00",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "title": "datasette-agent 0.2a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "published": "2026-06-10T23:57:27+00:00",
+      "summary": "Release: datasette-agent 0.2a0\n        Highlights from the release notes:\n\n\nTools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice (options=[...]) or free-text (free_text=True) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a ser"
     },
     {
       "title": "DiffusionGemma",
@@ -179,54 +195,6 @@
       "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
       "published": "2026-06-09T15:56:23+00:00",
       "summary": ""
-    },
-    {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "published": "2026-06-09T15:16:25+00:00",
-      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "published": "2026-06-09T14:10:19+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Powering the future of robotics in Europe",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "published": "2026-06-09T14:02:33+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Apple says its AI is still private, even when it's running on Google's servers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-      "published": "2026-06-09T13:05:49+00:00",
-      "summary": "Some models run in Google's cloud, but without giving Google any kind of access."
-    },
-    {
-      "title": "AI Can Help Track the World’s Shrinking Glaciers",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/tracking-glacier-melting-ai",
-      "published": "2026-06-09T13:00:02+00:00",
-      "summary": "Tracking how fast glaciers are shrinking is crucial for measuring the pace of climate change and projecting future sea level rises. This is normally a painstaking manual job, but a new approach that enables AI to analyze satellite images of glaciers anywhere in the world could help automate the monitoring process.Glaciers that flow directly into the ocean play a crucial role in the earth’s climate, but global warming is making them retreat ever faster. This can have severe knock-on effects as ic"
-    },
-    {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/nextdoor",
-      "published": "2026-06-09T12:00:00+00:00",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
     }
   ]
 }
