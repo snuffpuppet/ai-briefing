@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-12T14:09:22.502809+00:00",
+  "generated_at": "2026-06-12T17:36:25.280927+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 14,
   "items": [
+    {
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "published": "2026-06-12T17:18:49+00:00",
+      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\""
+    },
+    {
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "published": "2026-06-12T16:51:38+00:00",
+      "summary": "Even moderately sized data centers can have an outsized local impact."
+    },
+    {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "published": "2026-06-12T16:34:36+00:00",
+      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "published": "2026-06-12T15:56:10+00:00",
+      "summary": ""
+    },
     {
       "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
       "source": "AI - Ars Technica",
@@ -11,6 +43,14 @@
       "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
       "published": "2026-06-12T11:15:41+00:00",
       "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny."
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published": "2026-06-12T10:00:00+00:00",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
     },
     {
       "title": "[AINews] Loopcraft: The Art of Stacking Loops",
@@ -75,22 +115,6 @@
       "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
       "published": "2026-06-11T06:28:09+00:00",
       "summary": "Release: asyncinject 0.7\n        I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model!\n    \n    \n        Tags: async, projects, python, claude-mythos"
-    },
-    {
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
-      "published": "2026-06-11T03:45:49+00:00",
-      "summary": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\nBig scoop for Maxwell Zeff at Wired:\n\n“We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.”\n\nThere's been a huge outcry about Anthropic's policy, tucked away in their system card, that Claude Fable/Mythos would identify \"requests targeting frontier LLM develop"
-    },
-    {
-      "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
-      "published": "2026-06-11T03:14:26+00:00",
-      "summary": "a quiet day lets us reflect on a great essay"
     }
   ]
 }
