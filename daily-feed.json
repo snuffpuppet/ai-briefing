@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-12T17:36:25.280927+00:00",
+  "generated_at": "2026-06-12T20:09:29.552460+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "published": "2026-06-12T18:45:40+00:00",
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded."
+    },
+    {
+      "title": "Quoting Andrew Singleton",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "published": "2026-06-12T18:09:21+00:00",
+      "summary": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of his research, he becomes emb"
+    },
+    {
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "published": "2026-06-12T18:03:29+00:00",
+      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots."
+    },
     {
       "title": "$130 billion in data center projects blocked by protests so far this year",
       "source": "AI - Ars Technica",
@@ -107,14 +131,6 @@
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "published": "2026-06-11T11:00:45+00:00",
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;"
-    },
-    {
-      "title": "asyncinject 0.7",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-      "published": "2026-06-11T06:28:09+00:00",
-      "summary": "Release: asyncinject 0.7\n        I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model!\n    \n    \n        Tags: async, projects, python, claude-mythos"
     }
   ]
 }
