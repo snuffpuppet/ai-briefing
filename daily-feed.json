@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-12T00:18:13.762742+00:00",
+  "generated_at": "2026-06-12T05:47:23.153078+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+      "published": "2026-06-12T05:34:09+00:00",
+      "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy"
+    },
     {
       "title": "Claude Fable is relentlessly proactive",
       "source": "Simon Willison's Weblog",
@@ -69,22 +77,6 @@
       "summary": "a quiet day lets us reflect on a great essay"
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -99,6 +91,22 @@
       "url": "https://openai.com/index/bbva",
       "published": "2026-06-11T00:00:00+00:00",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
@@ -139,30 +147,6 @@
       "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
       "published": "2026-06-10T19:29:21+00:00",
       "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster."
-    },
-    {
-      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-      "published": "2026-06-10T17:19:31+00:00",
-      "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry."
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "published": "2026-06-10T16:24:11+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting Jeremy Howard",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
-      "published": "2026-06-10T15:23:34+00:00",
-      "summary": "Easy solution to slow down recursive AI self improvement:\n\nThe lab with the top-ranked model must agree THEY must not use it for working on frontier AI\nBut everyone else should have access to it.\n\nBy definition, this means the frontier doesn't advance.\nIt also has the critical benefit of avoiding a dangerous power imbalance.\nAnthropic has chosen the opposite of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll"
     }
   ]
 }
