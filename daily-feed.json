@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-06-12T20:09:29.552460+00:00",
+  "generated_at": "2026-06-12T22:23:14.357187+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 9,
   "items": [
-    {
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "published": "2026-06-12T18:45:40+00:00",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded."
-    },
     {
       "title": "Quoting Andrew Singleton",
       "source": "Simon Willison's Weblog",
@@ -19,54 +11,6 @@
       "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
       "published": "2026-06-12T18:09:21+00:00",
       "summary": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of his research, he becomes emb"
-    },
-    {
-      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-      "published": "2026-06-12T18:03:29+00:00",
-      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots."
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "published": "2026-06-12T17:18:49+00:00",
-      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\""
-    },
-    {
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-      "published": "2026-06-12T16:51:38+00:00",
-      "summary": "Even moderately sized data centers can have an outsized local impact."
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "published": "2026-06-12T16:34:36+00:00",
-      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
-    },
-    {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "published": "2026-06-12T15:56:10+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "published": "2026-06-12T11:15:41+00:00",
-      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny."
     },
     {
       "title": "New OpenAI Academy courses for the next era of work",
@@ -117,12 +61,12 @@
       "summary": "Release: datasette 1.0a33\n        This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to tables. That pattern is also now documented!\nI wrote a whole lot more about the new release on the Datasette project blog: Datasette 1.0a33 with JSON extras in the API.\nBecause API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for the plan) and GPT-5.5 xhig"
     },
     {
-      "title": "How a Google DeepMind Spinoff Hunts Hidden Drug Targets",
+      "title": "How a Google DeepMind Spin-off Hunts Hidden Drug Targets",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery",
       "published": "2026-06-11T12:00:01+00:00",
-      "summary": "For more than a decade, artificial intelligence has been touted as a way to dramatically accelerate drug discovery. Yet despite billions of dollars in investment, relatively few AI-designed medicines have made it to patients. That’s partially because the timelines for careful drug testing can’t be easily compressed—and partially because drug development is just really hard. Isomorphic Labs, the Google DeepMind spinout that’s building on DeepMind’s Nobel Prize-winning work on protein structure pr"
+      "summary": "For more than a decade, artificial intelligence has been touted as a way to dramatically accelerate drug discovery. Yet despite billions of dollars in investment, relatively few AI-designed medicines have made it to patients. That’s partially because the timelines for careful drug testing can’t be easily compressed—and partially because drug development is just really hard. Isomorphic Labs, the Google DeepMind spin-off that’s building on DeepMind’s Nobel Prize-winning work on protein structure p"
     },
     {
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
