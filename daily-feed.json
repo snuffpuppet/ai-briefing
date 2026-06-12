@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-11T22:01:47.063541+00:00",
+  "generated_at": "2026-06-12T00:18:13.762742+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "published": "2026-06-11T23:35:17+00:00",
+      "summary": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal.\nI'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot:\n\nThen I started a fresh claude session in my datasette-agent checkout, dragged in the sc"
+    },
     {
       "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
       "source": "The Pragmatic Engineer",
@@ -155,30 +163,6 @@
       "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
       "published": "2026-06-10T15:23:34+00:00",
       "summary": "Easy solution to slow down recursive AI self improvement:\n\nThe lab with the top-ranked model must agree THEY must not use it for working on frontier AI\nBut everyone else should have access to it.\n\nBy definition, this means the frontier doesn't advance.\nIt also has the critical benefit of avoiding a dangerous power imbalance.\nAnthropic has chosen the opposite of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll"
-    },
-    {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "published": "2026-06-10T12:00:00+00:00",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
-    },
-    {
-      "title": "Timing Trick Cuts Energy Used in LLM Training by Up to 14 Percent",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/llm-training-energy-saving-trick",
-      "published": "2026-06-10T11:00:01+00:00",
-      "summary": "OpenAI’s fourth large language model (LLM), GPT-4, took an estimated 50 gigawatt-hours to train, or the equivalent of 5,000 American homes’ yearly power consumption. That was in 2023. Since then, the computational resources used to train frontier LLMs have only increased, though direct power usage numbers are hard to come by.Now, a research group at the University of Twente in the Netherlands has shown that you can save up to 14 percent of the energy used in LLM training without sacrificing spee"
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "published": "2026-06-10T10:21:19+00:00",
-      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     }
   ]
 }
