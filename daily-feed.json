@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T05:47:23.153078+00:00",
+  "generated_at": "2026-06-12T10:08:09.472769+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 16,
   "items": [
     {
       "title": "[AINews] Loopcraft: The Art of Stacking Loops",
@@ -11,6 +11,14 @@
       "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
       "published": "2026-06-12T05:34:09+00:00",
       "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy"
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/preply",
+      "published": "2026-06-12T00:00:00+00:00",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
     },
     {
       "title": "Claude Fable is relentlessly proactive",
@@ -77,12 +85,12 @@
       "summary": "a quiet day lets us reflect on a great essay"
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "title": "BBVA puts AI at the core of banking with OpenAI",
@@ -93,20 +101,20 @@
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
       "title": "OpenAI to acquire Ona",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "published": "2026-06-11T00:00:00+00:00",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
     },
     {
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
@@ -123,30 +131,6 @@
       "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
       "published": "2026-06-10T23:57:27+00:00",
       "summary": "Release: datasette-agent 0.2a0\n        Highlights from the release notes:\n\n\nTools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice (options=[...]) or free-text (free_text=True) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a ser"
-    },
-    {
-      "title": "DiffusionGemma",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
-      "published": "2026-06-10T20:00:54+00:00",
-      "summary": "DiffusionGemma\nLast May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it.\nThat research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, google/diffusiongemma-26B-A4B-it.\nNVIDIA are currently hosting the model for free on their NIM cloud API. I used that API to generate this pelican, wh"
-    },
-    {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "published": "2026-06-10T20:00:00+00:00",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
-    },
-    {
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-      "published": "2026-06-10T19:29:21+00:00",
-      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster."
     }
   ]
 }
