@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-12T10:08:09.472769+00:00",
+  "generated_at": "2026-06-12T14:09:22.502809+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 11,
   "items": [
+    {
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "published": "2026-06-12T11:15:41+00:00",
+      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny."
+    },
     {
       "title": "[AINews] Loopcraft: The Art of Stacking Loops",
       "source": "Latent.Space",
@@ -83,54 +91,6 @@
       "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
       "published": "2026-06-11T03:14:26+00:00",
       "summary": "a quiet day lets us reflect on a great essay"
-    },
-    {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/bbva",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-    },
-    {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "datasette-agent 0.2a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-      "published": "2026-06-10T23:57:27+00:00",
-      "summary": "Release: datasette-agent 0.2a0\n        Highlights from the release notes:\n\n\nTools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice (options=[...]) or free-text (free_text=True) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a ser"
     }
   ]
 }
