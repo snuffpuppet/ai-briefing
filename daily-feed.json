@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T21:13:54.599801+00:00",
+  "generated_at": "2026-06-13T23:02:38.248655+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
     {
       "title": "Visual Language Models Train Robots to Read Human Emotions",
@@ -115,14 +115,6 @@
       "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
       "published": "2026-06-12T11:15:41+00:00",
       "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny."
-    },
-    {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "published": "2026-06-12T10:00:00+00:00",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
     }
   ]
 }
