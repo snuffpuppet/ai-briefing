@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-13T11:12:52.996179+00:00",
+  "generated_at": "2026-06-13T13:54:47.410788+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Visual Language Models Train Robots to Read Human Emotions",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
+      "published": "2026-06-13T13:00:01+00:00",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nAs robots advance in terms of dexterity and other physical capabilities, it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people?In a recent study, researchers trained collaborative robots to read human emotions by not only accounting for facial expressions, but a"
+    },
     {
       "title": "[AINews] Fable and Mythos officially too dangerous to release",
       "source": "Latent.Space",
@@ -115,22 +123,6 @@
       "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
       "published": "2026-06-12T05:34:09+00:00",
       "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy"
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/preply",
-      "published": "2026-06-12T00:00:00+00:00",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-      "published": "2026-06-11T23:35:17+00:00",
-      "summary": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal.\nI'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot:\n\nThen I started a fresh claude session in my datasette-agent checkout, dragged in the sc"
     }
   ]
 }
