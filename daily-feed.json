@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T17:20:31.295672+00:00",
+  "generated_at": "2026-06-13T19:22:35.021573+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 15,
   "items": [
     {
       "title": "Visual Language Models Train Robots to Read Human Emotions",
@@ -123,14 +123,6 @@
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "published": "2026-06-12T10:00:00+00:00",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
-    },
-    {
-      "title": "[AINews] Loopcraft: The Art of Stacking Loops",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
-      "published": "2026-06-12T05:34:09+00:00",
-      "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy"
     }
   ]
 }
