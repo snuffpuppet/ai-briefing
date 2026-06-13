@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-13T00:18:43.758606+00:00",
+  "generated_at": "2026-06-13T05:19:22.917932+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[AINews] Fable and Mythos officially too dangerous to release",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+      "published": "2026-06-13T04:30:52+00:00",
+      "summary": "We are in the strangest timeline."
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "published": "2026-06-13T03:00:34+00:00",
+      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "published": "2026-06-13T01:01:50+00:00",
+      "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5\nWell this is nuts:\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to"
+    },
     {
       "title": "OpenAI WebRTC Audio Session, now with document context",
       "source": "Simon Willison's Weblog",
@@ -107,22 +131,6 @@
       "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
       "published": "2026-06-11T23:35:17+00:00",
       "summary": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal.\nI'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot:\n\nThen I started a fresh claude session in my datasette-agent checkout, dragged in the sc"
-    },
-    {
-      "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
-      "published": "2026-06-11T16:26:58+00:00",
-      "summary": "Anthropic&#8217;s new model, Fable, has restrictions many users find unacceptable. Also: a new trend of smart model routing, Coinbase&#8217;s core service has no automatic cross-zone failover, and more."
-    },
-    {
-      "title": "datasette 1.0a33",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-      "published": "2026-06-11T15:26:49+00:00",
-      "summary": "Release: datasette 1.0a33\n        This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to tables. That pattern is also now documented!\nI wrote a whole lot more about the new release on the Datasette project blog: Datasette 1.0a33 with JSON extras in the API.\nBecause API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for the plan) and GPT-5.5 xhig"
     }
   ]
 }
