@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T15:51:17.608927+00:00",
+  "generated_at": "2026-06-14T17:18:54.134522+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Publishing WASM wheels to PyPI for use with Pyodide",
@@ -35,14 +35,6 @@
       "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
       "published": "2026-06-13T13:00:01+00:00",
       "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nAs robots advance in terms of dexterity and other physical capabilities, it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people?In a recent study, researchers trained collaborative robots to read human emotions by not only accounting for facial expressions, but a"
-    },
-    {
-      "title": "[AINews] Fable and Mythos officially too dangerous to release",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
-      "published": "2026-06-13T04:30:52+00:00",
-      "summary": "We are in the strangest timeline."
     }
   ]
 }
