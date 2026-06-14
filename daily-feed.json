@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T03:51:46.939305+00:00",
+  "generated_at": "2026-06-14T08:14:38.299239+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 9,
   "items": [
     {
       "title": "Publishing WASM wheels to PyPI for use with Pyodide",
@@ -75,62 +75,6 @@
       "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
       "published": "2026-06-12T22:20:06+00:00",
       "summary": "As of today, SpaceX is owned by investors who will want to see it make money."
-    },
-    {
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "published": "2026-06-12T18:45:40+00:00",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded."
-    },
-    {
-      "title": "Quoting Andrew Singleton",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
-      "published": "2026-06-12T18:09:21+00:00",
-      "summary": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of his research, he becomes emb"
-    },
-    {
-      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-      "published": "2026-06-12T18:03:29+00:00",
-      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots."
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "published": "2026-06-12T17:18:49+00:00",
-      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\""
-    },
-    {
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-      "published": "2026-06-12T16:51:38+00:00",
-      "summary": "Even moderately sized data centers can have an outsized local impact."
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "published": "2026-06-12T16:34:36+00:00",
-      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
-    },
-    {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "published": "2026-06-12T15:56:10+00:00",
-      "summary": ""
     }
   ]
 }
