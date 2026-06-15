@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-15T16:16:30.229999+00:00",
+  "generated_at": "2026-06-15T20:24:02.312821+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "published": "2026-06-15T19:07:02+00:00",
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "published": "2026-06-15T18:46:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;"
+    },
     {
       "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
       "source": "Simon Willison's Weblog",
