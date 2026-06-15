@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-14T23:07:03.374855+00:00",
+  "generated_at": "2026-06-15T04:03:49.671003+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 7,
   "items": [
+    {
+      "title": "Quoting Julia Evans",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+      "published": "2026-06-15T02:05:19+00:00",
+      "summary": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend.\n&mdash; Julia Evans, write for 1 person\n\n    Tags: writing, julia-evans"
+    },
+    {
+      "title": "Why AI hasn’t replaced software engineers, and won’t",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+      "published": "2026-06-14T23:54:11+00:00",
+      "summary": "Why AI hasn’t replaced software engineers, and won’t\nArvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering.\n\nIn this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be"
+    },
     {
       "title": "Welcome to the AGI era of AI governance",
       "source": "Interconnects AI",
@@ -11,6 +27,14 @@
       "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
       "published": "2026-06-14T17:43:42+00:00",
       "summary": "It's a one-way door and we weren't ready for it."
+    },
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "published": "2026-06-14T17:00:00+00:00",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
     },
     {
       "title": "Publishing WASM wheels to PyPI for use with Pyodide",
@@ -35,14 +59,6 @@
       "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
       "published": "2026-06-13T23:05:00+00:00",
       "summary": "Research: Mapping SQLite result columns back to their source `table.column`\n        It would be neat if arbitrary SQL queries in Datasette could be rendered with additional information based on which columns from which tables were included in the results.\nTo build that, we would need to be able to look at a SQL query like select users.name, orders.total from users join orders on orders.user_id = users.id and programmatically identify the table.column for each result - navigating not just joins b"
-    },
-    {
-      "title": "Visual Language Models Train Robots to Read Human Emotions",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-      "published": "2026-06-13T13:00:01+00:00",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nAs robots advance in terms of dexterity and other physical capabilities, it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people?In a recent study, researchers trained collaborative robots to read human emotions by not only accounting for facial expressions, but a"
     }
   ]
 }
