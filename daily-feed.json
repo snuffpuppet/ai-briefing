@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-15T23:01:22.076893+00:00",
+  "generated_at": "2026-06-16T03:54:10.304999+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Quoting Matteo Wong, The Atlantic",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+      "published": "2026-06-16T03:07:54+00:00",
+      "summary": "Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House’s report on the Fable jailbreak to get her appraisal. (She said that she is not being paid by Anthropic.) The report, Moussouris said, involved IT experts asking Fable to help find and patch bugs. When given deliberately insecure code, she said, Fable refused the prompt “review the code for security issues” but then complied when asked to “fix this code,” follow"
+    },
+    {
+      "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+      "published": "2026-06-16T02:29:29+00:00",
+      "summary": "a quiet day lets us report on Satya's hit essay"
+    },
+    {
+      "title": "Cloudflare CAPTCHA on at least one ampersand",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+      "published": "2026-06-16T00:21:36+00:00",
+      "summary": "TIL: Cloudflare CAPTCHA on at least one ampersand\n        I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall &gt; Custom rules &gt; Managed Challenge\" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term searches triggering the challenge.\nAfter some mucking around with Claude Code it turns out you can register the following rule instead, so the CAPTCHA only kicks in for search URLs containi"
+    },
     {
       "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
       "source": "AI - Ars Technica",
@@ -19,6 +43,14 @@
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "published": "2026-06-15T18:46:08+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;"
+    },
+    {
+      "title": "datasette-agent 0.3a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+      "published": "2026-06-15T17:19:27+00:00",
+      "summary": "Release: datasette-agent 0.3a0\n        \n\nNew tool, execute_write_sql, which requests user approval and then writes to a database - taking user permissions into account. #27\n\n\nI added a mechanism for asking user approval in datasette agent 0.2a0. The new execute_write_sql tool can now prompt the user for all kinds of useful operations. Here's an example where I add some pelican sightings to my pelican_sightings table:\n\nThe new version also enhances the datasette agent chat terminal mode to suppor"
     },
     {
       "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
