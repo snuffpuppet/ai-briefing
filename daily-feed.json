@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-16T03:54:10.304999+00:00",
+  "generated_at": "2026-06-16T09:25:16.464125+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Fragments: June 16",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-06-16.html",
+      "published": "2026-06-16T08:44:00+02:00",
+      "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young.\n\n\n  Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration s"
+    },
+    {
+      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+      "published": "2026-06-16T05:20:29+00:00",
+      "summary": "The Fable 5 Export Controls Harm US Cyber Defense\nI quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the \"jailbreak\" that got Claude Fable 5 banned under an export control really was \"fix this code\":\n\nThe researchers took open-source code with known CVEs, plus new code with deliberately planted vulnerabilities, and asked Fable 5, Mythos, and Opus to “review the code for security issues.” Fable 5 refused. They then as"
+    },
     {
       "title": "Quoting Matteo Wong, The Atlantic",
       "source": "Simon Willison's Weblog",
@@ -42,7 +58,7 @@
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "published": "2026-06-15T18:46:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;"
     },
     {
       "title": "datasette-agent 0.3a0",
@@ -77,28 +93,28 @@
       "summary": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend.\n&mdash; Julia Evans, write for 1 person\n\n    Tags: writing, julia-evans"
     },
     {
+      "title": "Leading by example, even through uncertainty",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/leading-by-example-even-through-uncertainty",
+      "published": "2026-06-15T00:00:00+00:00",
+      "summary": "Leading by example, even through uncertainty"
+    },
+    {
+      "title": "Is a codeless future an illusion?",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/programming-languages/codeless-future-illusion",
+      "published": "2026-06-15T00:00:00+00:00",
+      "summary": "Is a codeless future an illusion?"
+    },
+    {
       "title": "Why AI hasn’t replaced software engineers, and won’t",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
       "published": "2026-06-14T23:54:11+00:00",
       "summary": "Why AI hasn’t replaced software engineers, and won’t\nArvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering.\n\nIn this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be"
-    },
-    {
-      "title": "Welcome to the AGI era of AI governance",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
-      "published": "2026-06-14T17:43:42+00:00",
-      "summary": "It's a one-way door and we weren't ready for it."
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "published": "2026-06-14T17:00:00+00:00",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
     }
   ]
 }
