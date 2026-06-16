@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-16T09:25:16.464125+00:00",
+  "generated_at": "2026-06-16T15:07:53.976704+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Frontier post-training recipe review with Finbarr Timbers",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+      "published": "2026-06-16T13:29:30+00:00",
+      "summary": "\"Interview\" #18"
+    },
+    {
+      "title": "Building Reliable Agentic AI Systems",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "published": "2026-06-16T13:11:00+01:00",
+      "summary": "One of the most interesting projects my colleagues have done with LLMs\n      has been building a system with Bayer to allow pharmaceutical researchers to query\n      decades of information about studies buried in PDF reports. Sarang\n      Sanjay Kulkarni describes its evolution from keyword-based search\n      to an intelligent research assistant capable of answering complex\n      questions and drafting regulatory documents.\n\nmore…"
+    },
+    {
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "published": "2026-06-16T09:00:00+00:00",
+      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;"
+    },
     {
       "title": "Fragments: June 16",
       "source": "Martin Fowler",
@@ -45,14 +69,6 @@
       "summary": "TIL: Cloudflare CAPTCHA on at least one ampersand\n        I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall &gt; Custom rules &gt; Managed Challenge\" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term searches triggering the challenge.\nAfter some mucking around with Claude Code it turns out you can register the following rule instead, so the CAPTCHA only kicks in for search URLs containi"
     },
     {
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "published": "2026-06-15T19:07:02+00:00",
-      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
-    },
-    {
       "title": "Why do South Koreans love AI so much?",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -83,38 +99,6 @@
       "url": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
       "published": "2026-06-15T11:30:53+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI researchers launch new safety startup because “alignment is not on track”:…Sequent will have a portfolio of under-resourced research bets…Researchers from the UK AI Security Institute [&#8230;]"
-    },
-    {
-      "title": "Quoting Julia Evans",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
-      "published": "2026-06-15T02:05:19+00:00",
-      "summary": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend.\n&mdash; Julia Evans, write for 1 person\n\n    Tags: writing, julia-evans"
-    },
-    {
-      "title": "Leading by example, even through uncertainty",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/leading-by-example-even-through-uncertainty",
-      "published": "2026-06-15T00:00:00+00:00",
-      "summary": "Leading by example, even through uncertainty"
-    },
-    {
-      "title": "Is a codeless future an illusion?",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/programming-languages/codeless-future-illusion",
-      "published": "2026-06-15T00:00:00+00:00",
-      "summary": "Is a codeless future an illusion?"
-    },
-    {
-      "title": "Why AI hasn’t replaced software engineers, and won’t",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-      "published": "2026-06-14T23:54:11+00:00",
-      "summary": "Why AI hasn’t replaced software engineers, and won’t\nArvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering.\n\nIn this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be"
     }
   ]
 }
