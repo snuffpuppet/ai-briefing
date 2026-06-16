@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-16T19:32:47.627087+00:00",
+  "generated_at": "2026-06-16T22:09:43.206193+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published": "2026-06-16T21:29:50+00:00",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "published": "2026-06-16T21:00:35+00:00",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
+    },
     {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress",
       "source": "AI - Ars Technica",
