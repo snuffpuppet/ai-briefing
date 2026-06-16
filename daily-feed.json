@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-06-16T15:07:53.976704+00:00",
+  "generated_at": "2026-06-16T19:32:47.627087+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "published": "2026-06-16T18:11:05+00:00",
+      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
+    },
+    {
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "published": "2026-06-16T16:37:45+00:00",
+      "summary": "Separately, neither could compete. Now they hope they can."
+    },
+    {
+      "title": "Why is Meta destroying its engineering organization?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "published": "2026-06-16T16:27:43+00:00",
+      "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what&#8217;s happened"
+    },
+    {
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "published": "2026-06-16T16:18:07+00:00",
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
+    },
+    {
+      "title": "Quoting Georgi Gerganov",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+      "published": "2026-06-16T16:04:59+00:00",
+      "summary": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but definitely a helpful tool for a maintainer. I think I would be using it much more, if I didn't have to spend a lot of my time on reviewing PRs. Currently, I have a very lightweight harness - the pi agent with everythin"
+    },
     {
       "title": "Frontier post-training recipe review with Finbarr Timbers",
       "source": "Interconnects AI",
@@ -19,6 +59,14 @@
       "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
       "published": "2026-06-16T13:11:00+01:00",
       "summary": "One of the most interesting projects my colleagues have done with LLMs\n      has been building a system with Bayer to allow pharmaceutical researchers to query\n      decades of information about studies buried in PDF reports. Sarang\n      Sanjay Kulkarni describes its evolution from keyword-based search\n      to an intelligent research assistant capable of answering complex\n      questions and drafting regulatory documents.\n\nmore…"
+    },
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "published": "2026-06-16T11:15:46+00:00",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
     },
     {
       "title": "Want to get a data center online quickly? Give it some flex.",
@@ -67,6 +115,22 @@
       "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
       "published": "2026-06-16T00:21:36+00:00",
       "summary": "TIL: Cloudflare CAPTCHA on at least one ampersand\n        I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall &gt; Custom rules &gt; Managed Challenge\" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term searches triggering the challenge.\nAfter some mucking around with Claude Code it turns out you can register the following rule instead, so the CAPTCHA only kicks in for search URLs containi"
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/deployment-simulation",
+      "published": "2026-06-16T00:00:00+00:00",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    },
+    {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "published": "2026-06-15T19:07:02+00:00",
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
     },
     {
       "title": "Why do South Koreans love AI so much?",
