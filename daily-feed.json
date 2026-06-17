@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-16T22:09:43.206193+00:00",
+  "generated_at": "2026-06-17T00:14:23.458656+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "published": "2026-06-16T22:22:44+00:00",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
+    },
     {
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "source": "Google DeepMind News",
@@ -43,6 +51,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
       "published": "2026-06-16T16:27:43+00:00",
       "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what&#8217;s happened"
+    },
+    {
+      "title": "datasette-tailscale 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "published": "2026-06-16T16:18:20+00:00",
+      "summary": "Release: datasette-tailscale 0.1a0\n        A very experimental alpha plugin which lets you do this:\ndatasette tailscale mydata.db \\\n  --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview\n\nThis starts a localhost Datasette server with a Tailscale sidecar that connects it to your Tailnet, such that http://datasette-preview/ serves Datasette.\nIt's using the Python bindings for the experimental tailscale-rs library. I filed an issue asking if there's a cleaner way of setting up the proxy mec"
     },
     {
       "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
@@ -171,14 +187,6 @@
       "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
       "published": "2026-06-15T14:57:33+00:00",
       "summary": "&quot;They screwed us&quot;: Personality clashes sent Anthropic&#x27;s models offline\nLots of \"source familiar with the administration's thinking\" and \"source close to Anthropic\" in this Axios piece, which is the best collection of behind-the-scenes gossip I've seen about the US government export control Mythos/Fable story so far.\nLogan Graham (I lead the Frontier Red Team at Anthropic), Dave Orr (Head of Safeguards, previously a Director of Engineering at Google DeepMind), and blog favorite Nic"
-    },
-    {
-      "title": "Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
-      "published": "2026-06-15T11:30:53+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI researchers launch new safety startup because “alignment is not on track”:…Sequent will have a portfolio of under-resourced research bets…Researchers from the UK AI Security Institute [&#8230;]"
     }
   ]
 }
