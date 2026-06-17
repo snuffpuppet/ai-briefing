@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-17T06:08:47.441849+00:00",
+  "generated_at": "2026-06-17T11:45:48.896164+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 25,
   "items": [
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published": "2026-06-17T10:18:05+00:00",
+      "summary": ""
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published": "2026-06-17T09:01:25+00:00",
+      "summary": ""
+    },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
       "source": "Latent.Space",
@@ -13,12 +29,20 @@
       "summary": "We have a new top open model in the world!"
     },
     {
+      "title": "<click-to-play> — a still that plays",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "published": "2026-06-17T03:56:10+00:00",
+      "summary": "Tool: &lt;click-to-play&gt; — a still that plays\n        A progressive enchantment Web Component that turns this markup:\n&lt;click-to-play&gt;\n  &lt;a href=\"URL to GIF\"&gt;\n    &lt;img src=\"URL to first frame\" alt=\"...\"&gt;\n  &lt;/a&gt;\n&lt;/click-to-play&gt;\n\nInto a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them.\nHere's an example that demonstrates the new row editing tools in Datasette - in fa"
+    },
+    {
       "title": "NetNewsWire Status",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
       "published": "2026-06-17T03:36:09+00:00",
-      "summary": "NetNewsWire Status\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\nThe software is NetNewsWire, first released in 2002 and made open source in 2018. I've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n    Via Lobste.rs\n\n\n    Tags: brent-simmons, netnewswire, open-source"
+      "summary": "NetNewsWire Status\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\nThe software is NetNewsWire - \"it's like podcasts, but for reading\" - first released in 2002 and made open source in 2018.\nI've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n    Via Lobste.rs\n\n\n    Tags: brent-simmons, netnewswire, open-source"
     },
     {
       "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
@@ -27,6 +51,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
       "published": "2026-06-16T22:22:44+00:00",
       "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
+    },
+    {
+      "title": "datasette 1.0a34",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "published": "2026-06-16T21:31:24+00:00",
+      "summary": "Release: datasette 1.0a34\n        Quoting the release notes:\n\nThe big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These features are available on table pages, and edit and delete are also available as action items on the row page.\n\n\n\nThe inspiration for this feature - which is long overdue - was Datasette Agent. I added SQL write support to that the other day which highlighted how absurd it was that you could insert and edit ties via the chat in"
     },
     {
       "title": "Unlocking UK house-building with AI-accelerated planning",
@@ -171,22 +203,6 @@
       "url": "https://openai.com/index/deployment-simulation",
       "published": "2026-06-16T00:00:00+00:00",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
-    },
-    {
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "published": "2026-06-15T19:07:02+00:00",
-      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
-    },
-    {
-      "title": "Why do South Koreans love AI so much?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "published": "2026-06-15T18:46:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;"
     }
   ]
 }
