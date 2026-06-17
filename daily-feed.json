@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-17T11:45:48.896164+00:00",
+  "generated_at": "2026-06-17T15:22:27.422676+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
+    {
+      "title": "How Musicians Can Get Paid for Training AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-music-attribution",
+      "published": "2026-06-17T15:04:23+00:00",
+      "summary": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is used, the more money it makes.Generative AI has complicated the definition of use. On the one hand, you could argue that the use of a piece of musical training data happens just once, at the point of t"
+    },
+    {
+      "title": "State of the blog, mid-2026",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+      "published": "2026-06-17T14:29:06+00:00",
+      "summary": "About 3 years since I started writing weekly."
+    },
+    {
+      "title": "General Motors Is Cutting Its Development Cycles in Half",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/gm-ai-design",
+      "published": "2026-06-17T12:00:01+00:00",
+      "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and other automakers there are speeding EVs and other models from drawing board to showrooms in two years or less. General Motors is among the Western automakers striving to match that blistering pace, by"
+    },
     {
       "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
       "source": "Hugging Face - Blog",
@@ -171,38 +195,6 @@
       "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
       "published": "2026-06-16T05:20:29+00:00",
       "summary": "The Fable 5 Export Controls Harm US Cyber Defense\nI quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the \"jailbreak\" that got Claude Fable 5 banned under an export control really was \"fix this code\":\n\nThe researchers took open-source code with known CVEs, plus new code with deliberately planted vulnerabilities, and asked Fable 5, Mythos, and Opus to “review the code for security issues.” Fable 5 refused. They then as"
-    },
-    {
-      "title": "Quoting Matteo Wong, The Atlantic",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
-      "published": "2026-06-16T03:07:54+00:00",
-      "summary": "Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House’s report on the Fable jailbreak to get her appraisal. (She said that she is not being paid by Anthropic.) The report, Moussouris said, involved IT experts asking Fable to help find and patch bugs. When given deliberately insecure code, she said, Fable refused the prompt “review the code for security issues” but then complied when asked to “fix this code,” follow"
-    },
-    {
-      "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
-      "published": "2026-06-16T02:29:29+00:00",
-      "summary": "a quiet day lets us report on Satya's hit essay"
-    },
-    {
-      "title": "Cloudflare CAPTCHA on at least one ampersand",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
-      "published": "2026-06-16T00:21:36+00:00",
-      "summary": "TIL: Cloudflare CAPTCHA on at least one ampersand\n        I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall &gt; Custom rules &gt; Managed Challenge\" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term searches triggering the challenge.\nAfter some mucking around with Claude Code it turns out you can register the following rule instead, so the CAPTCHA only kicks in for search URLs containi"
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/deployment-simulation",
-      "published": "2026-06-16T00:00:00+00:00",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
     }
   ]
 }
