@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-17T00:14:23.458656+00:00",
+  "generated_at": "2026-06-17T06:08:47.441849+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 23,
   "items": [
+    {
+      "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "published": "2026-06-17T05:37:40+00:00",
+      "summary": "We have a new top open model in the world!"
+    },
+    {
+      "title": "NetNewsWire Status",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+      "published": "2026-06-17T03:36:09+00:00",
+      "summary": "NetNewsWire Status\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\nThe software is NetNewsWire, first released in 2002 and made open source in 2018. I've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n    Via Lobste.rs\n\n\n    Tags: brent-simmons, netnewswire, open-source"
+    },
     {
       "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
       "source": "AI - Ars Technica",
@@ -171,22 +187,6 @@
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "published": "2026-06-15T18:46:08+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;"
-    },
-    {
-      "title": "datasette-agent 0.3a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-      "published": "2026-06-15T17:19:27+00:00",
-      "summary": "Release: datasette-agent 0.3a0\n        \n\nNew tool, execute_write_sql, which requests user approval and then writes to a database - taking user permissions into account. #27\n\n\nI added a mechanism for asking user approval in datasette agent 0.2a0. The new execute_write_sql tool can now prompt the user for all kinds of useful operations. Here's an example where I add some pelican sightings to my pelican_sightings table:\n\nThe new version also enhances the datasette agent chat terminal mode to suppor"
-    },
-    {
-      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-      "published": "2026-06-15T14:57:33+00:00",
-      "summary": "&quot;They screwed us&quot;: Personality clashes sent Anthropic&#x27;s models offline\nLots of \"source familiar with the administration's thinking\" and \"source close to Anthropic\" in this Axios piece, which is the best collection of behind-the-scenes gossip I've seen about the US government export control Mythos/Fable story so far.\nLogan Graham (I lead the Frontier Red Team at Anthropic), Dave Orr (Head of Safeguards, previously a Director of Engineering at Google DeepMind), and blog favorite Nic"
     }
   ]
 }
