@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-17T18:13:09.001316+00:00",
+  "generated_at": "2026-06-17T21:30:43.036567+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 31,
   "items": [
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "published": "2026-06-17T19:25:19+00:00",
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
+    },
     {
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
       "source": "Latent.Space",
@@ -125,6 +133,14 @@
       "summary": "NetNewsWire Status\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\nThe software is NetNewsWire - \"it's like podcasts, but for reading\" - first released in 2002 and made open source in 2018.\nI've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n    Via Lobste.rs\n\n\n    Tags: brent-simmons, netnewswire, open-source"
     },
     {
+      "title": "Introducing LifeSciBench",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published": "2026-06-17T00:00:00+00:00",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    },
+    {
       "title": "Agentic Resource Discovery: Let agents search",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -235,22 +251,6 @@
       "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "published": "2026-06-16T11:15:46+00:00",
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
-    },
-    {
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "published": "2026-06-16T09:00:00+00:00",
-      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;"
-    },
-    {
-      "title": "Fragments: June 16",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-06-16.html",
-      "published": "2026-06-16T08:44:00+02:00",
-      "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young.\n\n\n  Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration s"
     }
   ]
 }
