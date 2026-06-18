@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-18T12:50:34.573584+00:00",
+  "generated_at": "2026-06-18T16:55:55.406579+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
+      "published": "2026-06-18T13:00:01+00:00",
+      "summary": "By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons. Now a new study suggests that using sound waves, neuromorphic devices can better mimic biological neurons and operate faster and with greater energy efficiecy than their electronic counterparts.“This"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published": "2026-06-18T08:00:00+00:00",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+    },
     {
       "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
       "source": "Latent.Space",
@@ -11,6 +27,22 @@
       "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
       "published": "2026-06-18T04:23:05+00:00",
       "summary": "The only bootstrapped frontier lab announces its second product and second"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "published": "2026-06-18T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "published": "2026-06-18T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
@@ -98,7 +130,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/gm-ai-design",
       "published": "2026-06-17T12:00:01+00:00",
-      "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and other automakers there are speeding EVs and other models from drawing board to showrooms in two years or less. General Motors is among the Western automakers striving to match that blistering pace, by"
+      "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and other automakers there are speeding electric vehicles (EVs) and other models from drawing board to showrooms in two years or less. General Motors is among the Western automakers striving to match that"
     },
     {
       "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
@@ -131,22 +163,6 @@
       "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
       "published": "2026-06-17T05:37:40+00:00",
       "summary": "We have a new top open model in the world!"
-    },
-    {
-      "title": "<click-to-play> — a still that plays",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
-      "published": "2026-06-17T03:56:10+00:00",
-      "summary": "Tool: &lt;click-to-play&gt; — a still that plays\n        A progressive enchantment Web Component that turns this markup:\n&lt;click-to-play&gt;\n  &lt;a href=\"URL to GIF\"&gt;\n    &lt;img src=\"URL to first frame\" alt=\"...\"&gt;\n  &lt;/a&gt;\n&lt;/click-to-play&gt;\n\nInto a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them.\nHere's an example that demonstrates the new row editing tools in Datasette - in fa"
-    },
-    {
-      "title": "NetNewsWire Status",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
-      "published": "2026-06-17T03:36:09+00:00",
-      "summary": "NetNewsWire Status\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\nThe software is NetNewsWire - \"it's like podcasts, but for reading\" - first released in 2002 and made open source in 2018.\nI've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n    Via Lobste.rs\n\n\n    Tags: brent-simmons, netnewswire, open-source"
     }
   ]
 }
