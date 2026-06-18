@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T09:12:07.427240+00:00",
+  "generated_at": "2026-06-18T12:50:34.573584+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 18,
   "items": [
     {
       "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
@@ -147,54 +147,6 @@
       "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
       "published": "2026-06-17T03:36:09+00:00",
       "summary": "NetNewsWire Status\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\nThe software is NetNewsWire - \"it's like podcasts, but for reading\" - first released in 2002 and made open source in 2018.\nI've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n    Via Lobste.rs\n\n\n    Tags: brent-simmons, netnewswire, open-source"
-    },
-    {
-      "title": "Introducing LifeSciBench",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "published": "2026-06-17T00:00:00+00:00",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "published": "2026-06-17T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-      "published": "2026-06-16T22:22:44+00:00",
-      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
-    },
-    {
-      "title": "datasette 1.0a34",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
-      "published": "2026-06-16T21:31:24+00:00",
-      "summary": "Release: datasette 1.0a34\n        Quoting the release notes:\n\nThe big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These features are available on table pages, and edit and delete are also available as action items on the row page.\n\n\n\nThe inspiration for this feature - which is long overdue - was Datasette Agent. I added SQL write support to that the other day which highlighted how absurd it was that you could insert and edit ties via the chat in"
-    },
-    {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "published": "2026-06-16T21:29:50+00:00",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
-    },
-    {
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-      "published": "2026-06-16T21:00:35+00:00",
-      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
     }
   ]
 }
