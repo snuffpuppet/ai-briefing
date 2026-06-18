@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-18T04:09:28.162189+00:00",
+  "generated_at": "2026-06-18T09:12:07.427240+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+      "published": "2026-06-18T04:23:05+00:00",
+      "summary": "The only bootstrapped frontier lab announces its second product and second"
+    },
     {
       "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
       "source": "Simon Willison's Weblog",
@@ -187,54 +195,6 @@
       "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
       "published": "2026-06-16T21:00:35+00:00",
       "summary": "Move originally planned for Monday would have heavily increased power users' costs."
-    },
-    {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "published": "2026-06-16T18:11:05+00:00",
-      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
-    },
-    {
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "published": "2026-06-16T16:37:45+00:00",
-      "summary": "Separately, neither could compete. Now they hope they can."
-    },
-    {
-      "title": "Why is Meta destroying its engineering organization?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-      "published": "2026-06-16T16:27:43+00:00",
-      "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what&#8217;s happened"
-    },
-    {
-      "title": "datasette-tailscale 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
-      "published": "2026-06-16T16:18:20+00:00",
-      "summary": "Release: datasette-tailscale 0.1a0\n        A very experimental alpha plugin which lets you do this:\ndatasette tailscale mydata.db \\\n  --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview\n\nThis starts a localhost Datasette server with a Tailscale sidecar that connects it to your Tailnet, such that http://datasette-preview/ serves Datasette.\nIt's using the Python bindings for the experimental tailscale-rs library. I filed an issue asking if there's a cleaner way of setting up the proxy mec"
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "published": "2026-06-16T16:18:07+00:00",
-      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
-    },
-    {
-      "title": "Quoting Georgi Gerganov",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-      "published": "2026-06-16T16:04:59+00:00",
-      "summary": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but definitely a helpful tool for a maintainer. I think I would be using it much more, if I didn't have to spend a lot of my time on reviewing PRs. Currently, I have a very lightweight harness - the pi agent with everythin"
     }
   ]
 }
