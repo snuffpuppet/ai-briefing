@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-18T19:53:07.746750+00:00",
+  "generated_at": "2026-06-18T22:32:26.907328+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
+    {
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "published": "2026-06-18T21:21:26+00:00",
+      "summary": "Taiwan's drone spending plans for defense could also boost business overseas."
+    },
     {
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "source": "Hugging Face - Blog",
@@ -186,22 +194,6 @@
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
       "published": "2026-06-17T10:18:05+00:00",
-      "summary": ""
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "published": "2026-06-17T10:00:00+00:00",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
-    },
-    {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "published": "2026-06-17T09:01:25+00:00",
       "summary": ""
     }
   ]
