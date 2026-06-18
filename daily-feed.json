@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-17T23:48:59.132219+00:00",
+  "generated_at": "2026-06-18T04:09:28.162189+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 29,
   "items": [
+    {
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "published": "2026-06-17T23:58:39+00:00",
+      "summary": "Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40 active parameters (Mixture of Experts). GLM-5.2 is a text input only model - Z.ai have a separate vision family most recently represented by GLM-5V-Turbo, but that one isn't open weights. GLM-5.2 has a 1 million token con"
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "published": "2026-06-17T19:25:19+00:00",
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
+    },
     {
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
       "source": "Latent.Space",
@@ -11,6 +27,14 @@
       "url": "https://www.latent.space/p/radical-ai",
       "published": "2026-06-17T17:58:06+00:00",
       "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model"
+    },
+    {
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "published": "2026-06-17T17:50:46+00:00",
+      "summary": "AI models with advanced hacking capabilities will soon be the norm."
     },
     {
       "title": "Quoting Charity Majors",
@@ -27,6 +51,22 @@
       "url": "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez",
       "published": "2026-06-17T16:41:01+00:00",
       "summary": "Robert Erez of Octopus Deploy joins me to discuss Kubernetes, GitOps, progressive delivery, AI in CI/CD, and the evolving practices behind modern software delivery."
+    },
+    {
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "published": "2026-06-17T15:57:14+00:00",
+      "summary": "Google's new smart speaker is more about Gemini than audio quality."
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "published": "2026-06-17T15:26:44+00:00",
+      "summary": ""
     },
     {
       "title": "How Musicians Can Get Paid for Training AI",
@@ -53,12 +93,28 @@
       "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and other automakers there are speeding EVs and other models from drawing board to showrooms in two years or less. General Motors is among the Western automakers striving to match that blistering pace, by"
     },
     {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published": "2026-06-17T10:18:05+00:00",
+      "summary": ""
+    },
+    {
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "published": "2026-06-17T10:00:00+00:00",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published": "2026-06-17T09:01:25+00:00",
+      "summary": ""
     },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
@@ -93,6 +149,22 @@
       "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
     },
     {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "published": "2026-06-17T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "published": "2026-06-16T22:22:44+00:00",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
+    },
+    {
       "title": "datasette 1.0a34",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -107,6 +179,30 @@
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "published": "2026-06-16T21:29:50+00:00",
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "published": "2026-06-16T21:00:35+00:00",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
+    },
+    {
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "published": "2026-06-16T18:11:05+00:00",
+      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
+    },
+    {
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "published": "2026-06-16T16:37:45+00:00",
+      "summary": "Separately, neither could compete. Now they hope they can."
     },
     {
       "title": "Why is Meta destroying its engineering organization?",
@@ -125,28 +221,20 @@
       "summary": "Release: datasette-tailscale 0.1a0\n        A very experimental alpha plugin which lets you do this:\ndatasette tailscale mydata.db \\\n  --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview\n\nThis starts a localhost Datasette server with a Tailscale sidecar that connects it to your Tailnet, such that http://datasette-preview/ serves Datasette.\nIt's using the Python bindings for the experimental tailscale-rs library. I filed an issue asking if there's a cleaner way of setting up the proxy mec"
     },
     {
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "published": "2026-06-16T16:18:07+00:00",
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
+    },
+    {
       "title": "Quoting Georgi Gerganov",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
       "published": "2026-06-16T16:04:59+00:00",
       "summary": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but definitely a helpful tool for a maintainer. I think I would be using it much more, if I didn't have to spend a lot of my time on reviewing PRs. Currently, I have a very lightweight harness - the pi agent with everythin"
-    },
-    {
-      "title": "Frontier post-training recipe review with Finbarr Timbers",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
-      "published": "2026-06-16T13:29:30+00:00",
-      "summary": "\"Interview\" #18"
-    },
-    {
-      "title": "Building Reliable Agentic AI Systems",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "published": "2026-06-16T13:11:00+01:00",
-      "summary": "One of the most interesting projects my colleagues have done with LLMs\n      has been building a system with Bayer to allow pharmaceutical researchers to query\n      decades of information about studies buried in PDF reports. Sarang\n      Sanjay Kulkarni describes its evolution from keyword-based search\n      to an intelligent research assistant capable of answering complex\n      questions and drafting regulatory documents.\n\nmore…"
     }
   ]
 }
