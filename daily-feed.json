@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T20:14:01.323649+00:00",
+  "generated_at": "2026-06-19T21:35:06.087266+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
     {
       "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
@@ -115,14 +115,6 @@
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "published": "2026-06-18T11:00:00+00:00",
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "published": "2026-06-18T08:00:00+00:00",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
     }
   ]
 }
