@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-19T06:43:41.448656+00:00",
+  "generated_at": "2026-06-19T11:47:16.232327+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 17,
   "items": [
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "published": "2026-06-19T10:40:24+00:00",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;"
+    },
     {
       "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "source": "Latent.Space",
@@ -131,14 +139,6 @@
       "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
       "published": "2026-06-17T23:58:39+00:00",
       "summary": "Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40 active parameters (Mixture of Experts). GLM-5.2 is a text input only model - Z.ai have a separate vision family most recently represented by GLM-5V-Turbo, but that one isn't open weights. GLM-5.2 has a 1 million token con"
-    },
-    {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "published": "2026-06-17T19:25:19+00:00",
-      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
     }
   ]
 }
