@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-19T11:47:16.232327+00:00",
+  "generated_at": "2026-06-19T15:37:23.664155+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Banning Open Source AI Would Be A Mistake",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "published": "2026-06-19T13:02:47+00:00",
+      "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience."
+    },
     {
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -115,30 +123,6 @@
       "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
       "published": "2026-06-18T04:23:05+00:00",
       "summary": "The only bootstrapped frontier lab announces its second product and second"
-    },
-    {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "published": "2026-06-18T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "published": "2026-06-18T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-      "published": "2026-06-17T23:58:39+00:00",
-      "summary": "Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40 active parameters (Mixture of Experts). GLM-5.2 is a text input only model - Z.ai have a separate vision family most recently represented by GLM-5V-Turbo, but that one isn't open weights. GLM-5.2 has a 1 million token con"
     }
   ]
 }
