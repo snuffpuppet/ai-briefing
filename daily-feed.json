@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-19T15:37:23.664155+00:00",
+  "generated_at": "2026-06-19T18:21:38.229480+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "published": "2026-06-19T18:00:01+00:00",
+      "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures ar"
+    },
     {
       "title": "Banning Open Source AI Would Be A Mistake",
       "source": "Interconnects AI",
@@ -115,14 +123,6 @@
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "published": "2026-06-18T08:00:00+00:00",
       "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
-    },
-    {
-      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-      "published": "2026-06-18T04:23:05+00:00",
-      "summary": "The only bootstrapped frontier lab announces its second product and second"
     }
   ]
 }
