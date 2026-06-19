@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-18T22:32:26.907328+00:00",
+  "generated_at": "2026-06-19T00:51:52.993528+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 24,
   "items": [
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "published": "2026-06-18T23:58:38+00:00",
+      "summary": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit here to provide the why.\nThe TL;DR\nDatasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained &lt;iframe&gt; sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too"
+    },
     {
       "title": "As China looms, Taiwan makes more drones for defense and the US military",
       "source": "AI - Ars Technica",
@@ -11,6 +19,14 @@
       "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
       "published": "2026-06-18T21:21:26+00:00",
       "summary": "Taiwan's drone spending plans for defense could also boost business overseas."
+    },
+    {
+      "title": "datasette-acl 0.6a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "published": "2026-06-18T19:03:13+00:00",
+      "summary": "Release: datasette-acl 0.6a0\n        \nThis release expands datasette-acl from table-only permissions toward a general resource-sharing system.\n\nAlex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette.\n    \n    \n        Tags: datasette, alex-garcia"
     },
     {
       "title": "MosaicLeaks: Can your research agent keep a secret?",
@@ -179,22 +195,6 @@
       "url": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
       "published": "2026-06-17T14:29:06+00:00",
       "summary": "About 3 years since I started writing weekly."
-    },
-    {
-      "title": "General Motors Is Cutting Its Development Cycles in Half",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/gm-ai-design",
-      "published": "2026-06-17T12:00:01+00:00",
-      "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and other automakers there are speeding electric vehicles (EVs) and other models from drawing board to showrooms in two years or less. General Motors is among the Western automakers striving to match that"
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "published": "2026-06-17T10:18:05+00:00",
-      "summary": ""
     }
   ]
 }
