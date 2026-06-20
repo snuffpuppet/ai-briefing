@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-20T05:38:29.278171+00:00",
+  "generated_at": "2026-06-20T09:19:33.493904+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 8,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+      "published": "2026-06-20T08:06:05+00:00",
+      "summary": "a quiet day lets us promo AIE one last time"
+    },
     {
       "title": "Quoting Sean Lynch",
       "source": "Simon Willison's Weblog",
@@ -59,30 +67,6 @@
       "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
       "published": "2026-06-18T21:21:26+00:00",
       "summary": "Taiwan's drone spending plans for defense could also boost business overseas."
-    },
-    {
-      "title": "datasette-acl 0.6a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
-      "published": "2026-06-18T19:03:13+00:00",
-      "summary": "Release: datasette-acl 0.6a0\n        \nThis release expands datasette-acl from table-only permissions toward a general resource-sharing system.\n\nAlex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette.\n    \n    \n        Tags: datasette, alex-garcia"
-    },
-    {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "published": "2026-06-18T18:13:13+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/anj",
-      "published": "2026-06-18T17:30:00+00:00",
-      "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!"
     }
   ]
 }
