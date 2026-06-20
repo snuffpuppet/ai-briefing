@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T21:43:15.766539+00:00",
+  "generated_at": "2026-06-20T23:33:01.744589+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -35,14 +35,6 @@
       "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
       "published": "2026-06-19T13:02:47+00:00",
       "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience."
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "published": "2026-06-19T10:40:24+00:00",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;"
     }
   ]
 }
