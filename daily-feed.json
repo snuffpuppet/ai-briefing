@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T00:34:55.658768+00:00",
+  "generated_at": "2026-06-20T05:38:29.278171+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 10,
   "items": [
     {
       "title": "Quoting Sean Lynch",
@@ -83,38 +83,6 @@
       "url": "https://www.latent.space/p/anj",
       "published": "2026-06-18T17:30:00+00:00",
       "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!"
-    },
-    {
-      "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us",
-      "published": "2026-06-18T17:11:03+00:00",
-      "summary": "Also: a follow-up on Meta destroying its own engineering culture, the SpaceX IPO, SpaceX buys Cursor, Cursor&#8217;s GitHub competitor, and more."
-    },
-    {
-      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "published": "2026-06-18T17:02:49+00:00",
-      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund."
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "published": "2026-06-18T17:00:00+00:00",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
-    },
-    {
-      "title": "Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
-      "published": "2026-06-18T13:00:01+00:00",
-      "summary": "By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons. Now, a new study suggests that by using sound waves, neuromorphic devices can better mimic biological neurons and operate faster and with greater energy efficiency than their electronic counterparts."
     }
   ]
 }
