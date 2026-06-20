@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T23:21:57.065912+00:00",
+  "generated_at": "2026-06-20T00:34:55.658768+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
     {
       "title": "Quoting Sean Lynch",
@@ -115,14 +115,6 @@
       "url": "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
       "published": "2026-06-18T13:00:01+00:00",
       "summary": "By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons. Now, a new study suggests that by using sound waves, neuromorphic devices can better mimic biological neurons and operate faster and with greater energy efficiency than their electronic counterparts."
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "published": "2026-06-18T11:00:00+00:00",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
     }
   ]
 }
