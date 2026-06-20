@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T17:51:27.872538+00:00",
+  "generated_at": "2026-06-20T19:49:47.276054+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -43,14 +43,6 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "published": "2026-06-19T10:40:24+00:00",
       "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;"
-    },
-    {
-      "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
-      "published": "2026-06-19T05:53:54+00:00",
-      "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story."
     }
   ]
 }
