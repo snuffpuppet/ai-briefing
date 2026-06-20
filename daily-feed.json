@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T11:43:20.702012+00:00",
+  "generated_at": "2026-06-20T14:25:05.318524+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -51,14 +51,6 @@
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "published": "2026-06-19T05:53:54+00:00",
       "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story."
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-      "published": "2026-06-18T23:58:38+00:00",
-      "summary": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit here to provide the why.\nThe TL;DR\nDatasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained &lt;iframe&gt; sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too"
     }
   ]
 }
