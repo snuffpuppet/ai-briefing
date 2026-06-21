@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T23:33:01.744589+00:00",
+  "generated_at": "2026-06-21T04:26:16.993921+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -27,14 +27,6 @@
       "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
       "published": "2026-06-19T18:00:01+00:00",
       "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures ar"
-    },
-    {
-      "title": "Banning Open Source AI Would Be A Mistake",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
-      "published": "2026-06-19T13:02:47+00:00",
-      "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience."
     }
   ]
 }
