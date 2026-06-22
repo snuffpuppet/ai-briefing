@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-21T22:39:45.363937+00:00",
+  "generated_at": "2026-06-22T00:37:03.321877+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 1,
+  "item_count": 5,
   "items": [
+    {
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "published": "2026-06-21T23:35:47+00:00",
+      "summary": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot more.\nI released sqlite-utils 4.0rc1, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people"
+    },
+    {
+      "title": "sqlite-utils 4.0rc1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "published": "2026-06-21T23:30:04+00:00",
+      "summary": "Release: sqlite-utils 4.0rc1\n        See sqlite-utils 4.0rc1 adds migrations and nested transactions.\n    \n    \n        Tags: sqlite-utils"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published": "2026-06-21T23:00:00+00:00",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+    },
+    {
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "published": "2026-06-21T22:01:04+00:00",
+      "summary": "Temporary Cloudflare Accounts for AI agents\nThe announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well.\nShort version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account:\nnpx wrangler deploy --temporary\n\nCloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes.\nI had GPT-5.5 xhigh i"
+    },
     {
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
       "source": "Latent.Space",
