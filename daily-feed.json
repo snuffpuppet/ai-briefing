@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-22T13:15:17.683064+00:00",
+  "generated_at": "2026-06-22T18:05:50.190341+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
+      "published": "2026-06-22T16:00:08+00:00",
+      "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate control [...]\nRead More...\nThe post Adopting AV1 for Real-Time Communication (RTC) at Scale appeared"
+    },
+    {
+      "title": "GLM-5.2 is the step change for open agents",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "published": "2026-06-22T14:52:45+00:00",
+      "summary": "A capability threshold I've been carefully monitoring."
+    },
+    {
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "published": "2026-06-22T13:45:24+00:00",
+      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI."
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "published": "2026-06-22T13:18:56+00:00",
+      "summary": ""
+    },
     {
       "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
       "source": "Import AI",
@@ -11,6 +43,22 @@
       "url": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
       "published": "2026-06-22T12:31:45+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert humans”&#8230;Researchers with the University of Oxford, UK AI Security Institute, Stanford University, and the [&#8230;]"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     },
     {
       "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
