@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-22T20:44:43.915311+00:00",
+  "generated_at": "2026-06-22T22:45:55.005973+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 18,
   "items": [
+    {
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "published": "2026-06-22T21:52:39+00:00",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms."
+    },
+    {
+      "title": "How Netflix Simplified Batch Compute with Kueue",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+      "published": "2026-06-22T21:35:01+00:00",
+      "summary": "By Alvin Bao, Alex Petrov, Jennifer Lai, Aidan Sherr, and Samartha ChandrashekarAs a part of the journey to transition Netflix’s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the Kubernetes ecosystem into our container platform Titus. One example of this is our use of Kueue, a cloud-native job queueing system for batch workloads, which has largely replaced the custom queuing and scheduling logic in our homegrown managed batch solution Comp"
+    },
+    {
+      "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/gray-swan",
+      "published": "2026-06-22T21:06:55+00:00",
+      "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;"
+    },
     {
       "title": "Commemorating 70 Years of Artificial Intelligence",
       "source": "IEEE Spectrum",
