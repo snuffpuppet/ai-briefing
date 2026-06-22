@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-22T18:05:50.190341+00:00",
+  "generated_at": "2026-06-22T20:44:43.915311+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Commemorating 70 Years of Artificial Intelligence",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
+      "published": "2026-06-22T18:00:01+00:00",
+      "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other technologies.AI as a distinct field was formally established in 1956 at the Dartmouth Summer Research Project on Artificial Intelligence, proposed by John McCarthy, Marvin Minsky, Nathaniel Rochester, an"
+    },
+    {
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "published": "2026-06-22T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;"
+    },
     {
       "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
       "source": "Engineering at Meta",
@@ -45,6 +61,14 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert humans”&#8230;Researchers with the University of Oxford, UK AI Security Institute, Stanford University, and the [&#8230;]"
     },
     {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+    },
+    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -53,12 +77,12 @@
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
+      "title": "Codex-maxxing for long-running work",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "published": "2026-06-22T00:00:00+00:00",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
     },
     {
       "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
