@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-23T20:00:27.410800+00:00",
+  "generated_at": "2026-06-23T22:10:05.867346+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 27,
   "items": [
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "published": "2026-06-23T20:17:38+00:00",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI."
+    },
     {
       "title": "OPFS + Pyodide test harness",
       "source": "Simon Willison's Weblog",
@@ -35,6 +43,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
       "published": "2026-06-23T15:30:26+00:00",
       "summary": "An overview of what&#8217;s changed in engineering during the last six months, how various tech companies are changing how they work, and why slowing down could be a sensible strategy"
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
     },
     {
       "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
@@ -203,22 +219,6 @@
       "url": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
       "published": "2026-06-22T12:31:45+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert humans”&#8230;Researchers with the University of Oxford, UK AI Security Institute, Stanford University, and the [&#8230;]"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/patch-the-planet",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     }
   ]
 }
