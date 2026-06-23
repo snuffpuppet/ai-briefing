@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-23T04:58:15.154341+00:00",
+  "generated_at": "2026-06-23T08:31:57.079324+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+      "published": "2026-06-23T06:19:49+00:00",
+      "summary": "a quiet day lets us reflect on some numbers from Jamin Ball."
+    },
     {
       "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
       "source": "Netflix TechBlog - Medium",
@@ -11,6 +19,22 @@
       "url": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
       "published": "2026-06-23T00:31:01+00:00",
       "summary": "By Zhuoning Yuan, Ta-Ying Cheng, Benjamin Klein, Bahareh AzarnoushIntroductionAt Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love.To connect stories with diverse audiences around the world, we produce promotional assets, including trailers, teasers, and social short‑form videos, that build on and elevate the original footage. Through close collaboration with the teams crafting these assets, we identified a r"
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/omio",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Prompt Injection as Role Confusion",
@@ -109,14 +133,6 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert humans”&#8230;Researchers with the University of Oxford, UK AI Security Institute, Stanford University, and the [&#8230;]"
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/patch-the-planet",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -125,12 +141,28 @@
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+    },
+    {
       "title": "Codex-maxxing for long-running work",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/codex-maxxing-long-running-work",
       "published": "2026-06-22T00:00:00+00:00",
       "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "published": "2026-06-22T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
