@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-23T22:10:05.867346+00:00",
+  "generated_at": "2026-06-23T23:54:31.080111+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "datasette 1.0a35",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "published": "2026-06-23T21:34:37+00:00",
+      "summary": "Release: datasette 1.0a35\n        I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes:\n\n\nNew \"Create table\" interface in the database actions menu, backed by the /&lt;database&gt;/-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. (#2787)\nNew \"Alter table\" table action and /&lt;database&gt;/&lt;table&gt;/-/alter JSON API for ch"
+    },
     {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
       "source": "AI - Ars Technica",
