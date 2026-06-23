@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-23T08:31:57.079324+00:00",
+  "generated_at": "2026-06-23T12:01:09.025874+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 20,
   "items": [
+    {
+      "title": "AI Is Learning to Read the Room",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/emotion-ai-context",
+      "published": "2026-06-23T12:00:01+00:00",
+      "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump.These are subtle cues that to the human eye might hint at underlying stress. But to an AI model that’s been trained only to categorize emot"
+    },
+    {
+      "title": "The $400 million machine powering the future of chipmaking",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;"
+    },
     {
       "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
       "source": "Latent.Space",
@@ -147,54 +163,6 @@
       "url": "https://openai.com/index/patch-the-planet",
       "published": "2026-06-22T10:00:00+00:00",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-    },
-    {
-      "title": "Codex-maxxing for long-running work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "published": "2026-06-22T00:00:00+00:00",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
-    },
-    {
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "published": "2026-06-22T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-      "published": "2026-06-21T23:35:47+00:00",
-      "summary": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot more.\nI released sqlite-utils 4.0rc1, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people"
-    },
-    {
-      "title": "sqlite-utils 4.0rc1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
-      "published": "2026-06-21T23:30:04+00:00",
-      "summary": "Release: sqlite-utils 4.0rc1\n        See sqlite-utils 4.0rc1 adds migrations and nested transactions.\n    \n    \n        Tags: sqlite-utils"
-    },
-    {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "published": "2026-06-21T23:00:00+00:00",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
-    },
-    {
-      "title": "Temporary Cloudflare Accounts for AI agents",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-      "published": "2026-06-21T22:01:04+00:00",
-      "summary": "Temporary Cloudflare Accounts for AI agents\nThe announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well.\nShort version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account:\nnpx wrangler deploy --temporary\n\nCloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes.\nI had GPT-5.5 xhigh i"
     }
   ]
 }
