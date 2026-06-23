@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-23T00:03:42.390430+00:00",
+  "generated_at": "2026-06-23T04:58:15.154341+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+      "published": "2026-06-23T00:31:01+00:00",
+      "summary": "By Zhuoning Yuan, Ta-Ying Cheng, Benjamin Klein, Bahareh AzarnoushIntroductionAt Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love.To connect stories with diverse audiences around the world, we produce promotional assets, including trailers, teasers, and social short‑form videos, that build on and elevate the original footage. Through close collaboration with the teams crafting these assets, we identified a r"
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "published": "2026-06-22T23:59:53+00:00",
+      "summary": "Prompt Injection as Role Confusion\nFirst, I absolutely love this:\n\nThis is a blog-style writeup of the paper.\n\nI wish every paper would come with one of these. Academic writing is pretty dry - the impact of a paper can be so much higher if you publish a readable version to accompany the formal one.\nCharles Ye, Jasmine Cui, and Dylan Hadfield-Menell present some fascinating research into the challenge of having models distinguish their own privileged text (here wrapped in role tags like &lt;syste"
+    },
     {
       "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
       "source": "Simon Willison's Weblog",
@@ -93,20 +109,20 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert humans”&#8230;Researchers with the University of Oxford, UK AI Security Institute, Stanford University, and the [&#8230;]"
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
-    },
-    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/patch-the-planet",
       "published": "2026-06-22T10:00:00+00:00",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     },
     {
       "title": "Codex-maxxing for long-running work",
@@ -147,14 +163,6 @@
       "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
       "published": "2026-06-21T22:01:04+00:00",
       "summary": "Temporary Cloudflare Accounts for AI agents\nThe announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well.\nShort version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account:\nnpx wrangler deploy --temporary\n\nCloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes.\nI had GPT-5.5 xhigh i"
-    },
-    {
-      "title": "[Exclusive] $250 off AI Engineer tix til Monday",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
-      "published": "2026-06-21T15:01:23+00:00",
-      "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday"
     }
   ]
 }
