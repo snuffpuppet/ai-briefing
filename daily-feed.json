@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24T20:46:57.856466+00:00",
+  "generated_at": "2026-06-24T22:15:24.653652+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -163,14 +163,6 @@
       "url": "https://spectrum.ieee.org/emotion-ai-context",
       "published": "2026-06-23T12:00:01+00:00",
       "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump.These are subtle cues that to the human eye might hint at underlying stress. But to an AI model that’s been trained only to categorize emot"
-    },
-    {
-      "title": "The $400 million machine powering the future of chipmaking",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "published": "2026-06-23T09:00:00+00:00",
-      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;"
     }
   ]
 }
