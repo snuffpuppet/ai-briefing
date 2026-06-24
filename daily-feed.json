@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-24T10:46:45.673832+00:00",
+  "generated_at": "2026-06-24T13:20:31.031689+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 16,
   "items": [
+    {
+      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "published": "2026-06-24T13:00:01+00:00",
+      "summary": "SummaryRFIC design is a complex “dark art” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications.Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch.Diffusion models rapidly generate novel or human-interpretable RF layouts, achieving record performance and drastically reducing design time.Future progress needs large, shared chip design datasets and open ecosystems so AI can learn universal ele"
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "published": "2026-06-24T11:59:54+00:00",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;"
+    },
     {
       "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
       "source": "Latent.Space",
@@ -11,6 +27,14 @@
       "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
       "published": "2026-06-24T07:14:26+00:00",
       "summary": "Claude finally gets a Slackbot upgrade"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published": "2026-06-24T06:00:00+00:00",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     },
     {
       "title": "datasette 1.0a35",
@@ -107,54 +131,6 @@
       "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
       "published": "2026-06-23T06:19:49+00:00",
       "summary": "a quiet day lets us reflect on some numbers from Jamin Ball."
-    },
-    {
-      "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
-      "published": "2026-06-23T00:31:01+00:00",
-      "summary": "By Zhuoning Yuan, Ta-Ying Cheng, Benjamin Klein, Bahareh AzarnoushIntroductionAt Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love.To connect stories with diverse audiences around the world, we produce promotional assets, including trailers, teasers, and social short‑form videos, that build on and elevate the original footage. Through close collaboration with the teams crafting these assets, we identified a r"
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/omio",
-      "published": "2026-06-23T00:00:00+00:00",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
-    },
-    {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "published": "2026-06-23T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "published": "2026-06-23T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Prompt Injection as Role Confusion",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
-      "published": "2026-06-22T23:59:53+00:00",
-      "summary": "Prompt Injection as Role Confusion\nFirst, I absolutely love this:\n\nThis is a blog-style writeup of the paper.\n\nI wish every paper would come with one of these. Academic writing is pretty dry - the impact of a paper can be so much higher if you publish a readable version to accompany the formal one.\nCharles Ye, Jasmine Cui, and Dylan Hadfield-Menell present some fascinating research into the challenge of having models distinguish their own privileged text (here wrapped in role tags like &lt;syste"
-    },
-    {
-      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-      "published": "2026-06-22T23:43:51+00:00",
-      "summary": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space. The released model required PyTorch and NVIDIA CUDA, but since it described itself as 0.2B I decided to try and get it running using WebGPU in a browser. TL;DR: I got it working, and you can try the demo at simonw.github.io/m"
     }
   ]
 }
