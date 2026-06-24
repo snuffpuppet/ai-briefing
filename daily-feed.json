@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-24T18:50:21.565599+00:00",
+  "generated_at": "2026-06-24T20:46:57.856466+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/databricks",
+      "published": "2026-06-24T18:53:16+00:00",
+      "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds"
+    },
     {
       "title": "Quoting Tom MacWright",
       "source": "Simon Willison's Weblog",
@@ -82,7 +90,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
       "published": "2026-06-23T21:34:37+00:00",
-      "summary": "Release: datasette 1.0a35\n        I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes:\n\n\nNew \"Create table\" interface in the database actions menu, backed by the /&lt;database&gt;/-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. (#2787)\nNew \"Alter table\" table action and /&lt;database&gt;/&lt;table&gt;/-/alter JSON API for ch"
+      "summary": "Release: datasette 1.0a35\n        I'll write more about this one soon, but it's a big release. Three highlights from the release notes:\n\n\nNew \"Create table\" interface in the database actions menu, backed by the /&lt;database&gt;/-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. (#2787)\nNew \"Alter table\" table action and /&lt;database&gt;/&lt;table&gt;/-/alter JSON API for changi"
     },
     {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
