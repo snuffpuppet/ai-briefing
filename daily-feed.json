@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-06-24T16:19:17.602749+00:00",
+  "generated_at": "2026-06-24T18:50:21.565599+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Quoting Tom MacWright",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+      "published": "2026-06-24T18:13:51+00:00",
+      "summary": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with purely LLM-generated commit messages. [...]\nMy other reaction is that I don't know anything about these people.\nThey haven't put themselves out there. They haven't said anything true. [...]\nThe perfected, generated, prompted resume is generic and impersonal. It tells me nothing about this person, oth"
+    },
+    {
+      "title": "Tech interviews with NeetCode",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode",
+      "published": "2026-06-24T17:32:34+00:00",
+      "summary": "NeetCode shares his journey from Amazon and Google to building a startup, and why deep expertise still matters in the age of AI."
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published": "2026-06-24T16:30:01+00:00",
+      "summary": ""
+    },
     {
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "source": "Hugging Face - Blog",
@@ -139,14 +163,6 @@
       "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
       "published": "2026-06-23T09:00:00+00:00",
       "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;"
-    },
-    {
-      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-      "published": "2026-06-23T06:19:49+00:00",
-      "summary": "a quiet day lets us reflect on some numbers from Jamin Ball."
     }
   ]
 }
