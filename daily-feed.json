@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-24T03:23:59.333750+00:00",
+  "generated_at": "2026-06-24T07:38:11.216474+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "published": "2026-06-24T07:14:26+00:00",
+      "summary": "Claude finally gets a Slackbot upgrade"
+    },
     {
       "title": "datasette 1.0a35",
       "source": "Simon Willison's Weblog",
@@ -171,30 +179,6 @@
       "url": "https://www.latent.space/p/gray-swan",
       "published": "2026-06-22T21:06:55+00:00",
       "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;"
-    },
-    {
-      "title": "Commemorating 70 Years of Artificial Intelligence",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
-      "published": "2026-06-22T18:00:01+00:00",
-      "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other technologies.AI as a distinct field was formally established in 1956 at the Dartmouth Summer Research Project on Artificial Intelligence, proposed by John McCarthy, Marvin Minsky, Nathaniel Rochester, an"
-    },
-    {
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "published": "2026-06-22T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;"
-    },
-    {
-      "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
-      "published": "2026-06-22T16:00:08+00:00",
-      "summary": "Adopting AV1 for real-time communication at Meta has been a multi-year effort spanning codec selection, device eligibility, rate control, and error resilience. We’re sharing the technical and operational challenges while deploying AV1 and expanding coverage, and how we addressed them for real-time communication. We’re presenting several technologies for improving AV1 call quality, including rate control [...]\nRead More...\nThe post Adopting AV1 for Real-Time Communication (RTC) at Scale appeared"
     }
   ]
 }
