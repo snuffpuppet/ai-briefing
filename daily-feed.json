@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-24T13:20:31.031689+00:00",
+  "generated_at": "2026-06-24T16:19:17.602749+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published": "2026-06-24T16:00:13+00:00",
+      "summary": ""
+    },
     {
       "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
       "source": "IEEE Spectrum",
@@ -35,6 +43,14 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "published": "2026-06-24T06:00:00+00:00",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published": "2026-06-24T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "datasette 1.0a35",
