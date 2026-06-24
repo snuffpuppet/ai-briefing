@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24T07:38:11.216474+00:00",
+  "generated_at": "2026-06-24T10:46:45.673832+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 19,
   "items": [
     {
       "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
@@ -155,30 +155,6 @@
       "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
       "published": "2026-06-22T23:43:51+00:00",
       "summary": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space. The released model required PyTorch and NVIDIA CUDA, but since it described itself as 0.2B I decided to try and get it running using WebGPU in a browser. TL;DR: I got it working, and you can try the demo at simonw.github.io/m"
-    },
-    {
-      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
-      "published": "2026-06-22T21:52:39+00:00",
-      "summary": "US autoworkers union warns of robot automation as dark factory future looms."
-    },
-    {
-      "title": "How Netflix Simplified Batch Compute with Kueue",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
-      "published": "2026-06-22T21:35:01+00:00",
-      "summary": "By Alvin Bao, Alex Petrov, Jennifer Lai, Aidan Sherr, and Samartha ChandrashekarAs a part of the journey to transition Netflix’s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the Kubernetes ecosystem into our container platform Titus. One example of this is our use of Kueue, a cloud-native job queueing system for batch workloads, which has largely replaced the custom queuing and scheduling logic in our homegrown managed batch solution Comp"
-    },
-    {
-      "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/gray-swan",
-      "published": "2026-06-22T21:06:55+00:00",
-      "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;"
     }
   ]
 }
