@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-25T00:09:58.814568+00:00",
+  "generated_at": "2026-06-25T05:03:35.509210+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[AINews] It's Meta-Harness Summer",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+      "published": "2026-06-25T02:14:08+00:00",
+      "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!"
+    },
     {
       "title": "simonw/browser-compat-db",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
       "published": "2026-06-24T23:59:03+00:00",
-      "summary": "simonw/browser-compat-db\nInspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database.\nThis new GitHub Repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils.\nI wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file stor"
+      "summary": "simonw/browser-compat-db\nInspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database.\nThis new GitHub repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils.\nI wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file stor"
     },
     {
       "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
@@ -123,46 +131,6 @@
       "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
       "published": "2026-06-23T18:58:54+00:00",
       "summary": "Tool: OPFS + Pyodide test harness\n        I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer.\nThat's what OFPS (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers.\n    \n    \n        Tags: browsers, pyodide, datasette-lite"
-    },
-    {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "published": "2026-06-23T17:00:00+00:00",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
-    },
-    {
-      "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
-      "published": "2026-06-23T16:00:38+00:00",
-      "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses’ temple arms. So how do you place a battery with enough power to run a pair of smart glasses [...]\nRead More...\nThe post How Meta Engineered Ultra-Narrow Batteries for AI Glasses appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Slow down to speed up: so much has changed in 6 months’ time",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
-      "published": "2026-06-23T15:30:26+00:00",
-      "summary": "An overview of what&#8217;s changed in engineering during the last six months, how various tech companies are changing how they work, and why slowing down could be a sensible strategy"
-    },
-    {
-      "title": "Helping build shared standards for advanced AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "published": "2026-06-23T13:00:00+00:00",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
-    },
-    {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "published": "2026-06-23T12:51:55+00:00",
-      "summary": ""
     }
   ]
 }
