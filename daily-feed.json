@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-25T19:57:31.214190+00:00",
+  "generated_at": "2026-06-25T21:47:22.586808+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "published": "2026-06-26T00:00:00+00:00",
+      "summary": ""
+    },
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "source": "AI - Ars Technica",
