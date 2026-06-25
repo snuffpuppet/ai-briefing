@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-25T14:28:09.074565+00:00",
+  "generated_at": "2026-06-25T17:10:57.766151+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "published": "2026-06-25T16:11:42+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "published": "2026-06-25T14:22:59+00:00",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;"
+    },
     {
       "title": "What it Means to Be a Mathematician When AI Does the Math",
       "source": "IEEE Spectrum",
