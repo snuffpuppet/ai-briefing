@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-25T17:10:57.766151+00:00",
+  "generated_at": "2026-06-25T19:57:31.214190+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "published": "2026-06-25T19:04:57+00:00",
+      "summary": "Notion is \"going all in on using agents to run your inbox.\""
+    },
+    {
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "published": "2026-06-25T18:38:51+00:00",
+      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI."
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "published": "2026-06-25T18:01:48+00:00",
+      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges."
+    },
+    {
+      "title": "Why Does a Bank Need a Chief Scientist?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
+      "published": "2026-06-25T17:32:32+00:00",
+      "summary": "This article is brought to you by Capital One.After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution serving over 100 million customers, helping everyday Americans manage their financial lives.For Natarajan, a veteran of DARPA-funded research and academia who had watched machine learning evolve from tas"
+    },
     {
       "title": "Which tokens does a hybrid model predict better?",
       "source": "Hugging Face - Blog",
@@ -123,22 +155,6 @@
       "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
       "published": "2026-06-24T11:59:54+00:00",
       "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;"
-    },
-    {
-      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-      "published": "2026-06-24T07:14:26+00:00",
-      "summary": "Claude finally gets a Slackbot upgrade"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published": "2026-06-24T06:00:00+00:00",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     }
   ]
 }
