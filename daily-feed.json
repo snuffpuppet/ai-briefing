@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-25T11:42:57.958219+00:00",
+  "generated_at": "2026-06-25T14:28:09.074565+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "What it Means to Be a Mathematician When AI Does the Math",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "published": "2026-06-25T13:00:01+00:00",
+      "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My research focused on simulating how special light waves interact in liquid crystals and using simple equations to approximate and understand those interactions. When I look back at my thesis now, liquid crystal technology is old hat, and I imagine my work could be completed with AI assistance in a matte"
+    },
     {
       "title": "IBM claims world’s first sub-1 nanometer chip technology",
       "source": "AI - Ars Technica",
@@ -115,14 +123,6 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "published": "2026-06-24T06:00:00+00:00",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-    },
-    {
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "published": "2026-06-24T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
