@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T21:47:22.586808+00:00",
+  "generated_at": "2026-06-25T23:16:13.166845+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 23,
   "items": [
     {
       "title": "Run a vLLM Server on HF Jobs in One Command",
@@ -11,6 +11,22 @@
       "url": "https://huggingface.co/blog/vllm-jobs",
       "published": "2026-06-26T00:00:00+00:00",
       "summary": ""
+    },
+    {
+      "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+      "published": "2026-06-25T22:30:51+00:00",
+      "summary": "Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named &#8220;age&#8220;: In one context, it might [...]\nRead More...\nThe post Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study appeared fi"
+    },
+    {
+      "title": "AI and Liability",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "published": "2026-06-25T22:28:46+00:00",
+      "summary": "AI and Liability\nBruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews:\n\nAI agents are agents of the person or organization that deploys them—and should be treated by the law as such. If a company hired human writers to write its summaries, that company would be liable for inaccuracies in those summaries. [...]\nTo allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a massive handout to companies,"
     },
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
@@ -43,6 +59,14 @@
       "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
       "published": "2026-06-25T17:32:32+00:00",
       "summary": "This article is brought to you by Capital One.After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution serving over 100 million customers, helping everyday Americans manage their financial lives.For Natarajan, a veteran of DARPA-funded research and academia who had watched machine learning evolve from tas"
+    },
+    {
+      "title": "datasette-export-database 0.3a2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+      "published": "2026-06-25T17:21:09+00:00",
+      "summary": "Release: datasette-export-database 0.3a2\n        An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadvertently making this plugin incompatible with all other Datasette versions. It's now datasette&gt;=1.0a27 instead.\n    \n    \n        Tags: datasette"
     },
     {
       "title": "Which tokens does a hybrid model predict better?",
