@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T05:03:35.509210+00:00",
+  "generated_at": "2026-06-25T08:58:06.328703+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 14,
   "items": [
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -115,22 +115,6 @@
       "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
       "published": "2026-06-23T21:34:37+00:00",
       "summary": "Release: datasette 1.0a35\n        I'll write more about this one soon, but it's a big release. Three highlights from the release notes:\n\n\nNew \"Create table\" interface in the database actions menu, backed by the /&lt;database&gt;/-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. (#2787)\nNew \"Alter table\" table action and /&lt;database&gt;/&lt;table&gt;/-/alter JSON API for changi"
-    },
-    {
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "published": "2026-06-23T20:17:38+00:00",
-      "summary": "Oracle is spending billions on data center infrastructure to support AI."
-    },
-    {
-      "title": "OPFS + Pyodide test harness",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
-      "published": "2026-06-23T18:58:54+00:00",
-      "summary": "Tool: OPFS + Pyodide test harness\n        I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer.\nThat's what OFPS (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers.\n    \n    \n        Tags: browsers, pyodide, datasette-lite"
     }
   ]
 }
