@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-24T22:15:24.653652+00:00",
+  "generated_at": "2026-06-25T00:09:58.814568+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
   "items": [
+    {
+      "title": "simonw/browser-compat-db",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "published": "2026-06-24T23:59:03+00:00",
+      "summary": "simonw/browser-compat-db\nInspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database.\nThis new GitHub Repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils.\nI wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file stor"
+    },
+    {
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "published": "2026-06-24T22:28:18+00:00",
+      "summary": "The silicon race is heating up amid the struggle to keep up with demand."
+    },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
       "source": "Latent.Space",
@@ -147,22 +163,6 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
       "published": "2026-06-23T12:51:55+00:00",
       "summary": ""
-    },
-    {
-      "title": "How to burst the AI bubble: Strike at its roots",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-      "published": "2026-06-23T12:00:34+00:00",
-      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI."
-    },
-    {
-      "title": "AI Is Learning to Read the Room",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/emotion-ai-context",
-      "published": "2026-06-23T12:00:01+00:00",
-      "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump.These are subtle cues that to the human eye might hint at underlying stress. But to an AI model that’s been trained only to categorize emot"
     }
   ]
 }
