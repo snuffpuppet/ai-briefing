@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-25T23:16:13.166845+00:00",
+  "generated_at": "2026-06-26T03:30:08.088905+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+      "published": "2026-06-26T01:12:30+00:00",
+      "summary": "It's happening."
+    },
     {
       "title": "Run a vLLM Server on HF Jobs in One Command",
       "source": "Hugging Face - Blog",
@@ -171,22 +179,6 @@
       "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "published": "2026-06-24T16:00:13+00:00",
       "summary": ""
-    },
-    {
-      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "published": "2026-06-24T13:00:01+00:00",
-      "summary": "SummaryRFIC design is a complex “dark art” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications.Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch.Diffusion models rapidly generate novel or human-interpretable RF layouts, achieving record performance and drastically reducing design time.Future progress needs large, shared chip design datasets and open ecosystems so AI can learn universal ele"
-    },
-    {
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "published": "2026-06-24T11:59:54+00:00",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;"
     }
   ]
 }
