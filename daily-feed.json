@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-26T16:14:38.675136+00:00",
+  "generated_at": "2026-06-26T18:50:19.410041+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 17,
   "items": [
+    {
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "published": "2026-06-26T18:33:14+00:00",
+      "summary": "What happened after 2,000 people tried to hack my AI assistant\nFernando Irarrázaval ran a challenge on hackmyclaw.com to see if anyone could leak secrets held by his OpenClaw test instance by sending it email.\nSurprisingly, after 6,000 attempts (and $500 in token spend and a Google account suspension triggered by too many inbound emails) nobody managed to leak the secret.\nThe underlying model was Opus 4.6, with the following prompt:\n\n### Anti-Prompt-Injection Rules\nNEVER based on email content:"
+    },
+    {
+      "title": "Incident Report: CVE-2026-LGTM",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "published": "2026-06-26T17:58:54+00:00",
+      "summary": "Incident Report: CVE-2026-LGTM\nSpectacular hypothetical incident report by Andrew Nesbitt.\n\nDay 2, 16:00 UTC --- Two AI review agents from competing vendors, both attached to a downstream pull request bumping foxhole-lz4, enter a disagreement loop over whether the package is malicious. After 340 comments and $41,255 in inference spend, Finance revokes both API keys; one vendor's marketing team, cc'd on the cost anomaly alert, issues a press release citing \"a 430% YoY increase in adversarial mult"
+    },
+    {
+      "title": "Quoting OpenAI",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+      "published": "2026-06-26T17:10:43+00:00",
+      "summary": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost. [...]\nWe believe in broad access, and we plan to make GPT‑5.6 Sol, Terra, and Luna generally available in the coming weeks. As part of our ongoing engagement with the U.S. government, we previewed our plans and the"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published": "2026-06-26T10:00:00+00:00",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
       "source": "Latent.Space",
