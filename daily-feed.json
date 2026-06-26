@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-26T20:45:19.617898+00:00",
+  "generated_at": "2026-06-26T22:11:35.113110+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
   "items": [
+    {
+      "title": "Quoting Timothy B. Lee",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+      "published": "2026-06-26T21:15:09+00:00",
+      "summary": "This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do.\n&mdash; Timothy B. Lee, on the idea that LLMs take no skill and have no learning curve\n\n    Tags: llms, ai, generative-ai"
+    },
     {
       "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
       "source": "AI - Ars Technica",
@@ -139,14 +147,6 @@
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "published": "2026-06-25T13:00:01+00:00",
       "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My research focused on simulating how special light waves interact in liquid crystals and using simple equations to approximate and understand those interactions. When I look back at my thesis now, liquid crystal technology is old hat, and I imagine my work could be completed with AI assistance in a matte"
-    },
-    {
-      "title": "IBM claims world’s first sub-1 nanometer chip technology",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "published": "2026-06-25T10:00:55+00:00",
-      "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency."
     }
   ]
 }
