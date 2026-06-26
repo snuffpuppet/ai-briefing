@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T03:30:08.088905+00:00",
+  "generated_at": "2026-06-26T07:49:51.022310+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -139,46 +139,6 @@
       "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
       "published": "2026-06-24T22:28:18+00:00",
       "summary": "The silicon race is heating up amid the struggle to keep up with demand."
-    },
-    {
-      "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/databricks",
-      "published": "2026-06-24T18:53:16+00:00",
-      "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds"
-    },
-    {
-      "title": "Quoting Tom MacWright",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
-      "published": "2026-06-24T18:13:51+00:00",
-      "summary": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with purely LLM-generated commit messages. [...]\nMy other reaction is that I don't know anything about these people.\nThey haven't put themselves out there. They haven't said anything true. [...]\nThe perfected, generated, prompted resume is generic and impersonal. It tells me nothing about this person, oth"
-    },
-    {
-      "title": "Tech interviews with NeetCode",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode",
-      "published": "2026-06-24T17:32:34+00:00",
-      "summary": "NeetCode shares his journey from Amazon and Google to building a startup, and why deep expertise still matters in the age of AI."
-    },
-    {
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "published": "2026-06-24T16:30:01+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "published": "2026-06-24T16:00:13+00:00",
-      "summary": ""
     }
   ]
 }
