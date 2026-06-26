@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T07:49:51.022310+00:00",
+  "generated_at": "2026-06-26T10:49:16.236977+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -131,14 +131,6 @@
       "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
       "published": "2026-06-24T23:59:03+00:00",
       "summary": "simonw/browser-compat-db\nInspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database.\nThis new GitHub repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils.\nI wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file stor"
-    },
-    {
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "published": "2026-06-24T22:28:18+00:00",
-      "summary": "The silicon race is heating up amid the struggle to keep up with demand."
     }
   ]
 }
