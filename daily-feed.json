@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-27T12:08:05.632333+00:00",
+  "generated_at": "2026-06-27T14:28:01.184907+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 10,
   "items": [
+    {
+      "title": "ConlangCrafter Turns AI to Imagining Languages",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
+      "published": "2026-06-27T13:00:01+00:00",
+      "summary": "There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs, include Dothraki, Klingon, and various Elvish languages. Now, an AI model called ConlangCrafter is also capable of generating new languages—and it is particularly good at it.In a paper published 27 June in the Proceedings of the Association of Computer Linguists, researchers analyzed ConlangCrafter’s language generation abilities, r"
+    },
     {
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
       "source": "Latent.Space",
@@ -75,14 +83,6 @@
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "published": "2026-06-26T10:00:00+00:00",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
-    },
-    {
-      "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
-      "published": "2026-06-26T01:12:30+00:00",
-      "summary": "It's happening."
     }
   ]
 }
