@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-27T20:06:41.574889+00:00",
+  "generated_at": "2026-06-27T22:00:45.565083+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 9,
   "items": [
     {
       "title": "ConlangCrafter Turns AI to Imagining Languages",
@@ -75,14 +75,6 @@
       "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
       "published": "2026-06-26T17:10:43+00:00",
       "summary": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost. [...]\nWe believe in broad access, and we plan to make GPT‑5.6 Sol, Terra, and Luna generally available in the coming weeks. As part of our ongoing engagement with the U.S. government, we previewed our plans and the"
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "published": "2026-06-26T10:00:00+00:00",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
     }
   ]
 }
