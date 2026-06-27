@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-27T10:05:50.342200+00:00",
+  "generated_at": "2026-06-27T12:08:05.632333+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 10,
   "items": [
     {
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
@@ -83,30 +83,6 @@
       "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
       "published": "2026-06-26T01:12:30+00:00",
       "summary": "It's happening."
-    },
-    {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "published": "2026-06-26T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
-      "published": "2026-06-25T22:30:51+00:00",
-      "summary": "Privacy controls — systems that enforce retention, access, allowed-purpose, downstream-sharing, or anonymization policies — require a reliable understanding of data to function. Before such a control can operate effectively, it must know exactly what it is looking at. This can be complex, as demonstrated by a field simply named &#8220;age&#8220;: In one context, it might [...]\nRead More...\nThe post Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study appeared fi"
-    },
-    {
-      "title": "AI and Liability",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
-      "published": "2026-06-25T22:28:46+00:00",
-      "summary": "AI and Liability\nBruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews:\n\nAI agents are agents of the person or organization that deploys them—and should be treated by the law as such. If a company hired human writers to write its summaries, that company would be liable for inaccuracies in those summaries. [...]\nTo allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a massive handout to companies,"
     }
   ]
 }
