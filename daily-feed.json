@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-28T20:58:56.642647+00:00",
+  "generated_at": "2026-06-28T22:07:32.729679+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Quoting Jon Udell",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "published": "2026-06-28T21:57:41+00:00",
+      "summary": "Human Agent in the loop\nI dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we recruit agents to join the team. An agent-assisted process need not be a black box that takes in prompts and emits features. [...]\nLet’s do agentic software development like that. Not as a loop we’ve been excluded from, instead as one we invite agents into.\n&mdash; Jon Udell, “Doctor, it hurts when agents"
+    },
     {
       "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
       "source": "Interconnects AI",
