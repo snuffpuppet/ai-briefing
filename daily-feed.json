@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-28T15:16:37.764784+00:00",
+  "generated_at": "2026-06-28T17:08:04.449102+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Artifacts 22: Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+      "published": "2026-06-28T17:03:07+00:00",
+      "summary": "An assessment of the open ecosystem and the motivations behind releasing models"
+    },
     {
       "title": "ConlangCrafter Turns AI to Imagining Languages",
       "source": "IEEE Spectrum",
