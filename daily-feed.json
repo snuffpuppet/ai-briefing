@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:08:04.449102+00:00",
+  "generated_at": "2026-06-28T19:16:36.517323+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
-      "title": "Artifacts 22: Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+      "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
       "source": "Interconnects AI",
       "feed_url": "https://www.interconnects.ai/feed",
       "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
@@ -19,14 +19,6 @@
       "url": "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
       "published": "2026-06-27T13:00:01+00:00",
       "summary": "There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs, include Dothraki, Klingon, and various Elvish languages. Now, an AI model called ConlangCrafter is also capable of generating new languages—and it is particularly good at it.In a paper published 27 June in the Proceedings of the Association of Computer Linguists, researchers analyzed ConlangCrafter’s language generation abilities, r"
-    },
-    {
-      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "published": "2026-06-27T05:23:22+00:00",
-      "summary": "Oddly tiered releases to both OAI and ANT on the same day."
     }
   ]
 }
