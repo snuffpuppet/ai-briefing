@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T00:06:27.980918+00:00",
+  "generated_at": "2026-06-29T05:48:12.144454+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Quoting Jon Udell",
@@ -35,14 +35,6 @@
       "url": "https://openai.com/index/hp-frontier-partnership",
       "published": "2026-06-28T17:00:00+00:00",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
-    },
-    {
-      "title": "ConlangCrafter Turns AI to Imagining Languages",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
-      "published": "2026-06-27T13:00:01+00:00",
-      "summary": "There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs, include Dothraki, Klingon, and various Elvish languages. Now, an AI model called ConlangCrafter is also capable of generating new languages—and it is particularly good at it.In a paper published 27 June in the Proceedings of the Association of Computer Linguists, researchers analyzed ConlangCrafter’s language generation abilities, r"
     }
   ]
 }
