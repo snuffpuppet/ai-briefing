@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-29T19:53:58.680932+00:00",
+  "generated_at": "2026-06-29T21:24:28.951216+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 15,
   "items": [
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "published": "2026-06-29T21:09:43+00:00",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028."
+    },
     {
       "title": "Count the number of Safari tabs",
       "source": "Simon Willison's Weblog",
@@ -75,6 +83,14 @@
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "published": "2026-06-29T07:00:00+00:00",
       "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+    },
+    {
+      "title": "“It’s Hard to Eval” Is a Product Smell",
+      "source": "Hamel's Blog",
+      "feed_url": "https://hamel.dev/index.xml",
+      "url": "https://hamel.dev/blog/posts/eval-smell/",
+      "published": "2026-06-29T07:00:00+00:00",
+      "summary": "For the past 3 years, AI evals have been my professional focus.1 The most common objection I hear to evals is “our product is hard to eval”.\nThis objection is a product smell. Artifacts that are hard for you to verify are often hard for users too. In the worst case, users have to redo the work from scratch to verify the output. More importantly, designing your product for ease of verification should come before building evals.\nIn this post, I’ll walk through three products I advis"
     },
     {
       "title": "Quoting Jon Udell",
