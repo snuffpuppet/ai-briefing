@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-29T14:46:31.687081+00:00",
+  "generated_at": "2026-06-29T17:34:41.606288+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "published": "2026-06-29T16:17:59+00:00",
+      "summary": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding\nThis is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.\n\n[...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state-of-the-art performance among open-source models of comparable size on coding benchmarks.\n\nAs far as I can tell the licenses of those underlying models is compatible with being used in this way - Gemm"
+    },
+    {
+      "title": "Agent confidence on the technical frontier",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "published": "2026-06-29T14:44:01+00:00",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;"
+    },
     {
       "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
       "source": "Import AI",
