@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-30T17:50:48.693751+00:00",
+  "generated_at": "2026-06-30T19:52:21.763170+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 30,
   "items": [
+    {
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "published": "2026-06-30T18:36:10+00:00",
+      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create."
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published": "2026-06-30T18:32:50+00:00",
+      "summary": ""
+    },
     {
       "title": "The AI Compass",
       "source": "Simon Willison's Weblog",
@@ -227,22 +243,6 @@
       "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
       "published": "2026-06-29T13:00:01+00:00",
       "summary": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But what you might not know is how much energy that interaction consumed or why. AI requires processing massive amounts of data, which is usually done in large data centers populated by thousands of GPUs"
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
-    },
-    {
-      "title": "“It’s Hard to Eval” Is a Product Smell",
-      "source": "Hamel's Blog",
-      "feed_url": "https://hamel.dev/index.xml",
-      "url": "https://hamel.dev/blog/posts/eval-smell/",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "For the past 3 years, AI evals have been my professional focus.1 The most common objection I hear to evals is “our product is hard to eval”.\nThis objection is a product smell. Artifacts that are hard for you to verify are often hard for users too. In the worst case, users have to redo the work from scratch to verify the output. More importantly, designing your product for ease of verification should come before building evals.\nIn this post, I’ll walk through three products I advis"
     }
   ]
 }
