@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-30T00:02:25.897112+00:00",
+  "generated_at": "2026-06-30T05:00:47.926621+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "HTML table extractor",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "published": "2026-06-29T23:38:21+00:00",
+      "summary": "Tool: HTML table extractor\n        Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON.\nTry it out by selecting everything on the Wikipedia List of cities and towns in the San Francisco Bay Area page and pasting it directly into the tool:\n\nOn a similar note, I recently rebuilt my Rich text to markdown tool to add support for tables and g"
+    },
     {
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "source": "AI - Ars Technica",
@@ -115,14 +123,6 @@
       "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
       "published": "2026-06-28T17:03:07+00:00",
       "summary": "An assessment of the open ecosystem and the motivations behind releasing models"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "published": "2026-06-28T17:00:00+00:00",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
     }
   ]
 }
