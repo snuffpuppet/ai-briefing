@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-06-30T19:52:21.763170+00:00",
+  "generated_at": "2026-06-30T21:26:27.171305+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 32,
   "items": [
+    {
+      "title": "What's new in Claude Sonnet 5",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "published": "2026-06-30T21:23:02+00:00",
+      "summary": "What&#x27;s new in Claude Sonnet 5\nClaude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post.\nAnthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government:\n\nSonnet 5 is significantly less capable at cyber tasks than My"
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "published": "2026-06-30T20:03:14+00:00",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
+    },
     {
       "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
       "source": "AI - Ars Technica",
