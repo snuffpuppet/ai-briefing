@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-06-30T15:25:25.594993+00:00",
+  "generated_at": "2026-06-30T17:50:48.693751+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 30,
   "items": [
+    {
+      "title": "The AI Compass",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+      "published": "2026-06-30T17:39:23+00:00",
+      "summary": "The AI Compass\nThis political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit.\nI'm impressed that my answers on my first time through the quiz categorized me as \"The Garage Tinkerer\", patron saint myself!\n\nIt's implemented as a single page React app using the &lt;script type=\"text/babel\"&gt; trick to avoid the necessary build step. Here's the code.\n\n    Via @erisianrite.com\n\n\n    Tags: ai, generative-ai"
+    },
+    {
+      "title": "Impressions from visiting OpenAI, Anthropic, & Cursor",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+      "published": "2026-06-30T17:21:05+00:00",
+      "summary": "A peek into where software engineering is headed from inside the sector&#8217;s leading AI labs. Agents running in the cloud are a major trend, while coding harnesses are spreading beyond the craft"
+    },
+    {
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "published": "2026-06-30T16:59:02+00:00",
+      "summary": "A year in, National Design Studio delays plan to update government web standards."
+    },
+    {
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "published": "2026-06-30T16:54:26+00:00",
+      "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that.\nHere's an example video created using shot-scraper video, exercising a still in development feature adding the ability to cr"
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "published": "2026-06-30T16:02:40+00:00",
+      "summary": ""
+    },
+    {
+      "title": "10 Years of Meta’s Commitment to Python",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
+      "published": "2026-06-30T16:00:46+00:00",
+      "summary": "This year marks Meta&#8217;s 10th consecutive year as a sponsor of the Python Software Foundation (PSF), the charitable organization dedicated to advancing, supporting, and protecting the open-source Python programming language and the community that sustains it. Python is one of the world&#8217;s most influential programming languages, and we use it across our engineering stack, from [...]\nRead More...\nThe post 10 Years of Meta’s Commitment to Python appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
+      "published": "2026-06-30T15:38:08+00:00",
+      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts."
+    },
+    {
+      "title": "shot-scraper 1.10",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "published": "2026-06-30T15:10:14+00:00",
+      "summary": "Release: shot-scraper 1.10\n        The big new feature is shot-scraper video storyboard.yml, described in detail in Have your agent record video demos of its work with shot-scraper video.\n    \n    \n        Tags: shot-scraper"
+    },
     {
       "title": "Why Specialization Is Inevitable",
       "source": "Hugging Face - Blog",
@@ -37,12 +101,44 @@
       "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;"
     },
     {
+      "title": "How ChatGPT adoption has expanded",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
       "published": "2026-06-30T06:47:27+00:00",
       "summary": "a quiet day before the storm."
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
