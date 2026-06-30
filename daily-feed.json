@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-06-30T09:30:30.216719+00:00",
+  "generated_at": "2026-06-30T12:06:49.355854+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "published": "2026-06-30T12:00:00+00:00",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;"
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -107,14 +115,6 @@
       "url": "https://hamel.dev/blog/posts/eval-smell/",
       "published": "2026-06-29T07:00:00+00:00",
       "summary": "For the past 3 years, AI evals have been my professional focus.1 The most common objection I hear to evals is “our product is hard to eval”.\nThis objection is a product smell. Artifacts that are hard for you to verify are often hard for users too. In the worst case, users have to redo the work from scratch to verify the output. More importantly, designing your product for ease of verification should come before building evals.\nIn this post, I’ll walk through three products I advis"
-    },
-    {
-      "title": "Quoting Jon Udell",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
-      "published": "2026-06-28T21:57:41+00:00",
-      "summary": "Human Agent in the loop\nI dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we recruit agents to join the team. An agent-assisted process need not be a black box that takes in prompts and emits features. [...]\nLet’s do agentic software development like that. Not as a loop we’ve been excluded from, instead as one we invite agents into.\n&mdash; Jon Udell, “Doctor, it hurts when agents"
     }
   ]
 }
