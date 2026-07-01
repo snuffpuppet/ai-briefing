@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-01T08:10:13.698469+00:00",
+  "generated_at": "2026-07-01T12:02:56.199136+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 26,
   "items": [
+    {
+      "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/orbital-data-center-hype",
+      "published": "2026-07-01T12:00:01+00:00",
+      "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the Federal Communications Commission for an orbital data center constellation of up to 1 million satellites in low Earth orbit, 500 to 2,000 kilometers above Earth. And just three days before the IPO, he"
+    },
     {
       "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
       "source": "Latent.Space",
@@ -203,54 +211,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
       "published": "2026-06-30T06:47:27+00:00",
       "summary": "a quiet day before the storm."
-    },
-    {
-      "title": "Introducing GeneBench-Pro",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "HTML table extractor",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
-      "published": "2026-06-29T23:38:21+00:00",
-      "summary": "Tool: HTML table extractor\n        Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON.\nTry it out by selecting everything on the Wikipedia List of cities and towns in the San Francisco Bay Area page and pasting it directly into the tool:\n\nOn a similar note, I recently rebuilt my Rich text to markdown tool to add support for tables and g"
-    },
-    {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "published": "2026-06-29T21:09:43+00:00",
-      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028."
     }
   ]
 }
