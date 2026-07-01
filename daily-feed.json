@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-01T12:02:56.199136+00:00",
+  "generated_at": "2026-07-01T15:39:17.661519+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 30,
   "items": [
+    {
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "published": "2026-07-01T14:42:39+00:00",
+      "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold."
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "published": "2026-07-01T14:35:16+00:00",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;"
+    },
+    {
+      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/software-factories",
+      "published": "2026-07-01T14:28:23+00:00",
+      "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift."
+    },
     {
       "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
       "source": "IEEE Spectrum",
@@ -35,6 +59,14 @@
       "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
       "published": "2026-07-01T00:20:18+00:00",
       "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge."
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published": "2026-07-01T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Quoting Anthropic",
