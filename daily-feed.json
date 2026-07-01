@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-06-30T23:09:53.952125+00:00",
+  "generated_at": "2026-07-01T03:36:57.331805+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 34,
   "items": [
+    {
+      "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+      "published": "2026-07-01T03:01:09+00:00",
+      "summary": "Everything is open again!"
+    },
+    {
+      "title": "Forward Deployed Engineers and the future of software engineering",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
+      "published": "2026-07-01T00:20:18+00:00",
+      "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge."
+    },
+    {
+      "title": "Quoting Anthropic",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "published": "2026-06-30T23:58:15+00:00",
+      "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\nWe'll begin restoring access tomorrow, and will share an update soon.\n&mdash; Anthropic, on Twitter\n\n    Tags: anthropic, claude, generative-ai, claude-mythos, ai, llms"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+      "published": "2026-06-30T23:39:29+00:00",
+      "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure."
+    },
     {
       "title": "Nano Banana 2 Lite",
       "source": "Simon Willison's Weblog",
@@ -243,38 +275,6 @@
       "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
       "published": "2026-06-29T16:17:59+00:00",
       "summary": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding\nThis is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.\n\n[...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state-of-the-art performance among open-source models of comparable size on coding benchmarks.\n\nAs far as I can tell the licenses of those underlying models is compatible with being used in this way - Gemm"
-    },
-    {
-      "title": "Agent confidence on the technical frontier",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "published": "2026-06-29T14:44:01+00:00",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;"
-    },
-    {
-      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
-      "published": "2026-06-29T13:03:27+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now NVIDIA sets up a crude self-improvement loop for real world robotics:…What if you could take the best ideas from AI agents and put them into the [&#8230;]"
-    },
-    {
-      "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
-      "published": "2026-06-29T13:01:02+00:00",
-      "summary": "Authors: Lequn Wang, Jiangwei Pan, and Linas BaltrunasFigure 1. Autoregressive homepage generation. GenPage builds a Netflix homepage one row or entity at a time, each one conditioned on what’s already on the page and the user’s context.IntroductionThe Netflix homepage is the first thing users see when they open the app and the primary way they discover content to enjoy. Almost every part of it is personalized, including which rows appear, which entities show up within those rows, and how everyt"
-    },
-    {
-      "title": "The Lab Mistake That Might Revolutionize Computing",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
-      "published": "2026-06-29T13:00:01+00:00",
-      "summary": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But what you might not know is how much energy that interaction consumed or why. AI requires processing massive amounts of data, which is usually done in large data centers populated by thousands of GPUs"
     }
   ]
 }
