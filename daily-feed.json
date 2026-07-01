@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T19:51:08.970995+00:00",
+  "generated_at": "2026-07-01T21:25:56.166998+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 35,
+  "item_count": 34,
   "items": [
     {
       "title": "How Cursor deploys AI inside the enterprise",
@@ -275,14 +275,6 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
       "published": "2026-06-30T12:00:00+00:00",
       "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;"
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "published": "2026-06-30T09:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
     }
   ]
 }
