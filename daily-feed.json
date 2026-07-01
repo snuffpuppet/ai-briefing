@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-01T15:39:17.661519+00:00",
+  "generated_at": "2026-07-01T17:52:35.337581+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 34,
   "items": [
+    {
+      "title": "How Kent Beck shapes the software engineering industry",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+      "published": "2026-07-01T16:57:46+00:00",
+      "summary": "Kent Beck reflects on Agile, TDD, and why building trust&#8212;not just generating code&#8212;will define the future of software engineering in the AI era."
+    },
+    {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "published": "2026-07-01T16:44:18+00:00",
+      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models."
+    },
+    {
+      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
+      "published": "2026-07-01T16:01:27+00:00",
+      "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.Aro"
+    },
+    {
+      "title": "Meta’s AI Storage Blueprint at Scale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "published": "2026-07-01T16:00:36+00:00",
+      "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...]\nRead More...\nThe post Meta&#8217;s AI Storage Blueprint at Scale appeared first on Engineering at Meta."
+    },
     {
       "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
       "source": "Latent.Space",
@@ -210,7 +242,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/stochastic-parrot",
       "published": "2026-06-30T14:00:02+00:00",
-      "summary": "In March 2021, a group of four linguists and computer scientists published their now legendary paper “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Margaret Mitchell, shortly before its publication). It argued that large language models (LLMs) generate text by statistically predicting likely sequences of words rather than understanding what they are s"
+      "summary": "In March 2021, a group of four researchers—a collaboration of linguists and computer scientists—published their now legendary paper “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Margaret Mitchell, shortly before its publication). It argued that large language models (LLMs) generate text by statistically predicting likely sequences of words rather tha"
     },
     {
       "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
