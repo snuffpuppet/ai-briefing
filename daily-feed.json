@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-01T03:36:57.331805+00:00",
+  "generated_at": "2026-07-01T08:10:13.698469+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 31,
   "items": [
+    {
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "published": "2026-07-01T04:46:21+00:00",
+      "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models."
+    },
     {
       "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
       "source": "Latent.Space",
@@ -243,38 +251,6 @@
       "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
       "published": "2026-06-29T21:09:43+00:00",
       "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028."
-    },
-    {
-      "title": "Count the number of Safari tabs",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
-      "published": "2026-06-29T18:36:18+00:00",
-      "summary": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari:\nosascript -e 'tell application \"Safari\" to count tabs of every window'\n\n\n\n    Tags: safari, til, applescript"
-    },
-    {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "published": "2026-06-29T18:02:48+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AI agents are not your “coworkers”",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "published": "2026-06-29T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;"
-    },
-    {
-      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
-      "published": "2026-06-29T16:17:59+00:00",
-      "summary": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding\nThis is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.\n\n[...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state-of-the-art performance among open-source models of comparable size on coding benchmarks.\n\nAs far as I can tell the licenses of those underlying models is compatible with being used in this way - Gemm"
     }
   ]
 }
