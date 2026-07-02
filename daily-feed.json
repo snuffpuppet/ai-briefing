@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-02T21:03:29.333019+00:00",
+  "generated_at": "2026-07-02T23:03:27.829483+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 22,
   "items": [
+    {
+      "title": "The website of the future may assemble itself for every visitor",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/the-website-of-the-future",
+      "published": "2026-07-02T21:25:14+00:00",
+      "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future."
+    },
+    {
+      "title": "llm-coding-agent 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "published": "2026-07-02T19:33:12+00:00",
+      "summary": "Release: llm-coding-agent 0.1a0\n        Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it.\nI started a new Python library using my python-lib-template-repository GitHub template repository, then ran these two prompts (here's the Claude Code for web transcript):\n\nWrite a spec.md for this project - it will depend on the latest “llm” alpha from PyPI and implement a Claude code style"
+    },
     {
       "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
       "source": "Simon Willison's Weblog",
