@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-02T17:44:32.360154+00:00",
+  "generated_at": "2026-07-02T19:20:57.011805+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "published": "2026-07-02T18:25:00+00:00",
+      "summary": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts\n        One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous research task in Claude Code for web using Claude Fable 5:\n\nPip install the latest Datasette alpha and datasette-agent and dspy - then figure out how to use dspy to evaluate and improve the main system prompts"
+    },
     {
       "title": "Understand to participate",
       "source": "Simon Willison's Weblog",
