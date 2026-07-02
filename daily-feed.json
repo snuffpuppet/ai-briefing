@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-02T12:55:45.031553+00:00",
+  "generated_at": "2026-07-02T15:14:00.658849+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 19,
   "items": [
+    {
+      "title": "OpenAI floats giving US 5% stake to win over AI haters",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "published": "2026-07-02T15:12:25+00:00",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration."
+    },
+    {
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "published": "2026-07-02T14:39:17+00:00",
+      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns."
+    },
+    {
+      "title": "Skill engineering and the case against one-shot AI design",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/skill-engineering-design",
+      "published": "2026-07-02T14:36:05+00:00",
+      "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them."
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "published": "2026-07-02T12:51:44+00:00",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
+    },
     {
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
       "source": "AI - Ars Technica",
@@ -101,7 +133,7 @@
       "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift."
     },
     {
-      "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
+      "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/orbital-data-center-hype",
@@ -115,14 +147,6 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
       "published": "2026-07-01T04:46:21+00:00",
       "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models."
-    },
-    {
-      "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
-      "published": "2026-07-01T03:01:09+00:00",
-      "summary": "Everything is open again!"
     },
     {
       "title": "2026 BAIR Graduate Showcase",
