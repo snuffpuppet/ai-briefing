@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-02T10:36:02.939622+00:00",
+  "generated_at": "2026-07-02T12:55:45.031553+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "published": "2026-07-02T11:15:49+00:00",
+      "summary": "Google tries balancing AI data center emissions with clean energy efforts."
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -123,38 +131,6 @@
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "published": "2026-07-01T02:00:00-07:00",
       "summary": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of artificial intelligence and machine learning.\n\nTheir work spans the breadth of modern AI — robotics and embodied intelligence, large language models and reasoning, computer vision, generative modeling, AI safety, human-AI interaction, AI for science an"
-    },
-    {
-      "title": "Forward Deployed Engineers and the future of software engineering",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
-      "published": "2026-07-01T00:20:18+00:00",
-      "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge."
-    },
-    {
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "published": "2026-07-01T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting Anthropic",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
-      "published": "2026-06-30T23:58:15+00:00",
-      "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\nWe'll begin restoring access tomorrow, and will share an update soon.\n&mdash; Anthropic, on Twitter\n\n    Tags: anthropic, claude, generative-ai, claude-mythos, ai, llms"
-    },
-    {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
-      "published": "2026-06-30T23:39:29+00:00",
-      "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure."
     }
   ]
 }
