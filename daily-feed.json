@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T19:20:57.011805+00:00",
+  "generated_at": "2026-07-02T21:03:29.333019+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
@@ -163,14 +163,6 @@
       "url": "https://spectrum.ieee.org/orbital-data-center-hype",
       "published": "2026-07-01T12:00:01+00:00",
       "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the Federal Communications Commission for an orbital data center constellation of up to 1 million satellites in low Earth orbit, 500 to 2,000 kilometers above Earth. And just three days before the IPO, he"
-    },
-    {
-      "title": "2026 BAIR Graduate Showcase",
-      "source": "The Berkeley Artificial Intelligence Research Blog",
-      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
-      "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-      "published": "2026-07-01T02:00:00-07:00",
-      "summary": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of artificial intelligence and machine learning.\n\nTheir work spans the breadth of modern AI — robotics and embodied intelligence, large language models and reasoning, computer vision, generative modeling, AI safety, human-AI interaction, AI for science an"
     }
   ]
 }
