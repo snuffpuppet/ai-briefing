@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-01T23:12:45.714348+00:00",
+  "generated_at": "2026-07-02T03:22:23.768770+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 30,
   "items": [
+    {
+      "title": "Autoresearch: The feedback loop behind self-improving agents",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/autoresearch-introspection",
+      "published": "2026-07-01T23:52:30+00:00",
+      "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory."
+    },
     {
       "title": "How Cursor deploys AI inside the enterprise",
       "source": "Latent.Space",
@@ -235,46 +243,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
       "published": "2026-06-30T15:38:08+00:00",
       "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts."
-    },
-    {
-      "title": "shot-scraper 1.10",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
-      "published": "2026-06-30T15:10:14+00:00",
-      "summary": "Release: shot-scraper 1.10\n        The big new feature is shot-scraper video storyboard.yml, described in detail in Have your agent record video demos of its work with shot-scraper video.\n    \n    \n        Tags: shot-scraper"
-    },
-    {
-      "title": "Why Specialization Is Inevitable",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "published": "2026-06-30T14:39:11+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Emily Bender Sets the Record Straight on “Stochastic Parrots”",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/stochastic-parrot",
-      "published": "2026-06-30T14:00:02+00:00",
-      "summary": "In March 2021, a group of four researchers—a collaboration of linguists and computer scientists—published their now legendary paper “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Margaret Mitchell, shortly before its publication). It argued that large language models (LLMs) generate text by statistically predicting likely sequences of words rather tha"
-    },
-    {
-      "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla",
-      "published": "2026-06-30T12:24:33+00:00",
-      "summary": "He was born into a storm, lightning split the summer sky, in avillage the world had not yet heard of.The midwife called it a bad omen, his mother called it a sign. Your firstlife began in a storm, under open sky.One winter night you ran your hand along a cat’s back, and thedarkness cracked open with sparks.Your mother warned the house could burn.You were already chasing what you learned: Light would return.Your second life came underwater, in the current deep. No light,no air, the river pulling"
-    },
-    {
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "published": "2026-06-30T12:00:00+00:00",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;"
     }
   ]
 }
