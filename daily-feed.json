@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T07:29:09.265852+00:00",
+  "generated_at": "2026-07-02T10:36:02.939622+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 19,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -155,38 +155,6 @@
       "url": "https://www.latent.space/p/ahmad-osman-local-ai",
       "published": "2026-06-30T23:39:29+00:00",
       "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure."
-    },
-    {
-      "title": "Nano Banana 2 Lite",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
-      "published": "2026-06-30T22:15:35+00:00",
-      "summary": "Nano Banana 2 Lite\nAlso known as Gemini 3.1 Flash Lite Image (gemini-3.1-flash-lite-image in their API), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\".\nI used AI studio to run this prompt:\n\nDo a where's Waldo style image but it's where is the raccoon holding a ham radio\n\n\nI like that one better than the results I got from the other Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two different ways though.\n\n    Via"
-    },
-    {
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "published": "2026-06-30T21:50:04+00:00",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;"
-    },
-    {
-      "title": "What's new in Claude Sonnet 5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
-      "published": "2026-06-30T21:23:02+00:00",
-      "summary": "What&#x27;s new in Claude Sonnet 5\nClaude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post.\nAnthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government:\n\nSonnet 5 is significantly less capable at cyber tasks than My"
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "published": "2026-06-30T20:03:14+00:00",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
     }
   ]
 }
