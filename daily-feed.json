@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-02T23:03:27.829483+00:00",
+  "generated_at": "2026-07-03T02:45:06.798062+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/vercel-agents-new-software",
+      "published": "2026-07-03T00:08:18+00:00",
+      "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter."
+    },
     {
       "title": "The website of the future may assemble itself for every visitor",
       "source": "Latent.Space",
@@ -147,38 +155,6 @@
       "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
       "published": "2026-07-01T16:00:36+00:00",
       "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...]\nRead More...\nThe post Meta&#8217;s AI Storage Blueprint at Scale appeared first on Engineering at Meta."
-    },
-    {
-      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
-      "published": "2026-07-01T14:42:39+00:00",
-      "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold."
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "published": "2026-07-01T14:35:16+00:00",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;"
-    },
-    {
-      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/software-factories",
-      "published": "2026-07-01T14:28:23+00:00",
-      "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift."
-    },
-    {
-      "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-      "published": "2026-07-01T12:00:01+00:00",
-      "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the Federal Communications Commission for an orbital data center constellation of up to 1 million satellites in low Earth orbit, 500 to 2,000 kilometers above Earth. And just three days before the IPO, he"
     }
   ]
 }
