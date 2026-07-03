@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-03T17:23:10.459037+00:00",
+  "generated_at": "2026-07-03T19:17:47.109171+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Fable's judgement",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "published": "2026-07-03T18:51:06+00:00",
+      "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work.\nThe example they gave was testing. You can tell Fable \"only use automated testing for larger features, don't update and run tests for small copy or design changes\" - but it's better to just tell Fable to use its own judgement when deci"
+    },
     {
       "title": "June 2026 newsletter",
       "source": "Simon Willison's Weblog",
@@ -123,22 +131,6 @@
       "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
       "published": "2026-07-02T11:15:49+00:00",
       "summary": "Google tries balancing AI data center emissions with clean energy efforts."
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
-      "published": "2026-07-02T07:10:14+00:00",
-      "summary": "another quiet day."
-    },
-    {
-      "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
-      "published": "2026-07-02T06:13:49+00:00",
-      "summary": "The software factory vision met resistance today from speakers defending human understanding and control."
     }
   ]
 }
