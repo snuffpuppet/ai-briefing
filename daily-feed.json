@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T06:30:14.520349+00:00",
+  "generated_at": "2026-07-03T09:55:36.324538+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 15,
   "items": [
     {
       "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
@@ -123,14 +123,6 @@
       "url": "https://www.latent.space/p/autoresearch-introspection",
       "published": "2026-07-01T23:52:30+00:00",
       "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory."
-    },
-    {
-      "title": "How Cursor deploys AI inside the enterprise",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
-      "published": "2026-07-01T19:03:44+00:00",
-      "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories."
     }
   ]
 }
