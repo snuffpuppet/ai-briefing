@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-03T02:45:06.798062+00:00",
+  "generated_at": "2026-07-03T06:30:14.520349+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 16,
   "items": [
+    {
+      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "published": "2026-07-03T05:11:43+00:00",
+      "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next."
+    },
     {
       "title": "Vercel's Andrew Qu on why agents are a new kind of software",
       "source": "Latent.Space",
@@ -123,38 +131,6 @@
       "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
       "published": "2026-07-01T19:03:44+00:00",
       "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories."
-    },
-    {
-      "title": "How Kent Beck shapes the software engineering industry",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
-      "published": "2026-07-01T16:57:46+00:00",
-      "summary": "Kent Beck reflects on Agile, TDD, and why building trust&#8212;not just generating code&#8212;will define the future of software engineering in the AI era."
-    },
-    {
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "published": "2026-07-01T16:44:18+00:00",
-      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models."
-    },
-    {
-      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "published": "2026-07-01T16:01:27+00:00",
-      "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.Aro"
-    },
-    {
-      "title": "Meta’s AI Storage Blueprint at Scale",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
-      "published": "2026-07-01T16:00:36+00:00",
-      "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast access to storage is important to both the speed and computational cost of this AI innovation. If AI is [...]\nRead More...\nThe post Meta&#8217;s AI Storage Blueprint at Scale appeared first on Engineering at Meta."
     }
   ]
 }
