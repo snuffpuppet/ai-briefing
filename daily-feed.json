@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T02:40:56.272480+00:00",
+  "generated_at": "2026-07-04T06:16:57.561034+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 11,
   "items": [
     {
       "title": "Open Source AI Gap Map",
@@ -91,30 +91,6 @@
       "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
       "published": "2026-07-02T18:25:00+00:00",
       "summary": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts\n        One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous research task in Claude Code for web using Claude Fable 5:\n\nPip install the latest Datasette alpha and datasette-agent and dspy - then figure out how to use dspy to evaluate and improve the main system prompts"
-    },
-    {
-      "title": "Understand to participate",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-      "published": "2026-07-02T17:07:14+00:00",
-      "summary": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me:\nUnderstand to participate\nGeoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large and sophisticated changes, and the need to avoid taking on cognitive debt as your understanding drifts from how the code actually works.\nHis argument is that you need to understand the code to a depth that enables you to participate further with the model:\n\nYo"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "published": "2026-07-02T15:37:08+00:00",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;"
-    },
-    {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "published": "2026-07-02T15:12:25+00:00",
-      "summary": "Insiders say Sam Altman is in active talks with the Trump administration."
     }
   ]
 }
