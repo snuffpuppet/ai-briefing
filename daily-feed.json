@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T17:01:49.112520+00:00",
+  "generated_at": "2026-07-04T19:08:04.966160+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "Open Source AI Gap Map",
@@ -51,14 +51,6 @@
       "url": "https://spectrum.ieee.org/data-centers-grid-instability",
       "published": "2026-07-03T12:00:01+00:00",
       "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade.Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters.This framing captures scale. It misses"
-    },
-    {
-      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
-      "published": "2026-07-03T05:11:43+00:00",
-      "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next."
     }
   ]
 }
