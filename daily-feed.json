@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T23:00:49.215173+00:00",
+  "generated_at": "2026-07-04T02:40:56.272480+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 14,
   "items": [
     {
       "title": "Open Source AI Gap Map",
@@ -115,38 +115,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
       "published": "2026-07-02T15:12:25+00:00",
       "summary": "Insiders say Sam Altman is in active talks with the Trump administration."
-    },
-    {
-      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-      "published": "2026-07-02T14:39:17+00:00",
-      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns."
-    },
-    {
-      "title": "Skill engineering and the case against one-shot AI design",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/skill-engineering-design",
-      "published": "2026-07-02T14:36:05+00:00",
-      "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them."
-    },
-    {
-      "title": "Teaching AI to run with the turbines",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "published": "2026-07-02T12:51:44+00:00",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
-    },
-    {
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "published": "2026-07-02T11:15:49+00:00",
-      "summary": "Google tries balancing AI data center emissions with clean energy efforts."
     }
   ]
 }
