@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T06:16:57.561034+00:00",
+  "generated_at": "2026-07-04T09:20:33.542583+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
     {
       "title": "Open Source AI Gap Map",
@@ -75,22 +75,6 @@
       "url": "https://www.latent.space/p/the-website-of-the-future",
       "published": "2026-07-02T21:25:14+00:00",
       "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future."
-    },
-    {
-      "title": "llm-coding-agent 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-      "published": "2026-07-02T19:33:12+00:00",
-      "summary": "Release: llm-coding-agent 0.1a0\n        Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it.\nI started a new Python library using my python-lib-template-repository GitHub template repository, then ran these two prompts (here's the Claude Code for web transcript):\n\nWrite a spec.md for this project - it will depend on the latest “llm” alpha from PyPI and implement a Claude code style"
-    },
-    {
-      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
-      "published": "2026-07-02T18:25:00+00:00",
-      "summary": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts\n        One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous research task in Claude Code for web using Claude Fable 5:\n\nPip install the latest Datasette alpha and datasette-agent and dspy - then figure out how to use dspy to evaluate and improve the main system prompts"
     }
   ]
 }
