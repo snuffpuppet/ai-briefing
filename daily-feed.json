@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T11:24:39.798343+00:00",
+  "generated_at": "2026-07-04T13:19:41.431944+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 7,
   "items": [
     {
       "title": "Open Source AI Gap Map",
@@ -59,14 +59,6 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
       "published": "2026-07-03T05:11:43+00:00",
       "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next."
-    },
-    {
-      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/vercel-agents-new-software",
-      "published": "2026-07-03T00:08:18+00:00",
-      "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter."
     }
   ]
 }
