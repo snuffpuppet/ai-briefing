@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T07:55:04.592116+00:00",
+  "generated_at": "2026-07-05T10:10:24.063975+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 4,
   "items": [
     {
       "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
@@ -35,22 +35,6 @@
       "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
       "published": "2026-07-04T22:53:52+00:00",
       "summary": "Better Models: Worse Tools\nArmin reports on a weird problem he ran into while hacking on Pi:\n\nThe short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again.\nThat alone is not too surprising as models emit malformed to"
-    },
-    {
-      "title": "Open Source AI Gap Map",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-      "published": "2026-07-03T22:04:31+00:00",
-      "summary": "Open Source AI Gap Map\nCurrent AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committed).\nThey launched their Gap Map a couple of days ago - an attempt at indexing the current state of open source AI:\n\nThe Gap Map v0.1 details 421 products in depth: 266 software tools and libraries, 85 models, 50 datasets, and 20 hardware projects, produced by 228 organizations. T"
-    },
-    {
-      "title": "Quoting Josh W. Comeau",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
-      "published": "2026-07-03T21:25:52+00:00",
-      "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch.\nIt’s a similar story with my two existing courses. Sales are down significantly from last year.\nThere are likely a lot of reasons for this, but I think the biggest is AI. There’s sort of a double whammy with AI:\n\nMany people are wondering whether developer jobs will even exist in a few months, so they’re reluctant to spend time/money learning new dev skill"
     }
   ]
 }
