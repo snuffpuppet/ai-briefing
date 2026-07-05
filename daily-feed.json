@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T04:54:55.831982+00:00",
+  "generated_at": "2026-07-05T07:55:04.592116+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
@@ -51,14 +51,6 @@
       "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
       "published": "2026-07-03T21:25:52+00:00",
       "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch.\nIt’s a similar story with my two existing courses. Sales are down significantly from last year.\nThere are likely a lot of reasons for this, but I think the biggest is AI. There’s sort of a double whammy with AI:\n\nMany people are wondering whether developer jobs will even exist in a few months, so they’re reluctant to spend time/money learning new dev skill"
-    },
-    {
-      "title": "Fable's judgement",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "published": "2026-07-03T18:51:06+00:00",
-      "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work.\nThe example they gave was testing. You can tell Fable \"only use automated testing for larger features, don't update and run tests for small copy or design changes\" - but it's better to just tell Fable to use its own judgement when deci"
     }
   ]
 }
