@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-05T00:08:55.018489+00:00",
+  "generated_at": "2026-07-05T04:54:55.831982+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 7,
   "items": [
+    {
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "published": "2026-07-05T01:00:48+00:00",
+      "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible.\nI started with this prompt, in Claude Code for web on my iPhone:\n\nFinal review before shipping a stable 4.0 release - very important to spot any last minu"
+    },
+    {
+      "title": "sqlite-utils 4.0rc2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+      "published": "2026-07-05T00:47:38+00:00",
+      "summary": "Release: sqlite-utils 4.0rc2\n        See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)."
+    },
     {
       "title": "Building a World Map with only 500 bytes",
       "source": "Simon Willison's Weblog",
@@ -43,22 +59,6 @@
       "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
       "published": "2026-07-03T18:51:06+00:00",
       "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work.\nThe example they gave was testing. You can tell Fable \"only use automated testing for larger features, don't update and run tests for small copy or design changes\" - but it's better to just tell Fable to use its own judgement when deci"
-    },
-    {
-      "title": "June 2026 newsletter",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
-      "published": "2026-07-03T14:50:50+00:00",
-      "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here.\nThis month:\n\nClaude Fable 5, GPT-5.6, and US export restrictions\nGLM-5.2 is the new best open weights model\nTokenmaxxing is so over\nDatasette Apps\nsqlite-utils and shot-scraper and Datasette\nMiscellaneous WASM projects\nOther model releases\nWhat I'm using\n\nHere's a copy of the May newsletter as a preview of what you'll get. Pay $10/month to stay a month"
-    },
-    {
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "published": "2026-07-03T14:25:43+00:00",
-      "summary": ""
     }
   ]
 }
