@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T16:18:43.423944+00:00",
+  "generated_at": "2026-07-06T18:53:33.915615+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -13,12 +13,28 @@
       "summary": ""
     },
     {
-      "title": "Small AI Models Gain Traction Around the World",
+      "title": "Your family’s $300 stake in OpenAI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "published": "2026-07-06T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "published": "2026-07-06T16:44:18+00:00",
+      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over."
+    },
+    {
+      "title": "Small-AI Models Gain Traction Around the World",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "published": "2026-07-06T16:06:23+00:00",
-      "summary": "One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: Counterfeit medication, which kills thousands of people across the continent every year.The Rxscanner is a handheld spectrometer that scans a pill with infrared light, then sends the item’s molecular profile to an AI model equipped with a pharmaceutical database. In seconds, the AI identifies the medication from its molecular profile—or"
+      "summary": "One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year.The RxScanner is a handheld spectrometer that scans a pill with infrared light, then sends the item’s molecular profile to an AI model equipped with a pharmaceutical database. In seconds, the AI identifies the medication from its molecular profile—or"
     },
     {
       "title": "PRX Part 4: Our Data Strategy",
