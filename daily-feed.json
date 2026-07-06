@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:51:15.428359+00:00",
+  "generated_at": "2026-07-06T22:12:06.397087+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 10,
@@ -29,7 +29,7 @@
       "summary": "Anthropic accused of spying on users; engineer says “experiment” is over."
     },
     {
-      "title": "Small-AI Models Gain Traction Around the World",
+      "title": "Small AI Models Gain Traction Around the World",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
