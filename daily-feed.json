@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-06T07:18:29.094809+00:00",
+  "generated_at": "2026-07-06T12:02:57.588827+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": ""
+    },
     {
       "title": "sqlite-utils 4.0rc3",
       "source": "Simon Willison's Weblog",
@@ -35,22 +43,6 @@
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
       "published": "2026-07-05T00:47:38+00:00",
       "summary": "Release: sqlite-utils 4.0rc2\n        See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)."
-    },
-    {
-      "title": "Building a World Map with only 500 bytes",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
-      "published": "2026-07-04T23:09:02+00:00",
-      "summary": "Building a World Map with only 500 bytes\nIwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data:\n\nThe key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript. I didn't know you could use fetch() with data: URIs like this:\nfetch('data:;base64,1ZpLsgIxCEXnrM...==').then(\n  r =&gt; r.body.pipeThrough(new DecompressionStream('deflate-raw'))\n).then(\n  s =&gt; new Response(s).text()\n).then("
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-      "published": "2026-07-04T22:53:52+00:00",
-      "summary": "Better Models: Worse Tools\nArmin reports on a weird problem he ran into while hacking on Pi:\n\nThe short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again.\nThat alone is not too surprising as models emit malformed to"
     }
   ]
 }
