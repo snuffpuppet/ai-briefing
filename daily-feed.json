@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T12:02:57.588827+00:00",
+  "generated_at": "2026-07-06T16:18:43.423944+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 8,
   "items": [
     {
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -11,6 +11,46 @@
       "url": "https://huggingface.co/blog/lerobot-release-v060",
       "published": "2026-07-07T00:00:00+00:00",
       "summary": ""
+    },
+    {
+      "title": "Small AI Models Gain Traction Around the World",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "published": "2026-07-06T16:06:23+00:00",
+      "summary": "One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: Counterfeit medication, which kills thousands of people across the continent every year.The Rxscanner is a handheld spectrometer that scans a pill with infrared light, then sends the item’s molecular profile to an AI model equipped with a pharmaceutical database. In seconds, the AI identifies the medication from its molecular profile—or"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "published": "2026-07-06T15:30:55+00:00",
+      "summary": ""
+    },
+    {
+      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "published": "2026-07-06T14:17:42+00:00",
+      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions."
+    },
+    {
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "published": "2026-07-06T12:31:05+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&#38;D automation:…The start of an RSI loop…Fable has written “the first genuine (and fastest) megakernel ever [&#8230;]"
+    },
+    {
+      "title": "Fragments: July  6",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-07-06.html",
+      "published": "2026-07-06T08:53:00-04:00",
+      "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I could, at best, only attend ⅕ of sessions. This isn’t an event that forms conclusions, rather one that allows those exploring to share what they’ve found, and their visions for the future. The bliki post lists all the writing I’ve run into on this, by myself and others. I’ll be updat"
     },
     {
       "title": "sqlite-utils 4.0rc3",
@@ -27,22 +67,6 @@
       "url": "https://huggingface.co/blog/revamped-kernels",
       "published": "2026-07-06T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-      "published": "2026-07-05T01:00:48+00:00",
-      "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible.\nI started with this prompt, in Claude Code for web on my iPhone:\n\nFinal review before shipping a stable 4.0 release - very important to spot any last minu"
-    },
-    {
-      "title": "sqlite-utils 4.0rc2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
-      "published": "2026-07-05T00:47:38+00:00",
-      "summary": "Release: sqlite-utils 4.0rc2\n        See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)."
     }
   ]
 }
