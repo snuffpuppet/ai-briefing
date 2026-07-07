@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T21:22:00.112788+00:00",
+  "generated_at": "2026-07-07T22:58:49.114704+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 27,
   "items": [
     {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -37,12 +37,36 @@
       "summary": "The market where nobody finds each other, the hottest market for AI-related positions, tough for engineering leaders, and more. Based on details from 50+ hiring managers & job seekers"
     },
     {
+      "title": "sqlite-migrate 0.2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+      "published": "2026-07-07T16:33:55+00:00",
+      "summary": "Release: sqlite-migrate 0.2\n        The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency.\n    \n    \n        Tags: sqlite-utils"
+    },
+    {
+      "title": "github-code Web Component",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+      "published": "2026-07-07T16:18:16+00:00",
+      "summary": "Tool: github-code Web Component\n        An experimental Web Component built using GPT-5.5 and the following prompt:\n\nlet's build a Web Component for embedding code from GitHub\n&lt;github-code href=\"https://github.com/simonw/sqlite-ast/blob/437c759129154f05296324a7f82aa1246340dd14/sqlite_ast/parser.py#L9-L18\"&gt;&lt;/github-code&gt;\nIt takes URLs like that, converts them to https://raw.githubusercontent.com/simonw/sqlite-ast/437c759129154f05296324a7f82aa1246340dd14/sqlite_ast/parser.py, then uses"
+    },
+    {
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
       "published": "2026-07-07T16:14:53+00:00",
       "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei."
+    },
+    {
+      "title": "sqlite-utils 4.0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+      "published": "2026-07-07T15:42:43+00:00",
+      "summary": "Release: sqlite-utils 4.0\n        See sqlite-utils 4.0, now with database schema migrations for details.\n    \n    \n        Tags: sqlite-utils"
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -83,6 +107,14 @@
       "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
       "published": "2026-07-07T08:34:00-04:00",
       "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out\n      running local LLMs for some programming tasks. In this memo she outlines the factors that\n      influence how viable they are for the job.\n\nmore…"
+    },
+    {
+      "title": "sqlite-utils 4.0rc4",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+      "published": "2026-07-07T05:36:15+00:00",
+      "summary": "Release: sqlite-utils 4.0rc4\n        The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5.\n    \n    \n        Tags: sqlite-utils, claude-mythos-fable"
     },
     {
       "title": "[AINews] The Field Guide to Fable",
