@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T11:47:28.715535+00:00",
+  "generated_at": "2026-07-07T14:27:54.218224+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
@@ -19,6 +19,14 @@
       "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
       "published": "2026-07-07T11:00:18+00:00",
       "summary": "Top robotics researchers and founders explain how robot autonomy is evolving."
+    },
+    {
+      "title": "Viability of local models for coding",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+      "published": "2026-07-07T08:34:00-04:00",
+      "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out\n      running local LLMs for some programming tasks. In this memo she outlines the factors that\n      influence how viable they are for the job.\n\nmore…"
     },
     {
       "title": "[AINews] The Field Guide to Fable",
@@ -107,14 +115,6 @@
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
       "published": "2026-07-06T05:40:08+00:00",
       "summary": "Release: sqlite-utils 4.0rc3\n        I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger.\nThe biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release.\nsqlite-utils also now follows SQLite's conve"
-    },
-    {
-      "title": "🤗 Kernels: Major Updates",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "published": "2026-07-06T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
