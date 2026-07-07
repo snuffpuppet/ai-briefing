@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-07T00:06:23.688097+00:00",
+  "generated_at": "2026-07-07T04:50:33.323320+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "[AINews] The Field Guide to Fable",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+      "published": "2026-07-07T04:44:53+00:00",
+      "summary": "a quiet day lets us digest the world's most significant model launch... to date."
+    },
     {
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "source": "Hugging Face - Blog",
@@ -11,6 +19,14 @@
       "url": "https://huggingface.co/blog/lerobot-release-v060",
       "published": "2026-07-07T00:00:00+00:00",
       "summary": ""
+    },
+    {
+      "title": "tencent/Hy3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "published": "2026-07-06T23:57:35+00:00",
+      "summary": "tencent/Hy3\nNew Apache 2.0 licensed model from Tencent in China:\n\nHy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview launch in late April, we gathered feedback from 50+ products and scaled up post-training with higher quality data. Today, we introduce Hy3, which outperforms similar-size models and rivals flagship open-source models with 2-5x parameters. It also shows signific"
     },
     {
       "title": "Your family’s $300 stake in OpenAI",
