@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-07T08:21:15.078396+00:00",
+  "generated_at": "2026-07-07T11:47:28.715535+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 14,
   "items": [
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "published": "2026-07-07T11:10:52+00:00",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;"
+    },
+    {
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "published": "2026-07-07T11:00:18+00:00",
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving."
+    },
     {
       "title": "[AINews] The Field Guide to Fable",
       "source": "Latent.Space",
