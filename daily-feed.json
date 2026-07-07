@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-07T14:27:54.218224+00:00",
+  "generated_at": "2026-07-07T17:11:57.446618+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "published": "2026-07-07T16:14:53+00:00",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei."
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published": "2026-07-07T15:20:06+00:00",
+      "summary": ""
+    },
+    {
+      "title": "What Makes AI Art Worth Collecting?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-art-market",
+      "published": "2026-07-07T14:00:02+00:00",
+      "summary": "In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t understand how light worked.SHL0MS then revealed that the image was of a real Monet, one of around 250 variations of water lilies the artist had painted in his lifetime. He had simply downloaded a high-re"
+    },
     {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -35,6 +59,14 @@
       "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
       "published": "2026-07-07T04:44:53+00:00",
       "summary": "a quiet day lets us digest the world's most significant model launch... to date."
+    },
+    {
+      "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
+      "source": "The Berkeley Artificial Intelligence Research Blog",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+      "published": "2026-07-07T02:00:00-07:00",
+      "summary": "... government of the people, by the people, for the people ...\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Address (1863)\n\n\nThe cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same runs under $1, and some providers are pushing costs below $0.10. Across benchmarks, inference prices have fallen between 9x and 900x per year, with a median decline near 50x. Even frontier models are getting dramatical"
     },
     {
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
