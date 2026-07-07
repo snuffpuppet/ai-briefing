@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-07T19:51:55.058807+00:00",
+  "generated_at": "2026-07-07T21:22:00.112788+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published": "2026-07-07T21:15:33+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "published": "2026-07-07T21:03:07+00:00",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan."
+    },
     {
       "title": "sqlite-utils 4.0, now with database schema migrations",
       "source": "Simon Willison's Weblog",
