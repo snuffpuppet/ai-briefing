@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T12:19:18.048719+00:00",
+  "generated_at": "2026-07-08T15:19:24.332839+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
@@ -18,7 +18,7 @@
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
       "published": "2026-07-08T07:57:00-04:00",
-      "summary": "Birgitta B&#xf6;ckeler now reports on her recent experiences\n      trying local models for coding. She compares them using two standard\n      tasks, and tries out the most promising model for day-to-day use.\n\nmore…"
+      "summary": "Birgitta B&#xf6;ckeler now reports on her recent experiences\n      trying local LLMs for coding. She compares them using two standard\n      tasks, and tries out the most promising model for day-to-day use.\n\nmore…"
     },
     {
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
@@ -128,7 +128,7 @@
       "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "url": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
       "published": "2026-07-07T11:00:18+00:00",
       "summary": "Top robotics researchers and founders explain how robot autonomy is evolving."
     },
