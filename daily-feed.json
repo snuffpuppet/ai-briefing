@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-08T00:04:30.536051+00:00",
+  "generated_at": "2026-07-08T04:12:33.040663+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+      "published": "2026-07-08T02:20:25+00:00",
+      "summary": "a quiet day lets us read some condensed insight"
+    },
     {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
       "source": "Hugging Face - Blog",
@@ -141,6 +149,14 @@
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
     },
     {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/mufg",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
       "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -179,46 +195,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
       "published": "2026-07-06T16:44:18+00:00",
       "summary": "Anthropic accused of spying on users; engineer says “experiment” is over."
-    },
-    {
-      "title": "Small AI Models Gain Traction Around the World",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "published": "2026-07-06T16:06:23+00:00",
-      "summary": "One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year.The RxScanner is a handheld spectrometer that scans a pill with infrared light, then sends the item’s molecular profile to an AI model equipped with a pharmaceutical database. In seconds, the AI identifies the medication from its molecular profile—or"
-    },
-    {
-      "title": "PRX Part 4: Our Data Strategy",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "published": "2026-07-06T15:30:55+00:00",
-      "summary": ""
-    },
-    {
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "published": "2026-07-06T14:17:42+00:00",
-      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions."
-    },
-    {
-      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "published": "2026-07-06T12:31:05+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&#38;D automation:…The start of an RSI loop…Fable has written “the first genuine (and fastest) megakernel ever [&#8230;]"
-    },
-    {
-      "title": "Fragments: July  6",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-07-06.html",
-      "published": "2026-07-06T08:53:00-04:00",
-      "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I could, at best, only attend ⅕ of sessions. This isn’t an event that forms conclusions, rather one that allows those exploring to share what they’ve found, and their visions for the future. The bliki post lists all the writing I’ve run into on this, by myself and others. I’ll be updat"
     }
   ]
 }
