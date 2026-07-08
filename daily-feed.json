@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-08T19:21:33.641227+00:00",
+  "generated_at": "2026-07-08T21:05:01.605238+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Quoting Kenton Varda",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "published": "2026-07-08T20:03:34+00:00",
+      "summary": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team.\nAI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at the code, but omitting the higher-level framing needed to understand broadly what the code is doing.\n&mdash; Kenton Varda\n\n    Tags: kenton-varda, ai-assisted-programming, generative-ai, ai, llms"
+    },
+    {
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "published": "2026-07-08T19:56:37+00:00",
+      "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators."
+    },
     {
       "title": "Data for Agents",
       "source": "Hugging Face - Blog",
@@ -27,6 +43,22 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
       "published": "2026-07-08T16:38:49+00:00",
       "summary": "In this AMA episode, Gergely Orosz answers listener questions on AI, engineering, hiring, and careers."
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "published": "2026-07-08T13:30:00+00:00",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published": "2026-07-08T13:00:00+00:00",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
     },
     {
       "title": "AI Models Overthink Problems—and It’s a Security Risk",
@@ -187,14 +219,6 @@
       "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
       "published": "2026-07-07T08:34:00-04:00",
       "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out\n      running local LLMs for some programming tasks. In this memo she outlines the factors that\n      influence how viable they are for the job.\n\nmore…"
-    },
-    {
-      "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
-      "source": "The Berkeley Artificial Intelligence Research Blog",
-      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
-      "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
-      "published": "2026-07-07T02:00:00-07:00",
-      "summary": "... government of the people, by the people, for the people ...\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Address (1863)\n\n\nThe cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same runs under $1, and some providers are pushing costs below $0.10. Across benchmarks, inference prices have fallen between 9x and 900x per year, with a median decline near 50x. Even frontier models are getting dramatical"
     }
   ]
 }
