@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-08T15:19:24.332839+00:00",
+  "generated_at": "2026-07-08T17:26:51.991736+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Data for Agents",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published": "2026-07-08T17:16:05+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "published": "2026-07-08T16:39:48+00:00",
+      "summary": "Android Bench is evolving, and developers can help guide that process."
+    },
+    {
+      "title": "The Pragmatic Engineer AMA",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
+      "published": "2026-07-08T16:38:49+00:00",
+      "summary": "In this AMA episode, Gergely Orosz answers listener questions on AI, engineering, hiring, and careers."
+    },
     {
       "title": "AI Models Overthink Problems—and It’s a Security Risk",
       "source": "IEEE Spectrum",
@@ -11,6 +35,14 @@
       "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
       "published": "2026-07-08T11:00:01+00:00",
       "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl.While earlier generations of LLMs would immediately produce a response to a user’s request, today’s most advanced models generate an internal monologue where they break down the problem into steps and re"
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "published": "2026-07-08T10:00:00+00:00",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
     },
     {
       "title": "Experiences with local models for coding",
@@ -35,6 +67,22 @@
       "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
       "published": "2026-07-08T02:20:25+00:00",
       "summary": "a quiet day lets us read some condensed insight"
+    },
+    {
+      "title": "Introducing GPT-Live",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "published": "2026-07-08T00:00:00+00:00",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published": "2026-07-08T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -147,14 +195,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
       "published": "2026-07-07T05:36:15+00:00",
       "summary": "Release: sqlite-utils 4.0rc4\n        The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5.\n    \n    \n        Tags: sqlite-utils, claude-mythos-fable"
-    },
-    {
-      "title": "[AINews] The Field Guide to Fable",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
-      "published": "2026-07-07T04:44:53+00:00",
-      "summary": "a quiet day lets us digest the world's most significant model launch... to date."
     },
     {
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
