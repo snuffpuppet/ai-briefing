@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-08T21:05:01.605238+00:00",
+  "generated_at": "2026-07-08T23:04:07.282059+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/modal2026",
+      "published": "2026-07-08T22:55:07+00:00",
+      "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud."
+    },
+    {
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "published": "2026-07-08T21:42:44+00:00",
+      "summary": "AI cheating leads to \"a failed society,\" professor says."
+    },
     {
       "title": "Quoting Kenton Varda",
       "source": "Simon Willison's Weblog",
@@ -203,14 +219,6 @@
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "published": "2026-07-07T11:10:52+00:00",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;"
-    },
-    {
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "published": "2026-07-07T11:00:18+00:00",
-      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving."
     },
     {
       "title": "Viability of local models for coding",
