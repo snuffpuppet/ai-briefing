@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T17:26:51.991736+00:00",
+  "generated_at": "2026-07-08T19:21:33.641227+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
     {
       "title": "Data for Agents",
@@ -187,14 +187,6 @@
       "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
       "published": "2026-07-07T08:34:00-04:00",
       "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out\n      running local LLMs for some programming tasks. In this memo she outlines the factors that\n      influence how viable they are for the job.\n\nmore…"
-    },
-    {
-      "title": "sqlite-utils 4.0rc4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
-      "published": "2026-07-07T05:36:15+00:00",
-      "summary": "Release: sqlite-utils 4.0rc4\n        The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5.\n    \n    \n        Tags: sqlite-utils, claude-mythos-fable"
     },
     {
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
