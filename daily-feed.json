@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T13:47:51.659147+00:00",
+  "generated_at": "2026-07-09T16:25:57.629532+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "Large Tabular Models Excel Where LLMs Fail",
@@ -139,14 +139,6 @@
       "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
       "published": "2026-07-08T07:00:51+00:00",
       "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\""
-    },
-    {
-      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-      "published": "2026-07-08T02:20:25+00:00",
-      "summary": "a quiet day lets us read some condensed insight"
     }
   ]
 }
