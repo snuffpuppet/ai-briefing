@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-08T23:04:07.282059+00:00",
+  "generated_at": "2026-07-09T02:45:41.736355+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Rewriting Bun in Rust",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "published": "2026-07-08T23:57:21+00:00",
+      "summary": "Rewriting Bun in Rust\nJarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite.\nHonestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks.\nJarred spends the first half of the post praising Zig for getting Bun this far. Then"
+    },
+    {
+      "title": "Introducing GPT‑Live",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "published": "2026-07-08T23:20:48+00:00",
+      "summary": "Introducing GPT‑Live\nOpenAI finally upgraded the model used by ChatGPT voice mode!\nI've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5:\n\nFor questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it’s ready. While it works, GPT‑Live can keep talking with you an"
+    },
     {
       "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
       "source": "Latent.Space",
@@ -203,30 +219,6 @@
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "published": "2026-07-07T15:20:06+00:00",
       "summary": ""
-    },
-    {
-      "title": "What Makes AI Art Worth Collecting?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-art-market",
-      "published": "2026-07-07T14:00:02+00:00",
-      "summary": "In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t understand how light worked.SHL0MS then revealed that the image was of a real Monet, one of around 250 variations of water lilies the artist had painted in his lifetime. He had simply downloaded a high-re"
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "published": "2026-07-07T11:10:52+00:00",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;"
-    },
-    {
-      "title": "Viability of local models for coding",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
-      "published": "2026-07-07T08:34:00-04:00",
-      "summary": "Birgitta B&#xf6;ckeler recently spent some time trying out\n      running local LLMs for some programming tasks. In this memo she outlines the factors that\n      influence how viable they are for the job.\n\nmore…"
     }
   ]
 }
