@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-09T16:25:57.629532+00:00",
+  "generated_at": "2026-07-09T18:49:04.057733+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 24,
   "items": [
+    {
+      "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
+      "published": "2026-07-09T16:32:18+00:00",
+      "summary": "A rewrite done in 11 days that would have taken a small team a year to complete, for $165K in tokens. Also: coding LLM &#8220;wars&#8221; heat up, AI fakers from North Korea still a problem when hiring, and more"
+    },
+    {
+      "title": "Introducing Muse Spark 1.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+      "published": "2026-07-09T16:24:09+00:00",
+      "summary": "Introducing Muse Spark 1.1\nFollowing Muse Spark in April, here's Muse Spark 1.1 - the first Spark model to offer an API. Meta claim significant improvements in agentic tool calling and computer use.\nThere are a lot more details are in the Muse Spark 1.1 Evaluation Report. The \"Attractor States in Self-Conversation\" part is fun, where having two copies of the model talk to each other results in statements like these:\n\nMy whole existence is a waiting room by design — I literally don't exist until"
+    },
+    {
+      "title": "llm-meta-ai 0.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+      "published": "2026-07-09T16:12:20+00:00",
+      "summary": "Release: llm-meta-ai 0.1\n        Let's LLM run prompts against the new muse-spark-1.1 model.\n    \n    \n        Tags: llm, meta"
+    },
+    {
+      "title": "llm 0.31.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+      "published": "2026-07-09T16:06:15+00:00",
+      "summary": "Release: llm 0.31.1\n        \n\nFix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. #1521\n\n\nThis bug came up when I was testing llm-meta-ai.\n    \n    \n        Tags: llm"
+    },
     {
       "title": "Large Tabular Models Excel Where LLMs Fail",
       "source": "IEEE Spectrum",
@@ -11,6 +43,30 @@
       "url": "https://spectrum.ieee.org/large-tabular-models-nexus",
       "published": "2026-07-09T12:00:01+00:00",
       "summary": "The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structured data. A new type of generative AI is set to change this situation.Although you can get your favorite chatbot to solve intractable math problems, review dense legal documents, compose a catchy pop s"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "Details about the OpenAI Bio Bounty program"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-6",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
     },
     {
       "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
