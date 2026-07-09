@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-09T20:45:29.115202+00:00",
+  "generated_at": "2026-07-09T22:20:05.982212+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "published": "2026-07-09T21:25:55+00:00",
+      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\""
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "published": "2026-07-09T20:22:28+00:00",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;"
+    },
     {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
       "source": "AI - Ars Technica",
@@ -203,14 +219,6 @@
       "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
       "published": "2026-07-08T11:00:01+00:00",
       "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl.While earlier generations of LLMs would immediately produce a response to a user’s request, today’s most advanced models generate an internal monologue where they break down the problem into steps and re"
-    },
-    {
-      "title": "Helping K–12 educators build practical AI skills",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "published": "2026-07-08T10:00:00+00:00",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
     },
     {
       "title": "Experiences with local models for coding",
