@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-10T08:20:27.620110+00:00",
+  "generated_at": "2026-07-10T11:49:29.711243+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 20,
   "items": [
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "published": "2026-07-10T07:00:00+00:00",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+    },
     {
       "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
       "source": "Latent.Space",
@@ -117,6 +125,14 @@
       "summary": "The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structured data. A new type of generative AI is set to change this situation.Although you can get your favorite chatbot to solve intractable math problems, review dense legal documents, compose a catchy pop s"
     },
     {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-6",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
+    },
+    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -133,14 +149,6 @@
       "summary": "Details about the OpenAI Bio Bounty program"
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published": "2026-07-09T10:00:00+00:00",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
-    },
-    {
       "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -155,30 +163,6 @@
       "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
       "published": "2026-07-08T23:57:21+00:00",
       "summary": "Rewriting Bun in Rust\nJarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite.\nHonestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks.\nJarred spends the first half of the post praising Zig for getting Bun this far. Then"
-    },
-    {
-      "title": "Introducing GPT‑Live",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
-      "published": "2026-07-08T23:20:48+00:00",
-      "summary": "Introducing GPT‑Live\nOpenAI finally upgraded the model used by ChatGPT voice mode!\nI've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5:\n\nFor questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it’s ready. While it works, GPT‑Live can keep talking with you an"
-    },
-    {
-      "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/modal2026",
-      "published": "2026-07-08T22:55:07+00:00",
-      "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud."
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "published": "2026-07-08T21:42:44+00:00",
-      "summary": "AI cheating leads to \"a failed society,\" professor says."
     }
   ]
 }
