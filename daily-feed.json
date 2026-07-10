@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T22:20:05.982212+00:00",
+  "generated_at": "2026-07-10T00:02:23.568356+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 26,
   "items": [
     {
       "title": "OpenAI wants its new tool to do your work for you and with you",
@@ -34,7 +34,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
       "published": "2026-07-09T19:46:38+00:00",
-      "summary": "OpenAI's latest flagship model hit general availability this morning, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).\nThe new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn't tell us much now that the number of reasoning tokens can differ so much between models for the same task.\n\n\nOpenAI's biggest benchmark c"
+      "summary": "OpenAI's latest flagship model hit general availability this morning, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).\nThe new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn't tell us much now that the number of reasoning tokens can differ so much between models for the same task.\n\nAll three models have a Febru"
     },
     {
       "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
@@ -211,22 +211,6 @@
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "published": "2026-07-08T13:00:00+00:00",
       "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
-    },
-    {
-      "title": "AI Models Overthink Problems—and It’s a Security Risk",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
-      "published": "2026-07-08T11:00:01+00:00",
-      "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl.While earlier generations of LLMs would immediately produce a response to a user’s request, today’s most advanced models generate an internal monologue where they break down the problem into steps and re"
-    },
-    {
-      "title": "Experiences with local models for coding",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
-      "published": "2026-07-08T07:57:00-04:00",
-      "summary": "Birgitta B&#xf6;ckeler now reports on her recent experiences\n      trying local LLMs for coding. She compares them using two standard\n      tasks, and tries out the most promising model for day-to-day use.\n\nmore…"
     }
   ]
 }
