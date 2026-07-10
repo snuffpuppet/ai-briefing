@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-10T04:49:28.045145+00:00",
+  "generated_at": "2026-07-10T08:20:27.620110+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+      "published": "2026-07-10T06:19:40+00:00",
+      "summary": "A big day for OpenAI."
+    },
     {
       "title": "Quoting OpenAI",
       "source": "Simon Willison's Weblog",
@@ -11,6 +19,14 @@
       "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
       "published": "2026-07-10T01:05:57+00:00",
       "summary": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer.\n&mdash; OpenAI, trying (unsuccessfully) to clarify ChatGPT Work\n\n    Tags: openai, chatgpt, ai"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "published": "2026-07-10T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "OpenAI wants its new tool to do your work for you and with you",
@@ -163,30 +179,6 @@
       "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "published": "2026-07-08T21:42:44+00:00",
       "summary": "AI cheating leads to \"a failed society,\" professor says."
-    },
-    {
-      "title": "Quoting Kenton Varda",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
-      "published": "2026-07-08T20:03:34+00:00",
-      "summary": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team.\nAI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at the code, but omitting the higher-level framing needed to understand broadly what the code is doing.\n&mdash; Kenton Varda\n\n    Tags: kenton-varda, ai-assisted-programming, generative-ai, ai, llms"
-    },
-    {
-      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-      "published": "2026-07-08T19:56:37+00:00",
-      "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators."
-    },
-    {
-      "title": "Data for Agents",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "published": "2026-07-08T17:16:05+00:00",
-      "summary": ""
     }
   ]
 }
