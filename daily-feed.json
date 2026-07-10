@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-10T00:02:23.568356+00:00",
+  "generated_at": "2026-07-10T04:49:28.045145+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Quoting OpenAI",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "published": "2026-07-10T01:05:57+00:00",
+      "summary": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer.\n&mdash; OpenAI, trying (unsuccessfully) to clarify ChatGPT Work\n\n    Tags: openai, chatgpt, ai"
+    },
     {
       "title": "OpenAI wants its new tool to do your work for you and with you",
       "source": "AI - Ars Technica",
@@ -179,38 +187,6 @@
       "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "published": "2026-07-08T17:16:05+00:00",
       "summary": ""
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "published": "2026-07-08T16:39:48+00:00",
-      "summary": "Android Bench is evolving, and developers can help guide that process."
-    },
-    {
-      "title": "The Pragmatic Engineer AMA",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
-      "published": "2026-07-08T16:38:49+00:00",
-      "summary": "In this AMA episode, Gergely Orosz answers listener questions on AI, engineering, hiring, and careers."
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "published": "2026-07-08T13:30:00+00:00",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "published": "2026-07-08T13:00:00+00:00",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
     }
   ]
 }
