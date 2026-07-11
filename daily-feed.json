@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T23:07:26.509194+00:00",
+  "generated_at": "2026-07-11T02:27:09.144672+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
     {
       "title": "Quoting Nilay Patel",
@@ -123,22 +123,6 @@
       "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
       "published": "2026-07-09T16:06:15+00:00",
       "summary": "Release: llm 0.31.1\n        \n\nFix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. #1521\n\n\nThis bug came up when I was testing llm-meta-ai.\n    \n    \n        Tags: llm"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "published": "2026-07-09T13:00:00+00:00",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
-    },
-    {
-      "title": "Large Tabular Models Excel Where LLMs Fail",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/large-tabular-models-nexus",
-      "published": "2026-07-09T12:00:01+00:00",
-      "summary": "The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structured data. A new type of generative AI is set to change this situation.Although you can get your favorite chatbot to solve intractable math problems, review dense legal documents, compose a catchy pop s"
     }
   ]
 }
