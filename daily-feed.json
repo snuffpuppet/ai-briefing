@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-11T20:08:29.897280+00:00",
+  "generated_at": "2026-07-11T21:46:22.241436+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Do Automated Evals Work?",
+      "source": "Hamel's Blog",
+      "feed_url": "https://hamel.dev/index.xml",
+      "url": "https://hamel.dev/",
+      "published": "2026-07-11T07:00:00+00:00",
+      "summary": "We compared 100 human annotated traces against automated eval systems. Here's what we found."
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
