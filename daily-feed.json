@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T07:51:30.109660+00:00",
+  "generated_at": "2026-07-11T09:26:36.224988+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 7,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -59,30 +59,6 @@
       "url": "https://huggingface.co/blog/torch-attention-profile",
       "published": "2026-07-10T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "published": "2026-07-09T21:25:55+00:00",
-      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\""
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "published": "2026-07-09T20:22:28+00:00",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;"
-    },
-    {
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "published": "2026-07-09T20:12:03+00:00",
-      "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery."
     }
   ]
 }
