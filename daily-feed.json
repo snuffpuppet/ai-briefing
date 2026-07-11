@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T17:53:52.477472+00:00",
+  "generated_at": "2026-07-11T18:59:07.297035+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -35,14 +35,6 @@
       "url": "https://openai.com/index/deutsche-telekom",
       "published": "2026-07-10T07:00:00+00:00",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
-    },
-    {
-      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-      "published": "2026-07-10T06:19:40+00:00",
-      "summary": "A big day for OpenAI."
     }
   ]
 }
