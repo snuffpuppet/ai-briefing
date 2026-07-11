@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T18:59:07.297035+00:00",
+  "generated_at": "2026-07-11T20:08:29.897280+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -27,14 +27,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
       "published": "2026-07-10T15:46:18+00:00",
       "summary": "Digital Services Act may force Meta to make big changes on its platforms."
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "published": "2026-07-10T07:00:00+00:00",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
     }
   ]
 }
