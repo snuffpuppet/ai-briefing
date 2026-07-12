@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T02:32:15.464946+00:00",
+  "generated_at": "2026-07-12T05:55:26.365879+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 3,
   "items": [
     {
       "title": "sqlite-utils 4.1",
@@ -27,22 +27,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
       "published": "2026-07-11T02:53:08+00:00",
       "summary": "a quiet day after a week of nonstop model releases"
-    },
-    {
-      "title": "Quoting Nilay Patel",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
-      "published": "2026-07-10T17:05:26+00:00",
-      "summary": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it.\nThere is not another way around it. And there's certainly not a chip that can fit in the stem of a glasses that is both powerful enough and power miserly enough to do that in real time.\nYou have to send that data to a cloud. You gotta do it. [...] Or you can build something the size of a Vision Pro with a ba"
-    },
-    {
-      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "published": "2026-07-10T15:46:18+00:00",
-      "summary": "Digital Services Act may force Meta to make big changes on its platforms."
     }
   ]
 }
