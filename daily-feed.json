@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-11T23:52:44.731778+00:00",
+  "generated_at": "2026-07-12T02:32:15.464946+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "sqlite-utils 4.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "published": "2026-07-11T23:50:20+00:00",
+      "summary": "Release: sqlite-utils 4.1\n        The first dot-release since 4.0 a few days ago, introducing a number of minor new features.\n\n\nsqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable of rows to insert, as an alternative to importing from a file. (#684)\n\n\nsqlite-utils already had features that allow you to pass blocks of Python code as CLI arguments, for example this one"
+    },
     {
       "title": "Do Automated Evals Work?",
       "source": "Hamel's Blog",
