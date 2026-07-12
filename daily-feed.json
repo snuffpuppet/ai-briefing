@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T13:26:58.715843+00:00",
+  "generated_at": "2026-07-12T14:53:52.140656+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "sqlite-utils 4.1",
@@ -19,14 +19,6 @@
       "url": "https://hamel.dev/",
       "published": "2026-07-11T07:00:00+00:00",
       "summary": "We compared 100 human annotated traces against automated eval systems. Here's what we found."
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
-      "published": "2026-07-11T02:53:08+00:00",
-      "summary": "a quiet day after a week of nonstop model releases"
     }
   ]
 }
