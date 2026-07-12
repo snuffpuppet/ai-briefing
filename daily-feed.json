@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-12T15:57:32.579364+00:00",
+  "generated_at": "2026-07-12T17:02:14.982316+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "6 months to live for open models",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+      "published": "2026-07-12T16:47:42+00:00",
+      "summary": "The most serious test to date of open source AI&#8217;s viability is happening right now."
+    },
     {
       "title": "sqlite-utils 4.1",
       "source": "Simon Willison's Weblog",
