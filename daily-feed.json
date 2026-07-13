@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:54:19.549012+00:00",
+  "generated_at": "2026-07-13T23:52:42.516761+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 17,
@@ -10,7 +10,7 @@
       "feed_url": "https://netflixtechblog.com/feed",
       "url": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
       "published": "2026-07-13T22:44:11+00:00",
-      "summary": "By Parth Jain, Rakesh Sukumar, Yingwu Zhao, Renzo Sanchez-Silva &amp; Nathan FisherA deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale — from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that made it work.IntroductionIn our first post, we introduced the problem: engineers at Netflix needed a unified, real-time view of service dependencies to troubleshoot faster, understand blast ra"
+      "summary": "By Parth Jain, Rakesh Sukumar, Yingwu Zhao, Renzo Sanchez-Silva &amp; Nathan FisherA deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that made it work.IntroductionIn our first post, we introduced the problem: engineers at Netflix needed a unified, real-time view of service dependencies to troubleshoot faster, understand blast rad"
     },
     {
       "title": "DOOMQL",
