@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-13T20:13:00.994532+00:00",
+  "generated_at": "2026-07-13T21:54:20.780939+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "datasette code-frequency chart on GitHub",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "published": "2026-07-13T21:45:27+00:00",
+      "summary": "datasette code-frequency chart on GitHub\nOut of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is this GitHub chart of frequency of code changes to my Datasette open source project:\n\nThe big spike in activity at the end aligns with Opus 4.8, GPT-5.5, Fable 5 and GPT-5.6 Sol.\n\n\n    Tags: github, ai, datasette, generative-ai, llms, ai-assisted-programming, coding-agents"
+    },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "source": "AI - Ars Technica",
