@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-13T18:42:07.582811+00:00",
+  "generated_at": "2026-07-13T20:13:00.994532+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "published": "2026-07-13T19:17:51+00:00",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets."
+    },
     {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "source": "Artificial intelligence – MIT Technology Review",
