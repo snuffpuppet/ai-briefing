@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-13T21:54:20.780939+00:00",
+  "generated_at": "2026-07-13T22:54:19.549012+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+      "published": "2026-07-13T22:44:11+00:00",
+      "summary": "By Parth Jain, Rakesh Sukumar, Yingwu Zhao, Renzo Sanchez-Silva &amp; Nathan FisherA deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale — from streaming architectures and distributed aggregation pipelines to time-travel queries and the methodology that made it work.IntroductionIn our first post, we introduced the problem: engineers at Netflix needed a unified, real-time view of service dependencies to troubleshoot faster, understand blast ra"
+    },
+    {
+      "title": "DOOMQL",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "published": "2026-07-13T22:34:41+00:00",
+      "summary": "DOOMQL\nPeter Gostev built this using GPT-5.6 Sol. This is a lot of fun: \n\nDOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a game stores data?\nThe result is a small, original Doom-like game in which SQL owns movement, collision, enemies, combat, progression and every RGB pixel on screen.\n\nIt's implemented as a Python terminal script - I tried it out like this:\ncd /tmp\ngit clone https://github.com/petergpt/doomql\ncd doomql\nu"
+    },
     {
       "title": "datasette code-frequency chart on GitHub",
       "source": "Simon Willison's Weblog",
