@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T10:23:21.593777+00:00",
+  "generated_at": "2026-07-13T13:21:33.700094+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "Directly Responsible Individuals (DRI)",
@@ -43,14 +43,6 @@
       "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
       "published": "2026-07-12T16:47:42+00:00",
       "summary": "The most serious test to date of open source AI&#8217;s viability is happening right now."
-    },
-    {
-      "title": "sqlite-utils 4.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-      "published": "2026-07-11T23:50:20+00:00",
-      "summary": "Release: sqlite-utils 4.1\n        The first dot-release since 4.0 a few days ago, introducing a number of minor new features.\n\n\nsqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable of rows to insert, as an alternative to importing from a file. (#684)\n\n\nsqlite-utils already had features that allow you to pass blocks of Python code as CLI arguments, for example this one"
     }
   ]
 }
