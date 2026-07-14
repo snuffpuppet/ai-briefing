@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-14T22:02:57.906414+00:00",
+  "generated_at": "2026-07-14T23:52:12.008823+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/aiewf26trends",
+      "published": "2026-07-14T23:21:21+00:00",
+      "summary": "At this year's AIE World&#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents."
+    },
+    {
+      "title": "Quoting GitHub Changeling",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "published": "2026-07-14T22:43:35+00:00",
+      "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration.\n&mdash; GitHub Changeling, embracing dependency cooldowns\n\n    Tags: dependency-cooldowns, packaging, security, github"
+    },
+    {
+      "title": "simonw/pedalican",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "published": "2026-07-14T22:29:45+00:00",
+      "summary": "simonw/pedalican\nClearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own.\nSo I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks.\n\n    \n    Your browser does not support HTML5 video.\n  \n\nThe most interesting thing about this process was watching how the cus"
+    },
     {
       "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
       "source": "AI - Ars Technica",
@@ -203,22 +227,6 @@
       "url": "https://martinfowler.com/fragments/2026-07-13.html",
       "published": "2026-07-13T12:06:00-04:00",
       "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat.\n\nWhen we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it.\n\nWhen comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o"
-    },
-    {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "published": "2026-07-13T11:00:51+00:00",
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled."
-    },
-    {
-      "title": "Building a Foundation Stack for General-Purpose Robots",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "published": "2026-07-13T10:19:51+00:00",
-      "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one machine to another. The central problem in embodied AI is to find the equivalent recipe, and the fiel"
     }
   ]
 }
