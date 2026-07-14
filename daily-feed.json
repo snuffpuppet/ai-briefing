@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:58:15.153722+00:00",
+  "generated_at": "2026-07-14T22:02:57.906414+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 27,
@@ -109,20 +109,20 @@
       "summary": "TIL: Using uvx in GitHub Actions in a cache-friendly way\n        I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like.\nThe trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" environment variable at the start of the workflow and then using that as part of the GitHub Actions cache key. This means any uvx tool-name commands will resolve to the most recent version as-of that date, and you can bust the cache and upgrade the tools by bumping the date i"
     },
     {
-      "title": "How sales teams use ChatGPT Work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
       "title": "How data science teams use ChatGPT Work",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "2026-07-14T00:00:00+00:00",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
       "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
