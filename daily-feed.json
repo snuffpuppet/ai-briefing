@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-14T18:00:28.546381+00:00",
+  "generated_at": "2026-07-14T19:38:53.700612+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Quoting Armin Ronacher",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+      "published": "2026-07-14T18:04:23+00:00",
+      "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review, conversations, arguments, and the experience of having to explain a change to somebody else.\nBefore agents, some of this shared understanding wa"
+    },
+    {
+      "title": "US military sent explosive drone boats into combat for the first time",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+      "published": "2026-07-14T18:00:01+00:00",
+      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again."
+    },
     {
       "title": "What is “loop engineering?”",
       "source": "The Pragmatic Engineer",
