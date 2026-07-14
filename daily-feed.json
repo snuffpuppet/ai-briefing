@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-14T14:47:23.052110+00:00",
+  "generated_at": "2026-07-14T16:12:16.167148+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
+    {
+      "title": "How I Turned AI to the Dark Side",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/jailbreaking-llms",
+      "published": "2026-07-14T15:59:35+00:00",
+      "summary": "Summary  Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparency, and large-scale research into LLM safety before further integrating these systems into society. On a fine bright afternoon last fall, my colleague Matthew Gore-Kormanik (or Zigula, as he prefers t"
+    },
+    {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "published": "2026-07-14T15:06:28+00:00",
+      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement."
+    },
     {
       "title": "DSLs Enable Reliable Use of LLMs",
       "source": "Martin Fowler",
