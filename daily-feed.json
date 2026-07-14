@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-14T16:12:16.167148+00:00",
+  "generated_at": "2026-07-14T18:00:28.546381+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 22,
   "items": [
+    {
+      "title": "What is “loop engineering?”",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
+      "published": "2026-07-14T17:01:57+00:00",
+      "summary": "There&#8217;s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop & more. Is it a &#8220;here today, gone tomorrow&#8221; trend?"
+    },
+    {
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "published": "2026-07-14T16:28:14+00:00",
+      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery."
+    },
     {
       "title": "How I Turned AI to the Dark Side",
       "source": "IEEE Spectrum",
@@ -19,6 +35,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "published": "2026-07-14T15:06:28+00:00",
       "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement."
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published": "2026-07-14T10:00:00+00:00",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
     },
     {
       "title": "DSLs Enable Reliable Use of LLMs",
