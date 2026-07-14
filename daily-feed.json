@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-14T19:38:53.700612+00:00",
+  "generated_at": "2026-07-14T20:58:15.153722+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "published": "2026-07-14T20:05:53+00:00",
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems."
+    },
+    {
+      "title": "lobste.rs is now running on SQLite",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "published": "2026-07-14T19:44:11+00:00",
+      "summary": "lobste.rs is now running on SQLite\nCommunity site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead.\nThis weekend they completed the migration, and now consider it stable enough that it looks like this is the permanent architecture for the site going forward:\n\nSQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at leas"
+    },
     {
       "title": "Quoting Armin Ronacher",
       "source": "Simon Willison's Weblog",
@@ -27,6 +43,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
       "published": "2026-07-14T17:01:57+00:00",
       "summary": "There&#8217;s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop & more. Is it a &#8220;here today, gone tomorrow&#8221; trend?"
+    },
+    {
+      "title": "datasette 1.0a37",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "published": "2026-07-14T16:31:41+00:00",
+      "summary": "Release: datasette 1.0a37\n        A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test suite to break.\n    \n    \n        Tags: datasette"
     },
     {
       "title": "Google revamps image search for its 25th anniversary with more images and more AI",
