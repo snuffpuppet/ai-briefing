@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T07:59:36.931068+00:00",
+  "generated_at": "2026-07-14T10:06:31.853628+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
@@ -139,22 +139,6 @@
       "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
       "published": "2026-07-12T23:46:52+00:00",
       "summary": "Release: shot-scraper 1.11\n        Some minor improvements, mainly around command option consistency and making the server: mechanism used by both shot-scraper video and shot-scraper multi work if the server takes longer than a second to start serving traffic.\n\n\nserver: processes used by shot-scraper multi and shot-scraper video now wait up to 30 seconds for the target URL to accept connections, polling for port availability and replacing the previous fixed one-second delay. #197\nThe shot-scrape"
-    },
-    {
-      "title": "Fable gets another bump",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-      "published": "2026-07-12T21:20:07+00:00",
-      "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans:\n\nWe're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19.\nAs before, you can use up to half of your weekly usage limit on Fable 5. After that, you can continue using Fable 5 with usage credits, or switch to another model to kee"
-    },
-    {
-      "title": "sqlite-utils 4.1.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-      "published": "2026-07-12T20:55:30+00:00",
-      "summary": "Release: sqlite-utils 4.1.1\n        Mainly a fix for an edge case that regular Claude chat spotted while experimenting with the 4.1 release to answer a question about ON DELETE.\n\n\ntable.transform() now raises a TransactionError if called while a transaction is open with PRAGMA foreign_keys enabled and the table is referenced by foreign keys with destructive ON DELETE actions - CASCADE, SET NULL or SET DEFAULT. The pragma cannot be changed inside a transaction, so previously dropping the old tabl"
     }
   ]
 }
