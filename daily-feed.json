@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-14T23:52:12.008823+00:00",
+  "generated_at": "2026-07-15T02:11:10.485720+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 28,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "published": "2026-07-14T23:54:07+00:00",
+      "summary": "a continuation: Codex adding 1M users a day now."
+    },
     {
       "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
       "source": "Latent.Space",
@@ -13,12 +21,12 @@
       "summary": "At this year's AIE World&#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents."
     },
     {
-      "title": "Quoting GitHub Changeling",
+      "title": "Quoting GitHub Changelog",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
       "published": "2026-07-14T22:43:35+00:00",
-      "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration.\n&mdash; GitHub Changeling, embracing dependency cooldowns\n\n    Tags: dependency-cooldowns, packaging, security, github"
+      "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration.\n&mdash; GitHub Changelog, embracing dependency cooldowns\n\n    Tags: dependency-cooldowns, packaging, security, github"
     },
     {
       "title": "simonw/pedalican",
@@ -211,14 +219,6 @@
       "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "published": "2026-07-13T15:06:34+00:00",
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm."
-    },
-    {
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "published": "2026-07-13T12:37:28+00:00",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
     },
     {
       "title": "Fragments: July 13",
