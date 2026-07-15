@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-15T16:19:24.928593+00:00",
+  "generated_at": "2026-07-15T18:04:37.314021+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 27,
   "items": [
+    {
+      "title": "What building Shippy taught us about building agents",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published": "2026-07-15T17:29:41+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published": "2026-07-15T17:27:01+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "published": "2026-07-15T17:09:37+00:00",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;"
+    },
+    {
+      "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "published": "2026-07-15T17:00:52+00:00",
+      "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified embeddings that connect users&#8217; inferred interests with the breadth of what advertisers offer in their deep funnel ads. The innovations in Hierarchical Interest Representation are [...]\nRead More...\nThe post Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Op"
+    },
     {
       "title": "Context engineering with Dex Horthy",
       "source": "The Pragmatic Engineer",
@@ -51,6 +83,14 @@
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "published": "2026-07-15T12:00:00+00:00",
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "2026-07-15T10:00:00+00:00",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
     },
     {
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
