@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-15T14:47:37.063830+00:00",
+  "generated_at": "2026-07-15T16:19:24.928593+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Context engineering with Dex Horthy",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
+      "published": "2026-07-15T16:08:59+00:00",
+      "summary": "Dex Horthy explains why context engineering is key to building more effective AI-assisted software without sacrificing code quality."
+    },
+    {
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "published": "2026-07-15T16:00:33+00:00",
+      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance."
+    },
+    {
+      "title": "The First Chatbot’s Multiple Personalities",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+      "published": "2026-07-15T15:35:53+00:00",
+      "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others believed the program demonstrated sentience, a fallacy soon known as the “ELIZA effect.” Based on published descriptions, ELIZA has been implemented on many different computers, but o"
+    },
     {
       "title": "How I tricked Claude into leaking your deepest, darkest secrets",
       "source": "Simon Willison's Weblog",
@@ -19,6 +43,14 @@
       "url": "https://spectrum.ieee.org/ai-dna-origami",
       "published": "2026-07-15T13:00:01+00:00",
       "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami, which can bend genetic material into any form. Designing DNA strands so they’ll fold into a specific shape typically requires tedious manual work, but the researchers behind the playful fabrications have developed a shortcut using generative AI.The AI model, called Gene"
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
     },
     {
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
