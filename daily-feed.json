@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T21:57:47.599927+00:00",
+  "generated_at": "2026-07-15T23:00:16.424998+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 27,
   "items": [
     {
       "title": "What building Shippy taught us about building agents",
@@ -211,14 +211,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "published": "2026-07-14T15:06:28+00:00",
       "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement."
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "published": "2026-07-14T10:00:00+00:00",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
     },
     {
       "title": "DSLs Enable Reliable Use of LLMs",
