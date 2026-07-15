@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T18:04:37.314021+00:00",
+  "generated_at": "2026-07-15T20:06:24.962650+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
     {
       "title": "What building Shippy taught us about building agents",
@@ -91,6 +91,14 @@
       "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "published": "2026-07-15T10:00:00+00:00",
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "published": "2026-07-15T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
