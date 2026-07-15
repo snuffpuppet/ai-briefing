@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T02:11:10.485720+00:00",
+  "generated_at": "2026-07-15T05:28:34.067246+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 24,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -195,38 +195,6 @@
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "published": "2026-07-13T18:00:00+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;"
-    },
-    {
-      "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
-      "published": "2026-07-13T16:00:50+00:00",
-      "summary": "TL; DR At Meta&#8217;s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance.  When a Linux kernel upgrade risked regressing latency across Meta&#8217;s ad serving fleet, we turned to sched_ext — the upstream, BPF-based extensible scheduling framework — to build a scheduling policy customized to the Ads delivery [...]\nRead More...\nThe post Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler appeared first on Engineering at Me"
-    },
-    {
-      "title": "The AI Arms Race in Technical Interviews Is Escalating",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/technical-interview-ai-arms-race",
-      "published": "2026-07-13T15:15:03+00:00",
-      "summary": "Software engineering jobs are under threat from AI. Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews.Meanwhile, some employers are countering with—you guessed it—AI. They’re applying AI-powered tools to detect telltale signs of AI use during interviews.This two-sided dynamic is turning hiring into an AI arms race with no clear winners. Yet as interviewers and interviewees navigate"
-    },
-    {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "published": "2026-07-13T15:06:34+00:00",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm."
-    },
-    {
-      "title": "Fragments: July 13",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-07-13.html",
-      "published": "2026-07-13T12:06:00-04:00",
-      "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat.\n\nWhen we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it.\n\nWhen comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention o"
     }
   ]
 }
