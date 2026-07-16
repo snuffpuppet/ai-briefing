@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-16T20:01:20.628839+00:00",
+  "generated_at": "2026-07-16T22:01:21.316164+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 32,
   "items": [
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "published": "2026-07-16T20:41:45+00:00",
+      "summary": "Google says these changes could endanger user privacy and security."
+    },
+    {
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "published": "2026-07-16T20:26:23+00:00",
+      "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images."
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "published": "2026-07-16T20:19:30+00:00",
+      "summary": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by July 27, 2026\".\nMoonshot are calling this the first \"open 3T-class model\" (I guess they're rounding 2.8 trillion up to 3 trillion), taking the crown from DeepSeek's 1.6T v4 Pro. Their self-reported benchmarks have K3 mostly beating Claude Opus 4.8 max and GPT-5.5"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "published": "2026-07-16T20:09:48+00:00",
+      "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028."
+    },
     {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "source": "AI - Ars Technica",
@@ -227,14 +259,6 @@
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "published": "2026-07-15T12:00:00+00:00",
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "published": "2026-07-15T10:00:00+00:00",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
     }
   ]
 }
