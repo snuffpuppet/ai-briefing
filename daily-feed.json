@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-16T18:04:12.458054+00:00",
+  "generated_at": "2026-07-16T20:01:20.628839+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 29,
   "items": [
+    {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "published": "2026-07-16T19:18:23+00:00",
+      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools."
+    },
     {
       "title": "Quoting Thibault Sottiaux",
       "source": "Simon Willison's Weblog",
