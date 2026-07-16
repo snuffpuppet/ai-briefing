@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-07-16T00:05:21.308232+00:00",
+  "generated_at": "2026-07-16T04:06:50.103860+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+      "published": "2026-07-16T00:33:18+00:00",
+      "summary": "Tool: Mermaid to Unicode box art (grok-mermaid)\n        While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs, a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust.\nI figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude Code for web (Fable 5), and this is what the resulting tool looks like:\n\n    \n    \n        Tags: tools, rust, webassembly, mermaid, grok,"
+    },
     {
       "title": "xai-org/grok-build, now open source",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
       "published": "2026-07-15T23:59:30+00:00",
-      "summary": "xai-org/grok-build, now open source\nxAI's grok CLI tool had severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\".\nI've not seen an official explanation for why it was doing this, but xAI did respond to the feedback (Musk: \"As a"
+      "summary": "xai-org/grok-build, now open source\nxAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\".\nI've not seen an official explanation for why it was doing this, but xAI did respond to the feedback (Musk: \"As"
     },
     {
       "title": "What building Shippy taught us about building agents",
@@ -203,30 +211,6 @@
       "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
       "published": "2026-07-14T16:28:14+00:00",
       "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery."
-    },
-    {
-      "title": "How I Turned AI to the Dark Side",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/jailbreaking-llms",
-      "published": "2026-07-14T15:59:35+00:00",
-      "summary": "Summary  Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparency, and large-scale research into LLM safety before further integrating these systems into society. On a fine bright afternoon last fall, my colleague Matthew Gore-Kormanik (or Zigula, as he prefers t"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "published": "2026-07-14T15:06:28+00:00",
-      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement."
-    },
-    {
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "published": "2026-07-14T08:51:00-04:00",
-      "summary": "LLMs generate code incredibly fast, but to ensure they generate\n      exactly what is intended, they need clear boundaries. Abstractions and\n      Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs\n      right from the start. Unmesh Joshi describes how the example\n      of Tickloom - a domain model and DSL for illustrating distributed system\n      behavior - shows how we can use an LLM as a partner to iteratively build a\n      DSL and as a natural language interface to u"
     }
   ]
 }
