@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-16T22:01:21.316164+00:00",
+  "generated_at": "2026-07-16T23:56:43.990940+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 34,
   "items": [
+    {
+      "title": "Firefox in WebAssembly",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "published": "2026-07-16T23:34:16+00:00",
+      "summary": "Firefox in WebAssembly\nThis is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.\nHere's my blog, running in Firefox, running in WebAssembly, running in Chrome:\n\nThey chose Firefox/Gecko because it has strong single-process support. The project took an estimated $25,000 of Claude Opus and Fable tokens, taking advantage of a Claude Max subscription plan.\nThe demo funnels all traffic over a WebSocket protocol (using the Wisp protocol) through"
+    },
     {
       "title": "It's official: EU will force Google to share search data and open up AI on Android",
       "source": "AI - Ars Technica",
@@ -59,6 +67,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
       "published": "2026-07-16T16:48:53+00:00",
       "summary": "Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more"
+    },
+    {
+      "title": "How to Make an Invisible Drone",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/invisible-spinning-drone",
+      "published": "2026-07-16T16:09:21+00:00",
+      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even less canny ability to hover perfectly still, they tend to draw the eye as affronts to nature.In a paper presented this week at RSS 2026 in Sydney, roboticists from Northwestern University, Evanston, Il"
     },
     {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
