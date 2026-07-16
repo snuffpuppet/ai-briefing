@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-16T04:06:50.103860+00:00",
+  "generated_at": "2026-07-16T07:21:15.700028+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "published": "2026-07-16T06:18:05+00:00",
+      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!"
+    },
     {
       "title": "Mermaid to Unicode box art (grok-mermaid)",
       "source": "Simon Willison's Weblog",
@@ -171,46 +179,6 @@
       "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
       "published": "2026-07-14T19:44:11+00:00",
       "summary": "lobste.rs is now running on SQLite\nCommunity site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead.\nThis weekend they completed the migration, and now consider it stable enough that it looks like this is the permanent architecture for the site going forward:\n\nSQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at leas"
-    },
-    {
-      "title": "Quoting Armin Ronacher",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
-      "published": "2026-07-14T18:04:23+00:00",
-      "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review, conversations, arguments, and the experience of having to explain a change to somebody else.\nBefore agents, some of this shared understanding wa"
-    },
-    {
-      "title": "US military sent explosive drone boats into combat for the first time",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-      "published": "2026-07-14T18:00:01+00:00",
-      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again."
-    },
-    {
-      "title": "What is “loop engineering?”",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
-      "published": "2026-07-14T17:01:57+00:00",
-      "summary": "There&#8217;s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop & more. Is it a &#8220;here today, gone tomorrow&#8221; trend?"
-    },
-    {
-      "title": "datasette 1.0a37",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
-      "published": "2026-07-14T16:31:41+00:00",
-      "summary": "Release: datasette 1.0a37\n        A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test suite to break.\n    \n    \n        Tags: datasette"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "published": "2026-07-14T16:28:14+00:00",
-      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery."
     }
   ]
 }
