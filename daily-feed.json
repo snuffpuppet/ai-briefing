@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-16T07:21:15.700028+00:00",
+  "generated_at": "2026-07-16T10:06:38.282376+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Our approach to bioresilience",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published": "2026-07-16T09:30:42+00:00",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
     {
       "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
       "source": "Latent.Space",
@@ -163,22 +171,6 @@
       "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
       "published": "2026-07-14T22:29:45+00:00",
       "summary": "simonw/pedalican\nClearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own.\nSo I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks.\n\n    \n    Your browser does not support HTML5 video.\n  \n\nThe most interesting thing about this process was watching how the cus"
-    },
-    {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "published": "2026-07-14T20:05:53+00:00",
-      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems."
-    },
-    {
-      "title": "lobste.rs is now running on SQLite",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
-      "published": "2026-07-14T19:44:11+00:00",
-      "summary": "lobste.rs is now running on SQLite\nCommunity site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead.\nThis weekend they completed the migration, and now consider it stable enough that it looks like this is the permanent architecture for the site going forward:\n\nSQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at leas"
     }
   ]
 }
