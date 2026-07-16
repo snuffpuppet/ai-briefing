@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-15T23:00:16.424998+00:00",
+  "generated_at": "2026-07-16T00:05:21.308232+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "xai-org/grok-build, now open source",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+      "published": "2026-07-15T23:59:30+00:00",
+      "summary": "xai-org/grok-build, now open source\nxAI's grok CLI tool had severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\".\nI've not seen an official explanation for why it was doing this, but xAI did respond to the feedback (Musk: \"As a"
+    },
     {
       "title": "What building Shippy taught us about building agents",
       "source": "Hugging Face - Blog",
