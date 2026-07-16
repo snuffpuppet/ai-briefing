@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-16T16:23:43.210380+00:00",
+  "generated_at": "2026-07-16T18:04:12.458054+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Quoting Thibault Sottiaux",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "published": "2026-07-16T17:45:59+00:00",
+      "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. \nWhat we have  found is that this most commonly occurs when:\n\nFull access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\nThe model attempts  to override the $HOME env var to define a temporary directory.\nThe model makes an honest mistake and mistakenly deletes $HOME instead.\n\n&mdash; Thibault Sottiaux, describing a pretty gnarly Codex"
+    },
+    {
+      "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
+      "published": "2026-07-16T16:48:53+00:00",
+      "summary": "Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more"
+    },
     {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "source": "Hugging Face - Blog",
