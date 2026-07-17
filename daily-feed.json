@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T22:46:54.832100+00:00",
+  "generated_at": "2026-07-17T23:50:40.548676+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 27,
   "items": [
     {
       "title": "In-House LLM Serving at Netflix",
@@ -211,14 +211,6 @@
       "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "published": "2026-07-16T12:00:01+00:00",
       "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the crew, it is an ordinary day at sea.Yet hundreds of kilometers above, satellites continuously record the vessel’s position. At Indonesia’s Marine and Fisheries Resources Surveillance Station, in Cilacap"
-    },
-    {
-      "title": "Newer Models, Same Advantage",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "published": "2026-07-16T11:49:48+00:00",
-      "summary": ""
     },
     {
       "title": "The Archaeologist’s Copilot",
