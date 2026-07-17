@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-17T12:07:11.952685+00:00",
+  "generated_at": "2026-07-17T14:41:37.741235+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Quoting Kimi K3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "published": "2026-07-17T13:43:53+00:00",
+      "summary": "Is there something I can actually help you with today?\n&mdash; Kimi K3, after refusing to leak its system prompt\n\n    Tags: kimi, ai-personality, generative-ai, ai, llms"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published": "2026-07-17T10:00:00+00:00",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+    },
     {
       "title": "The risk of weather data sabotage is rising",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -98,7 +114,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/invisible-spinning-drone",
       "published": "2026-07-16T16:09:21+00:00",
-      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even less canny ability to hover perfectly still, they tend to draw the eye as affronts to nature.In a paper presented this week at RSS 2026 in Sydney, roboticists from Northwestern University, Evanston, Il"
+      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even less canny ability to hover perfectly still, they tend to draw the eye as affronts to nature.In a paper presented this week at Robotics Science and Systems 2026 in Sydney, roboticists from Northwestern"
     },
     {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
@@ -162,7 +178,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "published": "2026-07-16T12:00:01+00:00",
-      "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the crew, it is an ordinary day at sea.Yet hundreds of kilometers above, satellites continuously record the vessel’s position. At Indonesia’s Marine and Fisheries Resources Surveillance Station in Cilacap,"
+      "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the crew, it is an ordinary day at sea.Yet hundreds of kilometers above, satellites continuously record the vessel’s position. At Indonesia’s Marine and Fisheries Resources Surveillance Station, in Cilacap"
     },
     {
       "title": "Newer Models, Same Advantage",
@@ -195,14 +211,6 @@
       "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
       "published": "2026-07-16T06:18:05+00:00",
       "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!"
-    },
-    {
-      "title": "Mermaid to Unicode box art (grok-mermaid)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
-      "published": "2026-07-16T00:33:18+00:00",
-      "summary": "Tool: Mermaid to Unicode box art (grok-mermaid)\n        While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs, a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust.\nI figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude Code for web (Fable 5), and this is what the resulting tool looks like:\n\n    \n    \n        Tags: tools, rust, webassembly, mermaid, grok,"
     }
   ]
 }
