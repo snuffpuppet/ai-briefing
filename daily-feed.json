@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-17T08:06:00.125513+00:00",
+  "generated_at": "2026-07-17T10:44:55.132241+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "published": "2026-07-17T08:57:32+00:00",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;"
+    },
     {
       "title": "Spot birds not golf",
       "source": "Simon Willison's Weblog",
