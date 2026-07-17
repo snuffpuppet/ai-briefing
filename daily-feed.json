@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-17T18:03:58.519789+00:00",
+  "generated_at": "2026-07-17T20:03:58.780169+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "published": "2026-07-17T19:50:18+00:00",
+      "summary": "The FireSat program can spot wildfires that other satellites miss."
+    },
     {
       "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
       "source": "AI - Ars Technica",
@@ -29,12 +37,20 @@
       "summary": "Is there something I can actually help you with today?\n&mdash; Kimi K3, after refusing to leak its system prompt\n\n    Tags: kimi, ai-personality, generative-ai, ai, llms"
     },
     {
+      "title": "LLM cliché highlighter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "published": "2026-07-17T12:11:11+00:00",
+      "summary": "Tool: LLM cliché highlighter\n        I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing.\n    \n    \n        Tags: tools, ai, generative-ai, llms"
+    },
+    {
       "title": "A scorecard for the AI age",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "published": "2026-07-17T10:00:00+00:00",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
     },
     {
       "title": "The risk of weather data sabotage is rising",
@@ -211,14 +227,6 @@
       "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
       "published": "2026-07-16T09:25:00-04:00",
       "summary": "When people think of legacy modernization, most folks aren't imagining\n      the target environment will be Java 8. But this was the challenge facing\n      Nik Malykhin when he needed to run a Java 1.5 codebase on\n      today's hardware. His early use of LLMs gave plausible answers that did\n      not hold up in the codebase. Progress came when he grounded the process in\n      evidence, using AI to support analysis, validation in a stable Docker\n      environment, and gradual refactoring protec"
-    },
-    {
-      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "published": "2026-07-16T06:18:05+00:00",
-      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!"
     }
   ]
 }
