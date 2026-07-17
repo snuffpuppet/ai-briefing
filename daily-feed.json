@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-07-16T23:56:43.990940+00:00",
+  "generated_at": "2026-07-17T02:44:58.557494+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 33,
   "items": [
+    {
+      "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "published": "2026-07-17T01:46:36+00:00",
+      "summary": "a great week for open models continues."
+    },
     {
       "title": "Firefox in WebAssembly",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
       "published": "2026-07-16T23:34:16+00:00",
-      "summary": "Firefox in WebAssembly\nThis is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.\nHere's my blog, running in Firefox, running in WebAssembly, running in Chrome:\n\nThey chose Firefox/Gecko because it has strong single-process support. The project took an estimated $25,000 of Claude Opus and Fable tokens, taking advantage of a Claude Max subscription plan.\nThe demo funnels all traffic over a WebSocket protocol (using the Wisp protocol) through"
+      "summary": "Firefox in WebAssembly\nThis is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.\nHere's my blog, running in Firefox, running in WebAssembly, running in Chrome:\n\nThey chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max subscription plan so cost much less in actual dollars.\nThe demo funnels all traffic over a WebSocket"
     },
     {
       "title": "It's official: EU will force Google to share search data and open up AI on Android",
@@ -107,6 +115,14 @@
       "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
       "published": "2026-07-16T15:35:25+00:00",
       "summary": "Inkling: Our open-weights model\nMira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text, images, audio and video.\nThey're also promising Inkling-Small, a 276B (12B active) model, but that's still being tested and the weights will be released \"once that work is complete\".\nThe model card is much shorter than I"
+    },
+    {
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "published": "2026-07-16T14:57:39+00:00",
+      "summary": "Tool: Mermaid to ASCII art (mermaid-ascii)\n        After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called AlexanderGrooff/mermaid-ascii that implements a similar pattern, so I had Claude Fable 5 compile that one to WebAssembly as well so I could compare the two.\nThis one includes support for colors!\n\n    \n    \n        Tags: go, tools, webassembly, mermaid"
     },
     {
       "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
@@ -251,30 +267,6 @@
       "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
       "published": "2026-07-15T15:35:53+00:00",
       "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others believed the program demonstrated sentience, a fallacy soon known as the “ELIZA effect.” Based on published descriptions, ELIZA has been implemented on many different computers, but o"
-    },
-    {
-      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-      "published": "2026-07-15T14:21:54+00:00",
-      "summary": "How I tricked Claude into leaking your deepest, darkest secrets\nI've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in that design.\nTo recap: regular Claude chat is at risk of lethal trifecta attacks, because it has access to private data (in the form of memories of your past interactions) and has a tool for accessing online content which can both read hostile instructions and exfiltrate data through the URLs it accesse"
-    },
-    {
-      "title": "This AI Folds DNA Into Mini Masterpieces",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-dna-origami",
-      "published": "2026-07-15T13:00:01+00:00",
-      "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami, which can bend genetic material into any form. Designing DNA strands so they’ll fold into a specific shape typically requires tedious manual work, but the researchers behind the playful fabrications have developed a shortcut using generative AI.The AI model, called Gene"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "published": "2026-07-15T12:00:00+00:00",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
     }
   ]
 }
