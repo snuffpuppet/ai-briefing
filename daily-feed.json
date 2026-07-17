@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-17T16:12:59.752456+00:00",
+  "generated_at": "2026-07-17T18:03:58.519789+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 27,
   "items": [
+    {
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "published": "2026-07-17T16:10:05+00:00",
+      "summary": "Official estimates Google and Apple likely made millions in nudify app fees."
+    },
     {
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "source": "Hugging Face - Blog",
