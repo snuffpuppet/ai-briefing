@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T14:49:40.127742+00:00",
+  "generated_at": "2026-07-18T15:54:09.565132+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 12,
   "items": [
     {
       "title": "Will AI fix prior authorization—or make it worse?",
@@ -99,14 +99,6 @@
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "published": "2026-07-17T08:57:32+00:00",
       "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;"
-    },
-    {
-      "title": "Spot birds not golf",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
-      "published": "2026-07-17T02:58:07+00:00",
-      "summary": "Suggestion for hyperscalers feeling pressure over data center water use:\nBuy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby!\nGoogle used 10.9 billion gallons in 2025, so about 30 million gallons per day.\nThe Coachella Valley has 120 golf courses each using ~800 acre-feet per year,  which is ~750,000 gallons per day.\nSo Google buying up 40 of thos"
     }
   ]
 }
