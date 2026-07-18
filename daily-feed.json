@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-18T02:12:18.793332+00:00",
+  "generated_at": "2026-07-18T05:23:02.224256+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "published": "2026-07-18T04:30:21+00:00",
+      "summary": "a quiet day"
+    },
     {
       "title": "In-House LLM Serving at Netflix",
       "source": "Netflix TechBlog - Medium",
@@ -139,54 +147,6 @@
       "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
       "published": "2026-07-16T17:45:59+00:00",
       "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. \nWhat we have  found is that this most commonly occurs when:\n\nFull access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\nThe model attempts  to override the $HOME env var to define a temporary directory.\nThe model makes an honest mistake and mistakenly deletes $HOME instead.\n\n&mdash; Thibault Sottiaux, describing a pretty gnarly Codex"
-    },
-    {
-      "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
-      "published": "2026-07-16T16:48:53+00:00",
-      "summary": "Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more"
-    },
-    {
-      "title": "How to Make an Invisible Drone",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/invisible-spinning-drone",
-      "published": "2026-07-16T16:09:21+00:00",
-      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even less canny ability to hover perfectly still, they tend to draw the eye as affronts to nature.In a paper presented this week at Robotics Science and Systems 2026 in Sydney, roboticists from Northwestern"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
-    },
-    {
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "published": "2026-07-16T15:48:21+00:00",
-      "summary": "Companies coming to market are raising money at fastest pace this century."
-    },
-    {
-      "title": "Inkling: Our open-weights model",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-      "published": "2026-07-16T15:35:25+00:00",
-      "summary": "Inkling: Our open-weights model\nMira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text, images, audio and video.\nThey're also promising Inkling-Small, a 276B (12B active) model, but that's still being tested and the weights will be released \"once that work is complete\".\nThe model card is much shorter than I"
-    },
-    {
-      "title": "Mermaid to ASCII art (mermaid-ascii)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
-      "published": "2026-07-16T14:57:39+00:00",
-      "summary": "Tool: Mermaid to ASCII art (mermaid-ascii)\n        After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called AlexanderGrooff/mermaid-ascii that implements a similar pattern, so I had Claude Fable 5 compile that one to WebAssembly as well so I could compare the two.\nThis one includes support for colors!\n\n    \n    \n        Tags: go, tools, webassembly, mermaid"
     }
   ]
 }
