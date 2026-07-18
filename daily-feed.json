@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-18T05:23:02.224256+00:00",
+  "generated_at": "2026-07-18T07:45:23.397588+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
   "items": [
+    {
+      "title": "Claude make Fable 5 permanent",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "published": "2026-07-18T06:00:13+00:00",
+      "summary": "Claude make Fable 5 permanent\nAn update from the @claudeai account on Twitter:\n\nBeginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nAs I was saying last week, the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make"
+    },
+    {
+      "title": "nascheme/quixote",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "published": "2026-07-18T05:27:49+00:00",
+      "summary": "nascheme/quixote\nA certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago.\nThe oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git.\n\n\n    Tags: computer-history, python, web-frameworks"
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -131,22 +147,6 @@
       "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
       "published": "2026-07-16T20:09:48+00:00",
       "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028."
-    },
-    {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "published": "2026-07-16T19:18:23+00:00",
-      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools."
-    },
-    {
-      "title": "Quoting Thibault Sottiaux",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-      "published": "2026-07-16T17:45:59+00:00",
-      "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. \nWhat we have  found is that this most commonly occurs when:\n\nFull access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\nThe model attempts  to override the $HOME env var to define a temporary directory.\nThe model makes an honest mistake and mistakenly deletes $HOME instead.\n\n&mdash; Thibault Sottiaux, describing a pretty gnarly Codex"
     }
   ]
 }
