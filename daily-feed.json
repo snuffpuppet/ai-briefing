@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T13:08:35.892334+00:00",
+  "generated_at": "2026-07-18T14:49:40.127742+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 13,
   "items": [
     {
       "title": "Will AI fix prior authorization—or make it worse?",
@@ -107,14 +107,6 @@
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
       "published": "2026-07-17T02:58:07+00:00",
       "summary": "Suggestion for hyperscalers feeling pressure over data center water use:\nBuy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby!\nGoogle used 10.9 billion gallons in 2025, so about 30 million gallons per day.\nThe Coachella Valley has 120 golf courses each using ~800 acre-feet per year,  which is ~750,000 gallons per day.\nSo Google buying up 40 of thos"
-    },
-    {
-      "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
-      "published": "2026-07-17T01:46:36+00:00",
-      "summary": "a great week for open models continues."
     }
   ]
 }
