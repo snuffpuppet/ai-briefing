@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-18T11:00:51.673931+00:00",
+  "generated_at": "2026-07-18T13:08:35.892334+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "published": "2026-07-18T11:18:25+00:00",
+      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions."
+    },
     {
       "title": "Claude make Fable 5 permanent",
       "source": "Simon Willison's Weblog",
@@ -107,14 +115,6 @@
       "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "published": "2026-07-17T01:46:36+00:00",
       "summary": "a great week for open models continues."
-    },
-    {
-      "title": "Firefox in WebAssembly",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
-      "published": "2026-07-16T23:34:16+00:00",
-      "summary": "Firefox in WebAssembly\nThis is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.\nHere's my blog, running in Firefox, running in WebAssembly, running in Chrome:\n\nThey chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max subscription plan so cost much less in actual dollars.\nThe demo funnels all traffic over a WebSocket"
     }
   ]
 }
