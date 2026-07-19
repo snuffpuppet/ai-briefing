@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T15:55:32.887409+00:00",
+  "generated_at": "2026-07-19T16:56:19.405712+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
@@ -51,14 +51,6 @@
       "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
       "published": "2026-07-18T05:27:49+00:00",
       "summary": "nascheme/quixote\nA certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago.\nThe oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git.\n\n\n    Tags: computer-history, python, web-frameworks"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
-      "published": "2026-07-18T04:30:21+00:00",
-      "summary": "a quiet day"
     }
   ]
 }
