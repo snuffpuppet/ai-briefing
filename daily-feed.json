@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-19T02:29:26.521353+00:00",
+  "generated_at": "2026-07-19T05:49:34.276193+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 9,
   "items": [
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "published": "2026-07-19T05:06:21+00:00",
+      "summary": "AI Mania Is Eviscerating Global Decision-Making\nHere's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources.\n\nIn one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI.\n\nHere's a r"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "published": "2026-07-19T03:54:09+00:00",
+      "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim:\n\nClaude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good.\n\nI decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust.\nI found these two commands convincing:\nstrings ~/.local/bin/claude | grep -m1 'Bun v1'\n\nFor me this outputs Bun v1.4.0 (macOS arm64). The"
+    },
     {
       "title": "SQLite Query Explainer",
       "source": "Simon Willison's Weblog",
@@ -59,22 +75,6 @@
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
       "published": "2026-07-17T19:50:18+00:00",
       "summary": "The FireSat program can spot wildfires that other satellites miss."
-    },
-    {
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "published": "2026-07-17T16:10:05+00:00",
-      "summary": "Official estimates Google and Apple likely made millions in nudify app fees."
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "published": "2026-07-17T15:57:54+00:00",
-      "summary": ""
     }
   ]
 }
