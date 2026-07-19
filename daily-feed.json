@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T23:51:30.611782+00:00",
+  "generated_at": "2026-07-19T02:29:26.521353+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
     {
       "title": "SQLite Query Explainer",
@@ -75,22 +75,6 @@
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
       "published": "2026-07-17T15:57:54+00:00",
       "summary": ""
-    },
-    {
-      "title": "Quoting Kimi K3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
-      "published": "2026-07-17T13:43:53+00:00",
-      "summary": "Is there something I can actually help you with today?\n&mdash; Kimi K3, after refusing to leak its system prompt\n\n    Tags: kimi, ai-personality, generative-ai, ai, llms"
-    },
-    {
-      "title": "LLM cliché highlighter",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-      "published": "2026-07-17T12:11:11+00:00",
-      "summary": "Tool: LLM cliché highlighter\n        I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing.\n\n    \n    \n        Tags: tools, ai, generative-ai, llms"
     }
   ]
 }
