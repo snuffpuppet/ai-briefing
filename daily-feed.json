@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T05:49:34.276193+00:00",
+  "generated_at": "2026-07-19T08:12:25.534474+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 8,
   "items": [
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
@@ -67,14 +67,6 @@
       "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
       "published": "2026-07-17T21:32:39+00:00",
       "summary": "By AI Platform’s Model Runtime team and Inference teamIntroductionMost organizations consume LLMs through hosted APIs. Netflix went further — we run the full stack ourselves, from model deployment through inference, inside our existing production environment rather than a separate ML silo. Some of those decisions weren’t obvious, and a few revealed their trade-offs only under production load.This post focuses on the choices where alternatives were seriously considered: engine selection, model pa"
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "published": "2026-07-17T19:50:18+00:00",
-      "summary": "The FireSat program can spot wildfires that other satellites miss."
     }
   ]
 }
