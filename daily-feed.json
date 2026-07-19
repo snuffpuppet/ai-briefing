@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T17:57:18.649840+00:00",
+  "generated_at": "2026-07-19T19:09:38.649963+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
@@ -35,14 +35,6 @@
       "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
       "published": "2026-07-18T11:18:25+00:00",
       "summary": "The government is piloting a program that uses AI for insurance-coverage decisions."
-    },
-    {
-      "title": "Claude make Fable 5 permanent",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-      "published": "2026-07-18T06:00:13+00:00",
-      "summary": "Claude make Fable 5 permanent\nAn update from the @claudeai account on Twitter:\n\nBeginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nAs I was saying last week, the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make"
     }
   ]
 }
