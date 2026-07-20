@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-20T17:59:28.528668+00:00",
+  "generated_at": "2026-07-20T19:52:01.241584+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Reverse-engineering is cheap now",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+      "published": "2026-07-20T19:24:05+00:00",
+      "summary": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes.\nI think this is an interesting illustration of the impact of the reduced cost of writing code.\nPrior to agents, it was entirely possible to reverse-engineer home devices. The problem was the ROI - was it really worth all of that effort? More importantly, any experienced programmer knows that undocumented, unstable APIs like that may well change or break in the future. Is that init"
+    },
+    {
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "published": "2026-07-20T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;"
+    },
     {
       "title": "Who’s Afraid of Chinese Models?",
       "source": "Simon Willison's Weblog",
