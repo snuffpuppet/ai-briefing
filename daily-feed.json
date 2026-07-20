@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-20T15:09:43.761612+00:00",
+  "generated_at": "2026-07-20T17:59:28.528668+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "Who’s Afraid of Chinese Models?",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+      "published": "2026-07-20T17:09:19+00:00",
+      "summary": "Who’s Afraid of Chinese Models?\nInteresting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts:\n\nThe U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars terms of service that forbid distillation, for U.S. companies at a minimum. Stopping distillation —"
+    },
+    {
+      "title": "Introducing Cosmos 3 Edge",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "published": "2026-07-20T15:58:51+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Kimi K3: The open-weights escalation",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+      "published": "2026-07-20T15:48:28+00:00",
+      "summary": "The global implications on the AI ecosystem."
+    },
     {
       "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
       "source": "Import AI",
@@ -21,6 +45,14 @@
       "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context."
     },
     {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published": "2026-07-20T10:00:00+00:00",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+    },
+    {
       "title": "AI is more likely than humans to form biases when hiring",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -35,22 +67,6 @@
       "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
       "published": "2026-07-20T03:47:59+00:00",
       "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage others from releasing similarly-powerful models, and makes it harder for new efforts to get funded.\n&mdas"
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
-      "published": "2026-07-19T05:06:21+00:00",
-      "summary": "AI Mania Is Eviscerating Global Decision-Making\nHere's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources.\n\nIn one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI.\n\nHere's a r"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
-      "published": "2026-07-19T03:54:09+00:00",
-      "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim:\n\nClaude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good.\n\nI decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust.\nI found these two commands convincing:\nstrings ~/.local/bin/claude | grep -m1 'Bun v1'\n\nFor me this outputs Bun v1.4.0 (macOS arm64). The"
     }
   ]
 }
