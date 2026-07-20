@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-20T02:44:50.408453+00:00",
+  "generated_at": "2026-07-20T06:15:49.658622+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 3,
   "items": [
+    {
+      "title": "Quoting Sam Altman",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "published": "2026-07-20T03:47:59+00:00",
+      "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage others from releasing similarly-powerful models, and makes it harder for new efforts to get funded.\n&mdas"
+    },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
       "source": "Simon Willison's Weblog",
@@ -19,14 +27,6 @@
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
       "published": "2026-07-19T03:54:09+00:00",
       "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim:\n\nClaude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good.\n\nI decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust.\nI found these two commands convincing:\nstrings ~/.local/bin/claude | grep -m1 'Bun v1'\n\nFor me this outputs Bun v1.4.0 (macOS arm64). The"
-    },
-    {
-      "title": "SQLite Query Explainer",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-      "published": "2026-07-18T17:19:10+00:00",
-      "summary": "Tool: SQLite Query Explainer\n        Julia Evan's, in Learning a few things about running SQLite:\n\nMaybe one day I’ll learn to read a query plan.\n\nBig same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN.\nApproach with caution, since I don't know enough about SQLite query plans to verify the results myself, but it see"
     }
   ]
 }
