@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-07-21T19:17:30.968570+00:00",
+  "generated_at": "2026-07-21T21:06:08.644640+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 25,
   "items": [
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published": "2026-07-21T20:00:27+00:00",
+      "summary": ""
+    },
+    {
+      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/xaira",
+      "published": "2026-07-21T19:34:06+00:00",
+      "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why."
+    },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-agent-benchmark",
       "published": "2026-07-21T17:41:11+00:00",
-      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.There’s often a gap between one person’s request and another’s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they’ll pour a cup from the pot or buy one from a coffee shop. They wo"
+      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.There’s often a gap between one person’s request and another’s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they’ll pour a cup from the pot or buy one from a coffee shop. They won"
     },
     {
       "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
@@ -85,6 +101,14 @@
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;"
     },
     {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "published": "2026-07-21T07:00:00+00:00",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+    },
+    {
       "title": "Fragments: July 21",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
@@ -99,6 +123,14 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
       "published": "2026-07-21T03:58:00+00:00",
       "summary": "a quiet day."
+    },
+    {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "published": "2026-07-21T00:00:00+00:00",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
     },
     {
       "title": "Grabette: an open system to record robot-manipulation data",
@@ -141,14 +173,6 @@
       "summary": "Who’s Afraid of Chinese Models?\nInteresting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts:\n\nThe U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars terms of service that forbid distillation, for U.S. companies at a minimum. Stopping distillation —"
     },
     {
-      "title": "Introducing Cosmos 3 Edge",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "published": "2026-07-20T15:58:51+00:00",
-      "summary": ""
-    },
-    {
       "title": "Kimi K3: The open-weights escalation",
       "source": "Interconnects AI",
       "feed_url": "https://www.interconnects.ai/feed",
@@ -179,14 +203,6 @@
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "published": "2026-07-20T10:00:00+00:00",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "published": "2026-07-20T08:39:01+00:00",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;"
     }
   ]
 }
