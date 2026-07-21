@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-21T15:01:47.344176+00:00",
+  "generated_at": "2026-07-21T17:15:28.891355+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "published": "2026-07-21T17:00:00+00:00",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+    },
+    {
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "published": "2026-07-21T16:58:25+00:00",
+      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4."
+    },
+    {
+      "title": "Pushing software engineering limits with “napkin math”",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
+      "published": "2026-07-21T16:52:07+00:00",
+      "summary": "Turbopuffer cofounder Simon Eskildsen on the benefits of longer tenure, using first principles to build durable software &#8211; and why founders should be cautious when raising VC money"
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published": "2026-07-21T15:16:30+00:00",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+    },
     {
       "title": "Nativ: Run AI models locally on your Mac",
       "source": "Simon Willison's Weblog",
@@ -139,14 +171,6 @@
       "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "published": "2026-07-20T08:39:01+00:00",
       "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;"
-    },
-    {
-      "title": "Quoting Sam Altman",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
-      "published": "2026-07-20T03:47:59+00:00",
-      "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage others from releasing similarly-powerful models, and makes it harder for new efforts to get funded.\n&mdas"
     }
   ]
 }
