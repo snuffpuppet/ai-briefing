@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-21T00:00:34.206796+00:00",
+  "generated_at": "2026-07-21T04:13:12.270104+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 12,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+      "published": "2026-07-21T03:58:00+00:00",
+      "summary": "a quiet day."
+    },
     {
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
       "source": "AI - Ars Technica",
