@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-21T12:23:04.372306+00:00",
+  "generated_at": "2026-07-21T15:01:47.344176+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Nativ: Run AI models locally on your Mac",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "published": "2026-07-21T14:22:27+00:00",
+      "summary": "Nativ: Run AI models locally on your Mac\nPrince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac.\nI'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing both a chat interface and a localhost API server for accessing models.\nThe app picked up MLX models I had already tried that were present in my Hugging Face cache directory, which was a nice touch."
+    },
+    {
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "published": "2026-07-21T12:54:02+00:00",
+      "summary": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves.\nThe full video of the session is now available on YouTube. Below is an edited copy of the transcript, with extra links and my own bolded highlights.\n \n\nA few top-level notes if you don't want to watch the video o"
+    },
     {
       "title": "China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits",
       "source": "IEEE Spectrum",
@@ -19,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "published": "2026-07-21T10:37:34+00:00",
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;"
+    },
+    {
+      "title": "Fragments: July 21",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-07-21.html",
+      "published": "2026-07-21T06:13:00-07:00",
+      "summary": "With this post, I’ll wrap up my notes from  the second Future of Software Development Retreat. But before I do, I should note that the full Thoughtworks report on the retreat is now available. They have five headline findings:\n\n\n  \n    Code generation is no longer the bottleneck — verification is.\n    ‘Harness engineering’ is emerging as a distinct, ownable discipline.\n    Organizations are colliding with a real apprenticeship crisis.\n    The executive/engineer expectation gap is a bigger risk t"
     },
     {
       "title": "[AINews] not much happened today",
