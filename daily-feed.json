@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-21T17:15:28.891355+00:00",
+  "generated_at": "2026-07-21T19:17:30.968570+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Why AI Needs a “Genie Coefficient”",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-agent-benchmark",
+      "published": "2026-07-21T17:41:11+00:00",
+      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.There’s often a gap between one person’s request and another’s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they’ll pour a cup from the pot or buy one from a coffee shop. They wo"
+    },
+    {
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "published": "2026-07-21T17:33:14+00:00",
+      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
+    },
     {
       "title": "Introducing the ChatGPT for small business program",
       "source": "OpenAI News",
@@ -53,7 +69,7 @@
       "summary": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves.\nThe full video of the session is now available on YouTube. Below is an edited copy of the transcript, with extra links and my own bolded highlights.\n \n\nA few top-level notes if you don't want to watch the video o"
     },
     {
-      "title": "China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits",
+      "title": "Chinese AI Model Uses Less Muscle for Coding Tasks",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
