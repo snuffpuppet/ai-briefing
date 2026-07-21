@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T21:06:08.644640+00:00",
+  "generated_at": "2026-07-21T22:53:56.510590+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
     {
       "title": "The State of Simulation for Physical AI: An Overview",
@@ -195,14 +195,6 @@
       "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
       "published": "2026-07-20T11:20:10+00:00",
       "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context."
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published": "2026-07-20T10:00:00+00:00",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
     }
   ]
 }
