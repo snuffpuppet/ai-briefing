@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-22T15:38:52.422709+00:00",
+  "generated_at": "2026-07-22T17:15:38.405299+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
   "items": [
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "published": "2026-07-22T16:47:49+00:00",
+      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says."
+    },
     {
       "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
       "source": "Interconnects AI",
@@ -171,14 +179,6 @@
       "url": "https://martinfowler.com/fragments/2026-07-21.html",
       "published": "2026-07-21T06:13:00-07:00",
       "summary": "With this post, I’ll wrap up my notes from  the second Future of Software Development Retreat. But before I do, I should note that the full Thoughtworks report on the retreat is now available. They have five headline findings:\n\n\n  \n    Code generation is no longer the bottleneck — verification is.\n    ‘Harness engineering’ is emerging as a distinct, ownable discipline.\n    Organizations are colliding with a real apprenticeship crisis.\n    The executive/engineer expectation gap is a bigger risk t"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
-      "published": "2026-07-21T03:58:00+00:00",
-      "summary": "a quiet day."
     }
   ]
 }
