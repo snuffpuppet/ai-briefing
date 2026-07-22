@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-22T11:07:07.709618+00:00",
+  "generated_at": "2026-07-22T13:46:26.470637+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published": "2026-07-22T13:38:54+00:00",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+    },
+    {
+      "title": "US Army faces AI use limits after exhausting year's supply of AI tokens",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "published": "2026-07-22T13:35:17+00:00",
+      "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens."
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published": "2026-07-22T13:00:00+00:00",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "published": "2026-07-22T05:30:00+00:00",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+    },
     {
       "title": "[AINews] AI Cybersecurity becomes top of mind",
       "source": "Latent.Space",
@@ -131,22 +163,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
       "published": "2026-07-21T03:58:00+00:00",
       "summary": "a quiet day."
-    },
-    {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "published": "2026-07-21T00:00:00+00:00",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
-    },
-    {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/grabette",
-      "published": "2026-07-21T00:00:00+00:00",
-      "summary": ""
     }
   ]
 }
