@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-22T02:26:37.572204+00:00",
+  "generated_at": "2026-07-22T05:47:36.541951+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] AI Cybersecurity becomes top of mind",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+      "published": "2026-07-22T03:27:29+00:00",
+      "summary": "Several new Cyber headlines make us observe a trend"
+    },
     {
       "title": "The State of Simulation for Physical AI: An Overview",
       "source": "Hugging Face - Blog",
@@ -163,22 +171,6 @@
       "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
       "published": "2026-07-20T18:00:00+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;"
-    },
-    {
-      "title": "Who’s Afraid of Chinese Models?",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
-      "published": "2026-07-20T17:09:19+00:00",
-      "summary": "Who’s Afraid of Chinese Models?\nInteresting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts:\n\nThe U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars terms of service that forbid distillation, for U.S. companies at a minimum. Stopping distillation —"
-    },
-    {
-      "title": "Kimi K3: The open-weights escalation",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-      "published": "2026-07-20T15:48:28+00:00",
-      "summary": "The global implications on the AI ecosystem."
     }
   ]
 }
