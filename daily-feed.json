@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T23:54:35.755198+00:00",
+  "generated_at": "2026-07-22T02:26:37.572204+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
     {
       "title": "The State of Simulation for Physical AI: An Overview",
@@ -179,14 +179,6 @@
       "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
       "published": "2026-07-20T15:48:28+00:00",
       "summary": "The global implications on the AI ecosystem."
-    },
-    {
-      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
-      "published": "2026-07-20T12:31:45+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now UK government: Gap between open and closed weight models on cyber is shrinking:…The cyber-eschaton cometh…The UK government’s AI Security Institute (AISI) has analyzed the delta in [&#8230;]"
     }
   ]
 }
