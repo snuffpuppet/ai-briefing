@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T21:09:00.788945+00:00",
+  "generated_at": "2026-07-22T23:00:03.538747+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
     {
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
@@ -171,14 +171,6 @@
       "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
       "published": "2026-07-21T12:00:01+00:00",
       "summary": "Zain Hasan, an AI engineer at Together AI, has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable. But if the task that Hasan is outsourcing is more straightforward, he directs it to a less capable—and less expensive—language model. Right now, the cheaper model, for him, tends to be GLM 5.2. Released on 16 June by the"
-    },
-    {
-      "title": "Advancing next-gen AI with materials science innovation",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "published": "2026-07-21T10:37:34+00:00",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;"
     },
     {
       "title": "Fragments: July 21",
