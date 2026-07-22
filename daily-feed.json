@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T08:24:37.190102+00:00",
+  "generated_at": "2026-07-22T11:07:07.709618+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 18,
   "items": [
     {
       "title": "[AINews] AI Cybersecurity becomes top of mind",
@@ -147,14 +147,6 @@
       "url": "https://huggingface.co/blog/grabette",
       "published": "2026-07-21T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-      "published": "2026-07-20T21:55:52+00:00",
-      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early."
     }
   ]
 }
