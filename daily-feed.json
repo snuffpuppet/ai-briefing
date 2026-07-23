@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T10:20:13.238101+00:00",
+  "generated_at": "2026-07-23T12:22:49.366838+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 18,
   "items": [
     {
       "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
@@ -147,14 +147,6 @@
       "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
       "published": "2026-07-22T03:27:29+00:00",
       "summary": "Several new Cyber headlines make us observe a trend"
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ntt-data",
-      "published": "2026-07-22T00:00:00+00:00",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
     }
   ]
 }
