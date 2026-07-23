@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-23T22:53:40.068452+00:00",
+  "generated_at": "2026-07-23T23:58:04.342739+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 24,
   "items": [
+    {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "published": "2026-07-23T22:53:08+00:00",
+      "summary": "The first known runaway AI agent - or a very bad marketing stunt?\nMartin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered.\nFirst, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code:\n\nHugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have investe"
+    },
     {
       "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
       "source": "AI - Ars Technica",
