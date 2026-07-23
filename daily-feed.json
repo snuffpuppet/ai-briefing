@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-22T23:00:03.538747+00:00",
+  "generated_at": "2026-07-23T00:09:10.792192+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Quoting Thomas Ptacek",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "published": "2026-07-22T23:59:01+00:00",
+      "summary": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes.\n&mdash; Thomas Ptacek, doesn't think this even needs a frontier model\n\n    Tags: thomas-ptacek, openai, security, generative-ai, ai-security-research, ai, llms"
+    },
+    {
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "published": "2026-07-22T23:51:33+00:00",
+      "summary": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers.\nAlong the way it helped make the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software.\nHere's what hap"
+    },
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "published": "2026-07-22T23:01:00+00:00",
+      "summary": "Are AI labs pelicanmaxxing?\nExcellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark.\nI've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here.\nDylan took 8 animals × 6 vehi"
+    },
     {
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
       "source": "AI - Ars Technica",
@@ -85,6 +109,14 @@
       "summary": "Several new Cyber headlines make us observe a trend"
     },
     {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/ntt-data",
+      "published": "2026-07-22T00:00:00+00:00",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+    },
+    {
       "title": "The State of Simulation for Physical AI: An Overview",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -163,14 +195,6 @@
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
       "published": "2026-07-21T12:54:02+00:00",
       "summary": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves.\nThe full video of the session is now available on YouTube. Below is an edited copy of the transcript, with extra links and my own bolded highlights.\n \n\nA few top-level notes if you don't want to watch the video o"
-    },
-    {
-      "title": "Chinese AI Model Uses Less Muscle for Coding Tasks",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
-      "published": "2026-07-21T12:00:01+00:00",
-      "summary": "Zain Hasan, an AI engineer at Together AI, has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable. But if the task that Hasan is outsourcing is more straightforward, he directs it to a less capable—and less expensive—language model. Right now, the cheaper model, for him, tends to be GLM 5.2. Released on 16 June by the"
     },
     {
       "title": "Fragments: July 21",
