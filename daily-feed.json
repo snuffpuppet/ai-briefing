@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-23T04:13:41.166419+00:00",
+  "generated_at": "2026-07-23T07:31:01.221606+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "published": "2026-07-23T05:18:47+00:00",
+      "summary": "a quiet day lets us highlight a new neolab win."
+    },
+    {
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/poolside",
+      "published": "2026-07-23T05:09:14+00:00",
+      "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning."
+    },
+    {
+      "title": "Quoting Seth Larson",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+      "published": "2026-07-23T04:50:36+00:00",
+      "summary": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible.\n&mdash; Seth Larson, PyPI blog\n\n    Tags: packaging, python, supply-chain, pypi, se"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published": "2026-07-23T00:00:00+00:00",
+      "summary": ""
+    },
     {
       "title": "Quoting Thomas Ptacek",
       "source": "Simon Willison's Weblog",
@@ -147,46 +179,6 @@
       "url": "https://www.latent.space/p/xaira",
       "published": "2026-07-21T19:34:06+00:00",
       "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why."
-    },
-    {
-      "title": "Why AI Needs a “Genie Coefficient”",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-agent-benchmark",
-      "published": "2026-07-21T17:41:11+00:00",
-      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.There’s often a gap between one person’s request and another’s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they’ll pour a cup from the pot or buy one from a coffee shop. They won"
-    },
-    {
-      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "published": "2026-07-21T17:33:14+00:00",
-      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "published": "2026-07-21T17:00:00+00:00",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
-    },
-    {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "published": "2026-07-21T16:58:25+00:00",
-      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4."
-    },
-    {
-      "title": "Pushing software engineering limits with “napkin math”",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
-      "published": "2026-07-21T16:52:07+00:00",
-      "summary": "Turbopuffer cofounder Simon Eskildsen on the benefits of longer tenure, using first principles to build durable software &#8211; and why founders should be cautious when raising VC money"
     }
   ]
 }
