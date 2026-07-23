@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-23T19:12:30.623105+00:00",
+  "generated_at": "2026-07-23T21:01:01.363527+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 23,
   "items": [
+    {
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "published": "2026-07-23T19:08:01+00:00",
+      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down."
+    },
     {
       "title": "Google just had its first negative cash flow quarter due to massive AI spending",
       "source": "AI - Ars Technica",
