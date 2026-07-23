@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-23T12:22:49.366838+00:00",
+  "generated_at": "2026-07-23T15:07:03.544947+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 21,
   "items": [
+    {
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "published": "2026-07-23T14:45:05+00:00",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models."
+    },
+    {
+      "title": "NASA Puts Google’s Gemma Large Language Model in Orbit",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
+      "published": "2026-07-23T13:00:01+00:00",
+      "summary": "The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma 3 to space, achieving the first in-orbit demonstration of a vision-language model analyzing imagery from a satellite’s own sensor.The system, known as NAVI-Orbital, used Gemma 3 to analyze images cap"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "published": "2026-07-23T12:00:00+00:00",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;"
+    },
     {
       "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
       "source": "Latent.Space",
