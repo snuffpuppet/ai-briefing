@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-24T20:59:55.912901+00:00",
+  "generated_at": "2026-07-24T22:12:47.385812+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "published": "2026-07-24T21:25:15+00:00",
+      "summary": "\"Here’s a more natural, flowing version of that section...\""
+    },
+    {
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "published": "2026-07-24T21:05:51+00:00",
+      "summary": "Models are improving quickly, but the cheaper options are often good enough."
+    },
     {
       "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
       "source": "AI - Ars Technica",
