@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-24T13:39:41.150410+00:00",
+  "generated_at": "2026-07-24T15:23:33.257989+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 12,
   "items": [
+    {
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "published": "2026-07-24T13:49:38+00:00",
+      "summary": "Rule would allow states to decide how much—if any—public input there can be."
+    },
     {
       "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
       "source": "Latent.Space",
