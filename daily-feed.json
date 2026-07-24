@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T23:58:04.342739+00:00",
+  "generated_at": "2026-07-24T03:15:21.284907+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 17,
   "items": [
     {
       "title": "The first known runaway AI agent - or a very bad marketing stunt?",
@@ -139,62 +139,6 @@
       "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "published": "2026-07-22T16:47:49+00:00",
       "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says."
-    },
-    {
-      "title": "Orchestrions",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
-      "published": "2026-07-22T14:48:52+00:00",
-      "summary": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique.\nAnd because most people are bad at allocating their funds you may well be the ONLY person activating the Orchestrions, which means you get to craft the soundscape for the entire museum.\n\n    Tags: san-francisco"
-    },
-    {
-      "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
-      "published": "2026-07-22T14:09:04+00:00",
-      "summary": "A podcast with Florian Brand."
-    },
-    {
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "published": "2026-07-22T13:38:54+00:00",
-      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-    },
-    {
-      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-      "published": "2026-07-22T13:35:17+00:00",
-      "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens."
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "published": "2026-07-22T12:00:00+00:00",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
     }
   ]
 }
