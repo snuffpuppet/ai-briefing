@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-24T03:15:21.284907+00:00",
+  "generated_at": "2026-07-24T06:23:06.270861+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "published": "2026-07-24T04:30:12+00:00",
+      "summary": "A HUGE win for BFL!"
+    },
     {
       "title": "The first known runaway AI agent - or a very bad marketing stunt?",
       "source": "Simon Willison's Weblog",
@@ -123,22 +131,6 @@
       "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
       "published": "2026-07-22T23:01:00+00:00",
       "summary": "Are AI labs pelicanmaxxing?\nExcellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark.\nI've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here.\nDylan took 8 animals × 6 vehi"
-    },
-    {
-      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-      "published": "2026-07-22T18:18:12+00:00",
-      "summary": "Union previously warned automaker that any robot deployment must be negotiated."
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "published": "2026-07-22T16:47:49+00:00",
-      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says."
     }
   ]
 }
