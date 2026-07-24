@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-24T17:27:41.328589+00:00",
+  "generated_at": "2026-07-24T19:21:25.355477+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "published": "2026-07-24T17:31:26+00:00",
+      "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
+    },
     {
       "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
       "source": "AI - Ars Technica",
