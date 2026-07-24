@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T15:23:33.257989+00:00",
+  "generated_at": "2026-07-24T17:27:41.328589+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 9,
   "items": [
     {
       "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
@@ -75,30 +75,6 @@
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "published": "2026-07-23T12:00:00+00:00",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;"
-    },
-    {
-      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "published": "2026-07-23T05:18:47+00:00",
-      "summary": "a quiet day lets us highlight a new neolab win."
-    },
-    {
-      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/poolside",
-      "published": "2026-07-23T05:09:14+00:00",
-      "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning."
-    },
-    {
-      "title": "Quoting Seth Larson",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-      "published": "2026-07-23T04:50:36+00:00",
-      "summary": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible.\n&mdash; Seth Larson, PyPI blog\n\n    Tags: packaging, python, supply-chain, pypi, se"
     }
   ]
 }
