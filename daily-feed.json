@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-25T07:13:08.172712+00:00",
+  "generated_at": "2026-07-25T11:07:20.975038+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 8,
   "items": [
+    {
+      "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "published": "2026-07-25T07:25:38+00:00",
+      "summary": "ain't nobody beats Anthropic at distilling Fable!"
+    },
     {
       "title": "Quoting Boris Cherny",
       "source": "Simon Willison's Weblog",
@@ -59,14 +67,6 @@
       "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
       "published": "2026-07-24T04:30:12+00:00",
       "summary": "A HUGE win for BFL!"
-    },
-    {
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
-      "published": "2026-07-23T22:53:08+00:00",
-      "summary": "The first known runaway AI agent - or a very bad marketing stunt?\nMartin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered.\nFirst, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code:\n\nHugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have investe"
     }
   ]
 }
