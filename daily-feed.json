@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-25T00:02:22.034574+00:00",
+  "generated_at": "2026-07-25T04:07:23.322134+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 9,
   "items": [
+    {
+      "title": "Quoting Boris Cherny",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "published": "2026-07-25T00:42:59+00:00",
+      "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully.\n&mdash; Boris Cherny, here's that System Card section, page 73\n\n    Tags: prompt-injection, anthropic, claude, generative-ai, ai, llms, boris-cherny"
+    },
     {
       "title": "Introducing Claude Opus 5",
       "source": "Simon Willison's Weblog",
@@ -67,38 +75,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
       "published": "2026-07-23T19:08:01+00:00",
       "summary": "Bill would let Homeland Security chief decide when an AI should be shut down."
-    },
-    {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "published": "2026-07-23T16:04:19+00:00",
-      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed."
-    },
-    {
-      "title": "The Pulse: Quitting Spotify Podcasts over reliability",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts",
-      "published": "2026-07-23T15:59:37+00:00",
-      "summary": "Also: Chinese open models match closed ones from Anthropic and OpenAI, AWS&#8217;s &#8220;heart-attack&#8221; billing error, and more"
-    },
-    {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "published": "2026-07-23T14:45:05+00:00",
-      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models."
-    },
-    {
-      "title": "NASA Puts Google’s Gemma Large Language Model in Orbit",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
-      "published": "2026-07-23T13:00:01+00:00",
-      "summary": "The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma 3 to space, achieving the first in-orbit demonstration of a vision-language model analyzing imagery from a satellite’s own sensor.The system, known as NAVI-Orbital, used Gemma 3 to analyze images cap"
     }
   ]
 }
