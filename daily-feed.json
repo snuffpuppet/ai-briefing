@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T04:07:23.322134+00:00",
+  "generated_at": "2026-07-25T07:13:08.172712+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 8,
   "items": [
     {
       "title": "Quoting Boris Cherny",
@@ -67,14 +67,6 @@
       "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
       "published": "2026-07-23T22:53:08+00:00",
       "summary": "The first known runaway AI agent - or a very bad marketing stunt?\nMartin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered.\nFirst, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code:\n\nHugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have investe"
-    },
-    {
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "published": "2026-07-23T19:08:01+00:00",
-      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down."
     }
   ]
 }
