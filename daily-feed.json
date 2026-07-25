@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T16:09:50.539137+00:00",
+  "generated_at": "2026-07-25T17:56:32.867659+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 7,
   "items": [
     {
       "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
@@ -59,14 +59,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
       "published": "2026-07-24T13:49:38+00:00",
       "summary": "Rule would allow states to decide how much—if any—public input there can be."
-    },
-    {
-      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "published": "2026-07-24T04:30:12+00:00",
-      "summary": "A HUGE win for BFL!"
     }
   ]
 }
