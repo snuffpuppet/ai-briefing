@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-24T22:12:47.385812+00:00",
+  "generated_at": "2026-07-25T00:02:22.034574+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 12,
   "items": [
+    {
+      "title": "Introducing Claude Opus 5",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "published": "2026-07-24T23:48:50+00:00",
+      "summary": "Introducing Claude Opus 5\nI've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard, in front of even Fable 5.\nIt's priced the same as Opus 4.8, and con"
+    },
     {
       "title": "Canadian legislator reads out apparent LLM response in floor speech",
       "source": "AI - Ars Technica",
@@ -91,14 +99,6 @@
       "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
       "published": "2026-07-23T13:00:01+00:00",
       "summary": "The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma 3 to space, achieving the first in-orbit demonstration of a vision-language model analyzing imagery from a satellite’s own sensor.The system, known as NAVI-Orbital, used Gemma 3 to analyze images cap"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "published": "2026-07-23T12:00:00+00:00",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;"
     }
   ]
 }
