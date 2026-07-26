@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-26T11:17:25.846501+00:00",
+  "generated_at": "2026-07-26T13:15:38.092035+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-in-robotics",
+      "published": "2026-07-26T13:00:01+00:00",
+      "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code.When you hold your phone camera up to a QR code, light strikes the image sensor as only a first step to revealing the data hidden behind the black and white matrix. The receiver here is doing something d"
+    },
     {
       "title": "Ruff v0.16.0",
       "source": "Simon Willison's Weblog",
@@ -19,22 +27,6 @@
       "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
       "published": "2026-07-25T07:25:38+00:00",
       "summary": "ain't nobody beats Anthropic at distilling Fable!"
-    },
-    {
-      "title": "Quoting Boris Cherny",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
-      "published": "2026-07-25T00:42:59+00:00",
-      "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully.\n&mdash; Boris Cherny, here's that System Card section, page 73\n\n    Tags: prompt-injection, anthropic, claude, generative-ai, ai, llms, boris-cherny"
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
-      "published": "2026-07-24T23:48:50+00:00",
-      "summary": "Introducing Claude Opus 5\nI've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard, in front of even Fable 5.\nIt's priced the same as Opus 4.8, and con"
     }
   ]
 }
