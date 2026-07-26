@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T23:58:27.222455+00:00",
+  "generated_at": "2026-07-26T03:33:40.833593+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 7,
   "items": [
     {
       "title": "Ruff v0.16.0",
@@ -59,14 +59,6 @@
       "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
       "published": "2026-07-24T17:31:26+00:00",
       "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
-    },
-    {
-      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-      "published": "2026-07-24T13:49:38+00:00",
-      "summary": "Rule would allow states to decide how much—if any—public input there can be."
     }
   ]
 }
