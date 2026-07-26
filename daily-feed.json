@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26T03:33:40.833593+00:00",
+  "generated_at": "2026-07-26T06:33:53.682369+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "Ruff v0.16.0",
@@ -51,14 +51,6 @@
       "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
       "published": "2026-07-24T21:05:51+00:00",
       "summary": "Models are improving quickly, but the cheaper options are often good enough."
-    },
-    {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "published": "2026-07-24T17:31:26+00:00",
-      "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
     }
   ]
 }
