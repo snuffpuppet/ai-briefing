@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26T06:33:53.682369+00:00",
+  "generated_at": "2026-07-26T09:17:20.051193+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 4,
   "items": [
     {
       "title": "Ruff v0.16.0",
@@ -35,22 +35,6 @@
       "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
       "published": "2026-07-24T23:48:50+00:00",
       "summary": "Introducing Claude Opus 5\nI've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard, in front of even Fable 5.\nIt's priced the same as Opus 4.8, and con"
-    },
-    {
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "published": "2026-07-24T21:25:15+00:00",
-      "summary": "\"Here’s a more natural, flowing version of that section...\""
-    },
-    {
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "published": "2026-07-24T21:05:51+00:00",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough."
     }
   ]
 }
