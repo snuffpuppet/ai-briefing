@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T00:07:25.942500+00:00",
+  "generated_at": "2026-07-27T04:35:03.269691+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
@@ -19,6 +19,14 @@
       "url": "https://spectrum.ieee.org/ai-in-robotics",
       "published": "2026-07-26T13:00:01+00:00",
       "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code.When you hold your phone camera up to a QR code, light strikes the image sensor as only a first step to revealing the data hidden behind the black and white matrix. The receiver here is doing something d"
+    },
+    {
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "source": "The Berkeley Artificial Intelligence Research Blog",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "published": "2026-07-26T02:00:00-07:00",
+      "summary": "-->\n\n\n\n\n\n\n\n\n\n\n\n -->\nOverview of ABBEL compared to traditional recursive summarization. Beliefs replace the full interaction history as the agent’s working context, and belief grading improves performance by\nsupervising the contents of each belief state..\n\n\nAs task horizons grow, LLM contexts can’t scale forever. Self-summarization enables concise, interpretable contexts, but at a significant performance cost, especially for human assistance domains where high quality data is scarce, e.g."
     },
     {
       "title": "Ruff v0.16.0",
