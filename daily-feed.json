@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-27T15:40:44.194401+00:00",
+  "generated_at": "2026-07-27T17:40:20.259215+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 11,
   "items": [
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "published": "2026-07-27T16:58:46+00:00",
+      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications."
+    },
     {
       "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
       "source": "Import AI",
@@ -74,7 +82,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-in-robotics",
       "published": "2026-07-26T13:00:01+00:00",
-      "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code.When you hold your phone camera up to a QR code, light strikes the image sensor as only a first step to revealing the data hidden behind the black and white matrix. The receiver here is doing something d"
+      "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code.When you hold your phone camera up to a QR code, light strikes the image sensor as only a first step to revealing the data hidden behind the black-and-white matrix. The receiver here is doing something d"
     },
     {
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
