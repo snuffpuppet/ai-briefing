@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-07-27T08:28:30.052902+00:00",
+  "generated_at": "2026-07-27T12:20:01.952733+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 8,
   "items": [
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "published": "2026-07-27T11:40:16+00:00",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "published": "2026-07-27T11:32:58+00:00",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;"
+    },
+    {
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "published": "2026-07-27T10:50:37+00:00",
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says."
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "published": "2026-07-27T09:32:20+00:00",
+      "summary": ""
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "published": "2026-07-27T03:30:00+00:00",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+    },
     {
       "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
       "source": "Simon Willison's Weblog",
@@ -27,14 +67,6 @@
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "published": "2026-07-26T02:00:00-07:00",
       "summary": "-->\n\n\n\n\n\n\n\n\n\n\n\n -->\nOverview of ABBEL compared to traditional recursive summarization. Beliefs replace the full interaction history as the agent’s working context, and belief grading improves performance by\nsupervising the contents of each belief state..\n\n\nAs task horizons grow, LLM contexts can’t scale forever. Self-summarization enables concise, interpretable contexts, but at a significant performance cost, especially for human assistance domains where high quality data is scarce, e.g."
-    },
-    {
-      "title": "Ruff v0.16.0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-      "published": "2026-07-25T22:44:05+00:00",
-      "summary": "Ruff v0.16.0\nAstral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency.\nFrom Brent Westbrook's announcement post:\n\nRuff now enables 413 rules by default, up from 59 in previous versions.\nSince Ruff's default rule set was last modified in v0.1.0, the number of rules in Ruff has grown from 708 to 968. Many of these rule"
     }
   ]
 }
