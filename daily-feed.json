@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-27T19:30:21.424610+00:00",
+  "generated_at": "2026-07-27T21:07:36.653531+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 14,
   "items": [
+    {
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "published": "2026-07-27T20:12:42+00:00",
+      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says."
+    },
+    {
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "published": "2026-07-27T18:48:41+00:00",
+      "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers."
+    },
     {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -19,6 +35,14 @@
       "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
       "published": "2026-07-27T17:54:07+00:00",
       "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agile emitters deploy unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against traditional threat databases, leaving legacy electronic protect, attack, and suppor"
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "published": "2026-07-27T16:58:46+00:00",
+      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications."
     },
     {
       "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
@@ -53,6 +77,14 @@
       "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;"
     },
     {
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "published": "2026-07-27T10:50:37+00:00",
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says."
+    },
+    {
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -83,14 +115,6 @@
       "url": "https://spectrum.ieee.org/ai-in-robotics",
       "published": "2026-07-26T13:00:01+00:00",
       "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code.When you hold your phone camera up to a QR code, light strikes the image sensor as only a first step to revealing the data hidden behind the black-and-white matrix. The receiver here is doing something d"
-    },
-    {
-      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "source": "The Berkeley Artificial Intelligence Research Blog",
-      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
-      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "published": "2026-07-26T02:00:00-07:00",
-      "summary": "-->\n\n\n\n\n\n\n\n\n\n\n\n -->\nOverview of ABBEL compared to traditional recursive summarization. Beliefs replace the full interaction history as the agent’s working context, and belief grading improves performance by\nsupervising the contents of each belief state..\n\n\nAs task horizons grow, LLM contexts can’t scale forever. Self-summarization enables concise, interpretable contexts, but at a significant performance cost, especially for human assistance domains where high quality data is scarce, e.g."
     }
   ]
 }
