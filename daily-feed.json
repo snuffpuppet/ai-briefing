@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-28T22:02:17.851520+00:00",
+  "generated_at": "2026-07-28T23:56:20.464096+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "published": "2026-07-28T22:45:37+00:00",
+      "summary": "Discovering cryptographic weaknesses with Claude\nThe best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these results has a practical impact on today’s computer systems\") is the prompts that they shared, spelling mistakes included:\n\nthe models tend to think it is impossible to solve so they don't try they need a good amount of prompting.\nwhy not do aes-128 r7? the whole po"
+    },
+    {
+      "title": "Quoting Akshat Bubna",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+      "published": "2026-07-28T22:05:55+00:00",
+      "summary": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised in anyway.\n&mdash; Akshat Bubna, Modal's CTO, talking to Reuters about this incident\n\n    Tags: ai-security-research, openai, sandboxing, security, openai-hugging-face-incident"
+    },
     {
       "title": "uv 0.12.0",
       "source": "Simon Willison's Weblog",
@@ -187,30 +203,6 @@
       "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
       "published": "2026-07-27T12:00:00+00:00",
       "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;"
-    },
-    {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "published": "2026-07-27T11:40:16+00:00",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "published": "2026-07-27T11:32:58+00:00",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;"
-    },
-    {
-      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-      "published": "2026-07-27T10:50:37+00:00",
-      "summary": "Meme generator may have screwed up by using templates in outputs, expert says."
     }
   ]
 }
