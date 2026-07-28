@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-28T03:58:38.541644+00:00",
+  "generated_at": "2026-07-28T06:33:06.620381+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] Much ado about Open Weights",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+      "published": "2026-07-28T06:20:13+00:00",
+      "summary": "Everyone is writing a lot, but only Kimi K3 shipped today"
+    },
     {
       "title": "moonshotai/Kimi-K3",
       "source": "Simon Willison's Weblog",
