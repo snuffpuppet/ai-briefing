@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-28T16:38:30.695216+00:00",
+  "generated_at": "2026-07-28T18:12:21.006820+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published": "2026-07-28T17:00:00+00:00",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
     {
       "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
       "source": "Hugging Face - Blog",
@@ -19,6 +27,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
       "published": "2026-07-28T15:49:30+00:00",
       "summary": "A deepdive on what&#8217;s changed in how the leading AI lab makes software. Ever more code review and testing is done by AI, two-pizza teams very much alive, and more. Details from inside of Anthropic"
+    },
+    {
+      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/chatgpt-work",
+      "published": "2026-07-28T15:26:30+00:00",
+      "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice."
     },
     {
       "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
@@ -51,6 +67,14 @@
       "url": "https://martinfowler.com/rachels-ramblings/intro.html",
       "published": "2026-07-28T08:32:00-04:00",
       "summary": "TL;DRI have ideas. I haven’t been writing them. That’s about to change. I promise… myself.\n\nI’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:\n\nI have my own.\n\nNot just opinions. Actual patterns. Hypotheses. Things I’m seeing across cli"
+    },
+    {
+      "title": "[AINews] Much ado about Open Weights",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+      "published": "2026-07-28T06:20:13+00:00",
+      "summary": "Everyone is writing a lot, but only Kimi K3 shipped today"
     },
     {
       "title": "moonshotai/Kimi-K3",
