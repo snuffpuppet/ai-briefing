@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-27T22:58:56.136526+00:00",
+  "generated_at": "2026-07-28T00:06:47.372421+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "moonshotai/Kimi-K3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "published": "2026-07-27T23:39:04+00:00",
+      "summary": "moonshotai/Kimi-K3\nAs promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face.\nKimi introduced their own janky modified version of the MIT license with K2 back in July 2025. That license just added this paragraph requiring attribution beyond a certain size of commercial entity:\n\nOur only modification part is that, if the Software (or any derivative works thereof) is used for any of your commercial"
+    },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "source": "AI - Ars Technica",
