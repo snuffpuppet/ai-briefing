@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T11:55:51.540442+00:00",
+  "generated_at": "2026-07-28T14:04:15.439006+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
@@ -11,6 +11,22 @@
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "published": "2026-07-28T09:18:57+00:00",
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;"
+    },
+    {
+      "title": "The Orchestrator's Tax",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/orchestrator-tax.html",
+      "published": "2026-07-28T09:10:00-04:00",
+      "summary": "Subagents get justified by time saved and parallel execution, but\n      Rahul Garg explains that's not what matters most. Every\n      token in the orchestrator's context is competing for its attention, and\n      the real value of a subagent is what it keeps out of that context.\n      Subagents should be treated as a tool for protecting the orchestrator's\n      working memory, offloading reasoning it doesn't need to hold onto. Doing\n      this well means giving the orchestrator explicit ground ru"
+    },
+    {
+      "title": "Why I’m Writing Rachel’s Ramblings",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/rachels-ramblings/intro.html",
+      "published": "2026-07-28T08:32:00-04:00",
+      "summary": "TL;DRI have ideas. I haven’t been writing them. That’s about to change. I promise… myself.\n\nI’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:\n\nI have my own.\n\nNot just opinions. Actual patterns. Hypotheses. Things I’m seeing across cli"
     },
     {
       "title": "[AINews] Much ado about Open Weights",
