@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-29T14:04:33.074101+00:00",
+  "generated_at": "2026-07-29T16:19:34.426899+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "published": "2026-07-29T16:02:10+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "published": "2026-07-29T15:52:48+00:00",
+      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
+    },
     {
       "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
       "source": "IEEE Spectrum",
@@ -21,7 +37,7 @@
       "summary": "AI is fantastic at spotting patterns, but human insight is the key."
     },
     {
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
@@ -29,7 +45,7 @@
       "summary": "Deciding what's real on the Internet won't be easy in the future."
     },
     {
-      "title": "AI Hyper-Scaling Digital Inequality",
+      "title": "AI Is Hyper-Scaling Digital Inequality",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-digital-divide",
