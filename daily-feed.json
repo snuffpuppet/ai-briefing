@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-29T16:19:34.426899+00:00",
+  "generated_at": "2026-07-29T18:04:45.372477+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "published": "2026-07-29T17:58:24+00:00",
+      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
+    },
+    {
+      "title": "Formal methods with Hillel Wayne",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne",
+      "published": "2026-07-29T16:22:31+00:00",
+      "summary": "Hillel Wayne explains why formal methods like TLA+ matter, how they help build reliable software, and whether AI will finally bring formal verification into the mainstream."
+    },
     {
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "source": "Google DeepMind News",
@@ -50,7 +66,15 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-digital-divide",
       "published": "2026-07-29T11:00:04+00:00",
-      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute.Yet over the past decade, working on digital inclusion and digital literacy p"
+      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute.Yet over the past decade, working on digital inclusion and digital literacy"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "published": "2026-07-29T10:00:00+00:00",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
     },
     {
       "title": "The AI Hype Index: Unsexy AI",
