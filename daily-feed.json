@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T02:38:31.562571+00:00",
+  "generated_at": "2026-07-29T05:49:57.269235+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 23,
   "items": [
     {
       "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
@@ -187,14 +187,6 @@
       "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
       "published": "2026-07-27T17:54:07+00:00",
       "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agile emitters deploy unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against traditional threat databases, leaving legacy electronic protect, attack, and suppor"
-    },
-    {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "published": "2026-07-27T16:58:46+00:00",
-      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications."
     }
   ]
 }
