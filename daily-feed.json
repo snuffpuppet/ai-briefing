@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-29T08:35:58.210165+00:00",
+  "generated_at": "2026-07-29T11:23:48.991423+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "published": "2026-07-29T11:00:39+00:00",
+      "summary": "Deciding what's real on the Internet won't be easy in the future."
+    },
+    {
+      "title": "AI Hyper-Scaling Digital Inequality",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-digital-divide",
+      "published": "2026-07-29T11:00:04+00:00",
+      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute.Yet over the past decade, working on digital inclusion and digital literacy p"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "published": "2026-07-29T08:42:57+00:00",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;"
+    },
     {
       "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
       "source": "Latent.Space",
@@ -139,22 +163,6 @@
       "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
       "published": "2026-07-27T23:39:04+00:00",
       "summary": "moonshotai/Kimi-K3\nAs promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face.\nKimi introduced their own janky modified version of the MIT license with K2 back in July 2025. That license just added this paragraph requiring attribution beyond a certain size of commercial entity:\n\nOur only modification part is that, if the Software (or any derivative works thereof) is used for any of your commercial"
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "published": "2026-07-27T21:56:14+00:00",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
-    },
-    {
-      "title": "An opinionated guide to which AI to use to do stuff",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
-      "published": "2026-07-27T21:55:53+00:00",
-      "summary": "An opinionated guide to which AI to use to do stuff\nIt's interesting watching the evolution of Ethan Mollick's guide over time. \nA year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode.\nToday it's much more about agentic systems - \"where the AI is capable of doing the equivalent of many hours of real human work in one go\".\nGemini has fallen off Ethan's list, since Google still doesn"
     }
   ]
 }
