@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-29T20:10:51.847086+00:00",
+  "generated_at": "2026-07-29T21:58:43.640461+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 30,
   "items": [
+    {
+      "title": "Quoting D. Richard Hipp",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+      "published": "2026-07-29T21:15:21+00:00",
+      "summary": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer.\nThen SQL comes along—I’m simplifying this only a little bit—and it gives you this convenient way so people could just specify. With a very simple specification, you can generate all of that code that you had to pay the expensive COBOL programmer to do before.\nThat didn’t mean programmers went away. It just meant the job changed a little bit."
+    },
     {
       "title": "Who wins and who loses after US bans foreign robots?",
       "source": "AI - Ars Technica",
@@ -219,14 +227,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "published": "2026-07-28T15:01:45+00:00",
       "summary": ""
-    },
-    {
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "published": "2026-07-28T09:18:57+00:00",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;"
     },
     {
       "title": "The Orchestrator's Tax",
