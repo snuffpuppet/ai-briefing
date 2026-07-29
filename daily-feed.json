@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-29T11:23:48.991423+00:00",
+  "generated_at": "2026-07-29T14:04:33.074101+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
+      "published": "2026-07-29T14:00:02+00:00",
+      "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and access to industry networks, resources that remain unevenly distributed across higher education. At North Carolina Central University, Siobahn Day Grady is trying to change that equation.In January 20"
+    },
+    {
+      "title": "What happens when you put AI to work deciphering lost languages?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+      "published": "2026-07-29T13:23:31+00:00",
+      "summary": "AI is fantastic at spotting patterns, but human insight is the key."
+    },
     {
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
       "source": "AI - Ars Technica",
@@ -155,14 +171,6 @@
       "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
       "published": "2026-07-28T06:20:13+00:00",
       "summary": "Everyone is writing a lot, but only Kimi K3 shipped today"
-    },
-    {
-      "title": "moonshotai/Kimi-K3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-      "published": "2026-07-27T23:39:04+00:00",
-      "summary": "moonshotai/Kimi-K3\nAs promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face.\nKimi introduced their own janky modified version of the MIT license with K2 back in July 2025. That license just added this paragraph requiring attribution beyond a certain size of commercial entity:\n\nOur only modification part is that, if the Software (or any derivative works thereof) is used for any of your commercial"
     }
   ]
 }
