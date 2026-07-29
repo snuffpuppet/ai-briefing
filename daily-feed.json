@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-29T21:58:43.640461+00:00",
+  "generated_at": "2026-07-29T23:03:06.119591+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "published": "2026-07-29T22:07:06+00:00",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
+    },
     {
       "title": "Quoting D. Richard Hipp",
       "source": "Simon Willison's Weblog",
@@ -67,6 +75,14 @@
       "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
       "published": "2026-07-29T15:52:48+00:00",
       "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published": "2026-07-29T15:00:00+00:00",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
     },
     {
       "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
