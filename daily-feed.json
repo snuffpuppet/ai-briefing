@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T21:06:19.580506+00:00",
+  "generated_at": "2026-07-30T23:03:45.356237+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 26,
   "items": [
     {
       "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
@@ -211,30 +211,6 @@
       "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
       "published": "2026-07-29T13:23:31+00:00",
       "summary": "AI is fantastic at spotting patterns, but human insight is the key."
-    },
-    {
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "published": "2026-07-29T11:00:39+00:00",
-      "summary": "Deciding what's real on the Internet won't be easy in the future."
-    },
-    {
-      "title": "AI Is Hyper-Scaling Digital Inequality",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-digital-divide",
-      "published": "2026-07-29T11:00:04+00:00",
-      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute.Yet over the past decade, working on digital inclusion and digital literacy"
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published": "2026-07-29T10:00:00+00:00",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
     }
   ]
 }
