@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-30T13:53:23.326120+00:00",
+  "generated_at": "2026-07-30T15:50:26.849753+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 25,
   "items": [
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "published": "2026-07-30T15:09:09+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published": "2026-07-30T15:00:59+00:00",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+    },
+    {
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "published": "2026-07-30T14:53:07+00:00",
+      "summary": "Plus, a new deprecation policy ensures features aren't removed suddenly."
+    },
     {
       "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
       "source": "Latent.Space",
