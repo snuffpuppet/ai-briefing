@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-30T17:23:43.052301+00:00",
+  "generated_at": "2026-07-30T19:21:33.969350+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 28,
   "items": [
+    {
+      "title": "Quoting Bruce Schneier",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "published": "2026-07-30T18:25:26+00:00",
+      "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and revising arguments, will help develop the critical thinking skills they will need in their future careers. And without this constant mental exercise, those skills will atrophy. Employers are already noticing."
+    },
+    {
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "published": "2026-07-30T17:58:02+00:00",
+      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now."
+    },
     {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "source": "Hugging Face - Blog",
