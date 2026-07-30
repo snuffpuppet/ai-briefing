@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-30T11:05:23.542115+00:00",
+  "generated_at": "2026-07-30T13:53:23.326120+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
   "items": [
+    {
+      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ontologies-agentic-systems",
+      "published": "2026-07-30T11:17:55+00:00",
+      "summary": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries."
+    },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -11,6 +19,22 @@
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "published": "2026-07-30T10:15:19+00:00",
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;"
+    },
+    {
+      "title": "The Economic Benefit of Refactoring",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "published": "2026-07-30T09:04:00-04:00",
+      "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a\n      large function helps reduce token costs, suggesting that is may now be\n      possible to measure the economic benefit of refactoring\n\nmore…"
+    },
+    {
+      "title": "AI-first banking: From strategic intent to enterprise execution",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/ai-first-banking-from-strategic-intent-to-enterprise-execution",
+      "published": "2026-07-30T00:00:00+00:00",
+      "summary": "AI-first banking: From strategic intent to enterprise execution"
     },
     {
       "title": "[AINews] AI is eating Finance; AIE NYC now open",
@@ -155,30 +179,6 @@
       "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
       "published": "2026-07-29T02:00:00-07:00",
       "summary": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction.\n\nWe face a new epoch in computing. Hardware is changing rapidly — not just faster GPUs, but a growing range of chips from different vendors, each with its own architecture and often tailored to specific AI workloads. Software is changing just as fast, and AI coding tools now generate in minutes w"
-    },
-    {
-      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "published": "2026-07-29T00:46:52+00:00",
-      "summary": "The Big Pause is coming."
-    },
-    {
-      "title": "Adding a custom MCP server to Claude and ChatGPT",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
-      "published": "2026-07-29T00:13:18+00:00",
-      "summary": "TIL: Adding a custom MCP server to Claude and ChatGPT\n        Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps.\n    \n    \n        Tags: ai, generative-ai, chatgpt, llms, claude, model-context-protocol"
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "published": "2026-07-29T00:00:00+00:00",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
     }
   ]
 }
