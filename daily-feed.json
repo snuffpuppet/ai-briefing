@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-30T08:21:44.947604+00:00",
+  "generated_at": "2026-07-30T11:05:23.542115+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 22,
   "items": [
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "published": "2026-07-30T10:15:19+00:00",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;"
+    },
     {
       "title": "[AINews] AI is eating Finance; AIE NYC now open",
       "source": "Latent.Space",
@@ -171,46 +179,6 @@
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "published": "2026-07-29T00:00:00+00:00",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
-    },
-    {
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-      "published": "2026-07-28T22:45:37+00:00",
-      "summary": "Discovering cryptographic weaknesses with Claude\nThe best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these results has a practical impact on today’s computer systems\") is the prompts that they shared, spelling mistakes included:\n\nthe models tend to think it is impossible to solve so they don't try they need a good amount of prompting.\nwhy not do aes-128 r7? the whole po"
-    },
-    {
-      "title": "Quoting Akshat Bubna",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
-      "published": "2026-07-28T22:05:55+00:00",
-      "summary": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised in anyway.\n&mdash; Akshat Bubna, Modal's CTO, talking to Reuters about this incident\n\n    Tags: ai-security-research, openai, sandboxing, security, openai-hugging-face-incident"
-    },
-    {
-      "title": "uv 0.12.0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
-      "published": "2026-07-28T21:51:38+00:00",
-      "summary": "uv 0.12.0\nSome interesting breaking changes in this release of uv, in particular to the default project produced by the uv init command.\nuv init is the uv shortcut for creating a new project. The previous version of uv, version 0.11.x, produced this directory when you ran uv init uv-init.\nHere's what you get with uv 0.12. I have a GitHub repository that automatically snapshots the output of uv init, so you can also see the full diff:\n\nuv init now defaults to a src/ shaped package, instead of dro"
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "published": "2026-07-28T21:36:39+00:00",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
-      "published": "2026-07-28T21:28:54+00:00",
-      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident\nHugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure. This attack was very sophisticated, and the resulting document doubles as a crash-course in modern adversarial security approaches.\nWe're still waiting for more details from OpenAI on how their agent broke out of its sandbox. The package proxy that it found a zero-"
     }
   ]
 }
