@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-29T23:03:06.119591+00:00",
+  "generated_at": "2026-07-30T02:07:59.573724+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 32,
   "items": [
+    {
+      "title": "[AINews] AI is eating Finance; AIE NYC now open",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "published": "2026-07-29T23:32:12+00:00",
+      "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding."
+    },
     {
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "source": "AI - Ars Technica",
@@ -133,6 +141,14 @@
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;"
     },
     {
+      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "source": "The Berkeley Artificial Intelligence Research Blog",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "published": "2026-07-29T02:00:00-07:00",
+      "summary": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction.\n\nWe face a new epoch in computing. Hardware is changing rapidly — not just faster GPUs, but a growing range of chips from different vendors, each with its own architecture and often tailored to specific AI workloads. Software is changing just as fast, and AI coding tools now generate in minutes w"
+    },
+    {
       "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -243,22 +259,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "published": "2026-07-28T15:01:45+00:00",
       "summary": ""
-    },
-    {
-      "title": "The Orchestrator's Tax",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/orchestrator-tax.html",
-      "published": "2026-07-28T09:10:00-04:00",
-      "summary": "Subagents get justified by time saved and parallel execution, but\n      Rahul Garg explains that's not what matters most. Every\n      token in the orchestrator's context is competing for its attention, and\n      the real value of a subagent is what it keeps out of that context.\n      Subagents should be treated as a tool for protecting the orchestrator's\n      working memory, offloading reasoning it doesn't need to hold onto. Doing\n      this well means giving the orchestrator explicit ground ru"
-    },
-    {
-      "title": "Why I’m Writing Rachel’s Ramblings",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/rachels-ramblings/intro.html",
-      "published": "2026-07-28T08:32:00-04:00",
-      "summary": "TL;DRI have ideas. I haven’t been writing them. That’s about to change. I promise… myself.\n\nI’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:\n\nI have my own.\n\nNot just opinions. Actual patterns. Hypotheses. Things I’m seeing across cli"
     }
   ]
 }
