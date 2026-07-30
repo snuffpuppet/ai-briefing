@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T05:37:55.030141+00:00",
+  "generated_at": "2026-07-30T08:21:44.947604+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 26,
   "items": [
     {
       "title": "[AINews] AI is eating Finance; AIE NYC now open",
@@ -211,14 +211,6 @@
       "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
       "published": "2026-07-28T21:28:54+00:00",
       "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident\nHugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure. This attack was very sophisticated, and the resulting document doubles as a crash-course in modern adversarial security approaches.\nWe're still waiting for more details from OpenAI on how their agent broke out of its sandbox. The package proxy that it found a zero-"
-    },
-    {
-      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-      "published": "2026-07-28T20:20:20+00:00",
-      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected."
     }
   ]
 }
