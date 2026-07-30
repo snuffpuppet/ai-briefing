@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T15:50:26.849753+00:00",
+  "generated_at": "2026-07-30T17:23:43.052301+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
@@ -26,7 +26,7 @@
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
       "published": "2026-07-30T14:53:07+00:00",
-      "summary": "Plus, a new deprecation policy ensures features aren't removed suddenly."
+      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly."
     },
     {
       "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
@@ -43,6 +43,14 @@
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "published": "2026-07-30T10:15:19+00:00",
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "published": "2026-07-30T10:00:00+00:00",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
     },
     {
       "title": "The Economic Benefit of Refactoring",
