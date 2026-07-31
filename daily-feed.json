@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T09:41:53.141810+00:00",
+  "generated_at": "2026-07-31T11:57:17.105155+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 21,
   "items": [
     {
       "title": "Advancing responsible AI across Europe",
@@ -171,30 +171,6 @@
       "url": "https://openai.com/index/avatarin",
       "published": "2026-07-30T00:00:00+00:00",
       "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
-    },
-    {
-      "title": "AI-first banking: From strategic intent to enterprise execution",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/ai-first-banking-from-strategic-intent-to-enterprise-execution",
-      "published": "2026-07-30T00:00:00+00:00",
-      "summary": "AI-first banking: From strategic intent to enterprise execution"
-    },
-    {
-      "title": "[AINews] AI is eating Finance; AIE NYC now open",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
-      "published": "2026-07-29T23:32:12+00:00",
-      "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding."
-    },
-    {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "published": "2026-07-29T22:07:06+00:00",
-      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
     }
   ]
 }
