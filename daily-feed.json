@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T16:43:10.901874+00:00",
+  "generated_at": "2026-07-31T18:18:12.967597+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "Disrupting a Criminal Scam Operation",
@@ -11,6 +11,14 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "published": "2026-08-04T00:00:00+00:00",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "published": "2026-07-31T18:11:55+00:00",
+      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
     },
     {
       "title": "Modeling Device Capabilities for Analytics",
