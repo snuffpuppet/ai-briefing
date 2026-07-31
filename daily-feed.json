@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-31T22:02:28.318960+00:00",
+  "generated_at": "2026-07-31T23:59:39.113003+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "published": "2026-07-31T23:13:22+00:00",
+      "summary": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the protocol.\nFor background: MCP is the Model Context Protocol, which describes a standard way to expose new tools to LLM-powered agent frameworks. It was introduced by Anthropic back in November 2024, had a"
+    },
     {
       "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
       "source": "Simon Willison's Weblog",
@@ -243,22 +251,6 @@
       "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
       "published": "2026-07-30T13:35:32+00:00",
       "summary": "Much of modern AI runs on multiplication. Neural networks behind everything from generated answers to photo organization and song recommendations perform millions or billions of operations that multiply inputs by learned weights. Lizy K. John thinks that’s more work than the job requires.John, a professor of electrical and computer engineering at the University of Texas at Austin, has spent the past five years working on a class of models called weightless neural networks. Instead of repeatedly"
-    },
-    {
-      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ontologies-agentic-systems",
-      "published": "2026-07-30T11:17:55+00:00",
-      "summary": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries."
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "published": "2026-07-30T10:15:19+00:00",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;"
     },
     {
       "title": "The Economic Benefit of Refactoring",
