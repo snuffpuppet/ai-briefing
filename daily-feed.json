@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T18:18:12.967597+00:00",
+  "generated_at": "2026-07-31T20:17:51.336387+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 29,
   "items": [
     {
       "title": "Disrupting a Criminal Scam Operation",
@@ -11,6 +11,14 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "published": "2026-08-04T00:00:00+00:00",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "published": "2026-07-31T19:04:56+00:00",
+      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick."
     },
     {
       "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
@@ -83,6 +91,14 @@
       "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
       "published": "2026-07-31T04:40:54+00:00",
       "summary": "Distillation is all you need!"
+    },
+    {
+      "title": "Why airlines must merge loyalty and distribution right now",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/why-airlines-must-merge-loyalty-and-distribution",
+      "published": "2026-07-31T00:00:00+00:00",
+      "summary": "Why airlines must merge loyalty and distribution right now"
     },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
