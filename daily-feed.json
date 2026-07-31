@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-07-31T02:35:44.229186+00:00",
+  "generated_at": "2026-07-31T06:10:20.808365+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 26,
   "items": [
+    {
+      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "published": "2026-07-31T04:40:54+00:00",
+      "summary": "Distillation is all you need!"
+    },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
       "source": "Simon Willison's Weblog",
@@ -203,46 +211,6 @@
       "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
       "published": "2026-07-29T18:18:15+00:00",
       "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many standards like HAWK being considered. If there was ever a perfect time for a massive new public cryptanalysis capability to come on line, we’re in it. So unless AIs succeed in undermining all of our hard problems altogether (or we live in Impagliazzo’s Minicrypt) then"
-    },
-    {
-      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "published": "2026-07-29T17:58:24+00:00",
-      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
-    },
-    {
-      "title": "Formal methods with Hillel Wayne",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne",
-      "published": "2026-07-29T16:22:31+00:00",
-      "summary": "Hillel Wayne explains why formal methods like TLA+ matter, how they help build reliable software, and whether AI will finally bring formal verification into the mainstream."
-    },
-    {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "published": "2026-07-29T16:02:10+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "published": "2026-07-29T15:52:48+00:00",
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published": "2026-07-29T15:00:00+00:00",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
     }
   ]
 }
