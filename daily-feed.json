@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-31T06:10:20.808365+00:00",
+  "generated_at": "2026-07-31T09:41:53.141810+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Advancing responsible AI across Europe",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "published": "2026-07-31T15:00:00+00:00",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/unive",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+    },
     {
       "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
       "source": "Latent.Space",
@@ -179,38 +195,6 @@
       "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
       "published": "2026-07-29T22:07:06+00:00",
       "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
-    },
-    {
-      "title": "Quoting D. Richard Hipp",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-      "published": "2026-07-29T21:15:21+00:00",
-      "summary": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer.\nThen SQL comes along—I’m simplifying this only a little bit—and it gives you this convenient way so people could just specify. With a very simple specification, you can generate all of that code that you had to pay the expensive COBOL programmer to do before.\nThat didn’t mean programmers went away. It just meant the job changed a little bit."
-    },
-    {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "published": "2026-07-29T20:03:42+00:00",
-      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics."
-    },
-    {
-      "title": "AI Worming through Word",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-      "published": "2026-07-29T18:43:03+00:00",
-      "summary": "AI Worming through Word\nNeat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms:\n\nAn attacker places hidden instructions in a document that is later used as source material in Copilot for Word. Copilot may interpret those instructions as part of the user’s request, causing it to manipulate the document being drafted or edited. Copilot may then also copy the hidden instructions into the resulting d"
-    },
-    {
-      "title": "Quoting Matthew Green",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
-      "published": "2026-07-29T18:18:15+00:00",
-      "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many standards like HAWK being considered. If there was ever a perfect time for a massive new public cryptanalysis capability to come on line, we’re in it. So unless AIs succeed in undermining all of our hard problems altogether (or we live in Impagliazzo’s Minicrypt) then"
     }
   ]
 }
