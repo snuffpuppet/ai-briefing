@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-30T23:03:45.356237+00:00",
+  "generated_at": "2026-07-31T02:35:44.229186+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 30,
   "items": [
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "published": "2026-07-30T23:58:42+00:00",
+      "summary": "Advancing the price-performance frontier with GPT‑5.6\nHuge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop.\nOpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself:\n\nWe also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-toke"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "published": "2026-07-30T23:41:29+00:00",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations\nIt happened again! This is turning into something of a pattern.\nLast week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing.\nThis inspired Anthropic to double-check their own logs, and it turned out they had three similar (albeit less impressive) incidents, the earl"
+    },
+    {
+      "title": "llm 0.32rc2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "published": "2026-07-30T22:52:06+00:00",
+      "summary": "Release: llm 0.32rc2\n        Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features:\n\n\nThe default model for users who have not set their own default is now GPT-5.6 Luna. It was previously GPT-4o mini. Luna is a much better and more recent model, albeit slightly more expensive - $0.20 per million input tokens and $1.20 per million output tokens, compared to $0.15/$0.60 for 4o mini. You can switch back to 4o mini using llm models default gpt-4o-mini, or switch"
+    },
     {
       "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
       "source": "Netflix TechBlog - Medium",
@@ -35,6 +59,22 @@
       "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
       "published": "2026-07-30T17:58:02+00:00",
       "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now."
+    },
+    {
+      "title": "llm-chat-completions-server 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+      "published": "2026-07-30T15:43:16+00:00",
+      "summary": "Release: llm-chat-completions-server 0.1a0\n        A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this:\ncurl http://localhost:8002/v1/chat/completions \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n    \"model\": \"qwen3.5-4b\",\n    \"messages\": [\n      {\"role\": \"user\", \"content\": \"Capital of France?\"},\n      {\"role\": \"assistant\", \"content\": \"Paris.\"},"
+    },
+    {
+      "title": "llm 0.32rc1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+      "published": "2026-07-30T15:30:20+00:00",
+      "summary": "Release: llm 0.32rc1\n        This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses returned by the latest model families.\nThe most important change is the use of content-addressable hash IDs for stored messages. This allows de-duplication in the database, and means that LLM can now represent trees of messages for forked conversations.\nSince it involves a significant schema"
     },
     {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
@@ -99,6 +139,14 @@
       "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
       "published": "2026-07-30T09:04:00-04:00",
       "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a\n      large function helps reduce token costs, suggesting that is may now be\n      possible to measure the economic benefit of refactoring\n\nmore…"
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/avatarin",
+      "published": "2026-07-30T00:00:00+00:00",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
     },
     {
       "title": "AI-first banking: From strategic intent to enterprise execution",
@@ -195,22 +243,6 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "published": "2026-07-29T15:00:00+00:00",
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
-    },
-    {
-      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-      "published": "2026-07-29T14:00:02+00:00",
-      "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and access to industry networks, resources that remain unevenly distributed across higher education. At North Carolina Central University, Siobahn Day Grady is trying to change that equation.In January 20"
-    },
-    {
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "published": "2026-07-29T13:23:31+00:00",
-      "summary": "AI is fantastic at spotting patterns, but human insight is the key."
     }
   ]
 }
