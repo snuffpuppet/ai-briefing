@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-31T14:13:16.057343+00:00",
+  "generated_at": "2026-07-31T16:43:10.901874+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published": "2026-08-04T00:00:00+00:00",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "title": "Modeling Device Capabilities for Analytics",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+      "published": "2026-07-31T16:01:02+00:00",
+      "summary": "by Aarti Laddha, Richard Diaz-Cool, Rishika Idnani, Venkatesh SelverajNetflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud gaming, across a diverse ecosystem of devices. However, not all devices are created equal. Hardware limitations such as available RAM, CPU cores, display capabilities, or platform support mean that some features cannot be supported on certain device models. To ensure the best possibl"
+    },
     {
       "title": "Advancing responsible AI across Europe",
       "source": "OpenAI News",
@@ -11,6 +27,14 @@
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "published": "2026-07-31T15:00:00+00:00",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
+      "title": "Building abundant intelligence",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "published": "2026-07-31T15:00:00+00:00",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
     },
     {
       "title": "AI scammers outperform humans when it comes to building trust",
