@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T09:04:01.030906+00:00",
+  "generated_at": "2026-08-01T11:14:33.813028+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -203,14 +203,6 @@
       "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
       "published": "2026-07-30T23:41:29+00:00",
       "summary": "Investigating three real-world incidents in our cybersecurity evaluations\nIt happened again! This is turning into something of a pattern.\nLast week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing.\nThis inspired Anthropic to double-check their own logs, and it turned out they had three similar (albeit less impressive) incidents, the earl"
-    },
-    {
-      "title": "llm 0.32rc2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
-      "published": "2026-07-30T22:52:06+00:00",
-      "summary": "Release: llm 0.32rc2\n        Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features:\n\n\nThe default model for users who have not set their own default is now GPT-5.6 Luna. It was previously GPT-4o mini. Luna is a much better and more recent model, albeit slightly more expensive - $0.20 per million input tokens and $1.20 per million output tokens, compared to $0.15/$0.60 for 4o mini. You can switch back to 4o mini using llm models default gpt-4o-mini, or switch"
     }
   ]
 }
