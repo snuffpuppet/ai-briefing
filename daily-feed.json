@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-01T20:48:45.640922+00:00",
+  "generated_at": "2026-08-01T21:52:33.282734+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 24,
   "items": [
+    {
+      "title": "datasette-apps 0.2a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "published": "2026-08-01T21:23:56+00:00",
+      "summary": "Release: datasette-apps 0.2a0\n        \nChanges that improve Datasette Apps when created and edited using Datasette Agent:\n\nNew app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33\nNew app_list() tool for listing apps the user has permission to edit, so the agent can edit them. #36\n\n\nThe app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing"
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "source": "Simon Willison's Weblog",
@@ -162,7 +170,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
       "published": "2026-07-31T14:14:23+00:00",
-      "summary": "Release: datasette-agent 0.4a0\n        \n\nNew await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33\n\n\nThis is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript in the user's browser.\n    \n    \n        Tags: datasette, llm-tool-use, datasette-agent"
+      "summary": "Release: datasette-agent 0.4a0\n        \n\nNew await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33\n\n\nThis is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript in the user's browser.\nI used this to add a debug loop to Datasette Apps in datasette-apps 0.2a0.\n    \n    \n        Tags: datasette, llm-tool-use, datasette-agent"
     },
     {
       "title": "AI scammers outperform humans when it comes to building trust",
