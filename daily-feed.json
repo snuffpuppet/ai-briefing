@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-01T11:14:33.813028+00:00",
+  "generated_at": "2026-08-01T13:14:32.424311+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 23,
   "items": [
+    {
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "published": "2026-08-01T12:30:36+00:00",
+      "summary": "Reddit may still be considering ending its licensing deal with Google."
+    },
+    {
+      "title": "Fridays With Bob",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/risk",
+      "published": "2026-08-01T12:00:01+00:00",
+      "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challenges of enterprise software development. I suggested we invite IEEE Life Senior Member Robert N. Charette, a self-described risk ecologist, prolific book author, and leading authority on risk managemen"
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -171,38 +187,6 @@
       "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
       "published": "2026-07-31T04:40:54+00:00",
       "summary": "Distillation is all you need!"
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "2026-07-31T00:00:00+00:00",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-    },
-    {
-      "title": "Why airlines must merge loyalty and distribution right now",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/why-airlines-must-merge-loyalty-and-distribution",
-      "published": "2026-07-31T00:00:00+00:00",
-      "summary": "Why airlines must merge loyalty and distribution right now"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "published": "2026-07-30T23:58:42+00:00",
-      "summary": "Advancing the price-performance frontier with GPT‑5.6\nHuge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop.\nOpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself:\n\nWe also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-toke"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
-      "published": "2026-07-30T23:41:29+00:00",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations\nIt happened again! This is turning into something of a pattern.\nLast week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing.\nThis inspired Anthropic to double-check their own logs, and it turned out they had three similar (albeit less impressive) incidents, the earl"
     }
   ]
 }
