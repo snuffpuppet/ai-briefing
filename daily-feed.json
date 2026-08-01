@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-31T23:59:39.113003+00:00",
+  "generated_at": "2026-08-01T03:41:03.736890+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 30,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "published": "2026-08-01T01:38:09+00:00",
+      "summary": "apart from DeepSeek V4-Flash 0731, a quiet day."
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "published": "2026-07-31T23:59:44+00:00",
+      "summary": "deepseek-ai/DeepSeek-V4-Flash-0731\nThe latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight.\nArtificial Analysis rank it ahead of MiniMax M3 - a 428B model. It's $0.14/million input and $0.27/million output pricing means this may currently be the best value-per-intelligence model out there. It's looking very good on the Intelligence Index vs. Cost per Intelli"
+    },
     {
       "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
       "source": "Simon Willison's Weblog",
@@ -11,6 +27,14 @@
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
       "published": "2026-07-31T23:13:22+00:00",
       "summary": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the protocol.\nFor background: MCP is the Model Context Protocol, which describes a standard way to expose new tools to LLM-powered agent frameworks. It was introduced by Anthropic back in November 2024, had a"
+    },
+    {
+      "title": "llm-mcp-client 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "published": "2026-07-31T23:03:47+00:00",
+      "summary": "Release: llm-mcp-client 0.1a0\n        See this blog entry.\n    \n    \n        Tags: llm, model-context-protocol"
     },
     {
       "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
@@ -34,7 +58,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
       "published": "2026-07-31T21:15:23+00:00",
-      "summary": "smevals - a small eval suite for evaluating models, prompts, and harnesses\nI've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of different models.\nThe result is smevals, a new tool for running small eval suites across different model configurations and grading the results.\nThis blog entry describes the tool in detail. Here's the 10 second version:\n\nTell your coding agent to run uvx smevals"
+      "summary": "smevals - a small eval suite for evaluating models, prompts, and harnesses\nI've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of different models.\nThe result is smevals, a new tool for running small eval suites across different model configurations and grading the results.\nThe blog entry describes the tool in detail. Here's the 10 second version:\n\nTell your coding agent to run uvx smevals"
     },
     {
       "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -91,6 +115,14 @@
       "url": "https://openai.com/index/building-abundant-intelligence",
       "published": "2026-07-31T15:00:00+00:00",
       "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+    },
+    {
+      "title": "datasette-agent 0.4a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+      "published": "2026-07-31T14:14:23+00:00",
+      "summary": "Release: datasette-agent 0.4a0\n        \n\nNew await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33\n\n\nThis is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript in the user's browser.\n    \n    \n        Tags: datasette, llm-tool-use, datasette-agent"
     },
     {
       "title": "AI scammers outperform humans when it comes to building trust",
@@ -211,54 +243,6 @@
       "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
       "published": "2026-07-30T15:43:16+00:00",
       "summary": "Release: llm-chat-completions-server 0.1a0\n        A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this:\ncurl http://localhost:8002/v1/chat/completions \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n    \"model\": \"qwen3.5-4b\",\n    \"messages\": [\n      {\"role\": \"user\", \"content\": \"Capital of France?\"},\n      {\"role\": \"assistant\", \"content\": \"Paris.\"},"
-    },
-    {
-      "title": "llm 0.32rc1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
-      "published": "2026-07-30T15:30:20+00:00",
-      "summary": "Release: llm 0.32rc1\n        This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses returned by the latest model families.\nThe most important change is the use of content-addressable hash IDs for stored messages. This allows de-duplication in the database, and means that LLM can now represent trees of messages for forked conversations.\nSince it involves a significant schema"
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "published": "2026-07-30T15:09:09+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "published": "2026-07-30T15:00:59+00:00",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
-    },
-    {
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "published": "2026-07-30T14:53:07+00:00",
-      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly."
-    },
-    {
-      "title": "Are AI Models Working Harder Than They Need to?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
-      "published": "2026-07-30T13:35:32+00:00",
-      "summary": "Much of modern AI runs on multiplication. Neural networks behind everything from generated answers to photo organization and song recommendations perform millions or billions of operations that multiply inputs by learned weights. Lizy K. John thinks that’s more work than the job requires.John, a professor of electrical and computer engineering at the University of Texas at Austin, has spent the past five years working on a class of models called weightless neural networks. Instead of repeatedly"
-    },
-    {
-      "title": "The Economic Benefit of Refactoring",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "published": "2026-07-30T09:04:00-04:00",
-      "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a\n      large function helps reduce token costs, suggesting that is may now be\n      possible to measure the economic benefit of refactoring\n\nmore…"
     }
   ]
 }
