@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T16:04:04.511768+00:00",
+  "generated_at": "2026-08-01T17:58:03.533586+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
     {
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
@@ -179,14 +179,6 @@
       "url": "https://openai.com/index/unive",
       "published": "2026-07-31T07:00:00+00:00",
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
-    },
-    {
-      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
-      "published": "2026-07-31T04:40:54+00:00",
-      "summary": "Distillation is all you need!"
     }
   ]
 }
