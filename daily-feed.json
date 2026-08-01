@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T22:52:27.372345+00:00",
+  "generated_at": "2026-08-01T23:54:59.156189+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
     {
       "title": "Quoting Greg Brockman",
@@ -187,14 +187,6 @@
       "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
       "published": "2026-07-31T14:01:40+00:00",
       "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans."
-    },
-    {
-      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "published": "2026-07-31T11:00:52+00:00",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file."
     },
     {
       "title": "The Conductor Developer",
