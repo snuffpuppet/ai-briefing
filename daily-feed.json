@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T03:41:03.736890+00:00",
+  "generated_at": "2026-08-01T06:26:33.938924+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 27,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -219,30 +219,6 @@
       "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
       "published": "2026-07-30T19:26:56+00:00",
       "summary": "The last two versions of Chrome have included more patches than the previous 23 combined."
-    },
-    {
-      "title": "Quoting Bruce Schneier",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-      "published": "2026-07-30T18:25:26+00:00",
-      "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and revising arguments, will help develop the critical thinking skills they will need in their future careers. And without this constant mental exercise, those skills will atrophy. Employers are already noticing."
-    },
-    {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "published": "2026-07-30T17:58:02+00:00",
-      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now."
-    },
-    {
-      "title": "llm-chat-completions-server 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
-      "published": "2026-07-30T15:43:16+00:00",
-      "summary": "Release: llm-chat-completions-server 0.1a0\n        A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this:\ncurl http://localhost:8002/v1/chat/completions \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n    \"model\": \"qwen3.5-4b\",\n    \"messages\": [\n      {\"role\": \"user\", \"content\": \"Capital of France?\"},\n      {\"role\": \"assistant\", \"content\": \"Paris.\"},"
     }
   ]
 }
