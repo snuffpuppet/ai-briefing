@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T05:54:47.792975+00:00",
+  "generated_at": "2026-08-02T08:20:19.036450+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
     {
       "title": "Open letters about AI development",
@@ -139,30 +139,6 @@
       "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
       "published": "2026-07-31T20:21:05+00:00",
       "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool."
-    },
-    {
-      "title": "Slack Emoji Maker",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
-      "published": "2026-07-31T20:18:05+00:00",
-      "summary": "Tool: Slack Emoji Maker\n        I wanted to create a new Slack emoji, and their tool recommends a square that's 128x128 and has a transparent background... so I had Fable build me this simple image editor against those requirements.\n    \n    \n        Tags: tools, slack"
-    },
-    {
-      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-      "published": "2026-07-31T19:04:56+00:00",
-      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick."
-    },
-    {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-      "published": "2026-07-31T18:11:55+00:00",
-      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
     }
   ]
 }
