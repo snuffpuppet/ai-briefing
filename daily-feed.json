@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:58:20.743242+00:00",
+  "generated_at": "2026-08-02T17:06:21.972661+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 8,
@@ -18,7 +18,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
       "published": "2026-08-02T04:16:52+00:00",
-      "summary": "Open letters about AI development\nI wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well.\nOpen Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux Foundation and (a later signer) OpenAI.\nIt's clearly an argument designed to counter any instincts by the current US government to ban or limit"
+      "summary": "Open letters about AI development\nI wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well.\nOpen Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI.\nIt's clearly an argument designed to counter any instincts by the curre"
     },
     {
       "title": "July 2026 newsletter",
