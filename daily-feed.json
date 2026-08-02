@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-02T12:00:34.732646+00:00",
+  "generated_at": "2026-08-02T14:26:35.992737+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 8,
   "items": [
+    {
+      "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+      "published": "2026-08-02T13:01:40+00:00",
+      "summary": "Capacity to train strong models is proliferating."
+    },
     {
       "title": "Open letters about AI development",
       "source": "Simon Willison's Weblog",
@@ -59,14 +67,6 @@
       "url": "https://spectrum.ieee.org/risk",
       "published": "2026-08-01T12:00:01+00:00",
       "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challenges of enterprise software development. I suggested we invite IEEE Life Senior Member Robert N. Charette, a self-described risk ecologist, prolific book author, and leading authority on risk managemen"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
-      "published": "2026-08-01T01:38:09+00:00",
-      "summary": "apart from DeepSeek V4-Flash 0731, a quiet day."
     }
   ]
 }
