@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T10:38:52.490629+00:00",
+  "generated_at": "2026-08-02T12:00:34.732646+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 8,
   "items": [
     {
       "title": "Open letters about AI development",
@@ -67,38 +67,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
       "published": "2026-08-01T01:38:09+00:00",
       "summary": "apart from DeepSeek V4-Flash 0731, a quiet day."
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "published": "2026-08-01T00:00:00+00:00",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
-    },
-    {
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-      "published": "2026-07-31T23:59:44+00:00",
-      "summary": "deepseek-ai/DeepSeek-V4-Flash-0731\nThe latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight.\nArtificial Analysis rank it ahead of MiniMax M3 - a 428B model. It's $0.14/million input and $0.27/million output pricing means this may currently be the best value-per-intelligence model out there. It's looking very good on the Intelligence Index vs. Cost per Intelli"
-    },
-    {
-      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-      "published": "2026-07-31T23:13:22+00:00",
-      "summary": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the protocol.\nFor background: MCP is the Model Context Protocol, which describes a standard way to expose new tools to LLM-powered agent frameworks. It was introduced by Anthropic back in November 2024, had a"
-    },
-    {
-      "title": "llm-mcp-client 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
-      "published": "2026-07-31T23:03:47+00:00",
-      "summary": "Release: llm-mcp-client 0.1a0\n        See this blog entry.\n    \n    \n        Tags: llm, model-context-protocol"
     }
   ]
 }
