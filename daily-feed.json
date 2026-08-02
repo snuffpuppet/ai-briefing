@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-02T02:33:03.306348+00:00",
+  "generated_at": "2026-08-02T05:54:47.792975+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Open letters about AI development",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "published": "2026-08-02T04:16:52+00:00",
+      "summary": "Open letters about AI development\nI wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well.\nOpen Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux Foundation and (a later signer) OpenAI.\nIt's clearly an argument designed to counter any instincts by the current US government to ban or limit"
+    },
+    {
+      "title": "July 2026 newsletter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+      "published": "2026-08-02T04:12:41+00:00",
+      "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here.\nThis month:\n\nAccidental cyberattacks by OpenAl and Anthropic models under test\nGPT-5.6 Sol, Terra, and Luna\nClaude Opus 5\nKimi K3 and DeepSeek-V4-Flash-0731\nOpen letters about Al development\nA fireside chat and a podcast\nReigniting my interest in MCP\nOther model releases\nMy projects\nWhat I'm using at the moment\n\nHere's a copy of the June newsletter as a"
+    },
     {
       "title": "Quoting Greg Brockman",
       "source": "Simon Willison's Weblog",
@@ -147,30 +163,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
       "published": "2026-07-31T18:11:55+00:00",
       "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
-    },
-    {
-      "title": "Modeling Device Capabilities for Analytics",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "published": "2026-07-31T16:01:02+00:00",
-      "summary": "by Aarti Laddha, Richard Diaz-Cool, Rishika Idnani, Venkatesh SelverajNetflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud gaming, across a diverse ecosystem of devices. However, not all devices are created equal. Hardware limitations such as available RAM, CPU cores, display capabilities, or platform support mean that some features cannot be supported on certain device models. To ensure the best possibl"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published": "2026-07-31T15:00:00+00:00",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
-    },
-    {
-      "title": "Building abundant intelligence",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "published": "2026-07-31T15:00:00+00:00",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
     }
   ]
 }
