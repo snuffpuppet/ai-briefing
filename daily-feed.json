@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T23:54:59.156189+00:00",
+  "generated_at": "2026-08-02T02:33:03.306348+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 21,
   "items": [
     {
       "title": "Quoting Greg Brockman",
@@ -171,30 +171,6 @@
       "url": "https://openai.com/index/building-abundant-intelligence",
       "published": "2026-07-31T15:00:00+00:00",
       "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
-    },
-    {
-      "title": "datasette-agent 0.4a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
-      "published": "2026-07-31T14:14:23+00:00",
-      "summary": "Release: datasette-agent 0.4a0\n        \n\nNew await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33\n\n\nThis is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript in the user's browser.\nI used this to add a debug loop to Datasette Apps in datasette-apps 0.2a0.\n    \n    \n        Tags: datasette, llm-tool-use, datasette-agent"
-    },
-    {
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "published": "2026-07-31T14:01:40+00:00",
-      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans."
-    },
-    {
-      "title": "The Conductor Developer",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-      "published": "2026-07-31T09:48:00-04:00",
-      "summary": "TL;DRWhy I think software development is starting to feel a little more like conducting an orchestra.\n\nThere’s a shift happening in software development that I don’t think we’re talking about clearly enough.\n\nFor the last couple of years we’ve framed AI as a productivity tool. How much faster can it write code? How many more features can we ship? How much cheaper can we build software? I think that’s the wrong question, but I understand why.\n\nThe first thing AI became good at was writing code, s"
     }
   ]
 }
