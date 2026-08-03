@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-03T13:38:46.290032+00:00",
+  "generated_at": "2026-08-03T16:22:18.122104+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "Quoting David Crawshaw",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "published": "2026-08-03T16:15:27+00:00",
+      "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version.\n&mdash; David Crawshaw, Devtools must be open source\n\n    Tags: prompt-engineering, coding-agents, generative-ai, ai, llms, open-source"
+    },
+    {
+      "title": "Introducing our Artifacts Hub and Adoption Dashboard",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+      "published": "2026-08-03T14:03:08+00:00",
+      "summary": "Scaling our curation and measurement of the open ecosystem."
+    },
+    {
+      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+      "published": "2026-08-03T13:31:22+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…Open weight LLMs + a well-designed harness = a persistent, self-sufficient virus…AI researchers have built a prototype computer virus which [&#8230;]"
+    },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -27,22 +51,6 @@
       "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
       "published": "2026-08-02T13:01:40+00:00",
       "summary": "Capacity to train strong models is proliferating."
-    },
-    {
-      "title": "Open letters about AI development",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-      "published": "2026-08-02T04:16:52+00:00",
-      "summary": "Open letters about AI development\nI wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well.\nOpen Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI.\nIt's clearly an argument designed to counter any instincts by the curre"
-    },
-    {
-      "title": "July 2026 newsletter",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-      "published": "2026-08-02T04:12:41+00:00",
-      "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here.\nThis month:\n\nAccidental cyberattacks by OpenAl and Anthropic models under test\nGPT-5.6 Sol, Terra, and Luna\nClaude Opus 5\nKimi K3 and DeepSeek-V4-Flash-0731\nOpen letters about Al development\nA fireside chat and a podcast\nReigniting my interest in MCP\nOther model releases\nMy projects\nWhat I'm using at the moment\n\nHere's a copy of the June newsletter as a"
     }
   ]
 }
