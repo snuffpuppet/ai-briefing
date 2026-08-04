@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-03T22:06:38.168378+00:00",
+  "generated_at": "2026-08-04T00:06:46.413408+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Don't be a meat proxy",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+      "published": "2026-08-03T23:45:04+00:00",
+      "summary": "Don&#x27;t be a meat proxy\nNiklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers.\n\nBy all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words (a decent certificate that you've done the prior steps). Making that effort is value you can add.\n\n\n    Via Lobste.rs\n\n\n    Tags: definitions, ai, generative-ai, llms, ai-misuse"
+    },
+    {
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "published": "2026-08-03T22:11:39+00:00",
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
+    },
     {
       "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
       "source": "Latent.Space",
