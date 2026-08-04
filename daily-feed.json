@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-04T17:45:57.391274+00:00",
+  "generated_at": "2026-08-04T19:27:49.294957+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+      "published": "2026-08-04T19:10:09+00:00",
+      "summary": "PipeNetwork/minimax-h3-mlx\nMiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use them to generate up to 15 second video clips with audio included.\nThis Python package ports it to MLX for running on Apple Silicon.\nI got it running on my M5 Max MacBook Pro. I cloned the repo and ran the model like this:\n# First download the models\nuvx --from huggingface_hub hf"
+    },
+    {
+      "title": "Unpacking ChatGPT Work: the Agent for a Billion Users",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+      "published": "2026-08-04T18:20:14+00:00",
+      "summary": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work."
+    },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
       "source": "IEEE Spectrum",
@@ -147,14 +163,6 @@
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "published": "2026-08-03T08:30:05+00:00",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;"
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "published": "2026-08-03T07:00:00+00:00",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
     }
   ]
 }
