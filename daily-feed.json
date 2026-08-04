@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T07:36:32.853531+00:00",
+  "generated_at": "2026-08-04T10:35:37.597223+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
@@ -131,14 +131,6 @@
       "url": "https://openai.com/index/circles",
       "published": "2026-08-03T00:00:00+00:00",
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-    },
-    {
-      "title": "condense-json 1.0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
-      "published": "2026-08-02T22:19:59+00:00",
-      "summary": "Release: condense-json 1.0\n        I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it.\nHere's an example of what it can do, lifted from the README:\n{\n  \"foo\": {\n    \"bar\": {\n      \"string\": \"This is a string with foxes in it\",\n      \"nested\": {\n        \"more\": [\"Here is a string\", \"another with foxes in it too\"]\n      }\n    }\n  }\n}\nCombine that with a replacement"
     }
   ]
 }
