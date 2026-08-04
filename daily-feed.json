@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-04T00:06:46.413408+00:00",
+  "generated_at": "2026-08-04T04:10:57.325893+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+      "published": "2026-08-04T03:49:14+00:00",
+      "summary": "Qwen is so back!"
+    },
+    {
+      "title": "Quoting Steve Yegge",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+      "published": "2026-08-04T00:42:45+00:00",
+      "summary": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas Town itself. The Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but 4.7 was the final straw.\n&mdash"
+    },
     {
       "title": "Don't be a meat proxy",
       "source": "Simon Willison's Weblog",
@@ -101,20 +117,20 @@
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
     },
     {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/circles",
+      "published": "2026-08-03T00:00:00+00:00",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+    },
+    {
       "title": "condense-json 1.0",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
       "published": "2026-08-02T22:19:59+00:00",
       "summary": "Release: condense-json 1.0\n        I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it.\nHere's an example of what it can do, lifted from the README:\n{\n  \"foo\": {\n    \"bar\": {\n      \"string\": \"This is a string with foxes in it\",\n      \"nested\": {\n        \"more\": [\"Here is a string\", \"another with foxes in it too\"]\n      }\n    }\n  }\n}\nCombine that with a replacement"
-    },
-    {
-      "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
-      "published": "2026-08-02T13:01:40+00:00",
-      "summary": "Capacity to train strong models is proliferating."
     }
   ]
 }
