@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T04:10:57.325893+00:00",
+  "generated_at": "2026-08-04T07:36:32.853531+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
@@ -35,6 +35,14 @@
       "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
       "published": "2026-08-03T22:11:39+00:00",
       "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published": "2026-08-03T22:00:00+00:00",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
     },
     {
       "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
