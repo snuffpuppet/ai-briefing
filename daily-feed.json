@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-05T20:24:35.722552+00:00",
+  "generated_at": "2026-08-05T22:10:38.892398+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "published": "2026-08-05T20:47:11+00:00",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
+    },
     {
       "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
       "source": "AI - Ars Technica",
