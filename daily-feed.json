@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T02:13:16.964530+00:00",
+  "generated_at": "2026-08-05T05:43:43.819618+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 21,
   "items": [
     {
       "title": "[AINews] Megakernels are so dead and so back",
@@ -171,22 +171,6 @@
       "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
       "published": "2026-08-03T18:00:17+00:00",
       "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...]\nRead More...\nThe post GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model appea"
-    },
-    {
-      "title": "Quoting David Crawshaw's prompt",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-      "published": "2026-08-03T16:15:27+00:00",
-      "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version.\n&mdash; David Crawshaw&#x27;s prompt, Devtools must be open source\n\n    Tags: prompt-engineering, coding-agents, generative-ai, ai, llms, open-source"
-    },
-    {
-      "title": "Devtools must be open source (exe.dev)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-      "published": "2026-08-03T15:30:38+00:00",
-      "summary": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News.One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works.\nThe reality for most people - even expert programmers - has been that the freedom is more about being able to lean on other people to do that. Most people can't justify the time commitment needed to read and then modify the code for tools they use very often.\nI think LLMs have changed that e"
     }
   ]
 }
