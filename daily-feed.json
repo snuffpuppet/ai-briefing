@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T08:31:27.100529+00:00",
+  "generated_at": "2026-08-05T11:18:08.125991+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 15,
   "items": [
     {
       "title": "[AINews] Megakernels are so dead and so back",
@@ -123,30 +123,6 @@
       "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
       "published": "2026-08-03T23:45:04+00:00",
       "summary": "Don&#x27;t be a meat proxy\nNiklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers.\n\nBy all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words (a decent certificate that you've done the prior steps). Making that effort is value you can add.\n\n\n    Via Lobste.rs\n\n\n    Tags: definitions, ai, generative-ai, llms, ai-misuse"
-    },
-    {
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "published": "2026-08-03T22:11:39+00:00",
-      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published": "2026-08-03T22:00:00+00:00",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-    },
-    {
-      "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/inference-eng",
-      "published": "2026-08-03T21:44:03+00:00",
-      "summary": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering."
     }
   ]
 }
