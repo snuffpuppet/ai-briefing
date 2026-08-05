@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-05T16:39:43.542119+00:00",
+  "generated_at": "2026-08-05T18:18:59.036243+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+      "published": "2026-08-05T18:00:03+00:00",
+      "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Department of Energy.Built decades ago for a more predictable world in which power came mostly from centralized coal or gas plants and electricity use grew at a steady pace, the grid faces unanticipated strain due"
+    },
     {
       "title": "Google plans to kill Assistant on your phone on September 4",
       "source": "AI - Ars Technica",
