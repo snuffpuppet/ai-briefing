@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-04T23:00:41.899854+00:00",
+  "generated_at": "2026-08-05T02:13:16.964530+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "[AINews] Megakernels are so dead and so back",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+      "published": "2026-08-05T01:21:47+00:00",
+      "summary": "A quiet day lets us highlight a Cursor launch and an engineering debate"
+    },
+    {
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "published": "2026-08-04T23:58:24+00:00",
+      "summary": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable SQLite logs, new models, and new features enabled by the OpenAI Responses API. I also released a new version of the llm-anthropic plugin with substantial updates of its own.\nHeadline features for LLM CLI users\nRunning LLM against reasoning models now displays the"
+    },
+    {
+      "title": "llm-anthropic 0.26",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "published": "2026-08-04T22:00:58+00:00",
+      "summary": "Release: llm-anthropic 0.26\n        Includes new features enabled by LLM 0.32:\n\n\nNew models: claude-fable-5, claude-sonnet-5, and claude-opus-5. #75, #76\nAdded server-side tools for WebSearch, WebFetch, CodeExecution, and AnthropicMCP, available through LLM's -T interface or Python tools=. The previous -o web_search* options have been removed in favor of -T WebSearch. #79\nUpgraded to llm&gt;=0.32. Reasoning, tool calls, tool results, and server-side tool results now stream as typed events. Reaso"
+    },
     {
       "title": "Texas halts data center connections to power grid amid overwhelming demand",
       "source": "AI - Ars Technica",
@@ -35,6 +59,14 @@
       "url": "https://www.latent.space/p/unpacking-chatgpt-work",
       "published": "2026-08-04T18:20:14+00:00",
       "summary": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work."
+    },
+    {
+      "title": "llm 0.32",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "published": "2026-08-04T17:15:33+00:00",
+      "summary": "Release: llm 0.32\n        See my detailed blog post about this release.\n    \n    \n        Tags: llm"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -155,22 +187,6 @@
       "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
       "published": "2026-08-03T15:30:38+00:00",
       "summary": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News.One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works.\nThe reality for most people - even expert programmers - has been that the freedom is more about being able to lean on other people to do that. Most people can't justify the time commitment needed to read and then modify the code for tools they use very often.\nI think LLMs have changed that e"
-    },
-    {
-      "title": "Introducing our Artifacts Hub and Adoption Dashboard",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-      "published": "2026-08-03T14:03:08+00:00",
-      "summary": "Scaling our curation and measurement of the open ecosystem."
-    },
-    {
-      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
-      "published": "2026-08-03T13:31:22+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…Open weight LLMs + a well-designed harness = a persistent, self-sufficient virus…AI researchers have built a prototype computer virus which [&#8230;]"
     }
   ]
 }
