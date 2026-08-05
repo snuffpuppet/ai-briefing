@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T05:43:43.819618+00:00",
+  "generated_at": "2026-08-05T08:31:27.100529+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 18,
   "items": [
     {
       "title": "[AINews] Megakernels are so dead and so back",
@@ -147,30 +147,6 @@
       "url": "https://www.latent.space/p/inference-eng",
       "published": "2026-08-03T21:44:03+00:00",
       "summary": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering."
-    },
-    {
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-      "published": "2026-08-03T19:00:50+00:00",
-      "summary": "Top scores increased by 5x."
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "published": "2026-08-03T18:43:30+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;"
-    },
-    {
-      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-      "published": "2026-08-03T18:00:17+00:00",
-      "summary": "Meta&#8217;s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on how we achieved: doubling end-to-end (E2E) training efficiency to 20–25% Model FLOPs Utilization (MFU) while scaling training FLOPs 4x in [...]\nRead More...\nThe post GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model appea"
     }
   ]
 }
