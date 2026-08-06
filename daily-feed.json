@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-06T02:57:02.448281+00:00",
+  "generated_at": "2026-08-06T05:50:28.884199+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "published": "2026-08-06T04:34:11+00:00",
+      "summary": "The end of an era."
+    },
     {
       "title": "An AI model from Meta also hacked another company during testing",
       "source": "Simon Willison's Weblog",
@@ -163,14 +171,6 @@
       "url": "https://www.latent.space/p/unpacking-chatgpt-work",
       "published": "2026-08-04T18:20:14+00:00",
       "summary": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work."
-    },
-    {
-      "title": "llm 0.32",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-      "published": "2026-08-04T17:15:33+00:00",
-      "summary": "Release: llm 0.32\n        See my detailed blog post about this release.\n    \n    \n        Tags: llm"
     }
   ]
 }
