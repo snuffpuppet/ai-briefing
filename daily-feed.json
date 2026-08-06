@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-05T23:58:07.138261+00:00",
+  "generated_at": "2026-08-06T02:57:02.448281+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "An AI model from Meta also hacked another company during testing",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "published": "2026-08-06T00:25:27+00:00",
+      "summary": "An AI model from Meta also hacked another company during testing\nStop me if you've heard this one before:\n\nAn AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.\nMeta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic.\n“A misconfiguration by Irregular, an independent testing company"
+    },
+    {
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "published": "2026-08-05T23:58:35+00:00",
+      "summary": "Introducing Muse Code and Muse Spark 1.2\nYet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work!\n\nMuse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expand"
+    },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
       "source": "Simon Willison's Weblog",
@@ -155,30 +171,6 @@
       "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
       "published": "2026-08-04T17:15:33+00:00",
       "summary": "Release: llm 0.32\n        See my detailed blog post about this release.\n    \n    \n        Tags: llm"
-    },
-    {
-      "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
-      "published": "2026-08-04T14:51:55+00:00",
-      "summary": "This report examines R&amp;D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.What Attendees will LearnWhere R&amp;D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&amp;D budget on projects that never reach market.Why projects fail late. Almost half of teams estimate over one million dollars in wasted investment for each project killed during development or testing.Why AI adoption has not closed the gap. Most"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "published": "2026-08-04T13:58:29+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Fragments: August  4",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-08-04.html",
-      "published": "2026-08-04T08:08:00-04:00",
-      "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incidents where models had gained unauthorized access to data in other organizations. Simon Wilison concluded:\n\n\n  It’s abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. Every AI lab needs to pay attention to this. Keeping a c"
     }
   ]
 }
