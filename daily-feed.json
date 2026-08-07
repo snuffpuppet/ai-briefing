@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-07T03:48:25.100288+00:00",
+  "generated_at": "2026-08-07T05:38:21.012991+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "[AINews] AMD buys Taalas",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "published": "2026-08-07T05:13:46+00:00",
+      "summary": "The Inference Inflection is HEATING up."
+    },
     {
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
       "source": "AI - Ars Technica",
