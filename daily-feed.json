@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T11:42:53.852410+00:00",
+  "generated_at": "2026-08-07T12:57:00.827757+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 15,
   "items": [
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -123,46 +123,6 @@
       "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
       "published": "2026-08-06T04:34:11+00:00",
       "summary": "The end of an era."
-    },
-    {
-      "title": "An AI model from Meta also hacked another company during testing",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-      "published": "2026-08-06T00:25:27+00:00",
-      "summary": "An AI model from Meta also hacked another company during testing\nStop me if you've heard this one before:\n\nAn AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.\nMeta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic.\n“A misconfiguration by Irregular, an independent testing company"
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published": "2026-08-06T00:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
-    },
-    {
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/baseten",
-      "published": "2026-08-06T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Introducing Muse Code and Muse Spark 1.2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
-      "published": "2026-08-05T23:58:35+00:00",
-      "summary": "Introducing Muse Code and Muse Spark 1.2\nYet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work!\n\nMuse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expand"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
-      "published": "2026-08-05T23:45:32+00:00",
-      "summary": "Third-party cyber evaluations involving OpenAI models\nAnd another one. I had to create a accidental-cyberattacks tag to keep track of them all!\nThis post from OpenAI covers both the UK AI Safety Institute attack (see my previous post) and another attack enabled by Irregular:\n\nIrregular, one of our external cybersecurity testing partners, was running Capture-the-Flag-style evaluations intended to be isolated from the internet, but a testing-environment misconfiguration allowed models to access th"
     }
   ]
 }
