@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T05:38:21.012991+00:00",
+  "generated_at": "2026-08-07T07:11:13.001516+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "title": "[AINews] AMD buys Taalas",
@@ -203,14 +203,6 @@
       "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
       "published": "2026-08-05T19:20:20+00:00",
       "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on sequence learning for ads recommendations, we showed how modeling the order and timing of user actions (rather than relying on static, manually engineered sparse features) [...]\nRead More...\nThe post From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranki"
-    },
-    {
-      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-      "published": "2026-08-05T18:00:03+00:00",
-      "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Department of Energy.Built decades ago for a more predictable world in which power came mostly from centralized coal or gas plants and electricity use grew at a steady pace, the grid faces unanticipated strain due"
     }
   ]
 }
