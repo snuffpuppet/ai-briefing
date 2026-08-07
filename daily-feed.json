@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-07T17:46:44.620096+00:00",
+  "generated_at": "2026-08-07T18:52:11.206063+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
   "items": [
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "published": "2026-08-07T17:53:32+00:00",
+      "summary": ""
+    },
     {
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
       "source": "AI - Ars Technica",
@@ -155,14 +163,6 @@
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "published": "2026-08-06T10:00:00+00:00",
       "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "published": "2026-08-06T06:00:00+00:00",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
     }
   ]
 }
