@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-07T12:57:00.827757+00:00",
+  "generated_at": "2026-08-07T14:13:16.842572+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 17,
   "items": [
+    {
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "published": "2026-08-07T13:49:37+00:00",
+      "summary": "Clinicians and researchers say AI companies need to open up their safety data."
+    },
+    {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "published": "2026-08-07T13:29:22+00:00",
+      "summary": "TikTok owner training a model with 10 trillion parameters."
+    },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "source": "OpenAI News",
