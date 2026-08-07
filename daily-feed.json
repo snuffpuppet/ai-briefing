@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-07T18:52:11.206063+00:00",
+  "generated_at": "2026-08-07T19:50:54.358304+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "published": "2026-08-07T19:18:09+00:00",
+      "summary": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)\nOn Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago.\nI decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do.\nIt produced a much better game! Here's Moonlight &amp; Mayhem - Gi"
+    },
     {
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "source": "Hugging Face - Blog",
