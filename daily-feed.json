@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-07T08:56:29.267652+00:00",
+  "generated_at": "2026-08-07T10:01:38.088605+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "published": "2026-08-07T09:00:00+00:00",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+    },
     {
       "title": "[AINews] AMD buys Taalas",
       "source": "Latent.Space",
