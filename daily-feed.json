@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-07T16:51:41.185813+00:00",
+  "generated_at": "2026-08-07T17:46:44.620096+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "published": "2026-08-07T17:36:22+00:00",
+      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff."
+    },
     {
       "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
       "source": "Simon Willison's Weblog",
