@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T21:35:49.062568+00:00",
+  "generated_at": "2026-08-07T22:31:47.389478+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
@@ -163,14 +163,6 @@
       "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
       "published": "2026-08-06T11:00:44+00:00",
       "summary": "Why humans need to moderate humans."
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "published": "2026-08-06T10:00:00+00:00",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
     }
   ]
 }
