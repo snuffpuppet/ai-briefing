@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-07T15:53:23.429964+00:00",
+  "generated_at": "2026-08-07T16:51:41.185813+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "published": "2026-08-07T16:18:51+00:00",
+      "summary": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI\nThere's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th:\n\n“We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead, s"
+    },
+    {
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "published": "2026-08-07T16:01:02+00:00",
+      "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution APIAuthors: Nilesh Mishra and Ajit KotiThis is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1, we discussed the motivation for creating the RDG and the architecture of the data processing pipeline that populates it. In Part 2, we discussed how we designed the storage layer to handle billions of nodes and edges while maintaini"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published": "2026-08-07T15:20:00+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+    },
     {
       "title": "AI chatbots have failed people in crisis. Can that be fixed?",
       "source": "AI - Ars Technica",
@@ -131,14 +155,6 @@
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "published": "2026-08-06T06:00:00+00:00",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-    },
-    {
-      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-      "published": "2026-08-06T04:34:11+00:00",
-      "summary": "The end of an era."
     }
   ]
 }
