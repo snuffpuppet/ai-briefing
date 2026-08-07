@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T00:39:36.432617+00:00",
+  "generated_at": "2026-08-07T03:48:25.100288+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
@@ -19,6 +19,14 @@
       "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
       "published": "2026-08-06T20:03:44+00:00",
       "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
+    },
+    {
+      "title": "AI Safety Regulations in the U.S. Could Give Hackers an Edge",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/hugging-face-openai-cyberattack",
+      "published": "2026-08-06T19:25:39+00:00",
+      "summary": "On 11 July, Hugging Face was subjected to an intense cyberattack from a then-unknown actor. The speed and coordination of the attack on the company that hosts and supports popular AI developer resources led Hugging Face’s security team to conclude it was the work of an AI agent. Realizing this, the team tried to use “frontier models behind commercial APIs”—presumably from Anthropic and OpenAI, although only Anthropic was named in the second of the company’s two posts about the security incident—"
     },
     {
       "title": "Large genome models used to design new viruses",
@@ -195,22 +203,6 @@
       "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
       "published": "2026-08-05T18:00:03+00:00",
       "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Department of Energy.Built decades ago for a more predictable world in which power came mostly from centralized coal or gas plants and electricity use grew at a steady pace, the grid faces unanticipated strain due"
-    },
-    {
-      "title": "Google plans to kill Assistant on your phone on September 4",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-      "published": "2026-08-05T15:30:02+00:00",
-      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
-    },
-    {
-      "title": "SpaceX spooks investors with debut earnings report",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-      "published": "2026-08-05T13:59:17+00:00",
-      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled."
     }
   ]
 }
