@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-08T22:25:36.385506+00:00",
+  "generated_at": "2026-08-08T23:25:13.269038+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "published": "2026-08-08T22:36:03+00:00",
+      "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans\nAnthropic are really confident in Claude Code's auto mode, to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th.\nThis was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the  AI Engineer World’s Fair last month. I asked them how they run Claude Code safely within Anthropic (given the threat of prompt injection) and the"
+    },
     {
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "source": "Simon Willison's Weblog",
