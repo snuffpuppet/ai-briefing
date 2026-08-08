@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-08T13:42:51.973112+00:00",
+  "generated_at": "2026-08-08T14:29:02.753657+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+      "published": "2026-08-08T14:06:41+00:00",
+      "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first bulletin point:\n\nMay 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one th"
+    },
     {
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
       "source": "AI - Ars Technica",
