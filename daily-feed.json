@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T01:21:18.593860+00:00",
+  "generated_at": "2026-08-08T03:22:36.972112+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
     {
       "title": "[AINews] Zawinski's Law of MultiAgents",
@@ -171,14 +171,6 @@
       "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
       "published": "2026-08-06T16:15:30+00:00",
       "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source."
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "published": "2026-08-06T15:06:15+00:00",
-      "summary": ""
     }
   ]
 }
