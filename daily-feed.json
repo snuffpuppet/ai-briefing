@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T03:22:36.972112+00:00",
+  "generated_at": "2026-08-08T04:53:27.388412+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "[AINews] Zawinski's Law of MultiAgents",
@@ -163,14 +163,6 @@
       "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
       "published": "2026-08-06T18:04:39+00:00",
       "summary": "Simon Willison on Technical Blogging\nI was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog!\nIt includes my answers to the following questions:\n\nWhy did you start blogging – and why do you continue?\nWhat has been the most surprising impact of blogging for you?\nWhat blog post are you most proud of and why?\nWhat post was the most difficult to write and how did you tackle it?\nAny lessons learned tha"
-    },
-    {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "published": "2026-08-06T16:15:30+00:00",
-      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source."
     }
   ]
 }
