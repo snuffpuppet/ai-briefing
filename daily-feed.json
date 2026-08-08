@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T06:46:59.510790+00:00",
+  "generated_at": "2026-08-08T07:46:36.482180+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
     {
       "title": "[AINews] Zawinski's Law of MultiAgents",
@@ -123,22 +123,6 @@
       "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
       "published": "2026-08-06T20:03:44+00:00",
       "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
-    },
-    {
-      "title": "AI Safety Regulations in the U.S. Could Give Hackers an Edge",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/hugging-face-openai-cyberattack",
-      "published": "2026-08-06T19:25:39+00:00",
-      "summary": "On 11 July, Hugging Face was subjected to an intense cyberattack from a then-unknown actor. The speed and coordination of the attack on the company that hosts and supports popular AI developer resources led Hugging Face’s security team to conclude it was the work of an AI agent. Realizing this, the team tried to use “frontier models behind commercial APIs”—presumably from Anthropic and OpenAI, although only Anthropic was named in the second of the company’s two posts about the security incident—"
-    },
-    {
-      "title": "Large genome models used to design new viruses",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "published": "2026-08-06T19:04:57+00:00",
-      "summary": "The AI system makes genetically distant versions of a bacteria-killing virus."
     }
   ]
 }
