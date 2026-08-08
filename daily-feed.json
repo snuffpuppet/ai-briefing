@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T05:40:37.962509+00:00",
+  "generated_at": "2026-08-08T06:46:59.510790+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Zawinski's Law of MultiAgents",
@@ -139,30 +139,6 @@
       "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
       "published": "2026-08-06T19:04:57+00:00",
       "summary": "The AI system makes genetically distant versions of a bacteria-killing virus."
-    },
-    {
-      "title": "datasette 1.0a38",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
-      "published": "2026-08-06T18:24:34+00:00",
-      "summary": "Release: datasette 1.0a38\n        \nThis release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system.\nSite administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed user"
-    },
-    {
-      "title": "datasette 0.65.3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
-      "published": "2026-08-06T18:22:07+00:00",
-      "summary": "Release: datasette 0.65.3\n        Back-ported the SQL Injection security fix from 1.0a38.\n    \n    \n        Tags: datasette"
-    },
-    {
-      "title": "Simon Willison on Technical Blogging",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
-      "published": "2026-08-06T18:04:39+00:00",
-      "summary": "Simon Willison on Technical Blogging\nI was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog!\nIt includes my answers to the following questions:\n\nWhy did you start blogging – and why do you continue?\nWhat has been the most surprising impact of blogging for you?\nWhat blog post are you most proud of and why?\nWhat post was the most difficult to write and how did you tackle it?\nAny lessons learned tha"
     }
   ]
 }
