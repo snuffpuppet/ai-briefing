@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T07:46:36.482180+00:00",
+  "generated_at": "2026-08-08T08:36:49.364375+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 13,
   "items": [
     {
       "title": "[AINews] Zawinski's Law of MultiAgents",
@@ -107,22 +107,6 @@
       "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
       "published": "2026-08-07T05:13:46+00:00",
       "summary": "The Inference Inflection is HEATING up."
-    },
-    {
-      "title": "Suno hopes to go legit with watermarks for AI-generated music",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "published": "2026-08-06T20:17:36+00:00",
-      "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\""
-    },
-    {
-      "title": "Anthropic will design its own hardware to power Claude",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "published": "2026-08-06T20:03:44+00:00",
-      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
     }
   ]
 }
