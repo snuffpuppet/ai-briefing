@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T01:26:48.405266+00:00",
+  "generated_at": "2026-08-09T03:39:21.252506+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 11,
   "items": [
     {
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
@@ -91,30 +91,6 @@
       "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
       "published": "2026-08-07T16:01:02+00:00",
       "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution APIAuthors: Nilesh Mishra and Ajit KotiThis is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1, we discussed the motivation for creating the RDG and the architecture of the data processing pipeline that populates it. In Part 2, we discussed how we designed the storage layer to handle billions of nodes and edges while maintaini"
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published": "2026-08-07T15:20:00+00:00",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
-    },
-    {
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "published": "2026-08-07T13:49:37+00:00",
-      "summary": "Clinicians and researchers say AI companies need to open up their safety data."
-    },
-    {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "published": "2026-08-07T13:29:22+00:00",
-      "summary": "TikTok owner training a model with 10 trillion parameters."
     }
   ]
 }
