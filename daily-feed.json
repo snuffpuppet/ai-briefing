@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-09T14:31:23.225487+00:00",
+  "generated_at": "2026-08-09T15:27:59.529770+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Lessons from the hacks",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "published": "2026-08-09T14:57:11+00:00",
+      "summary": "Musings on model alignment, what determines safety, and where we go from here."
+    },
     {
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
       "source": "Simon Willison's Weblog",
