@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T03:39:21.252506+00:00",
+  "generated_at": "2026-08-09T05:01:43.966633+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
     {
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
@@ -75,22 +75,6 @@
       "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
       "published": "2026-08-07T17:36:22+00:00",
       "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff."
-    },
-    {
-      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
-      "published": "2026-08-07T16:18:51+00:00",
-      "summary": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI\nThere's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th:\n\n“We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead, s"
-    },
-    {
-      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-      "published": "2026-08-07T16:01:02+00:00",
-      "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution APIAuthors: Nilesh Mishra and Ajit KotiThis is the third entry of a multi-part blog series describing how we built a Real-Time Distributed Graph (RDG). In Part 1, we discussed the motivation for creating the RDG and the architecture of the data processing pipeline that populates it. In Part 2, we discussed how we designed the storage layer to handle billions of nodes and edges while maintaini"
     }
   ]
 }
