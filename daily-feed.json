@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T12:43:11.208005+00:00",
+  "generated_at": "2026-08-09T13:46:49.698236+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
@@ -27,14 +27,6 @@
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
       "published": "2026-08-08T11:05:50+00:00",
       "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
-    },
-    {
-      "title": "[AINews] Zawinski's Law of MultiAgents",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
-      "published": "2026-08-08T01:12:07+00:00",
-      "summary": "a quiet day lets us find some connections among recent themes"
     }
   ]
 }
