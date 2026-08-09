@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-09T22:27:48.449918+00:00",
+  "generated_at": "2026-08-09T23:28:03.877190+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "GitHub Models is now retired",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "published": "2026-08-09T22:48:05+00:00",
+      "summary": "GitHub Models is now retired\nI missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message:\n\nGitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\n\nThat message is already stale, because the retirement has been completed.\nGitHub Models was an odd-shaped duck. GitHub provided a model playground tool and a unified API across a bunch of different LLM providers, with the biggest benefit being that code runn"
+    },
+    {
+      "title": "SQLite compressed text-history prototypes",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "published": "2026-08-09T22:05:00+00:00",
+      "summary": "Research: SQLite compressed text-history prototypes\n        I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would compress really well due to all of the repeated strings.\nThe new GPT‑Live voice mode in the ChatGPT iPhone app has got really good, so I d"
+    },
     {
       "title": "Lessons from the hacks",
       "source": "Interconnects AI",
@@ -27,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
       "published": "2026-08-08T14:06:41+00:00",
       "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first bulletin point:\n\nMay 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one th"
-    },
-    {
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "published": "2026-08-08T11:05:50+00:00",
-      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
     }
   ]
 }
