@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-10T15:57:53.603946+00:00",
+  "generated_at": "2026-08-10T16:57:11.332339+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 17,
   "items": [
+    {
+      "title": "What building an AI-native finance function taught me",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "published": "2026-08-10T17:00:00+00:00",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "published": "2026-08-10T16:25:36+00:00",
+      "summary": ""
+    },
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "source": "OpenAI News",
@@ -75,6 +91,14 @@
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
       "published": "2026-08-10T02:05:16+00:00",
       "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already.\n&mdash; OpenClaw, hacking an Australian gym-booking website\n\n    Tags: ai-ethics, generative-ai, openclaw, ai, ai-security-research, llms"
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
     },
     {
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
