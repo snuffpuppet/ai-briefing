@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-10T09:16:41.383668+00:00",
+  "generated_at": "2026-08-10T11:05:24.369191+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "published": "2026-08-10T11:00:47+00:00",
+      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up."
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "published": "2026-08-10T10:05:36+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;"
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;"
+    },
     {
       "title": "Quoting OpenClaw",
       "source": "Simon Willison's Weblog",
@@ -11,6 +43,14 @@
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
       "published": "2026-08-10T02:05:16+00:00",
       "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already.\n&mdash; OpenClaw, hacking an Australian gym-booking website\n\n    Tags: ai-ethics, generative-ai, openclaw, ai, ai-security-research, llms"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Quoting Claude Opus 5 system prompt",
@@ -43,14 +83,6 @@
       "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
       "published": "2026-08-09T14:57:11+00:00",
       "summary": "Musings on model alignment, what determines safety, and where we go from here."
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
-      "published": "2026-08-08T22:36:03+00:00",
-      "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans\nAnthropic are really confident in Claude Code's auto mode, to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th.\nThis was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the  AI Engineer World’s Fair last month. I asked them how they run Claude Code safely within Anthropic (given the threat of prompt injection) and the"
     }
   ]
 }
