@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-10T19:53:32.315264+00:00",
+  "generated_at": "2026-08-10T20:38:54.455080+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "published": "2026-08-10T20:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;"
+    },
     {
       "title": "What building an AI-native finance function taught me",
       "source": "OpenAI News",
