@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-10T21:38:21.384781+00:00",
+  "generated_at": "2026-08-10T22:34:23.338233+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "published": "2026-08-10T22:13:03+00:00",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward."
+    },
     {
       "title": "Amazon backs power plant that may become top source of US climate pollution",
       "source": "AI - Ars Technica",
