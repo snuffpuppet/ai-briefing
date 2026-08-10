@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-10T20:38:54.455080+00:00",
+  "generated_at": "2026-08-10T21:38:21.384781+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "published": "2026-08-10T20:45:52+00:00",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits."
+    },
     {
       "title": "AI professors are negotiating the new realities of academic research",
       "source": "Artificial intelligence – MIT Technology Review",
