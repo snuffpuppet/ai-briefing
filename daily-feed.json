@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T22:34:23.338233+00:00",
+  "generated_at": "2026-08-10T23:32:09.498248+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 24,
   "items": [
     {
       "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
@@ -139,6 +139,22 @@
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
       "published": "2026-08-10T00:00:00+00:00",
       "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+    },
+    {
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/zapier",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+    },
+    {
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
     },
     {
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
