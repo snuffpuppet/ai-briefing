@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-10T01:28:26.910848+00:00",
+  "generated_at": "2026-08-10T03:51:32.981221+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 6,
   "items": [
+    {
+      "title": "Quoting OpenClaw",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+      "published": "2026-08-10T02:05:16+00:00",
+      "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already.\n&mdash; OpenClaw, hacking an Australian gym-booking website\n\n    Tags: ai-ethics, generative-ai, openclaw, ai, ai-security-research, llms"
+    },
     {
       "title": "Quoting Claude Opus 5 system prompt",
       "source": "Simon Willison's Weblog",
@@ -43,14 +51,6 @@
       "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
       "published": "2026-08-08T22:36:03+00:00",
       "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans\nAnthropic are really confident in Claude Code's auto mode, to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th.\nThis was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the  AI Engineer World’s Fair last month. I asked them how they run Claude Code safely within Anthropic (given the threat of prompt injection) and the"
-    },
-    {
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-      "published": "2026-08-08T14:06:41+00:00",
-      "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first bulletin point:\n\nMay 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one th"
     }
   ]
 }
