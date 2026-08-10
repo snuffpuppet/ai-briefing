@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T17:52:55.114312+00:00",
+  "generated_at": "2026-08-10T18:53:32.732744+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "What building an AI-native finance function taught me",
@@ -67,6 +67,14 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "published": "2026-08-10T10:05:36+00:00",
       "summary": ""
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "published": "2026-08-10T10:00:00+00:00",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
     },
     {
       "title": "Putting frontier cyber models in more trusted hands",
