@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-10T23:32:09.498248+00:00",
+  "generated_at": "2026-08-11T01:26:06.051695+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Introducing Muse Glimmer",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "published": "2026-08-10T23:56:03+00:00",
+      "summary": "Introducing Muse Glimmer\nMeta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old).\nThey claim to have optimized it for exactly the kind of things I'm looking for in a local model:\n\n\nEnd-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds, w"
+    },
     {
       "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
       "source": "AI - Ars Technica",
