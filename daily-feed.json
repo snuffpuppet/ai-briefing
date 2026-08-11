@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T09:57:35.145183+00:00",
+  "generated_at": "2026-08-11T10:52:02.626986+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 23,
   "items": [
     {
       "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
@@ -187,22 +187,6 @@
       "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
       "published": "2026-08-09T23:31:39+00:00",
       "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms"
-    },
-    {
-      "title": "GitHub Models is now retired",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
-      "published": "2026-08-09T22:48:05+00:00",
-      "summary": "GitHub Models is now retired\nI missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message:\n\nGitHub Models is temporarily unavailable as part of a scheduled retirement brownout.\n\nThat message is already stale, because the retirement has been completed.\nGitHub Models was an odd-shaped duck. GitHub provided a model playground tool and a unified API across a bunch of different LLM providers, with the biggest benefit being that code runn"
-    },
-    {
-      "title": "SQLite compressed text-history prototypes",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
-      "published": "2026-08-09T22:05:00+00:00",
-      "summary": "Research: SQLite compressed text-history prototypes\n        I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would compress really well due to all of the repeated strings.\nThe new GPT‑Live voice mode in the ChatGPT iPhone app has got really good, so I d"
     }
   ]
 }
