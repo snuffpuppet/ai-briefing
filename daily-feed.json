@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-11T15:58:20.848138+00:00",
+  "generated_at": "2026-08-11T17:02:24.775498+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Software engineering at a proprietary trading company: Optiver",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/optiver",
+      "published": "2026-08-11T16:17:39+00:00",
+      "summary": "A shift from a focus on latency to building better AI models, owning the full stack from applications to building custom hardware, very different incentives to most tech companies in play, and more"
+    },
     {
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
       "source": "Hugging Face - Blog",
@@ -11,6 +19,14 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "published": "2026-08-11T13:37:10+00:00",
       "summary": ""
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
     },
     {
       "title": "TDD inside the agent loop - theater or actual value?",
