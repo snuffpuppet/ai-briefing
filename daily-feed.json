@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T01:26:06.051695+00:00",
+  "generated_at": "2026-08-11T03:41:15.869080+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
     {
       "title": "Introducing Muse Glimmer",
@@ -195,14 +195,6 @@
       "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
       "published": "2026-08-09T22:05:00+00:00",
       "summary": "Research: SQLite compressed text-history prototypes\n        I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would compress really well due to all of the repeated strings.\nThe new GPT‑Live voice mode in the ChatGPT iPhone app has got really good, so I d"
-    },
-    {
-      "title": "Lessons from the hacks",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "published": "2026-08-09T14:57:11+00:00",
-      "summary": "Musings on model alignment, what determines safety, and where we go from here."
     }
   ]
 }
