@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-11T10:52:02.626986+00:00",
+  "generated_at": "2026-08-11T11:41:21.464798+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 23,
   "items": [
+    {
+      "title": "TDD inside the agent loop - theater or actual value?",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+      "published": "2026-08-11T07:39:00-04:00",
+      "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven\n      Development, and many people in the industry advocate telling LLM agents\n      to use TDD when building software. Birgitta B&#xf6;ckeler was\n      curious if this really makes a difference, so conducted a few experiments.\n      \n\nmore…"
+    },
     {
       "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
       "source": "Latent.Space",
@@ -179,14 +187,6 @@
       "url": "https://huggingface.co/blog/muse-glimmer",
       "published": "2026-08-10T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Quoting Claude Opus 5 system prompt",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
-      "published": "2026-08-09T23:31:39+00:00",
-      "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms"
     }
   ]
 }
