@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-11T22:37:55.123373+00:00",
+  "generated_at": "2026-08-11T23:36:29.315206+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 19,
   "items": [
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "published": "2026-08-11T22:40:45+00:00",
+      "summary": "Stealing Reasoning Traces from Proprietary LLM APIs\nA vanity domain name (stolen-thoughts.com) for a neat paper:\n\nAnthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext\n\nYou can see an example of these encrypted blocks by running:\ncurl https://ap"
+    },
     {
       "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
       "source": "Latent.Space",
@@ -147,14 +155,6 @@
       "url": "https://openai.com/index/model-ml",
       "published": "2026-08-10T12:00:00+00:00",
       "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-    },
-    {
-      "title": "Peer review is overwhelmed—can it survive in the AI era?",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "published": "2026-08-10T11:00:47+00:00",
-      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up."
     }
   ]
 }
