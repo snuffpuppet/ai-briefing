@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-11T12:57:28.841732+00:00",
+  "generated_at": "2026-08-11T14:20:18.104863+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 19,
   "items": [
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "published": "2026-08-11T13:37:10+00:00",
+      "summary": ""
+    },
     {
       "title": "TDD inside the agent loop - theater or actual value?",
       "source": "Martin Fowler",
@@ -147,14 +155,6 @@
       "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
       "published": "2026-08-10T09:00:00+00:00",
       "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;"
-    },
-    {
-      "title": "Quoting OpenClaw",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
-      "published": "2026-08-10T02:05:16+00:00",
-      "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already.\n&mdash; OpenClaw, hacking an Australian gym-booking website\n\n    Tags: ai-ethics, generative-ai, openclaw, ai, ai-security-research, llms"
     }
   ]
 }
