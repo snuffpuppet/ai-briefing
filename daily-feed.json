@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-12T16:57:09.280501+00:00",
+  "generated_at": "2026-08-12T17:58:04.867723+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 23,
   "items": [
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "published": "2026-08-12T16:51:57+00:00",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;"
+    },
     {
       "title": "Stop being skeptical about AI for development with Charity Majors",
       "source": "The Pragmatic Engineer",
@@ -179,14 +187,6 @@
       "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
       "published": "2026-08-11T07:39:00-04:00",
       "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven\n      Development, and many people in the industry advocate telling LLM agents\n      to use TDD when building software. Birgitta B&#xf6;ckeler was\n      curious if this really makes a difference, so conducted a few experiments.\n      \n\nmore…"
-    },
-    {
-      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "published": "2026-08-11T05:16:41+00:00",
-      "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!"
     }
   ]
 }
