@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-12T11:06:02.352620+00:00",
+  "generated_at": "2026-08-12T13:02:34.387336+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+      "published": "2026-08-12T13:00:28+00:00",
+      "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we&#8217;re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we&#8217;re sharing an early [...]\nRead More...\nThe post How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guara"
+    },
     {
       "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
       "source": "IEEE Spectrum",
@@ -19,6 +27,14 @@
       "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
       "published": "2026-08-12T07:11:08+00:00",
       "summary": "Speculative Decoding by any other name would distil as sweet"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
     },
     {
       "title": "There are no lossless transformations of natural-language text",
@@ -107,14 +123,6 @@
       "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
       "published": "2026-08-11T05:16:41+00:00",
       "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!"
-    },
-    {
-      "title": "Introducing Muse Glimmer",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
-      "published": "2026-08-10T23:56:03+00:00",
-      "summary": "Introducing Muse Glimmer\nMeta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old).\nThey claim to have optimized it for exactly the kind of things I'm looking for in a local model:\n\n\nEnd-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds, w"
     }
   ]
 }
