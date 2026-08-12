@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-12T06:11:25.147050+00:00",
+  "generated_at": "2026-08-12T08:14:33.835604+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 15,
   "items": [
+    {
+      "title": "[AINews] How to steal a Reasoning Trace",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+      "published": "2026-08-12T07:11:08+00:00",
+      "summary": "Speculative Decoding by any other name would distil as sweet"
+    },
     {
       "title": "There are no lossless transformations of natural-language text",
       "source": "Simon Willison's Weblog",
@@ -115,14 +123,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
       "published": "2026-08-10T20:45:52+00:00",
       "summary": "Amazon announces first off-the-grid data center in race to reap AI profits."
-    },
-    {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "published": "2026-08-10T20:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;"
     }
   ]
 }
