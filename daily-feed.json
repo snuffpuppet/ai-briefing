@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T01:43:46.933429+00:00",
+  "generated_at": "2026-08-12T04:05:04.827261+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "title": "There are no lossless transformations of natural-language text",
@@ -131,14 +131,6 @@
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "published": "2026-08-10T16:25:36+00:00",
       "summary": ""
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "published": "2026-08-10T14:00:00+00:00",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
     }
   ]
 }
