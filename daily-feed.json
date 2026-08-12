@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-12T14:53:56.099904+00:00",
+  "generated_at": "2026-08-12T15:56:42.926351+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "published": "2026-08-12T15:19:17+00:00",
+      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers."
+    },
+    {
+      "title": "Quoting Florian Herrengt",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything",
+      "published": "2026-08-12T15:08:47+00:00",
+      "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out.\nYou go talk to the person who worked on this feature.\n\"So where does the data come from?\"\n\"Hmm... actually I don't know. Let me ask Claude.\"\nYou sit next to each other watching an endless wall of text appear on the screen. Neither of you has any idea whether any of it is true but Claude seems very confiden"
+    },
     {
       "title": "Putting sign language AI into users’ hands",
       "source": "Google DeepMind News",
