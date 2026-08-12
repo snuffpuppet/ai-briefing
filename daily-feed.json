@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-12T10:00:15.145347+00:00",
+  "generated_at": "2026-08-12T11:06:02.352620+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/judgegpt-experiment",
+      "published": "2026-08-12T11:00:01+00:00",
+      "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology–together with appropriate training–boosted the number of cases resolved by 6.3% with no obvious drop in the quality of judgements.With a backlog of 2.26 million cases and fewer than two judges per 100,000 people – compared to 22 in the EU and 8 in Brazil – Pakistan’s judiciary was in sore need of help. So"
+    },
     {
       "title": "[AINews] How to steal a Reasoning Trace",
       "source": "Latent.Space",
@@ -107,14 +115,6 @@
       "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
       "published": "2026-08-10T23:56:03+00:00",
       "summary": "Introducing Muse Glimmer\nMeta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old).\nThey claim to have optimized it for exactly the kind of things I'm looking for in a local model:\n\n\nEnd-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds, w"
-    },
-    {
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "published": "2026-08-10T22:13:03+00:00",
-      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward."
     }
   ]
 }
