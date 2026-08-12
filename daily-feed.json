@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-12T13:02:34.387336+00:00",
+  "generated_at": "2026-08-12T14:53:56.099904+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published": "2026-08-12T14:01:59+00:00",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "published": "2026-08-12T14:00:51+00:00",
+      "summary": ""
+    },
+    {
+      "title": "I wrote an AI textbook — how long until AI can do it better?",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+      "published": "2026-08-12T13:01:16+00:00",
+      "summary": "Reflections on AI's writing ability and how AI models get more capable."
+    },
     {
       "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
       "source": "Engineering at Meta",
