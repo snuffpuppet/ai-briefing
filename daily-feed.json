@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-12T20:39:53.174614+00:00",
+  "generated_at": "2026-08-12T21:41:20.255210+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "published": "2026-08-12T21:00:30+00:00",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
+    },
     {
       "title": "Scaling AI agents with trustworthy data",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -90,7 +98,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/judgegpt-experiment",
       "published": "2026-08-12T11:00:01+00:00",
-      "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology–together with appropriate training–boosted the number of cases resolved by 6.3% with no obvious drop in the quality of judgements.With a backlog of 2.26 million cases and fewer than two judges per 100,000 people – compared to 22 in the EU and 8 in Brazil – Pakistan’s judiciary was in sore need of help. So"
+      "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology—together with appropriate training–boosted the number of cases resolved by 6.3 percent with no obvious drop in the quality of judgments.With a backlog of 2.26 million cases and fewer than two judges per 100,000 people—compared to 22 in the EU and eight in Brazil—Pakistan’s judiciary was in sore need of he"
     },
     {
       "title": "[AINews] How to steal a Reasoning Trace",
