@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T08:14:33.835604+00:00",
+  "generated_at": "2026-08-12T10:00:15.145347+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
     {
       "title": "[AINews] How to steal a Reasoning Trace",
@@ -115,14 +115,6 @@
       "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
       "published": "2026-08-10T22:13:03+00:00",
       "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward."
-    },
-    {
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "published": "2026-08-10T20:45:52+00:00",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits."
     }
   ]
 }
