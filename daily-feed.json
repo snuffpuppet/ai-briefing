@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T04:05:04.827261+00:00",
+  "generated_at": "2026-08-12T06:11:25.147050+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 15,
   "items": [
     {
       "title": "There are no lossless transformations of natural-language text",
@@ -27,6 +27,14 @@
       "url": "https://www.latent.space/p/chai-discovery",
       "published": "2026-08-11T21:03:50+00:00",
       "summary": "Pharma is suddenly paying for Bio &#215; AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why."
+    },
+    {
+      "title": "datasette-upload-dbs 0.5a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+      "published": "2026-08-11T20:35:13+00:00",
+      "summary": "Release: datasette-upload-dbs 0.5a0\n        This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance.\nIt can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one.\nThe new release adds a formalized API, so you can replace an existing database"
     },
     {
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
@@ -115,22 +123,6 @@
       "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
       "published": "2026-08-10T20:00:00+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;"
-    },
-    {
-      "title": "What building an AI-native finance function taught me",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "published": "2026-08-10T17:00:00+00:00",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-    },
-    {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "published": "2026-08-10T16:25:36+00:00",
-      "summary": ""
     }
   ]
 }
