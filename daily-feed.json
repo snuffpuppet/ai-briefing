@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-12T21:41:20.255210+00:00",
+  "generated_at": "2026-08-12T22:37:32.189249+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 26,
   "items": [
+    {
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "published": "2026-08-12T22:02:25+00:00",
+      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
+    },
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "published": "2026-08-12T21:43:21+00:00",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
+    },
     {
       "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
       "source": "AI - Ars Technica",
@@ -48,7 +64,7 @@
       "title": "Quoting Florian Herrengt",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
       "published": "2026-08-12T15:08:47+00:00",
       "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out.\nYou go talk to the person who worked on this feature.\n\"So where does the data come from?\"\n\"Hmm... actually I don't know. Let me ask Claude.\"\nYou sit next to each other watching an endless wall of text appear on the screen. Neither of you has any idea whether any of it is true but Claude seems very confiden"
     },
@@ -109,6 +125,14 @@
       "summary": "Speculative Decoding by any other name would distil as sweet"
     },
     {
+      "title": "AI Product Engineering Notes",
+      "source": "Hamel's Blog",
+      "feed_url": "https://hamel.dev/index.xml",
+      "url": "https://hamel.dev/",
+      "published": "2026-08-12T07:00:00+00:00",
+      "summary": "Notes from 13 sessions on evals, context, and systems. 9.5 hours of talks distilled into about 20 minutes of reading."
+    },
+    {
       "title": "From assistance to execution: How enterprises put AI to work",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -117,10 +141,18 @@
       "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
     },
     {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/ringcentral",
+      "published": "2026-08-12T00:00:00+00:00",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
+    },
+    {
       "title": "There are no lossless transformations of natural-language text",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
       "published": "2026-08-11T23:48:35+00:00",
       "summary": "There are no lossless transformations of natural-language text\nSophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good.\nIf you chose to have LLMs help massage your writing the following rule seems crucial to me:\n\nYou must stand behind every idea and every sentence in your docs. It is your responsibility to make sure that the entire document is representative of your own thoughts before you sha"
     },
@@ -128,7 +160,7 @@
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
       "published": "2026-08-11T22:40:45+00:00",
       "summary": "Stealing Reasoning Traces from Proprietary LLM APIs\nA vanity domain name (stolen-thoughts.com) for a neat paper:\n\nAnthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext\n\nYou can see an example of these encrypted blocks by running:\ncurl https://ap"
     },
@@ -144,7 +176,7 @@
       "title": "datasette-upload-dbs 0.5a0",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
       "published": "2026-08-11T20:35:13+00:00",
       "summary": "Release: datasette-upload-dbs 0.5a0\n        This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance.\nIt can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one.\nThe new release adds a formalized API, so you can replace an existing database"
     },
@@ -171,22 +203,6 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "published": "2026-08-11T13:37:10+00:00",
       "summary": ""
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-    },
-    {
-      "title": "Daybreak models are now available on AWS",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
     },
     {
       "title": "TDD inside the agent loop - theater or actual value?",
