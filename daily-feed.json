@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T11:42:51.219964+00:00",
+  "generated_at": "2026-08-13T13:03:40.446524+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 22,
   "items": [
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
@@ -179,22 +179,6 @@
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "published": "2026-08-12T06:00:00+00:00",
       "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ringcentral",
-      "published": "2026-08-12T00:00:00+00:00",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
-    },
-    {
-      "title": "There are no lossless transformations of natural-language text",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
-      "published": "2026-08-11T23:48:35+00:00",
-      "summary": "There are no lossless transformations of natural-language text\nSophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good.\nIf you chose to have LLMs help massage your writing the following rule seems crucial to me:\n\nYou must stand behind every idea and every sentence in your docs. It is your responsibility to make sure that the entire document is representative of your own thoughts before you sha"
     }
   ]
 }
