@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T04:08:55.814014+00:00",
+  "generated_at": "2026-08-13T06:14:10.886286+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 26,
   "items": [
     {
       "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
@@ -211,14 +211,6 @@
       "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
       "published": "2026-08-11T19:48:12+00:00",
       "summary": "But will Gemini's surge survive slowing model releases?"
-    },
-    {
-      "title": "Software engineering at a proprietary trading company: Optiver",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/optiver",
-      "published": "2026-08-11T16:17:39+00:00",
-      "summary": "A shift from a focus on latency to building better AI models, owning the full stack from applications to building custom hardware, very different incentives to most tech companies in play, and more"
     }
   ]
 }
