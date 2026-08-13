@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T06:14:10.886286+00:00",
+  "generated_at": "2026-08-13T08:18:09.870896+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
@@ -203,14 +203,6 @@
       "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
       "published": "2026-08-11T20:35:13+00:00",
       "summary": "Release: datasette-upload-dbs 0.5a0\n        This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance.\nIt can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one.\nThe new release adds a formalized API, so you can replace an existing database"
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "published": "2026-08-11T19:48:12+00:00",
-      "summary": "But will Gemini's surge survive slowing model releases?"
     }
   ]
 }
