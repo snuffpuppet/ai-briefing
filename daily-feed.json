@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-13T08:18:09.870896+00:00",
+  "generated_at": "2026-08-13T10:01:40.171248+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
+    {
+      "title": "How kids feel about AI, in their own words",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "published": "2026-08-13T09:00:00+00:00",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;"
+    },
     {
       "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
       "source": "Latent.Space",
@@ -187,22 +195,6 @@
       "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
       "published": "2026-08-11T22:40:45+00:00",
       "summary": "Stealing Reasoning Traces from Proprietary LLM APIs\nA vanity domain name (stolen-thoughts.com) for a neat paper:\n\nAnthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext\n\nYou can see an example of these encrypted blocks by running:\ncurl https://ap"
-    },
-    {
-      "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/chai-discovery",
-      "published": "2026-08-11T21:03:50+00:00",
-      "summary": "Pharma is suddenly paying for Bio &#215; AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why."
-    },
-    {
-      "title": "datasette-upload-dbs 0.5a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
-      "published": "2026-08-11T20:35:13+00:00",
-      "summary": "Release: datasette-upload-dbs 0.5a0\n        This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance.\nIt can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one.\nThe new release adds a formalized API, so you can replace an existing database"
     }
   ]
 }
