@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T22:41:54.362580+00:00",
+  "generated_at": "2026-08-13T23:38:02.403038+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 29,
   "items": [
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -235,14 +235,6 @@
       "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
       "published": "2026-08-12T13:00:28+00:00",
       "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we&#8217;re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we&#8217;re sharing an early [...]\nRead More...\nThe post How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guara"
-    },
-    {
-      "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/judgegpt-experiment",
-      "published": "2026-08-12T11:00:01+00:00",
-      "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology—together with appropriate training–boosted the number of cases resolved by 6.3 percent with no obvious drop in the quality of judgments.With a backlog of 2.26 million cases and fewer than two judges per 100,000 people—compared to 22 in the EU and eight in Brazil—Pakistan’s judiciary was in sore need of he"
     }
   ]
 }
