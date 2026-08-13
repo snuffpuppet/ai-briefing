@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-13T16:56:39.806175+00:00",
+  "generated_at": "2026-08-13T17:57:31.346603+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 31,
   "items": [
+    {
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "published": "2026-08-13T17:32:10+00:00",
+      "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful."
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published": "2026-08-13T17:16:04+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published": "2026-08-13T17:04:18+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "published": "2026-08-13T17:00:13+00:00",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\""
+    },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
       "source": "AI - Ars Technica",
@@ -29,6 +61,14 @@
       "summary": "The mark flags anything Claude processed, even human writing it only edited."
     },
     {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -51,6 +91,14 @@
       "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
       "published": "2026-08-13T01:53:47+00:00",
       "summary": "AI teammate category just had its most significant new entrant yet"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published": "2026-08-13T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
