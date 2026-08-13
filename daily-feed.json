@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T19:05:17.055466+00:00",
+  "generated_at": "2026-08-13T20:38:40.081192+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 29,
   "items": [
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -235,14 +235,6 @@
       "url": "https://spectrum.ieee.org/judgegpt-experiment",
       "published": "2026-08-12T11:00:01+00:00",
       "summary": "Judges around the world have made headlines for illicitly using generative AI in their work. But in Pakistan, a large-scale trial of a specially designed AI tool for judges found the technology—together with appropriate training–boosted the number of cases resolved by 6.3 percent with no obvious drop in the quality of judgments.With a backlog of 2.26 million cases and fewer than two judges per 100,000 people—compared to 22 in the EU and eight in Brazil—Pakistan’s judiciary was in sore need of he"
-    },
-    {
-      "title": "[AINews] How to steal a Reasoning Trace",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-      "published": "2026-08-12T07:11:08+00:00",
-      "summary": "Speculative Decoding by any other name would distil as sweet"
     }
   ]
 }
