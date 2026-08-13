@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T17:57:31.346603+00:00",
+  "generated_at": "2026-08-13T19:05:17.055466+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 30,
   "items": [
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -59,6 +59,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
       "published": "2026-08-13T11:10:18+00:00",
       "summary": "The mark flags anything Claude processed, even human writing it only edited."
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published": "2026-08-13T11:00:00+00:00",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     },
     {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -235,22 +243,6 @@
       "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
       "published": "2026-08-12T07:11:08+00:00",
       "summary": "Speculative Decoding by any other name would distil as sweet"
-    },
-    {
-      "title": "AI Product Engineering Notes",
-      "source": "Hamel's Blog",
-      "feed_url": "https://hamel.dev/index.xml",
-      "url": "https://hamel.dev/",
-      "published": "2026-08-12T07:00:00+00:00",
-      "summary": "Notes from 13 sessions on evals, context, and systems. 9.5 hours of talks distilled into about 20 minutes of reading."
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "published": "2026-08-12T06:00:00+00:00",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
     }
   ]
 }
