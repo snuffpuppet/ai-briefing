@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-14T21:22:00.630552+00:00",
+  "generated_at": "2026-08-14T22:19:33.725107+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Don't classify. Hallucinate!",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "published": "2026-08-14T21:54:35+00:00",
+      "summary": "Don&#x27;t classify. Hallucinate!\nI still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags match the following content\".\nDoug Turnbull has a neat solution. Tell the model to output tags without any details of the existing vocabulary, then use vector embeddings against the existing corpus to find the concrete tags that are closest to the ones the model imagined might fi"
+    },
+    {
+      "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+      "published": "2026-08-14T21:23:35+00:00",
+      "summary": "Hint: It&#8217;s really not a distillation story."
+    },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "source": "AI - Ars Technica",
@@ -131,14 +147,6 @@
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "published": "2026-08-13T11:00:00+00:00",
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "published": "2026-08-13T10:00:00+00:00",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
     }
   ]
 }
