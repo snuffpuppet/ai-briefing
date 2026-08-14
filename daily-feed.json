@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T09:57:41.858677+00:00",
+  "generated_at": "2026-08-14T10:59:26.693968+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 19,
   "items": [
     {
       "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
@@ -155,14 +155,6 @@
       "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
       "published": "2026-08-12T23:59:23+00:00",
       "summary": "DeepSeek V4 Pro 0813 (on OpenRouter)\nThe latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model.\nI haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro and July's deepseek-ai/DeepSeek-V4-Flash-0731 it seems likely. Update: the weights are now available on Hugging Face, 1.7T parameters, 893 G"
-    },
-    {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "published": "2026-08-12T22:02:25+00:00",
-      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
     }
   ]
 }
