@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-13T23:38:02.403038+00:00",
+  "generated_at": "2026-08-14T01:43:36.347194+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 29,
   "items": [
+    {
+      "title": "sqlite-utils 4.2.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "published": "2026-08-13T23:53:47+00:00",
+      "summary": "Release: sqlite-utils 4.2.1\n        Fixes a crashing bug in sqlite-utils 4.2. I'd introduced code that looks like this:\nfrom typing_extensions import Self\n\nIt turned out the typing-extensions package was not listed as a dependency for sqlite-utils - it was installed by one of the other dependencies in the dev dependency group, but when you uvx sqlite-utils directly you don't get those dependencies.\nAs part of fixing this I figured out how to run a smoke test to ensure the CLI tool still works ev"
+    },
+    {
+      "title": "sqlite-utils 4.2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "published": "2026-08-13T20:11:29+00:00",
+      "summary": "Release: sqlite-utils 4.2\n        Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one.\ntransform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns.\nThere are also new introspection properties for check constraints, and"
+    },
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
       "source": "AI - Ars Technica",
@@ -219,22 +235,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
       "published": "2026-08-12T14:00:51+00:00",
       "summary": ""
-    },
-    {
-      "title": "I wrote an AI textbook — how long until AI can do it better?",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "published": "2026-08-12T13:01:16+00:00",
-      "summary": "Reflections on AI's writing ability and how AI models get more capable."
-    },
-    {
-      "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
-      "published": "2026-08-12T13:00:28+00:00",
-      "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we&#8217;re always evolving as well, so that our protections stay ahead of scammers while protecting people’s personal messages with end-to-end encryption. Today, we&#8217;re sharing an early [...]\nRead More...\nThe post How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guara"
     }
   ]
 }
