@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T20:27:46.013634+00:00",
+  "generated_at": "2026-08-14T21:22:00.630552+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 17,
   "items": [
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -139,22 +139,6 @@
       "url": "https://openai.com/index/previewing-ultrafast",
       "published": "2026-08-13T10:00:00+00:00",
       "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published": "2026-08-13T09:00:00+00:00",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "published": "2026-08-13T09:00:00+00:00",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;"
     }
   ]
 }
