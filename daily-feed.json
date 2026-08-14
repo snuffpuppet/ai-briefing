@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T08:13:08.385643+00:00",
+  "generated_at": "2026-08-14T09:57:41.858677+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 20,
   "items": [
     {
       "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
@@ -163,22 +163,6 @@
       "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
       "published": "2026-08-12T22:02:25+00:00",
       "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
-    },
-    {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "published": "2026-08-12T21:43:21+00:00",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "published": "2026-08-12T21:00:30+00:00",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
     }
   ]
 }
