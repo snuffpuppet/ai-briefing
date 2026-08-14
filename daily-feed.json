@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T11:51:27.199987+00:00",
+  "generated_at": "2026-08-14T13:00:06.639630+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
@@ -139,22 +139,6 @@
       "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
       "published": "2026-08-13T01:53:47+00:00",
       "summary": "AI teammate category just had its most significant new entrant yet"
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "published": "2026-08-13T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-      "published": "2026-08-12T23:59:23+00:00",
-      "summary": "DeepSeek V4 Pro 0813 (on OpenRouter)\nThe latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model.\nI haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro and July's deepseek-ai/DeepSeek-V4-Flash-0731 it seems likely. Update: the weights are now available on Hugging Face, 1.7T parameters, 893 G"
     }
   ]
 }
