@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T01:43:36.347194+00:00",
+  "generated_at": "2026-08-14T04:05:32.060098+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 25,
   "items": [
     {
       "title": "sqlite-utils 4.2.1",
@@ -19,6 +19,14 @@
       "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
       "published": "2026-08-13T20:11:29+00:00",
       "summary": "Release: sqlite-utils 4.2\n        Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one.\ntransform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns.\nThere are also new introspection properties for check constraints, and"
+    },
+    {
+      "title": "llm-gemini 0.33",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "published": "2026-08-13T19:37:34+00:00",
+      "summary": "Release: llm-gemini 0.33\n        It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash, gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001.\nThe plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools using this pattern:\nllm -m gemini-3.7-flash -T CodeExecution \\\n  'use pyt"
     },
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -194,46 +202,6 @@
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "published": "2026-08-12T16:14:36+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "published": "2026-08-12T15:19:17+00:00",
-      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers."
-    },
-    {
-      "title": "Quoting Florian Herrengt",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
-      "published": "2026-08-12T15:08:47+00:00",
-      "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out.\nYou go talk to the person who worked on this feature.\n\"So where does the data come from?\"\n\"Hmm... actually I don't know. Let me ask Claude.\"\nYou sit next to each other watching an endless wall of text appear on the screen. Neither of you has any idea whether any of it is true but Claude seems very confiden"
-    },
-    {
-      "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
-      "published": "2026-08-12T14:18:05+00:00",
-      "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!"
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "published": "2026-08-12T14:01:59+00:00",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-    },
-    {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "published": "2026-08-12T14:00:51+00:00",
       "summary": ""
     }
   ]
