@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T22:19:33.725107+00:00",
+  "generated_at": "2026-08-14T23:18:43.618386+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 16,
   "items": [
     {
       "title": "Don't classify. Hallucinate!",
@@ -131,22 +131,6 @@
       "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "published": "2026-08-13T13:41:10+00:00",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;"
-    },
-    {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "published": "2026-08-13T11:10:18+00:00",
-      "summary": "The mark flags anything Claude processed, even human writing it only edited."
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "published": "2026-08-13T11:00:00+00:00",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     }
   ]
 }
