@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T07:27:18.345200+00:00",
+  "generated_at": "2026-08-15T08:24:34.398664+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
     {
       "title": "Northern Gannet",
@@ -75,22 +75,6 @@
       "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
       "published": "2026-08-13T23:53:47+00:00",
       "summary": "Release: sqlite-utils 4.2.1\n        Fixes a crashing bug in sqlite-utils 4.2. I'd introduced code that looks like this:\nfrom typing_extensions import Self\n\nIt turned out the typing-extensions package was not listed as a dependency for sqlite-utils - it was installed by one of the other dependencies in the dev dependency group, but when you uvx sqlite-utils directly you don't get those dependencies.\nAs part of fixing this I figured out how to run a smoke test to ensure the CLI tool still works ev"
-    },
-    {
-      "title": "sqlite-utils 4.2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-      "published": "2026-08-13T20:11:29+00:00",
-      "summary": "Release: sqlite-utils 4.2\n        Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one.\ntransform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns.\nThere are also new introspection properties for check constraints, and"
-    },
-    {
-      "title": "llm-gemini 0.33",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-      "published": "2026-08-13T19:37:34+00:00",
-      "summary": "Release: llm-gemini 0.33\n        It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash, gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001.\nThe plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools using this pattern:\nllm -m gemini-3.7-flash -T CodeExecution \\\n  'use pyt"
     }
   ]
 }
