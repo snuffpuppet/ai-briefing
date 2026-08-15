@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T17:17:36.332166+00:00",
+  "generated_at": "2026-08-15T18:24:47.048189+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 7,
   "items": [
     {
       "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
@@ -18,7 +18,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
       "published": "2026-08-15T03:22:00+00:00",
-      "summary": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris.\nMorris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean.\nHe showed up in the Farallon Islands off the coast of San Francisco 14 years ago. He has since made Pillar Point harbor his home, where he's quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier."
+      "summary": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris.\nMorris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean.\nThey showed up in the Farallon Islands off the coast of San Francisco 14 years ago. They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commerc"
     },
     {
       "title": "Don't classify. Hallucinate!",
@@ -59,14 +59,6 @@
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "2026-08-14T14:27:14+00:00",
       "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
-    },
-    {
-      "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
-      "published": "2026-08-14T05:30:39+00:00",
-      "summary": "Down, but not out!"
     }
   ]
 }
