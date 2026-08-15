@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T05:21:49.490790+00:00",
+  "generated_at": "2026-08-15T06:33:26.477895+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 11,
   "items": [
     {
       "title": "Northern Gannet",
@@ -91,14 +91,6 @@
       "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
       "published": "2026-08-13T19:37:34+00:00",
       "summary": "Release: llm-gemini 0.33\n        It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash, gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001.\nThe plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools using this pattern:\nllm -m gemini-3.7-flash -T CodeExecution \\\n  'use pyt"
-    },
-    {
-      "title": "The new Instagram logo is the perfect embodiment of AI slop",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "published": "2026-08-13T17:32:10+00:00",
-      "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful."
     }
   ]
 }
