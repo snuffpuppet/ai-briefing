@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T05:24:46.078136+00:00",
+  "generated_at": "2026-08-16T06:34:43.539042+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
@@ -43,14 +43,6 @@
       "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
       "published": "2026-08-14T21:23:35+00:00",
       "summary": "Hint: It&#8217;s really not a distillation story."
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "published": "2026-08-14T17:26:53+00:00",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate."
     }
   ]
 }
