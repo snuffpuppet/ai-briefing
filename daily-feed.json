@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-16T12:33:12.295728+00:00",
+  "generated_at": "2026-08-16T13:28:26.846828+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "The CPU Comeback Is Upon Us",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+      "published": "2026-08-16T13:00:01+00:00",
+      "summary": "Earlier this year, leaders at Amazon Web Services delivered a new mandate to their engineers: they need to conserve CPU cycles at all costs. AWS has reportedly experienced an explosion in wait times for CPU server capacity as AI workloads strain the company’s cloud infrastructure. The issue seemingly took AWS off-guard, and for good reason. The AI boom led to a surge in demand for GPUs and, later, memory. CPUs were mostly left out of the story, as their relative lack of parallelization made them"
+    },
     {
       "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
       "source": "Latent.Space",
