@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T08:25:40.841998+00:00",
+  "generated_at": "2026-08-16T09:23:48.280365+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
@@ -35,14 +35,6 @@
       "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
       "published": "2026-08-14T21:54:35+00:00",
       "summary": "Don&#x27;t classify. Hallucinate!\nI still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags match the following content\".\nDoug Turnbull has a neat solution. Tell the model to output tags without any details of the existing vocabulary, then use vector embeddings against the existing corpus to find the concrete tags that are closest to the ones the model imagined might fi"
-    },
-    {
-      "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-      "published": "2026-08-14T21:23:35+00:00",
-      "summary": "Hint: It&#8217;s really not a distillation story."
     }
   ]
 }
