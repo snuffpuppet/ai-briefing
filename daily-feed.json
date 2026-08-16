@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T15:18:12.723126+00:00",
+  "generated_at": "2026-08-16T16:20:31.847731+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Quoting Dario Amodei",
@@ -35,14 +35,6 @@
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
       "published": "2026-08-15T14:49:54+00:00",
       "summary": "Tool: CORS Chat\n        I built this today (with GPT-5.6-Sol xhigh) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark.\nIt provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine.\nConversations are persisted in the browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images that are being generated and pro"
-    },
-    {
-      "title": "Northern Gannet",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
-      "published": "2026-08-15T03:22:00+00:00",
-      "summary": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris.\nMorris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean.\nThey showed up in the Farallon Islands off the coast of San Francisco 14 years ago. They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commerc"
     }
   ]
 }
