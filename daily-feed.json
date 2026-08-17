@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-17T14:24:04.741958+00:00",
+  "generated_at": "2026-08-17T15:21:41.245127+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Teaching Everyone to Fish for Tokens",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+      "published": "2026-08-17T15:07:49+00:00",
+      "summary": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI."
+    },
     {
       "title": "From AI Copilots to Agent Swarms",
       "source": "IEEE Spectrum",
@@ -11,6 +19,14 @@
       "url": "https://spectrum.ieee.org/amd-agent-swarms",
       "published": "2026-08-17T14:00:01+00:00",
       "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years.But with each new release, the capabilities of Large Language Models (LLM"
+    },
+    {
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "published": "2026-08-17T13:05:36+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuition:…The new frontier for analyzing AI systems is understanding how good they are at inferring the unwritten rules of [&#8230;]"
     },
     {
       "title": "AI Used to Verify Toughest Mathematics Proof Yet",
