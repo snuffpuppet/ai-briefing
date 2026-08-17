@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-17T13:36:37.286875+00:00",
+  "generated_at": "2026-08-17T14:24:04.741958+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 10,
   "items": [
+    {
+      "title": "From AI Copilots to Agent Swarms",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/amd-agent-swarms",
+      "published": "2026-08-17T14:00:01+00:00",
+      "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years.But with each new release, the capabilities of Large Language Models (LLM"
+    },
     {
       "title": "AI Used to Verify Toughest Mathematics Proof Yet",
       "source": "IEEE Spectrum",
