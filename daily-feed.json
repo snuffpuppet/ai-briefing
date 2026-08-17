@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T01:06:00.035903+00:00",
+  "generated_at": "2026-08-17T02:56:54.128293+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "Markdown SVG upgrades",
@@ -43,14 +43,6 @@
       "url": "https://www.latent.space/p/flue-2",
       "published": "2026-08-15T15:46:22+00:00",
       "summary": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses."
-    },
-    {
-      "title": "CORS Chat",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-      "published": "2026-08-15T14:49:54+00:00",
-      "summary": "Tool: CORS Chat\n        I built this today (with GPT-5.6-Sol xhigh) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark.\nIt provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine.\nConversations are persisted in the browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images that are being generated and pro"
     }
   ]
 }
