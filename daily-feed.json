@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-17T20:22:47.294474+00:00",
+  "generated_at": "2026-08-17T21:22:56.535354+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "published": "2026-08-17T21:18:49+00:00",
+      "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”"
+    },
     {
       "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "source": "Hugging Face - Blog",
