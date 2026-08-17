@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-16T23:16:54.031947+00:00",
+  "generated_at": "2026-08-17T01:06:00.035903+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "Markdown SVG upgrades",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "published": "2026-08-16T23:59:37+00:00",
+      "summary": "I started building my markdown-svg-renderer tool in May, but I've since added enough features to it that it's worth talking about here again.\nIt's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is a problem that I needed to solve!\nThe tool is very simple. Navigate to markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save that Markdown to a CORS-friendly U"
+    },
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
       "source": "Simon Willison's Weblog",
