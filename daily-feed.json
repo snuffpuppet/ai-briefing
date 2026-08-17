@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-17T22:21:02.612684+00:00",
+  "generated_at": "2026-08-17T23:19:56.055016+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] Stripe buys OpenRouter for $7B",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "published": "2026-08-17T23:13:41+00:00",
+      "summary": "No GPUs, no Agents, just really, really, really good infra and distribution."
+    },
     {
       "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
       "source": "AI - Ars Technica",
