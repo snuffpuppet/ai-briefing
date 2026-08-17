@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T10:28:41.517549+00:00",
+  "generated_at": "2026-08-17T11:21:42.581176+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "What happens when a kid’s robot best friend dies?",
@@ -11,6 +11,14 @@
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "published": "2026-08-17T09:00:00+00:00",
       "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "published": "2026-08-17T03:15:00+00:00",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
     },
     {
       "title": "Markdown SVG upgrades",
