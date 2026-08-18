@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-18T12:39:26.642995+00:00",
+  "generated_at": "2026-08-18T13:39:52.812911+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "published": "2026-08-18T13:00:04+00:00",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+    },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "source": "OpenAI News",
@@ -26,7 +34,7 @@
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "published": "2026-08-18T10:06:43+00:00",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
     },
     {
       "title": "AI’s recursive self-improvement might not come so quickly after all",
