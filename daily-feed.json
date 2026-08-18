@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-18T21:20:35.021361+00:00",
+  "generated_at": "2026-08-18T22:19:47.498244+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/glean-model-routing",
+      "published": "2026-08-18T21:41:10+00:00",
+      "summary": "Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems."
+    },
+    {
+      "title": "Mojo🔥 is now open source",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "published": "2026-08-18T21:39:20+00:00",
+      "summary": "Mojo🔥 is now open source\nMojo🔥 is now open source\nThe Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.\nWhen Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025:\n\nMojo may or m"
+    },
     {
       "title": "Strengthening democratic oversight in national security",
       "source": "OpenAI News",
