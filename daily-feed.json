@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:30:10.135609+00:00",
+  "generated_at": "2026-08-18T15:28:12.467738+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 21,
@@ -11,6 +11,14 @@
       "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "published": "2026-08-18T13:00:04+00:00",
       "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+    },
+    {
+      "title": "Fragments: August 18",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-08-18.html",
+      "published": "2026-08-18T11:04:00-04:00",
+      "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock, who is the global CTO of Thoughtworks.\n\nNot just is she far better than me at r"
     },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -163,14 +171,6 @@
       "url": "https://openai.com/index/openai-joins-ports-pike-project",
       "published": "2026-08-17T05:00:00+00:00",
       "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "published": "2026-08-17T03:15:00+00:00",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
     }
   ]
 }
