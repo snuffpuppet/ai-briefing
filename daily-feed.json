@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:27:37.150693+00:00",
+  "generated_at": "2026-08-18T17:24:01.208925+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
@@ -59,6 +59,14 @@
       "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "published": "2026-08-18T09:00:00+00:00",
       "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/asana",
+      "published": "2026-08-18T07:00:00+00:00",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -171,14 +179,6 @@
       "url": "https://openai.com/index/the-defenders-window",
       "published": "2026-08-17T05:30:00+00:00",
       "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "published": "2026-08-17T05:00:00+00:00",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
     }
   ]
 }
