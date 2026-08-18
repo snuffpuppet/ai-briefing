@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-18T10:24:53.501025+00:00",
+  "generated_at": "2026-08-18T11:22:02.637636+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+    },
     {
       "title": "We still don’t know how people are really using AI",
       "source": "Artificial intelligence – MIT Technology Review",
