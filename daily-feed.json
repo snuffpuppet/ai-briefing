@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-18T19:24:37.718977+00:00",
+  "generated_at": "2026-08-18T20:19:58.004347+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Strengthening Democratic Oversight in National Security",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "published": "2026-08-18T19:00:00+00:00",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+    },
     {
       "title": "How Much Memory Does Your Agent Actually Need?",
       "source": "Hugging Face - Blog",
