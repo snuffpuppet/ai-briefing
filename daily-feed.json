@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-18T09:29:20.740866+00:00",
+  "generated_at": "2026-08-18T10:24:53.501025+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 18,
   "items": [
+    {
+      "title": "We still don’t know how people are really using AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "published": "2026-08-18T10:06:43+00:00",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
+    },
     {
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
       "source": "Simon Willison's Weblog",
@@ -131,14 +147,6 @@
       "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
       "published": "2026-08-16T23:59:37+00:00",
       "summary": "I started building my markdown-svg-renderer tool in May, but I've since added enough features to it that it's worth talking about here again.\nIt's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is a problem that I needed to solve!\nThe tool is very simple. Navigate to markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save that Markdown to a CORS-friendly U"
-    },
-    {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "published": "2026-08-16T22:00:39+00:00",
-      "summary": "Friday's big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive.\nQwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently a"
     }
   ]
 }
