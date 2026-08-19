@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-08-19T19:21:57.326885+00:00",
+  "generated_at": "2026-08-19T20:23:12.988970+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "published": "2026-08-19T20:04:41+00:00",
+      "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google."
+    },
     {
       "title": "Offering Zero Data Retention for frontier models",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "published": "2026-08-19T19:00:00+00:00",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     },
