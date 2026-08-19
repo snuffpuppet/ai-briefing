@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-19T03:43:02.492718+00:00",
+  "generated_at": "2026-08-19T05:26:25.762585+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "published": "2026-08-18T22:00:00+00:00",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+    },
     {
       "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
       "source": "Latent.Space",
