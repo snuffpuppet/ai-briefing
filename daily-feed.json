@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T23:18:56.101648+00:00",
+  "generated_at": "2026-08-19T01:04:50.753762+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
@@ -203,14 +203,6 @@
       "url": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
       "published": "2026-08-17T13:05:36+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuition:…The new frontier for analyzing AI systems is understanding how good they are at inferring the unwritten rules of [&#8230;]"
-    },
-    {
-      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
-      "published": "2026-08-17T13:00:02+00:00",
-      "summary": "Representing a significant milestone in AI-assisted mathematical research, a team at Axiom Math has automatically verified the proof of a theorem relating to prime numbers—colloquially referred to as the “246 theorem”—for the first time using the company’s AI system AxiomProver.In formal verification, mathematicians task a computer with checking a machine-readable version of a proof. The process is not a 100 percent guarantee that the proof is correct, as a recent demonstration showed, exposing"
     }
   ]
 }
