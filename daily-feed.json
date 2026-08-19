@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-19T15:27:57.253787+00:00",
+  "generated_at": "2026-08-19T16:27:42.773763+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Meta ran ads for an app promising to nudify female politicians",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "published": "2026-08-19T15:45:29+00:00",
+      "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician."
+    },
     {
       "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
       "source": "Hugging Face - Blog",
