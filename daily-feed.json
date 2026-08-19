@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T17:23:26.112325+00:00",
+  "generated_at": "2026-08-19T18:30:46.351948+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -27,6 +27,14 @@
       "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
       "published": "2026-08-19T15:45:29+00:00",
       "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician."
+    },
+    {
+      "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/practitioner-voice.html",
+      "published": "2026-08-19T14:15:00-04:00",
+      "summary": "Jim Highsmith recognizes that effective writing from a practitioner is\n      a style distinct from academic writing or thought-leadership content. It's\n      a style that I advocate, and my contributors mostly follow. Jim decided it\n      was important to give it a name, and identify what makes it distinctive.\n\nmore…"
     },
     {
       "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
