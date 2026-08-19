@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:30:46.351948+00:00",
+  "generated_at": "2026-08-19T19:21:57.326885+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
@@ -27,6 +27,14 @@
       "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
       "published": "2026-08-19T15:45:29+00:00",
       "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician."
+    },
+    {
+      "title": "Citizens Build, Agents Execute, Experts Govern",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+      "published": "2026-08-19T14:30:00-04:00",
+      "summary": "TL;DRWhy building an app over the weekend isn't the same as building enterprise software\nI’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.\n\nThe conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingl"
     },
     {
       "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
@@ -171,14 +179,6 @@
       "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "published": "2026-08-18T09:00:00+00:00",
       "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/asana",
-      "published": "2026-08-18T07:00:00+00:00",
-      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
     }
   ]
 }
