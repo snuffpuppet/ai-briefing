@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T07:35:26.181117+00:00",
+  "generated_at": "2026-08-19T08:33:41.113116+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 19,
   "items": [
     {
       "title": "ChatGPT Ads expands across Europe",
@@ -155,14 +155,6 @@
       "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
       "published": "2026-08-17T21:18:49+00:00",
       "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”"
-    },
-    {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "published": "2026-08-17T19:46:21+00:00",
-      "summary": ""
     }
   ]
 }
