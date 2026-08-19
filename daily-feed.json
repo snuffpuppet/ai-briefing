@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T02:54:25.561407+00:00",
+  "generated_at": "2026-08-19T03:43:02.492718+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 21,
   "items": [
     {
       "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
@@ -171,22 +171,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "published": "2026-08-17T18:13:47+00:00",
       "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo."
-    },
-    {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-      "published": "2026-08-17T15:21:29+00:00",
-      "summary": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility\nExcellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, widely suspected to be companies looking to scan them for AI training (see my previous coverage of Anthropic's book scanning from June 2025.)\n404 Media investigated with an AirTag!\n\nIn July, one bookseller told me they r"
-    },
-    {
-      "title": "Teaching Everyone to Fish for Tokens",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
-      "published": "2026-08-17T15:07:49+00:00",
-      "summary": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI."
     }
   ]
 }
