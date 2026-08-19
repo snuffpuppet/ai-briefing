@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-19T22:21:06.789369+00:00",
+  "generated_at": "2026-08-19T23:19:45.073972+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Quoting Jeremy Morrell",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "published": "2026-08-19T22:56:31+00:00",
+      "summary": "My hypothesis is that there is a new opportunity for Extensible Software on the web. LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces. We can give our users super powers.\n&mdash; Jeremy Morrell, Extensible Software in the age of LLMs\n\n    Tags: sandbox"
+    },
+    {
+      "title": "Conceptual integrity and counting lines of code",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "published": "2026-08-19T22:46:07+00:00",
+      "summary": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove disfluencies\").\nThis is the latest version of an argument I've been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents,"
+    },
     {
       "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
       "source": "AI - Ars Technica",
@@ -147,30 +163,6 @@
       "url": "https://martinfowler.com/fragments/2026-08-18.html",
       "published": "2026-08-18T11:04:00-04:00",
       "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock, who is the global CTO of Thoughtworks.\n\nNot just is she far better than me at r"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
     }
   ]
 }
