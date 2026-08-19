@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T06:38:50.114114+00:00",
+  "generated_at": "2026-08-19T07:35:26.181117+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
     {
       "title": "ChatGPT Ads expands across Europe",
@@ -163,14 +163,6 @@
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "published": "2026-08-17T19:46:21+00:00",
       "summary": ""
-    },
-    {
-      "title": "What Flock’s defenders are missing",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "published": "2026-08-17T19:16:09+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;"
     }
   ]
 }
