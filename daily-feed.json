@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-19T13:41:08.535767+00:00",
+  "generated_at": "2026-08-19T14:29:53.060265+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "published": "2026-08-19T13:48:49+00:00",
+      "summary": ""
+    },
     {
       "title": "[AINews] Memory prices up 500% in 12 months",
       "source": "Latent.Space",
@@ -42,7 +50,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "published": "2026-08-18T21:39:20+00:00",
-      "summary": "Mojo🔥 is now open source\nMojo🔥 is now open source\nThe Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.\nWhen Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025:\n\nMojo may or m"
+      "summary": "Mojo🔥 is now open source\nThe Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.\nWhen Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025:\n\nMojo may or may not evolve into a full"
     },
     {
       "title": "Strengthening democratic oversight in national security",
