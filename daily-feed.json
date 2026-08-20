@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T02:53:35.482806+00:00",
+  "generated_at": "2026-08-20T03:43:14.257326+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 19,
   "items": [
     {
       "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
@@ -155,14 +155,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
       "published": "2026-08-18T16:21:06+00:00",
       "summary": "Trend: more CTOs, VPEs, and Heads of Engineering are walking away from their high-status, in-demand positions. There are many reasons, mostly related to AI, and to \"founder mode\""
-    },
-    {
-      "title": "Fragments: August 18",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-08-18.html",
-      "published": "2026-08-18T11:04:00-04:00",
-      "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock, who is the global CTO of Thoughtworks.\n\nNot just is she far better than me at r"
     }
   ]
 }
