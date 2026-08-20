@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-20T20:24:19.502557+00:00",
+  "generated_at": "2026-08-20T21:24:31.757560+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
   "items": [
+    {
+      "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/wayfinder-skill",
+      "published": "2026-08-20T20:59:09+00:00",
+      "summary": "Matt Pocock tells us about his /wayfinder skill, for greenfield projects or for when the way forward is unclear."
+    },
     {
       "title": "The Pulse: We need to talk about migrations with AI",
       "source": "The Pragmatic Engineer",
@@ -139,14 +147,6 @@
       "url": "https://martinfowler.com/articles/practitioner-voice.html",
       "published": "2026-08-19T14:15:00-04:00",
       "summary": "Jim Highsmith recognizes that effective writing from a practitioner is\n      a style distinct from academic writing or thought-leadership content. It's\n      a style that I advocate, and my contributors mostly follow. Jim decided it\n      was important to give it a name, and identify what makes it distinctive.\n\nmore…"
-    },
-    {
-      "title": "[AINews] Memory prices up 500% in 12 months",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
-      "published": "2026-08-19T08:44:52+00:00",
-      "summary": "the Memory crunch continues - Moore&#8217;s Law reversed to 2007 levels"
     }
   ]
 }
