@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-20T09:31:06.765253+00:00",
+  "generated_at": "2026-08-20T10:26:33.160757+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "published": "2026-08-20T09:47:22+00:00",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;"
+    },
     {
       "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
       "source": "Latent.Space",
@@ -115,30 +123,6 @@
       "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/The-alpha-playbook-AI-for-investment-professionals",
       "published": "2026-08-19T00:00:00+00:00",
       "summary": "The alpha playbook: AI for investment professionals"
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "published": "2026-08-18T22:00:00+00:00",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-    },
-    {
-      "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/glean-model-routing",
-      "published": "2026-08-18T21:41:10+00:00",
-      "summary": "Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems."
-    },
-    {
-      "title": "Mojo🔥 is now open source",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-      "published": "2026-08-18T21:39:20+00:00",
-      "summary": "Mojo🔥 is now open source\nThe Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.\nWhen Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025:\n\nMojo may or may not evolve into a full"
     }
   ]
 }
