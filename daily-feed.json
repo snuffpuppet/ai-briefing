@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T11:23:17.262264+00:00",
+  "generated_at": "2026-08-20T12:41:57.014837+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 14,
   "items": [
     {
       "title": "Unlocking hidden revenue streams with market models",
@@ -115,14 +115,6 @@
       "url": "https://openai.com/index/replit",
       "published": "2026-08-19T07:00:00+00:00",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-    },
-    {
-      "title": "The alpha playbook: AI for investment professionals",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/The-alpha-playbook-AI-for-investment-professionals",
-      "published": "2026-08-19T00:00:00+00:00",
-      "summary": "The alpha playbook: AI for investment professionals"
     }
   ]
 }
