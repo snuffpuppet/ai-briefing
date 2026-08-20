@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T06:40:07.916725+00:00",
+  "generated_at": "2026-08-20T07:37:59.312740+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
@@ -139,14 +139,6 @@
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "published": "2026-08-18T21:39:20+00:00",
       "summary": "Mojo🔥 is now open source\nThe Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.\nWhen Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025:\n\nMojo may or may not evolve into a full"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
     }
   ]
 }
