@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T18:34:40.468187+00:00",
+  "generated_at": "2026-08-20T19:28:08.758685+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "The Pulse: We need to talk about migrations with AI",
@@ -139,14 +139,6 @@
       "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
       "published": "2026-08-19T08:44:52+00:00",
       "summary": "the Memory crunch continues - Moore&#8217;s Law reversed to 2007 levels"
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/replit",
-      "published": "2026-08-19T07:00:00+00:00",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     }
   ]
 }
