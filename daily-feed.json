@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-20T04:33:46.938957+00:00",
+  "generated_at": "2026-08-20T05:27:08.341175+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+      "published": "2026-08-20T05:17:12+00:00",
+      "summary": "Every lab CEO is on X now"
+    },
     {
       "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
       "source": "Simon Willison's Weblog",
