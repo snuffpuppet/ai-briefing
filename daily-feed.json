@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T22:23:51.217512+00:00",
+  "generated_at": "2026-08-20T23:22:14.876094+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
@@ -35,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "published": "2026-08-20T15:42:39+00:00",
       "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;"
+    },
+    {
+      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+      "published": "2026-08-20T15:37:00+00:00",
+      "summary": "Research: A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView\n        Today saw the long awaited release of Bun 1.4, the first stable version since the infamous Rust rewrite a few months ago.\nInterestingly, the Rust rewrite was downplayed in the release notes, which introduced a bewildering array of new features and claimed 2,900 additional bug fixes:\n\nBun 1.4 adds +1,517 tests from the Node.js test suite - our biggest jump in Node.js compatibility since Bun 1.0. Bun v1.4 also fixes"
     },
     {
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
