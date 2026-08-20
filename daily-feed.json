@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-20T12:41:57.014837+00:00",
+  "generated_at": "2026-08-20T13:43:09.592576+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "published": "2026-08-20T13:00:35+00:00",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+    },
     {
       "title": "Unlocking hidden revenue streams with market models",
       "source": "Artificial intelligence – MIT Technology Review",
