@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-20T15:30:12.946828+00:00",
+  "generated_at": "2026-08-20T16:31:38.754143+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "published": "2026-08-20T15:42:39+00:00",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;"
+    },
     {
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "source": "AI - Ars Technica",
@@ -27,6 +35,14 @@
       "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
       "published": "2026-08-20T05:17:12+00:00",
       "summary": "Every lab CEO is on X now"
+    },
+    {
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/stampli",
+      "published": "2026-08-20T00:00:00+00:00",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
     },
     {
       "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
