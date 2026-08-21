@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T06:40:38.840073+00:00",
+  "generated_at": "2026-08-21T07:39:34.471914+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
@@ -139,14 +139,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
       "published": "2026-08-19T20:04:41+00:00",
       "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google."
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "published": "2026-08-19T19:00:00+00:00",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     }
   ]
 }
