@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T20:22:20.623510+00:00",
+  "generated_at": "2026-08-21T21:20:44.108340+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 20,
   "items": [
     {
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
@@ -11,6 +11,22 @@
       "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
       "published": "2026-08-21T18:00:01+00:00",
       "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.Ingole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for hi"
+    },
+    {
+      "title": "llm 0.32.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "published": "2026-08-21T17:16:13+00:00",
+      "summary": "Release: llm 0.32.1\n        Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx, and it turned out LLM depended on that library but only installed it via a transitive openai dependency.\nThis dot-release fixes that for the moment by pinning to openai&lt;3, and a soon-to-drop 0.33 release will switch from httpx to httpx2.\n    \n    \n        Tags: httpx, openai, llm"
+    },
+    {
+      "title": "llm-openrouter 0.7",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "published": "2026-08-21T16:58:19+00:00",
+      "summary": "Release: llm-openrouter 0.7\n        Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter.\n\n\nUpdated for compatibility with LLM 0.32.\nModels now use OpenRouter's implementation of the Responses API.\nThree new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch.\n\n\n    \n    \n        Tags: llm, openrouter"
     },
     {
       "title": "Stop Making TUIs",
