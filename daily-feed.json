@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-21T15:29:39.284942+00:00",
+  "generated_at": "2026-08-21T16:29:51.539618+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Stop Making TUIs",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "published": "2026-08-21T16:07:32+00:00",
+      "summary": "Stop Making TUIs\nThomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing.\nI wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March, and I'm still using both of those on a daily basis.\nI'm not habitually knocking out real UIs for my other projects yet, but I'm running out of excuses!\nThomas:\n\nIf you haven’t"
+    },
+    {
+      "title": "A Tale of Two Flink Autoscalers",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+      "published": "2026-08-21T16:01:01+00:00",
+      "summary": "Samuel Yeboah, Francesco Di Chiara and Mingliang LiuToday, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for. We now run both in production and are steadily converging on the open-source one. Along the way we learned some hard lessons about metrics, cost,"
+    },
     {
       "title": "Quoting Matt Webb",
       "source": "Simon Willison's Weblog",
