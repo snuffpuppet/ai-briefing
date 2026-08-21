@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T07:39:34.471914+00:00",
+  "generated_at": "2026-08-21T08:36:50.773998+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
@@ -131,14 +131,6 @@
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
       "published": "2026-08-19T22:46:07+00:00",
       "summary": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove disfluencies\").\nThis is the latest version of an argument I've been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents,"
-    },
-    {
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "published": "2026-08-19T20:04:41+00:00",
-      "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google."
     }
   ]
 }
