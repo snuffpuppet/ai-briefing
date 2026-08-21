@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-21T11:22:23.438167+00:00",
+  "generated_at": "2026-08-21T12:40:31.676519+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published": "2026-08-21T11:59:48+00:00",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
     {
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "source": "AI - Ars Technica",
@@ -107,14 +115,6 @@
       "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
       "published": "2026-08-20T05:17:12+00:00",
       "summary": "Every lab CEO is on X now"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/stampli",
-      "published": "2026-08-20T00:00:00+00:00",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
     }
   ]
 }
