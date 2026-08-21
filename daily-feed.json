@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-20T23:22:14.876094+00:00",
+  "generated_at": "2026-08-21T01:07:58.854781+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "published": "2026-08-20T23:57:32+00:00",
+      "summary": "ChatGPT search now uses the site:operator at scale\nPromptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT.\nThe Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content m"
+    },
     {
       "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
       "source": "Latent.Space",
