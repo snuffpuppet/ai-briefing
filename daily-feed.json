@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T02:59:42.707015+00:00",
+  "generated_at": "2026-08-21T03:55:27.427690+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 19,
   "items": [
     {
       "title": "ChatGPT search now uses the site:operator at scale",
@@ -139,14 +139,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
       "published": "2026-08-19T16:53:57+00:00",
       "summary": "Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed."
-    },
-    {
-      "title": "Meta ran ads for an app promising to nudify female politicians",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-      "published": "2026-08-19T15:45:29+00:00",
-      "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician."
     },
     {
       "title": "Citizens Build, Agents Execute, Experts Govern",
