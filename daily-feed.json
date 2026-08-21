@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-21T05:29:19.397927+00:00",
+  "generated_at": "2026-08-21T06:40:38.840073+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "published": "2026-08-21T05:45:21+00:00",
+      "summary": "Yes, we&#8217;re confused too."
+    },
     {
       "title": "Agents on Databricks: The platform is ready, your business context is not",
       "source": "Thoughtworks Insights",
@@ -139,22 +147,6 @@
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "published": "2026-08-19T19:00:00+00:00",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-    },
-    {
-      "title": "Citizens Build, Agents Execute, Experts Govern",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-      "published": "2026-08-19T14:30:00-04:00",
-      "summary": "TL;DRWhy building an app over the weekend isn't the same as building enterprise software\nI’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.\n\nThe conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingl"
-    },
-    {
-      "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/practitioner-voice.html",
-      "published": "2026-08-19T14:15:00-04:00",
-      "summary": "Jim Highsmith recognizes that effective writing from a practitioner is\n      a style distinct from academic writing or thought-leadership content. It's\n      a style that I advocate, and my contributors mostly follow. Jim decided it\n      was important to give it a name, and identify what makes it distinctive.\n\nmore…"
     }
   ]
 }
