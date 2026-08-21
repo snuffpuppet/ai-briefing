@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T12:40:31.676519+00:00",
+  "generated_at": "2026-08-21T13:41:57.933331+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -27,6 +27,14 @@
       "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
       "published": "2026-08-21T05:45:21+00:00",
       "summary": "Yes, we&#8217;re confused too."
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "2026-08-21T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Agents on Databricks: The platform is ready, your business context is not",
