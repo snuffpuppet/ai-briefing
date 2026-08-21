@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-21T04:35:10.155948+00:00",
+  "generated_at": "2026-08-21T05:29:19.397927+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 19,
   "items": [
+    {
+      "title": "Agents on Databricks: The platform is ready, your business context is not",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not",
+      "published": "2026-08-21T00:00:00+00:00",
+      "summary": "Agents on Databricks: The platform is ready, your business context is not"
+    },
     {
       "title": "ChatGPT search now uses the site:operator at scale",
       "source": "Simon Willison's Weblog",
@@ -131,14 +139,6 @@
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "published": "2026-08-19T19:00:00+00:00",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-    },
-    {
-      "title": "From Chrome DevTools to AI Engineering, with Addy Osmani",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
-      "published": "2026-08-19T16:53:57+00:00",
-      "summary": "Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed."
     },
     {
       "title": "Citizens Build, Agents Execute, Experts Govern",
