@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-22T07:29:01.109162+00:00",
+  "generated_at": "2026-08-22T08:25:15.790824+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "published": "2026-08-22T07:36:00+00:00",
+      "summary": "Did you think RSI stopped at model training?"
+    },
+    {
+      "title": "The Evolution of the Agent Harness",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/attention-interface",
+      "published": "2026-08-22T07:30:52+00:00",
+      "summary": "Models keep absorbing the harness into their weights &#8212; soon, it will be a harness for human attention rather than for the model."
+    },
     {
       "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
       "source": "Latent.Space",
