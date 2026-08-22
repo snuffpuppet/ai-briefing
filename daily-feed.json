@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T11:18:05.269525+00:00",
+  "generated_at": "2026-08-22T12:33:08.759571+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 13,
   "items": [
     {
       "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
@@ -107,30 +107,6 @@
       "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
       "published": "2026-08-21T05:45:21+00:00",
       "summary": "Yes, we&#8217;re confused too."
-    },
-    {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "published": "2026-08-21T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Agents on Databricks: The platform is ready, your business context is not",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not",
-      "published": "2026-08-21T00:00:00+00:00",
-      "summary": "Agents on Databricks: The platform is ready, your business context is not"
-    },
-    {
-      "title": "ChatGPT search now uses the site:operator at scale",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-      "published": "2026-08-20T23:57:32+00:00",
-      "summary": "ChatGPT search now uses the site:operator at scale\nPromptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT.\nThe Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content m"
     }
   ]
 }
