@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T03:38:29.670022+00:00",
+  "generated_at": "2026-08-22T04:29:31.447331+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
@@ -34,7 +34,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
       "published": "2026-08-21T16:58:19+00:00",
-      "summary": "Release: llm-openrouter 0.7\n        Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter.\n\n\nUpdated for compatibility with LLM 0.32.\nModels now use OpenRouter's implementation of the Responses API.\nThree new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch.\n\n\n    \n    \n        Tags: llm, openrouter"
+      "summary": "Release: llm-openrouter 0.7\n        Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter.\n\n\nUpdated for compatibility with LLM 0.32.\nModels now use OpenRouter's implementation of the Responses API.\nThree new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch.\n\n\n    \n    \n        Tags: llm, openrouter"
     },
     {
       "title": "Stop Making TUIs",
@@ -139,14 +139,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "published": "2026-08-20T16:52:57+00:00",
       "summary": ""
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "published": "2026-08-20T15:42:39+00:00",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;"
     }
   ]
 }
