@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T04:29:31.447331+00:00",
+  "generated_at": "2026-08-22T05:26:02.703851+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
@@ -131,14 +131,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
       "published": "2026-08-20T17:53:01+00:00",
       "summary": "Asana completed a testing framework migration in two weeks, that they would have delayed for years more, and they&#8217;re not alone. Also: AI startups could make Gartner much less relevant, and more"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "published": "2026-08-20T16:52:57+00:00",
-      "summary": ""
     }
   ]
 }
