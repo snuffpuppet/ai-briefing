@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-22T17:17:33.975555+00:00",
+  "generated_at": "2026-08-22T18:25:30.780085+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "llm 0.33",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "published": "2026-08-22T17:01:16+00:00",
+      "summary": "Release: llm 0.33\n        My highlights from this release:\n\n\nUpgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631\n\n\nI shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.\n\n\nllm embed and llm embed-multi now accept --key. The Python EmbeddingModel.embed(), EmbeddingModel.embed_multi(), Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedd"
+    },
     {
       "title": "More than just code review",
       "source": "Simon Willison's Weblog",
@@ -107,14 +115,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
       "published": "2026-08-21T11:00:53+00:00",
       "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
-    },
-    {
-      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "published": "2026-08-21T05:45:21+00:00",
-      "summary": "Yes, we&#8217;re confused too."
     }
   ]
 }
