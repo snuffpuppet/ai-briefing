@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-22T20:18:58.857693+00:00",
+  "generated_at": "2026-08-22T21:18:31.065036+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Quoting Linus Torvalds",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "published": "2026-08-22T21:04:26+00:00",
+      "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.\nI'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it.\nI suspect those things have been trained by people who may not be quite as stubborn as I am.\nBut while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit wher"
+    },
     {
       "title": "llm 0.33",
       "source": "Simon Willison's Weblog",
