@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-23T19:20:00.785640+00:00",
+  "generated_at": "2026-08-23T20:18:51.556528+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Quoting Drew Breunig",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "published": "2026-08-23T19:55:30+00:00",
+      "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems.\nBut then Fable landed. It was (and still is!) incredible. But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed.\nSo we started to think about what work went where.\n&mdash; Drew Breunig, Fable &amp; The End of the Free Lunch\n\n    Tags: drew-b"
+    },
     {
       "title": "Quoting Linus Torvalds",
       "source": "Simon Willison's Weblog",
@@ -27,22 +35,6 @@
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
       "published": "2026-08-22T15:56:54+00:00",
       "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.\nSometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a chance to a piece of software.\n\n    Tags: code-review, coding-agents, generative-ai,"
-    },
-    {
-      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "published": "2026-08-22T07:36:00+00:00",
-      "summary": "Did you think RSI stopped at model training?"
-    },
-    {
-      "title": "The Evolution of the Agent Harness",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/attention-interface",
-      "published": "2026-08-22T07:30:52+00:00",
-      "summary": "Models keep absorbing the harness into their weights &#8212; soon, it will be a harness for human attention rather than for the model."
     }
   ]
 }
