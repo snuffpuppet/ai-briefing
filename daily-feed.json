@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T02:59:42.278948+00:00",
+  "generated_at": "2026-08-23T03:56:12.684826+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 11,
   "items": [
     {
       "title": "Quoting Linus Torvalds",
@@ -91,14 +91,6 @@
       "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
       "published": "2026-08-21T16:01:01+00:00",
       "summary": "Samuel Yeboah, Francesco Di Chiara and Mingliang LiuToday, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for. We now run both in production and are steadily converging on the open-source one. Along the way we learned some hard lessons about metrics, cost,"
-    },
-    {
-      "title": "Quoting Matt Webb",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
-      "published": "2026-08-21T15:06:26+00:00",
-      "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn’t by reading books and asking mathematician friends – I learnt how to use quaternions just enough to make the app work.\nSo learning doesn’t stop just because I outsource a bunch of thinking to AI. It pushes me to learn more. I like that as an outcome.\n&"
     }
   ]
 }
