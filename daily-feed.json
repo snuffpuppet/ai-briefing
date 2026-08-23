@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T03:56:12.684826+00:00",
+  "generated_at": "2026-08-23T04:35:48.307305+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
     {
       "title": "Quoting Linus Torvalds",
@@ -75,22 +75,6 @@
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
       "published": "2026-08-21T16:58:19+00:00",
       "summary": "Release: llm-openrouter 0.7\n        Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter.\n\n\nUpdated for compatibility with LLM 0.32.\nModels now use OpenRouter's implementation of the Responses API.\nThree new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch.\n\n\n    \n    \n        Tags: llm, openrouter"
-    },
-    {
-      "title": "Stop Making TUIs",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-      "published": "2026-08-21T16:07:32+00:00",
-      "summary": "Stop Making TUIs\nThomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing.\nI wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March, and I'm still using both of those on a daily basis.\nI'm not habitually knocking out real UIs for my other projects yet, but I'm running out of excuses!\nThomas:\n\nIf you haven’t"
-    },
-    {
-      "title": "A Tale of Two Flink Autoscalers",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-      "published": "2026-08-21T16:01:01+00:00",
-      "summary": "Samuel Yeboah, Francesco Di Chiara and Mingliang LiuToday, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The second came from the Apache Flink community, and it can scale workloads our homegrown system was never designed for. We now run both in production and are steadily converging on the open-source one. Along the way we learned some hard lessons about metrics, cost,"
     }
   ]
 }
