@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T05:25:58.055877+00:00",
+  "generated_at": "2026-08-23T06:36:06.239599+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 6,
   "items": [
     {
       "title": "Quoting Linus Torvalds",
@@ -51,14 +51,6 @@
       "url": "https://www.latent.space/p/simile",
       "published": "2026-08-21T23:37:38+00:00",
       "summary": "Simile&#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it&#8217;s gone from fun exploration to very serious business."
-    },
-    {
-      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-      "published": "2026-08-21T18:00:01+00:00",
-      "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.Ingole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for hi"
     }
   ]
 }
