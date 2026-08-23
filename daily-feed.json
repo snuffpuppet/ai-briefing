@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T01:09:38.168068+00:00",
+  "generated_at": "2026-08-23T02:59:42.278948+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 12,
   "items": [
     {
       "title": "Quoting Linus Torvalds",
@@ -99,14 +99,6 @@
       "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
       "published": "2026-08-21T15:06:26+00:00",
       "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn’t by reading books and asking mathematician friends – I learnt how to use quaternions just enough to make the app work.\nSo learning doesn’t stop just because I outsource a bunch of thinking to AI. It pushes me to learn more. I like that as an outcome.\n&"
-    },
-    {
-      "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-      "published": "2026-08-21T14:32:37+00:00",
-      "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make traditional dashboards slow, fragmented, and difficult to act on.What You’ll Learn:Discover how a purpose-built semiconductor analytics platform can help engineers connect insights across domains without"
     }
   ]
 }
