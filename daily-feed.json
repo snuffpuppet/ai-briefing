@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T23:17:54.733438+00:00",
+  "generated_at": "2026-08-23T01:09:38.168068+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 13,
   "items": [
     {
       "title": "Quoting Linus Torvalds",
@@ -107,14 +107,6 @@
       "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
       "published": "2026-08-21T14:32:37+00:00",
       "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make traditional dashboards slow, fragmented, and difficult to act on.What You’ll Learn:Discover how a purpose-built semiconductor analytics platform can help engineers connect insights across domains without"
-    },
-    {
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "published": "2026-08-21T11:59:48+00:00",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
     }
   ]
 }
