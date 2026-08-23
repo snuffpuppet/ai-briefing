@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-23T20:18:51.556528+00:00",
+  "generated_at": "2026-08-23T21:18:34.670711+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "published": "2026-08-23T20:24:52+00:00",
+      "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive\nA few interesting numbers in this FT story gathered from \"people with knowledge of the matter\":\n\nAnthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here.\nAnthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\"\nAs for Ope"
+    },
     {
       "title": "Quoting Drew Breunig",
       "source": "Simon Willison's Weblog",
