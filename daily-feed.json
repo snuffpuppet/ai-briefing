@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T14:38:19.038865+00:00",
+  "generated_at": "2026-08-24T15:36:12.199540+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "How to encourage smarter AI use in the classroom",
@@ -35,6 +35,14 @@
       "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
       "published": "2026-08-24T11:38:15+00:00",
       "summary": "Your executable is a SQLite database\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.\nThe trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable &amp; Linkable Format.  The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema.\nTheir self-exec interpreter (C code here) can"
+    },
+    {
+      "title": "Fragments: August 24",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-08-24.html",
+      "published": "2026-08-24T11:29:00-04:00",
+      "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human\n\n\n  [Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, progra"
     },
     {
       "title": "Kids outlearn AI—and we still don’t know why",
