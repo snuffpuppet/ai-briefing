@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-24T07:55:48.900213+00:00",
+  "generated_at": "2026-08-24T08:45:43.190823+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Harnessing the agent semantic reliability at scale",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/harnessing-agent-semantic-reliability-at-scale",
+      "published": "2026-08-24T00:00:00+00:00",
+      "summary": "Harnessing the agent semantic reliability at scale"
+    },
     {
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "source": "Simon Willison's Weblog",
