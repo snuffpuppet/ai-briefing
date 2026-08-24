@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-24T16:33:27.267245+00:00",
+  "generated_at": "2026-08-24T17:27:56.797774+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 11,
   "items": [
+    {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "published": "2026-08-24T16:41:45+00:00",
+      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
+    },
+    {
+      "title": "Self-Driving Cars Could Someday Take Requests",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/autonomous-vehicles-motion-planner-llm",
+      "published": "2026-08-24T15:51:45+00:00",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nThe idea of letting a machine do the driving for you may put a lot of people off autonomous vehicles. But research could make it possible to backseat-drive an autonomous vehicle just as you might with a human driver.Self-driving cars carefully balance a host of parameters to ensure a smooth ride, including things like speed, acceleration, and the smoothness of turns. But human driving preferences ca"
+    },
     {
       "title": "How to encourage smarter AI use in the classroom",
       "source": "Artificial intelligence – MIT Technology Review",
