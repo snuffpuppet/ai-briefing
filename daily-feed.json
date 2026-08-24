@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T03:00:10.450924+00:00",
+  "generated_at": "2026-08-24T04:00:29.501278+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -35,14 +35,6 @@
       "url": "https://simonwillison.net/2026/Aug/22/llm/",
       "published": "2026-08-22T17:01:16+00:00",
       "summary": "Release: llm 0.33\n        My highlights from this release:\n\n\nUpgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631\n\n\nI shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.\n\n\nllm embed and llm embed-multi now accept --key. The Python EmbeddingModel.embed(), EmbeddingModel.embed_multi(), Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedd"
-    },
-    {
-      "title": "More than just code review",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "published": "2026-08-22T15:56:54+00:00",
-      "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.\nSometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software.\n\n    Tags: code-review, coding-agents, generative-ai,"
     }
   ]
 }
