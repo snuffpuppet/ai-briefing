@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T19:26:30.942786+00:00",
+  "generated_at": "2026-08-24T20:27:50.805856+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
@@ -27,6 +27,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
       "published": "2026-08-24T16:41:45+00:00",
       "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
+    },
+    {
+      "title": "llm-anthropic 0.27",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "published": "2026-08-24T16:27:04+00:00",
+      "summary": "Release: llm-anthropic 0.27\n        This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2. OpenAI made the same change in their v3.0.0 release two weeks ago.\nAnthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with:\n\nUpgrade to anthropic&gt;=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGR"
     },
     {
       "title": "Self-Driving Cars Could Someday Take Requests",
@@ -61,20 +69,20 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…A nice METR study lays out where acceleration is showing up…Here’s a little analysis from METR which [&#8230;]"
     },
     {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published": "2026-08-24T12:00:00+00:00",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+    },
+    {
       "title": "Your executable is a SQLite database",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
       "published": "2026-08-24T11:38:15+00:00",
       "summary": "Your executable is a SQLite database\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.\nThe trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable &amp; Linkable Format.  The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema.\nTheir self-exec interpreter (C code here) can"
-    },
-    {
-      "title": "Fragments: August 24",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-08-24.html",
-      "published": "2026-08-24T11:29:00-04:00",
-      "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human\n\n\n  [Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, progra"
     },
     {
       "title": "Kids outlearn AI—and we still don’t know why",
