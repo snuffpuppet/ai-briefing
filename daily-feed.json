@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-25T01:06:01.503543+00:00",
+  "generated_at": "2026-08-25T02:55:25.555500+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] Andrew Ng gets into AI Engineering",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+      "published": "2026-08-25T02:50:57+00:00",
+      "summary": "An industry legend starts covering the inevitable!"
+    },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
       "source": "AI - Ars Technica",
