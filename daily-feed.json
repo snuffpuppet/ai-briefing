@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-25T22:25:43.977650+00:00",
+  "generated_at": "2026-08-25T23:25:02.941467+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "published": "2026-08-25T22:59:30+00:00",
+      "summary": "EVE Online: The Move to Python 3 Begins!\nEVE Online has been one of the most interesting case studies in Python at scale for over twenty years now.\nThey've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010.\nTheir upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for exampl"
+    },
     {
       "title": "World humanoid robot games show runners breaking records, bursting into flames",
       "source": "AI - Ars Technica",
