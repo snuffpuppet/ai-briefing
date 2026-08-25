@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-25T12:41:34.380464+00:00",
+  "generated_at": "2026-08-25T13:47:10.837666+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "published": "2026-08-25T13:00:11+00:00",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind."
+    },
     {
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "source": "Hugging Face - Blog",
