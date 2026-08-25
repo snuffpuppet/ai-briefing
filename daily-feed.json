@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T18:35:31.827436+00:00",
+  "generated_at": "2026-08-25T19:28:41.004118+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "Why Ramp built its own in-house coding agent, Inspect",
@@ -107,6 +107,14 @@
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
       "published": "2026-08-25T00:00:00+00:00",
       "summary": ""
+    },
+    {
+      "title": "Getting to know the stages of the interview process at Thoughtworks",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/getting-to-know-the-stages-of-the-interview-process",
+      "published": "2026-08-25T00:00:00+00:00",
+      "summary": "Getting to know the stages of the interview process at Thoughtworks"
     },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
