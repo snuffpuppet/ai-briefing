@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-25T20:25:17.685062+00:00",
+  "generated_at": "2026-08-25T21:26:50.033830+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 27,
   "items": [
+    {
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "published": "2026-08-25T20:59:03+00:00",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges."
+    },
     {
       "title": "Why Ramp built its own in-house coding agent, Inspect",
       "source": "The Pragmatic Engineer",
@@ -211,14 +219,6 @@
       "url": "https://martinfowler.com/fragments/2026-08-24.html",
       "published": "2026-08-24T11:29:00-04:00",
       "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human\n\n\n  [Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, progra"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "published": "2026-08-24T09:00:00+00:00",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;"
     }
   ]
 }
