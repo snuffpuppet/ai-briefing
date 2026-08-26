@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-26T11:28:53.078610+00:00",
+  "generated_at": "2026-08-26T12:47:50.347614+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 19,
   "items": [
+    {
+      "title": "New Platform Peers Inside AI’s Black Box",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/silico-ai-interpretability",
+      "published": "2026-08-26T12:00:01+00:00",
+      "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model (LLM) with a question like “What is the best film ever made?” and the response will vary, and you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer.This mysterious behavior can be useful in some situations. But—as a recent incident where OpenAI could not explain why its advanced pre-release model hacked AI company Hugging Face highlighted—it can have negat"
+    },
     {
       "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
       "source": "AI - Ars Technica",
@@ -147,38 +155,6 @@
       "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
       "published": "2026-08-25T02:50:57+00:00",
       "summary": "An industry legend starts covering the inevitable!"
-    },
-    {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
-    },
-    {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Getting to know the stages of the interview process at Thoughtworks",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/getting-to-know-the-stages-of-the-interview-process",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": "Getting to know the stages of the interview process at Thoughtworks"
     }
   ]
 }
