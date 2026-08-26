@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T23:25:02.941467+00:00",
+  "generated_at": "2026-08-26T01:10:36.190857+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 26,
   "items": [
     {
       "title": "EVE Online: The Move to Python 3 Begins!",
@@ -203,22 +203,6 @@
       "url": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
       "published": "2026-08-24T13:12:40+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…A nice METR study lays out where acceleration is showing up…Here’s a little analysis from METR which [&#8230;]"
-    },
-    {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published": "2026-08-24T12:00:00+00:00",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-    },
-    {
-      "title": "Your executable is a SQLite database",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-      "published": "2026-08-24T11:38:15+00:00",
-      "summary": "Your executable is a SQLite database\nFarid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.\nThe trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable &amp; Linkable Format.  The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema.\nTheir self-exec interpreter (C code here) can"
     },
     {
       "title": "Fragments: August 24",
