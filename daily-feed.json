@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T04:38:46.409735+00:00",
+  "generated_at": "2026-08-26T05:33:33.550282+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 19,
   "items": [
     {
       "title": "EVE Online: The Move to Python 3 Begins!",
@@ -155,14 +155,6 @@
       "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
       "published": "2026-08-24T17:45:52+00:00",
       "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs. By co-designing MTIA’s communication library, HCCL, alongside the [...]\nRead More...\nThe post MTIA 300: Meta&#8217;s First Training Chip with Built-in NICs and Com"
-    },
-    {
-      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "published": "2026-08-24T16:41:45+00:00",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
     }
   ]
 }
