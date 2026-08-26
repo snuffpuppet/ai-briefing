@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T05:33:33.550282+00:00",
+  "generated_at": "2026-08-26T06:45:01.198211+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 17,
   "items": [
     {
       "title": "EVE Online: The Move to Python 3 Begins!",
@@ -139,22 +139,6 @@
       "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
       "published": "2026-08-24T21:45:53+00:00",
       "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations."
-    },
-    {
-      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-      "published": "2026-08-24T18:02:29+00:00",
-      "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles.  To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.  We&#8217;re releasing the MetaRoCE specification, a reference software implementation and a compliance test [...]\nRead More...\nThe post MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet appeared first on"
-    },
-    {
-      "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
-      "published": "2026-08-24T17:45:52+00:00",
-      "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior performance over general-purpose GPUs. By co-designing MTIA’s communication library, HCCL, alongside the [...]\nRead More...\nThe post MTIA 300: Meta&#8217;s First Training Chip with Built-in NICs and Com"
     }
   ]
 }
