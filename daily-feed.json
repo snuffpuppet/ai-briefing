@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T12:47:50.347614+00:00",
+  "generated_at": "2026-08-26T13:54:36.647033+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "New Platform Peers Inside AI’s Black Box",
@@ -59,6 +59,14 @@
       "url": "https://openai.com/index/loveholidays",
       "published": "2026-08-26T00:00:00+00:00",
       "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published": "2026-08-26T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "EVE Online: The Move to Python 3 Begins!",
