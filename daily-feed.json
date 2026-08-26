@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-26T07:44:58.993599+00:00",
+  "generated_at": "2026-08-26T08:41:27.741399+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Quoting Paul Dix",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+      "published": "2026-08-26T08:07:55+00:00",
+      "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can pro"
+    },
     {
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
       "source": "Artificial intelligence – MIT Technology Review",
