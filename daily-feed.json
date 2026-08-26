@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-26T10:34:25.585491+00:00",
+  "generated_at": "2026-08-26T11:28:53.078610+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "published": "2026-08-26T11:10:49+00:00",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment."
+    },
     {
       "title": "Raised on AI",
       "source": "Artificial intelligence – MIT Technology Review",
