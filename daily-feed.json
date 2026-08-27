@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-08-27T13:47:32.744178+00:00",
+  "generated_at": "2026-08-27T23:36:41.248426+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "published": "2026-08-27T22:50:25+00:00",
+      "summary": "Breaking Claude Code Opus 5 Auto Mode\nAnthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness.\nJohann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a"
+    },
+    {
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "published": "2026-08-27T22:15:43+00:00",
+      "summary": "Standardized driver interface  aims to let devices talk to AI and each other."
+    },
+    {
+      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+      "published": "2026-08-27T20:52:31+00:00",
+      "summary": "xAI accused of training Grok on real and AI-generated child pornography."
+    },
+    {
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "published": "2026-08-27T19:55:22+00:00",
+      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows."
+    },
+    {
+      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+      "published": "2026-08-27T18:57:08+00:00",
+      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers."
+    },
+    {
+      "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+      "published": "2026-08-27T17:59:17+00:00",
+      "summary": "We find out why Meta destroyed its standout engineering culture: it feared AI-native startups doing more with less. Also: thoughts on Ramp&#8217;s AI infra, GitHub&#8217;s load doubles in four months, and more"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "published": "2026-08-27T16:11:32+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "published": "2026-08-27T14:00:13+00:00",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns."
+    },
+    {
+      "title": "How much of a problem is AI’s water use?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+      "published": "2026-08-27T13:57:08+00:00",
+      "summary": "AI’s water footprint is growing, but location and cooling technology make a difference."
+    },
     {
       "title": "Piloting the world's first double-blind AI evaluations",
       "source": "Google DeepMind News",
@@ -27,6 +99,14 @@
       "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
       "published": "2026-08-27T09:11:00-04:00",
       "summary": "Lots of organizations are excited about what AI can do to streamline\n      their processes, save money, and juice margins. But AI's capabilities are\n      founded on the data that AI accesses, and for many organizations that\n      foundation is little more than sand. Pramod Sadalage and\n      Prem Chandrasekaran write about how to build a reliable\n      foundation of data that can be accurate and trusted.\n\nmore…"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "published": "2026-08-27T09:00:00+00:00",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
     },
     {
       "title": "Expanding OpenAI’s presence in Brazil",
@@ -139,62 +219,6 @@
       "url": "https://spectrum.ieee.org/silico-ai-interpretability",
       "published": "2026-08-26T12:00:01+00:00",
       "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model with a question like “What is the best film ever made?” and the response will vary. And you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer.This mysterious behavior can be useful in some situations. But—as highlighted by a recent incident where OpenAI could not explain why its advanced prerelease model hacked AI company Hugging Face—it can have negative"
-    },
-    {
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "published": "2026-08-26T11:10:49+00:00",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment."
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/learning-never-stops",
-      "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-    },
-    {
-      "title": "Raised on AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "published": "2026-08-26T09:00:00+00:00",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;"
-    },
-    {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "published": "2026-08-26T09:00:00+00:00",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;"
-    },
-    {
-      "title": "Quoting Paul Dix",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-      "published": "2026-08-26T08:07:55+00:00",
-      "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can pro"
-    },
-    {
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "published": "2026-08-26T07:01:00+00:00",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;"
     }
   ]
 }
