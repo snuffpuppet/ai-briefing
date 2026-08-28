@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-28T09:32:05.741768+00:00",
+  "generated_at": "2026-08-28T21:06:31.965203+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "published": "2026-08-28T18:07:55+00:00",
+      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance."
+    },
+    {
+      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "published": "2026-08-28T16:01:02+00:00",
+      "summary": "By Emma Yanyang Kong, Aditya Deshpande, Asad Abbasi, Bowei Yan, David Fagnan, Ashish Rastogi, Dhaval Patel, Ray ZhangIntroductionThe Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the video previews that autoplay while you browse, is there to connect you with a story you will love. We call these visual cues assets, and choosing the right one for each member is a personalization problem of its own. But which image or video preview of Squid Game shou"
+    },
+    {
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "published": "2026-08-28T15:42:24+00:00",
+      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light."
+    },
     {
       "title": "[AINews] OpenAI to reach AGI bar by end-2026",
       "source": "Latent.Space",
@@ -34,7 +58,7 @@
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "published": "2026-08-27T22:15:43+00:00",
-      "summary": "Standardized driver interface  aims to let devices talk to AI and each other."
+      "summary": "Standardized driver interface aims to let devices talk to AI and each other."
     },
     {
       "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
@@ -115,62 +139,6 @@
       "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
       "published": "2026-08-27T09:11:00-04:00",
       "summary": "Lots of organizations are excited about what AI can do to streamline\n      their processes, save money, and juice margins. But AI's capabilities are\n      founded on the data that AI accesses, and for many organizations that\n      foundation is little more than sand. Pramod Sadalage and\n      Prem Chandrasekaran write about how to build a reliable\n      foundation of data that can be accurate and trusted.\n\nmore…"
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "published": "2026-08-27T09:00:00+00:00",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
-    },
-    {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "published": "2026-08-27T03:00:00+00:00",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
-    },
-    {
-      "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
-      "published": "2026-08-27T01:50:54+00:00",
-      "summary": "Open Source wins!"
-    },
-    {
-      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
-      "published": "2026-08-27T01:31:22+00:00",
-      "summary": "The conference with hot chips and even hotter companies"
-    },
-    {
-      "title": "The agentic frontier: Modernizing commodities trading through AI ecosystems",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/legacy-modernization/the-agentic-frontier-modernizing-commodities-trading-through-ai-ecosystems",
-      "published": "2026-08-27T00:00:00+00:00",
-      "summary": "The agentic frontier: Modernizing commodities trading through AI ecosystems"
-    },
-    {
-      "title": "The agentic wealth advantage",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/the-agentic-wealth-advantage",
-      "published": "2026-08-27T00:00:00+00:00",
-      "summary": "The agentic wealth advantage"
-    },
-    {
-      "title": "Qwen3.8-Flash-Next",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-      "published": "2026-08-26T23:52:58+00:00",
-      "summary": "Qwen3.8-Flash-Next\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\".\nIt's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost.\nI've been trying it out on a DGX Spark using these Unsloth quantized models. I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans) and the 78.9GB UD-Q2_K_XL (producing these).\nMy favori"
     }
   ]
 }
