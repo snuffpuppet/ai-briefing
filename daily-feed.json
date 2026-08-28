@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-27T23:36:41.248426+00:00",
+  "generated_at": "2026-08-28T09:32:05.741768+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+      "published": "2026-08-28T07:12:10+00:00",
+      "summary": "It&#8217;s Time. We&#8217;re in the Endgame now."
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published": "2026-08-28T02:00:00+00:00",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+    },
     {
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "source": "Simon Willison's Weblog",
@@ -155,70 +171,6 @@
       "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
       "published": "2026-08-26T23:52:58+00:00",
       "summary": "Qwen3.8-Flash-Next\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\".\nIt's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost.\nI've been trying it out on a DGX Spark using these Unsloth quantized models. I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans) and the 78.9GB UD-Q2_K_XL (producing these).\nMy favori"
-    },
-    {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "published": "2026-08-26T21:25:27+00:00",
-      "summary": "Report shows Meta's challenges replacing people with AI agents."
-    },
-    {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "published": "2026-08-26T19:19:22+00:00",
-      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome."
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;"
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "published": "2026-08-26T17:01:00+00:00",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
-    },
-    {
-      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/lovable-future-of-saas",
-      "published": "2026-08-26T16:16:25+00:00",
-      "summary": "Lovable is branching out from AI-powered web app creation and into MCP-powered &#8216;capabilities&#8217;. We talk to CTO Fabian Hedin."
-    },
-    {
-      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
-      "published": "2026-08-26T15:59:59+00:00",
-      "summary": "Casey Muratori explains why software performance matters, how developers can write faster code, and why he challenges conventional engineering practices."
-    },
-    {
-      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/anima",
-      "published": "2026-08-26T15:15:39+00:00",
-      "summary": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors."
-    },
-    {
-      "title": "New Platform Peers Inside AI’s Black Box",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/silico-ai-interpretability",
-      "published": "2026-08-26T12:00:01+00:00",
-      "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model with a question like “What is the best film ever made?” and the response will vary. And you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer.This mysterious behavior can be useful in some situations. But—as highlighted by a recent incident where OpenAI could not explain why its advanced prerelease model hacked AI company Hugging Face—it can have negative"
     }
   ]
 }
