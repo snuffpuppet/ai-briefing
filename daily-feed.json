@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T19:12:54.676652+00:00",
+  "generated_at": "2026-08-29T22:22:13.773798+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "[AINews] OpenAI shuts off Cursor",
@@ -43,14 +43,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
       "published": "2026-08-28T15:42:24+00:00",
       "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light."
-    },
-    {
-      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "published": "2026-08-28T07:12:10+00:00",
-      "summary": "It&#8217;s Time. We&#8217;re in the Endgame now."
     }
   ]
 }
