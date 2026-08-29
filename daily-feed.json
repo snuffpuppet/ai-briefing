@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-29T03:30:47.954311+00:00",
+  "generated_at": "2026-08-29T10:48:12.621045+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 10,
   "items": [
+    {
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "published": "2026-08-29T05:11:52+00:00",
+      "summary": "Elon v Altman has a real consequence."
+    },
     {
       "title": "Just a rumour of a bug is enough to find a security exploit these days",
       "source": "Simon Willison's Weblog",
@@ -75,54 +83,6 @@
       "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
       "published": "2026-08-27T22:50:25+00:00",
       "summary": "Breaking Claude Code Opus 5 Auto Mode\nAnthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness.\nJohann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a"
-    },
-    {
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "published": "2026-08-27T22:15:43+00:00",
-      "summary": "Standardized driver interface aims to let devices talk to AI and each other."
-    },
-    {
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-      "published": "2026-08-27T20:52:31+00:00",
-      "summary": "xAI accused of training Grok on real and AI-generated child pornography."
-    },
-    {
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "published": "2026-08-27T19:55:22+00:00",
-      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows."
-    },
-    {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "published": "2026-08-27T18:57:08+00:00",
-      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers."
-    },
-    {
-      "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-      "published": "2026-08-27T17:59:17+00:00",
-      "summary": "We find out why Meta destroyed its standout engineering culture: it feared AI-native startups doing more with less. Also: thoughts on Ramp&#8217;s AI infra, GitHub&#8217;s load doubles in four months, and more"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "published": "2026-08-27T16:11:32+00:00",
-      "summary": ""
     }
   ]
 }
