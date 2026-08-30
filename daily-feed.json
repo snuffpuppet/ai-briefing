@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-30T07:53:16.036490+00:00",
+  "generated_at": "2026-08-30T13:33:30.079983+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 3,
   "items": [
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "published": "2026-08-30T11:03:47+00:00",
+      "summary": "The company is testing robots on tasks that can performed by technicians."
+    },
     {
       "title": "Introducing Hy4 Preview",
       "source": "Simon Willison's Weblog",
@@ -19,14 +27,6 @@
       "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
       "published": "2026-08-29T05:11:52+00:00",
       "summary": "Elon v Altman has a real consequence."
-    },
-    {
-      "title": "Just a rumour of a bug is enough to find a security exploit these days",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-      "published": "2026-08-28T22:12:02+00:00",
-      "summary": "Just a rumour of a bug is enough to find a security exploit these days\nAnil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion:\n\nThis normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding pro"
     }
   ]
 }
