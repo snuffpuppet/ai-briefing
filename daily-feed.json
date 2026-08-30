@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T01:04:07.182397+00:00",
+  "generated_at": "2026-08-30T07:53:16.036490+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 3,
   "items": [
     {
       "title": "Introducing Hy4 Preview",
@@ -27,30 +27,6 @@
       "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
       "published": "2026-08-28T22:12:02+00:00",
       "summary": "Just a rumour of a bug is enough to find a security exploit these days\nAnil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion:\n\nThis normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding pro"
-    },
-    {
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-      "published": "2026-08-28T18:07:55+00:00",
-      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance."
-    },
-    {
-      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "published": "2026-08-28T16:01:02+00:00",
-      "summary": "By Emma Yanyang Kong, Aditya Deshpande, Asad Abbasi, Bowei Yan, David Fagnan, Ashish Rastogi, Dhaval Patel, Ray ZhangIntroductionThe Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the video previews that autoplay while you browse, is there to connect you with a story you will love. We call these visual cues assets, and choosing the right one for each member is a personalization problem of its own. But which image or video preview of Squid Game shou"
-    },
-    {
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "published": "2026-08-28T15:42:24+00:00",
-      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light."
     }
   ]
 }
