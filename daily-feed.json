@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-29T22:22:13.773798+00:00",
+  "generated_at": "2026-08-30T01:04:07.182397+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "Introducing Hy4 Preview",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "published": "2026-08-29T23:53:13+00:00",
+      "summary": "Introducing Hy4 Preview\nNew open weight text input (no vision)  LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face.\nThis is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB.\nI recently started using model chat templates to better understand their capabilities. Here's Hy4's  chat_template.jinja on Hugging Face, which includes this section:\n{%- if not reasoning_"
+    },
     {
       "title": "[AINews] OpenAI shuts off Cursor",
       "source": "Latent.Space",
