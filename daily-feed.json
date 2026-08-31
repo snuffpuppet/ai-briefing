@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-08-31T10:32:30.075449+00:00",
+  "generated_at": "2026-08-31T17:54:01.676681+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "published": "2026-08-31T10:00:34+00:00",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+      "published": "2026-08-31T13:31:06+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting with my chum Robin Sloan on the evening of Monday September [&#8230;]"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
     },
     {
       "title": "Understanding ChatGPT Work",
@@ -19,22 +27,6 @@
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
       "published": "2026-08-30T23:59:47+00:00",
       "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far.\nChatGPT Work is actually two products\nThe more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud.\nIf you install the ChatGPT desktop app - the app that used to be called Codex -"
-    },
-    {
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "published": "2026-08-30T11:03:47+00:00",
-      "summary": "The company is testing robots on tasks that can performed by technicians."
-    },
-    {
-      "title": "Introducing Hy4 Preview",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
-      "published": "2026-08-29T23:53:13+00:00",
-      "summary": "Introducing Hy4 Preview\nNew open weight text input (no vision)  LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face.\nThis is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB.\nI recently started using model chat templates to better understand their capabilities. Here's Hy4's  chat_template.jinja on Hugging Face, which includes this section:\n{%- if not reasoning_"
     }
   ]
 }
