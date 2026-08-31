@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-31T03:37:49.194102+00:00",
+  "generated_at": "2026-08-31T10:32:30.075449+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "published": "2026-08-31T10:00:34+00:00",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
+    },
     {
       "title": "Understanding ChatGPT Work",
       "source": "Simon Willison's Weblog",
