@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-31T17:54:01.676681+00:00",
+  "generated_at": "2026-08-31T22:28:00.156695+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 8,
   "items": [
+    {
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "published": "2026-08-31T18:10:45+00:00",
+      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts."
+    },
+    {
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "published": "2026-08-31T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;"
+    },
+    {
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "published": "2026-08-31T13:41:40+00:00",
+      "summary": "Explosive growth comes with a new regulatory burden in the European Union."
+    },
     {
       "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
       "source": "Import AI",
@@ -11,6 +35,14 @@
       "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
       "published": "2026-08-31T13:31:06+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting with my chum Robin Sloan on the evening of Monday September [&#8230;]"
+    },
+    {
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "published": "2026-08-31T10:00:34+00:00",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
     },
     {
       "title": "A milestone in expanding access to AI",
@@ -27,6 +59,14 @@
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
       "published": "2026-08-30T23:59:47+00:00",
       "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far.\nChatGPT Work is actually two products\nThe more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud.\nIf you install the ChatGPT desktop app - the app that used to be called Codex -"
+    },
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "published": "2026-08-30T11:03:47+00:00",
+      "summary": "The company is testing robots on tasks that can performed by technicians."
     }
   ]
 }
