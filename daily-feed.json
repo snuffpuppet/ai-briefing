@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-30T23:11:20.006425+00:00",
+  "generated_at": "2026-08-31T03:37:49.194102+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Understanding ChatGPT Work",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "published": "2026-08-30T23:59:47+00:00",
+      "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far.\nChatGPT Work is actually two products\nThe more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud.\nIf you install the ChatGPT desktop app - the app that used to be called Codex -"
+    },
     {
       "title": "Inside Meta’s push to put robots to work in data centers",
       "source": "AI - Ars Technica",
