@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-01T01:39:37.391297+00:00",
+  "generated_at": "2026-09-01T07:16:34.990041+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "published": "2026-09-01T04:36:54+00:00",
+      "summary": "You can now create decent video faster than you watch it. This is the start of... something. We&#8217;re not sure what."
+    },
     {
       "title": "Introducing wrapture",
       "source": "Simon Willison's Weblog",
@@ -59,6 +67,14 @@
       "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
       "published": "2026-08-31T10:00:34+00:00",
       "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
     },
     {
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
