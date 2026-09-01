@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-01T17:37:19.828529+00:00",
+  "generated_at": "2026-09-01T20:34:38.226420+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Codex bundles LibreOffice",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "published": "2026-09-01T19:03:01+00:00",
+      "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime, including a full Python installation, a full Node.js installation, and native binaries for Poppler, git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010):\n\nThe ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-prim"
+    },
     {
       "title": "The Pragmatic Engineer: Five years",
       "source": "The Pragmatic Engineer",
@@ -45,6 +53,14 @@
       "summary": "Vercel&#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features."
     },
     {
+      "title": "Fragments: September  1",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-09-01.html",
+      "published": "2026-09-01T15:50:00-04:00",
+      "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that:\n\n\n  Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from h"
+    },
+    {
       "title": "Python 3.15.0 candidate 2 is here!",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -59,6 +75,14 @@
       "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
       "published": "2026-09-01T14:00:03+00:00",
       "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pre-trained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI inference computing tasks,” says Ilman Shazhaev, founder and CEO of Far Labs, based in Abu Dhabi.The"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/path-to-astra",
+      "published": "2026-09-01T13:00:00+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
     },
     {
       "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
@@ -139,22 +163,6 @@
       "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
       "published": "2026-08-31T10:00:34+00:00",
       "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
-    },
-    {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/polimill",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
     }
   ]
 }
