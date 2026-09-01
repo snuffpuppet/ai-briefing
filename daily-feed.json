@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-01T20:34:38.226420+00:00",
+  "generated_at": "2026-09-01T23:01:48.989044+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 20,
   "items": [
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "published": "2026-09-01T21:39:07+00:00",
+      "summary": ""
+    },
     {
       "title": "Codex bundles LibreOffice",
       "source": "Simon Willison's Weblog",
@@ -155,14 +163,6 @@
       "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
       "published": "2026-08-31T13:31:06+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting with my chum Robin Sloan on the evening of Monday September [&#8230;]"
-    },
-    {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "published": "2026-08-31T10:00:34+00:00",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
     }
   ]
 }
