@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T07:16:34.990041+00:00",
+  "generated_at": "2026-09-01T13:06:29.144158+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 11,
   "items": [
     {
       "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
@@ -91,14 +91,6 @@
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "published": "2026-08-31T04:00:00+00:00",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-    },
-    {
-      "title": "Understanding ChatGPT Work",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "published": "2026-08-30T23:59:47+00:00",
-      "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far.\nChatGPT Work is actually two products\nThe more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud.\nIf you install the ChatGPT desktop app - the app that used to be called Codex -"
     }
   ]
 }
