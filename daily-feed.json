@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-01T23:01:48.989044+00:00",
+  "generated_at": "2026-09-02T01:00:17.031205+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "published": "2026-09-01T23:57:28+00:00",
+      "summary": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as the"
+    },
     {
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "source": "Hugging Face - Blog",
@@ -19,6 +27,14 @@
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "published": "2026-09-01T19:03:01+00:00",
       "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime, including a full Python installation, a full Node.js installation, and native binaries for Poppler, git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010):\n\nThe ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-prim"
+    },
+    {
+      "title": "GeoJSON Map Viewer",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "published": "2026-09-01T18:05:45+00:00",
+      "summary": "Tool: GeoJSON Map Viewer\n        I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool.\nAs for the GeoJSON.. it turns out if you ask ChatGPT Work to provide"
     },
     {
       "title": "The Pragmatic Engineer: Five years",
@@ -77,12 +93,12 @@
       "summary": "Python 3.15.0 candidate 2 is here!\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:\n\nEntering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]\nWe strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels o"
     },
     {
-      "title": "Cash in on the AI Boom by Renting Out Your Spare Compute",
+      "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
       "published": "2026-09-01T14:00:03+00:00",
-      "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pre-trained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI inference computing tasks,” says Ilman Shazhaev, founder and CEO of Far Labs, based in Abu Dhabi.The"
+      "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI-inference computing tasks,” says Ilman Shazhaev, founder and CEO of Far Labs, based in Abu Dhabi.The A"
     },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
