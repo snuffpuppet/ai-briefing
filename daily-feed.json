@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T21:37:16.490045+00:00",
+  "generated_at": "2026-09-02T23:52:59.676599+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 32,
   "items": [
     {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
@@ -11,6 +11,14 @@
       "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
       "published": "2026-09-02T18:13:54+00:00",
       "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+    },
+    {
+      "title": "Bliki: Paracelsus Maxim",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+      "published": "2026-09-02T18:03:00-04:00",
+      "summary": "The difference between a medicine and a poison is dosage.\n\nOften we talk about certain habits, in programming or life, are good or\n  bad. But few things are simple binaries. Some vary with context: reading a\n  book is a good thing sitting in my garden, but not while driving my car. But\n  another variable is dosage: a little pain-killer salves my headache, but too\n  much will kill me.\n\nThe importance of dosage was noticed by a 16th century Swiss physician\n  called Paracelsus. His quote was origin"
     },
     {
       "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
@@ -75,6 +83,14 @@
       "url": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "2026-09-02T13:00:04+00:00",
       "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own.We were solving a specific problem. An oper"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "published": "2026-09-02T12:00:00+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     },
     {
       "title": "An Accidental Blackboard",
