@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T18:31:02.161185+00:00",
+  "generated_at": "2026-09-02T21:37:16.490045+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 30,
   "items": [
     {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
@@ -26,7 +26,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
       "published": "2026-09-02T16:39:38+00:00",
-      "summary": "Release: llm-gemini 0.34\n        \n\nNew model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146\nFixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137\n\n\n    \n    \n        Tags: llm, gemini"
+      "summary": "Release: llm-gemini 0.34\n        \n\nNew model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146\nFixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137\n\n\nGoogle released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.\nHere are the pelicans for high, medium, and low. This is high:\n\nFor comparison, here are the same pelicans generated using Gemini 3.7 Flash.\nSomething I a"
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -91,6 +91,14 @@
       "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
       "published": "2026-09-02T09:32:00-04:00",
       "summary": "TL;DROr, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems\nI was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did.\n\nBrian has since written a thoughtful"
+    },
+    {
+      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+      "published": "2026-09-02T09:00:29+00:00",
+      "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specific agent. Its novelty comes from integrating two layers:  A structured, auditable knowledge architecture separates what [...]\nRead More...\nThe post An Organizational Second Brain: Building an AI That Learns From Experts appeared first on Engineering at Meta."
     },
     {
       "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
