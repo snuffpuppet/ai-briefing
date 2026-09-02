@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-02T14:59:46.489007+00:00",
+  "generated_at": "2026-09-02T18:31:02.161185+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 29,
   "items": [
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "published": "2026-09-02T18:13:54+00:00",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+    },
+    {
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "published": "2026-09-02T17:58:33+00:00",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says."
+    },
+    {
+      "title": "llm-gemini 0.34",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "published": "2026-09-02T16:39:38+00:00",
+      "summary": "Release: llm-gemini 0.34\n        \n\nNew model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146\nFixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137\n\n\n    \n    \n        Tags: llm, gemini"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published": "2026-09-02T16:24:24+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "published": "2026-09-02T16:18:31+00:00",
+      "summary": ""
+    },
     {
       "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
       "source": "Simon Willison's Weblog",
@@ -34,7 +74,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "2026-09-02T13:00:04+00:00",
-      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own.We were solving a specific problem. An oper"
+      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own.We were solving a specific problem. An oper"
     },
     {
       "title": "An Accidental Blackboard",
@@ -195,14 +235,6 @@
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "published": "2026-09-01T12:00:00+00:00",
       "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-    },
-    {
-      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "published": "2026-09-01T04:36:54+00:00",
-      "summary": "You can now create decent video faster than you watch it. This is the start of... something. We&#8217;re not sure what."
     }
   ]
 }
