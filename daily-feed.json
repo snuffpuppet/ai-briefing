@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:00:17.031205+00:00",
+  "generated_at": "2026-09-02T05:36:36.720599+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
@@ -85,6 +85,14 @@
       "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that:\n\n\n  Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from h"
     },
     {
+      "title": "datasette-mcp 0.2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "published": "2026-09-01T15:30:12+00:00",
+      "summary": "Release: datasette-mcp 0.2\n        \n\n\"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. #1\nNow depends on mcp&gt;=2.1.1.\n\n\nThis is the first non-alpha release of the plugin. I'm confident it's ready as I've been using it quite a bit myself.\n    \n    \n        Tags: datasette, model-context-protocol"
+    },
+    {
       "title": "Python 3.15.0 candidate 2 is here!",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -125,6 +133,14 @@
       "summary": "You can now create decent video faster than you watch it. This is the start of... something. We&#8217;re not sure what."
     },
     {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published": "2026-09-01T01:00:00+00:00",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -163,22 +179,6 @@
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "published": "2026-08-31T18:00:00+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;"
-    },
-    {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "published": "2026-08-31T13:41:40+00:00",
-      "summary": "Explosive growth comes with a new regulatory burden in the European Union."
-    },
-    {
-      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
-      "published": "2026-08-31T13:31:06+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting with my chum Robin Sloan on the evening of Monday September [&#8230;]"
     }
   ]
 }
