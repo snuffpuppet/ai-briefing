@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-02T05:36:36.720599+00:00",
+  "generated_at": "2026-09-02T10:39:18.365543+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "published": "2026-09-02T07:46:08+00:00",
+      "summary": "Queue the usual rush of model launches..."
+    },
+    {
+      "title": "Quoting Rick Brewster",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "published": "2026-09-02T05:50:57+00:00",
+      "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll. This was written by our good friend Claude, without whom this would NOT have been possible and wou"
+    },
     {
       "title": "Claude Fable 5.1 made me a really nice animated pelican",
       "source": "Simon Willison's Weblog",
@@ -34,7 +50,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Sep/1/geojson/",
       "published": "2026-09-01T18:05:45+00:00",
-      "summary": "Tool: GeoJSON Map Viewer\n        I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool.\nAs for the GeoJSON.. it turns out if you ask ChatGPT Work to provide"
+      "summary": "Tool: GeoJSON Map Viewer\n        I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council) and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool.\nAs for the GeoJSON.. it turns out if you ask ChatGPT Work to provide"
     },
     {
       "title": "The Pragmatic Engineer: Five years",
@@ -155,30 +171,6 @@
       "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
       "published": "2026-08-31T23:59:36+00:00",
       "summary": "Introducing wrapture\nNew from Graham Dumpleton (of wrapt, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time.\nWrapture (full documentation here) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value.\nIt acts as both an alternative to unittest.mock and a way to implement tracing against an ex"
-    },
-    {
-      "title": "Quoting Andrew Digby",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
-      "published": "2026-08-31T22:25:02+00:00",
-      "summary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible with sustained effort.\n&mdash; Andrew Digby, providing the best news of the year\n\n    Tags: kakapo"
-    },
-    {
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "published": "2026-08-31T18:10:45+00:00",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts."
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "published": "2026-08-31T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;"
     }
   ]
 }
