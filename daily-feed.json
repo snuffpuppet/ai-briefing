@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-02T10:39:18.365543+00:00",
+  "generated_at": "2026-09-02T14:59:46.489007+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "published": "2026-09-02T14:16:42+00:00",
+      "summary": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.\n\nThey used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, w"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "published": "2026-09-02T14:00:00+00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "published": "2026-09-02T13:49:14+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "published": "2026-09-02T13:00:04+00:00",
+      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own.We were solving a specific problem. An oper"
+    },
+    {
+      "title": "An Accidental Blackboard",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "published": "2026-09-02T10:45:00-04:00",
+      "summary": "Giles Edwards-Alexander reports that during an\n      experiment to see how productive a team could be using fully agentic\n      engineering practices, the team accidentally prompted the agents into\n      creating a blackboard coordination system inside the git repository.\n\nmore…"
+    },
+    {
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "published": "2026-09-02T09:32:00-04:00",
+      "summary": "TL;DROr, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems\nI was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did.\n\nBrian has since written a thoughtful"
+    },
     {
       "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
       "source": "Latent.Space",
@@ -19,6 +67,14 @@
       "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
       "published": "2026-09-02T05:50:57+00:00",
       "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll. This was written by our good friend Claude, without whom this would NOT have been possible and wou"
+    },
+    {
+      "title": "Stepping into autumn: Geopolitical noise, economic realities and the agentic horizon",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/stepping_into_autumn",
+      "published": "2026-09-02T00:00:00+00:00",
+      "summary": "Stepping into autumn: Geopolitical noise, economic realities and the agentic horizon"
     },
     {
       "title": "Claude Fable 5.1 made me a really nice animated pelican",
@@ -147,30 +203,6 @@
       "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
       "published": "2026-09-01T04:36:54+00:00",
       "summary": "You can now create decent video faster than you watch it. This is the start of... something. We&#8217;re not sure what."
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "published": "2026-09-01T01:00:00+00:00",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "published": "2026-09-01T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Introducing wrapture",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-      "published": "2026-08-31T23:59:36+00:00",
-      "summary": "Introducing wrapture\nNew from Graham Dumpleton (of wrapt, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time.\nWrapture (full documentation here) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value.\nIt acts as both an alternative to unittest.mock and a way to implement tracing against an ex"
     }
   ]
 }
