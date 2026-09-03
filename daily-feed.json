@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T16:57:30.601552+00:00",
+  "generated_at": "2026-09-03T19:41:07.219162+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
     {
       "title": "Lessons from platform modernization that every AI program needs",
@@ -11,6 +11,22 @@
       "url": "https://www.thoughtworks.com/insights/articles/strategic-ai-delivery-platform-modernization",
       "published": "2026-09-04T00:00:00+00:00",
       "summary": "Lessons from platform modernization that every AI program needs"
+    },
+    {
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "published": "2026-09-03T18:10:19+00:00",
+      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
+    },
+    {
+      "title": "The Pulse: tech companies move to open AI models",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
+      "published": "2026-09-03T17:00:14+00:00",
+      "summary": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more"
     },
     {
       "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
@@ -211,14 +227,6 @@
       "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
       "published": "2026-09-02T07:46:08+00:00",
       "summary": "Queue the usual rush of model launches..."
-    },
-    {
-      "title": "Quoting Rick Brewster",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-      "published": "2026-09-02T05:50:57+00:00",
-      "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll. This was written by our good friend Claude, without whom this would NOT have been possible and wou"
     }
   ]
 }
