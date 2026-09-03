@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T23:52:59.676599+00:00",
+  "generated_at": "2026-09-03T02:56:29.538629+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 29,
   "items": [
     {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
@@ -235,30 +235,6 @@
       "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
       "published": "2026-09-01T14:59:18+00:00",
       "summary": "Python 3.15.0 candidate 2 is here!\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:\n\nEntering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]\nWe strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels o"
-    },
-    {
-      "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
-      "published": "2026-09-01T14:00:03+00:00",
-      "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI-inference computing tasks,” says Ilman Shazhaev, founder and CEO of Far Labs, based in Abu Dhabi.The A"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/path-to-astra",
-      "published": "2026-09-01T13:00:00+00:00",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "published": "2026-09-01T12:00:00+00:00",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
     }
   ]
 }
