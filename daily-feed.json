@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T12:37:36.744073+00:00",
+  "generated_at": "2026-09-03T16:57:30.601552+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 27,
   "items": [
     {
       "title": "Lessons from platform modernization that every AI program needs",
@@ -11,6 +11,38 @@
       "url": "https://www.thoughtworks.com/insights/articles/strategic-ai-delivery-platform-modernization",
       "published": "2026-09-04T00:00:00+00:00",
       "summary": "Lessons from platform modernization that every AI program needs"
+    },
+    {
+      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+      "published": "2026-09-03T16:00:20+00:00",
+      "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. ZippyDB is the most widely used key value store at Meta, backing product metadata, counters, and configuration, and can serve billions [...]\nRead More...\nThe post ZGateway: Learnings from Putting a Proxy in Front of ZippyDB appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published": "2026-09-03T15:02:08+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "published": "2026-09-03T13:34:13+00:00",
+      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published": "2026-09-03T13:13:48+00:00",
+      "summary": ""
     },
     {
       "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
