@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-03T07:48:45.375754+00:00",
+  "generated_at": "2026-09-03T12:37:36.744073+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Lessons from platform modernization that every AI program needs",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/strategic-ai-delivery-platform-modernization",
+      "published": "2026-09-04T00:00:00+00:00",
+      "summary": "Lessons from platform modernization that every AI program needs"
+    },
     {
       "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
       "source": "Latent.Space",
@@ -11,6 +19,46 @@
       "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
       "published": "2026-09-03T04:38:33+00:00",
       "summary": "an epic comeback story for Meta"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published": "2026-09-03T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/funes",
+      "published": "2026-09-03T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "published": "2026-09-03T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Why generative AI won't create 10x developers",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/why-generative-ai-wont-create-ten-x-developers",
+      "published": "2026-09-03T00:00:00+00:00",
+      "summary": "Why generative AI won't create 10x developers"
+    },
+    {
+      "title": "From specification to production: Building enterprise software with agentic AI",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/from-specification-to-production-building-enterprise-software-with-agentic-ai",
+      "published": "2026-09-03T00:00:00+00:00",
+      "summary": "From specification to production: Building enterprise software with agentic AI"
     },
     {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
@@ -139,38 +187,6 @@
       "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
       "published": "2026-09-02T05:50:57+00:00",
       "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll. This was written by our good friend Claude, without whom this would NOT have been possible and wou"
-    },
-    {
-      "title": "Stepping into autumn: Geopolitical noise, economic realities and the agentic horizon",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/stepping_into_autumn",
-      "published": "2026-09-02T00:00:00+00:00",
-      "summary": "Stepping into autumn: Geopolitical noise, economic realities and the agentic horizon"
-    },
-    {
-      "title": "Claude Fable 5.1 made me a really nice animated pelican",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-      "published": "2026-09-01T23:57:28+00:00",
-      "summary": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as the"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "published": "2026-09-01T21:39:07+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Fragments: September  1",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-09-01.html",
-      "published": "2026-09-01T15:50:00-04:00",
-      "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that:\n\n\n  Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from h"
     }
   ]
 }
