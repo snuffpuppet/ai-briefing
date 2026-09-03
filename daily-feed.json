@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-03T02:56:29.538629+00:00",
+  "generated_at": "2026-09-03T07:48:45.375754+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+      "published": "2026-09-03T04:38:33+00:00",
+      "summary": "an epic comeback story for Meta"
+    },
     {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "source": "AI - Ars Technica",
@@ -157,84 +165,12 @@
       "summary": ""
     },
     {
-      "title": "Codex bundles LibreOffice",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "published": "2026-09-01T19:03:01+00:00",
-      "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime, including a full Python installation, a full Node.js installation, and native binaries for Poppler, git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010):\n\nThe ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-prim"
-    },
-    {
-      "title": "GeoJSON Map Viewer",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
-      "published": "2026-09-01T18:05:45+00:00",
-      "summary": "Tool: GeoJSON Map Viewer\n        I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council) and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool.\nAs for the GeoJSON.. it turns out if you ask ChatGPT Work to provide"
-    },
-    {
-      "title": "The Pragmatic Engineer: Five years",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
-      "published": "2026-09-01T17:14:34+00:00",
-      "summary": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the &#8216;How Software Engineering is Changing&#8217; essay contest"
-    },
-    {
-      "title": "Introducing agentic video understanding with Gemini",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "published": "2026-09-01T17:08:51+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting Tarn Adams",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-      "published": "2026-09-01T17:01:11+00:00",
-      "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior, and they misbehave sometimes\n&mdash; Tarn Adams, co-creator of Dwarf Fortress\n\n    Tags: ai, game-design"
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "published": "2026-09-01T17:00:00+00:00",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
-      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/pr-not-welcome",
-      "published": "2026-09-01T16:17:15+00:00",
-      "summary": "Vercel&#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features."
-    },
-    {
       "title": "Fragments: September  1",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/fragments/2026-09-01.html",
       "published": "2026-09-01T15:50:00-04:00",
       "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that:\n\n\n  Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from h"
-    },
-    {
-      "title": "datasette-mcp 0.2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-      "published": "2026-09-01T15:30:12+00:00",
-      "summary": "Release: datasette-mcp 0.2\n        \n\n\"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. #1\nNow depends on mcp&gt;=2.1.1.\n\n\nThis is the first non-alpha release of the plugin. I'm confident it's ready as I've been using it quite a bit myself.\n    \n    \n        Tags: datasette, model-context-protocol"
-    },
-    {
-      "title": "Python 3.15.0 candidate 2 is here!",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-      "published": "2026-09-01T14:59:18+00:00",
-      "summary": "Python 3.15.0 candidate 2 is here!\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:\n\nEntering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]\nWe strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels o"
     }
   ]
 }
