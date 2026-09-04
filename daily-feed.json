@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T22:18:05.697228+00:00",
+  "generated_at": "2026-09-04T00:47:21.031808+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 31,
   "items": [
     {
       "title": "Lessons from platform modernization that every AI program needs",
@@ -235,14 +235,6 @@
       "url": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "2026-09-02T13:00:04+00:00",
       "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own.We were solving a specific problem. An oper"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "published": "2026-09-02T12:00:00+00:00",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     },
     {
       "title": "An Accidental Blackboard",
