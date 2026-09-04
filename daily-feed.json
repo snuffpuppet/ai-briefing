@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T10:36:49.480014+00:00",
+  "generated_at": "2026-09-04T14:48:26.206590+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 16,
   "items": [
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -131,54 +131,6 @@
       "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
       "published": "2026-09-03T04:38:33+00:00",
       "summary": "an epic comeback story for Meta"
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/funes",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Why generative AI won't create 10x developers",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/why-generative-ai-wont-create-ten-x-developers",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "Why generative AI won't create 10x developers"
-    },
-    {
-      "title": "From specification to production: Building enterprise software with agentic AI",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/from-specification-to-production-building-enterprise-software-with-agentic-ai",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "From specification to production: Building enterprise software with agentic AI"
     }
   ]
 }
