@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-04T00:47:21.031808+00:00",
+  "generated_at": "2026-09-04T05:31:04.257929+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 23,
   "items": [
+    {
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "published": "2026-09-04T05:18:11+00:00",
+      "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI&#8217;s new frontier model class."
+    },
     {
       "title": "Lessons from platform modernization that every AI program needs",
       "source": "Thoughtworks Insights",
@@ -179,78 +187,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
       "published": "2026-09-02T17:58:33+00:00",
       "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says."
-    },
-    {
-      "title": "llm-gemini 0.34",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "published": "2026-09-02T16:39:38+00:00",
-      "summary": "Release: llm-gemini 0.34\n        \n\nNew model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146\nFixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137\n\n\nGoogle released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.\nHere are the pelicans for high, medium, and low. This is high:\n\nFor comparison, here are the same pelicans generated using Gemini 3.7 Flash.\nSomething I a"
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "published": "2026-09-02T16:24:24+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "published": "2026-09-02T16:18:31+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "published": "2026-09-02T14:16:42+00:00",
-      "summary": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.\n\nThey used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, w"
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "published": "2026-09-02T14:00:00+00:00",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;"
-    },
-    {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "published": "2026-09-02T13:49:14+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-engineer-skills",
-      "published": "2026-09-02T13:00:04+00:00",
-      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own.We were solving a specific problem. An oper"
-    },
-    {
-      "title": "An Accidental Blackboard",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "published": "2026-09-02T10:45:00-04:00",
-      "summary": "Giles Edwards-Alexander reports that during an\n      experiment to see how productive a team could be using fully agentic\n      engineering practices, the team accidentally prompted the agents into\n      creating a blackboard coordination system inside the git repository.\n\nmore…"
-    },
-    {
-      "title": "Maybe We Shouldn't Be Reviewing All This Code",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
-      "published": "2026-09-02T09:32:00-04:00",
-      "summary": "TL;DROr, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems\nI was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did.\n\nBrian has since written a thoughtful"
     }
   ]
 }
