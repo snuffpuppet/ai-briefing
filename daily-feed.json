@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-04T23:44:58.657249+00:00",
+  "generated_at": "2026-09-05T02:57:49.621126+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 16,
   "items": [
+    {
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "published": "2026-09-04T23:59:05+00:00",
+      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful.\n\nSee the grid for full quality images. Here's the transcript that created the GPT-6 Nova pelicans.\nThere are a few interesting things that stand out"
+    },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "source": "AI - Ars Technica",
@@ -123,46 +131,6 @@
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "published": "2026-09-03T15:02:08+00:00",
       "summary": ""
-    },
-    {
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "published": "2026-09-03T13:34:13+00:00",
-      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "published": "2026-09-03T13:15:00+00:00",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "published": "2026-09-03T13:13:48+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     }
   ]
 }
