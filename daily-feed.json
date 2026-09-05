@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T07:27:17.887976+00:00",
+  "generated_at": "2026-09-05T11:39:35.959476+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 10,
   "items": [
     {
       "title": "The Pelican comparison grid for Astra is pretty interesting",
@@ -83,22 +83,6 @@
       "url": "https://www.thoughtworks.com/insights/articles/strategic-ai-delivery-platform-modernization",
       "published": "2026-09-04T00:00:00+00:00",
       "summary": "Lessons from platform modernization that every AI program needs"
-    },
-    {
-      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/astra",
-      "published": "2026-09-03T21:09:41+00:00",
-      "summary": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here&#8217;s our learnings."
-    },
-    {
-      "title": "GPT‑6 Astra",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "published": "2026-09-03T20:18:41+00:00",
-      "summary": "GPT‑6 Astra\nGPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.\nIt's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than"
     }
   ]
 }
