@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-05T14:36:23.879171+00:00",
+  "generated_at": "2026-09-05T17:10:08.521651+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 11,
   "items": [
+    {
+      "title": "Using Blender with coding agents on macOS",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "published": "2026-09-05T15:51:09+00:00",
+      "summary": "TIL: Using Blender with coding agents on macOS\n        I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this:\n\nUse the already install /Applications/Blender to render a scene of a pelican riding a bicycle\n\nIn this case I followed that up with these two prompts:\n\nOK add a background and a lot of flair\n\nThen:\n\nOK make it a whole lot better\n\nAnd got thi"
+    },
+    {
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/grok-bot",
+      "published": "2026-09-05T15:01:02+00:00",
+      "summary": "SpaceXAI&#8217;s Grok Bot has the same level of programming power as OpenClaw, but it&#8217;s programmable at a different level of abstraction."
+    },
     {
       "title": "The Pelican comparison grid for Astra is pretty interesting",
       "source": "Simon Willison's Weblog",
