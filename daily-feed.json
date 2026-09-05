@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T02:57:49.621126+00:00",
+  "generated_at": "2026-09-05T07:27:17.887976+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 12,
   "items": [
     {
       "title": "The Pelican comparison grid for Astra is pretty interesting",
@@ -99,38 +99,6 @@
       "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
       "published": "2026-09-03T20:18:41+00:00",
       "summary": "GPT‑6 Astra\nGPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.\nIt's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than"
-    },
-    {
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "published": "2026-09-03T18:10:19+00:00",
-      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
-    },
-    {
-      "title": "The Pulse: tech companies move to open AI models",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
-      "published": "2026-09-03T17:00:14+00:00",
-      "summary": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more"
-    },
-    {
-      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
-      "published": "2026-09-03T16:00:20+00:00",
-      "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. ZippyDB is the most widely used key value store at Meta, backing product metadata, counters, and configuration, and can serve billions [...]\nRead More...\nThe post ZGateway: Learnings from Putting a Proxy in Front of ZippyDB appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "published": "2026-09-03T15:02:08+00:00",
-      "summary": ""
     }
   ]
 }
