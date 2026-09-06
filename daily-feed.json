@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-05T23:35:28.744478+00:00",
+  "generated_at": "2026-09-06T02:56:31.622265+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 9,
   "items": [
+    {
+      "title": "Introducing GPT-6 Astra for developers",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "published": "2026-09-05T23:27:48+00:00",
+      "summary": "Introducing GPT-6 Astra for developers\nBlink and you'll miss it, but there's a familiar creature at 1m59s:\n\nAcross the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals, cityscapes, even Dyson spheres.\n\n\nAstra really does believe in putting a red neckerchief on a pelican riding a bicycle.\n\n    Via Hack"
+    },
     {
       "title": "Using Blender with coding agents on macOS",
       "source": "Simon Willison's Weblog",
