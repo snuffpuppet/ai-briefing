@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-06T07:39:45.281931+00:00",
+  "generated_at": "2026-09-06T11:59:00.427268+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 5,
   "items": [
+    {
+      "title": "Quoting Zach Kehs",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "published": "2026-09-06T08:42:49+00:00",
+      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance.\n&mdash; Zach Kehs, There's No Limit to How Bad Code Can Get\n\n    Tags: technical-debt"
+    },
     {
       "title": "Introducing GPT-6 Astra for developers",
       "source": "Simon Willison's Weblog",
@@ -35,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
       "published": "2026-09-04T23:59:05+00:00",
       "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful.\n\nSee the grid for full quality images. Here's the transcript that created the GPT-6 Nova pelicans.\nThere are a few interesting things that stand out"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "published": "2026-09-04T22:17:36+00:00",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
     }
   ]
 }
