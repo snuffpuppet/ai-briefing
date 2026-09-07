@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T17:15:47.033330+00:00",
+  "generated_at": "2026-09-07T21:08:35.011015+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 7,
   "items": [
     {
       "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
@@ -59,30 +59,6 @@
       "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
       "published": "2026-09-06T09:08:06+00:00",
       "summary": "My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs.[In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming]\nIn my experience it's so rare for that to work.\nYou announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins.\nMeanwhile the old thing remains a moving target: it's running the core business, so changes are still necessary. The developers working on"
-    },
-    {
-      "title": "An Alien Mind",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/an-alien-mind",
-      "published": "2026-09-06T09:00:00+00:00",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-    },
-    {
-      "title": "Quoting Zach Kehs",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "published": "2026-09-06T08:42:49+00:00",
-      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance.\n&mdash; Zach Kehs, There's No Limit to How Bad Code Can Get\n\n    Tags: technical-debt"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "published": "2026-09-06T08:00:00+00:00",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
     }
   ]
 }
