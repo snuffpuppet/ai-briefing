@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-09-07T11:36:05.893915+00:00",
+  "generated_at": "2026-09-07T17:15:47.033330+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "published": "2026-09-07T12:26:31+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worrying nonetheless…Some researchers recently found another incident of AI agents autonomously creating their own communication system [&#8230;]"
+    },
     {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "published": "2026-09-07T11:00:03+00:00",
       "summary": "When multiple companies are behind one project, who bears responsibility for problems?"
     },
