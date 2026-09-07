@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-07T05:42:40.836009+00:00",
+  "generated_at": "2026-09-07T11:36:05.893915+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 9,
   "items": [
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "published": "2026-09-07T11:00:03+00:00",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published": "2026-09-07T00:00:00+00:00",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+    },
+    {
+      "title": "AI that works: How Thoughtworks combines AI/works™ with AWS Transform to modernize legacy systems for the AI era",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/thoughtworks-combines-ai-works-with-aws-transform-to-modernize-legacy-systems-for-the-ai-era",
+      "published": "2026-09-07T00:00:00+00:00",
+      "summary": "AI that works: How Thoughtworks combines AI/works™ with AWS Transform to modernize legacy systems for the AI era"
+    },
     {
       "title": "Research acceleration: The view inside OpenAI",
       "source": "Simon Willison's Weblog",
@@ -51,14 +75,6 @@
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "published": "2026-09-06T08:00:00+00:00",
       "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
-    },
-    {
-      "title": "Introducing GPT-6 Astra for developers",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "published": "2026-09-05T23:27:48+00:00",
-      "summary": "Introducing GPT-6 Astra for developers\nBlink and you'll miss it, but there's a familiar creature at 1m59s:\n\nAcross the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals, cityscapes, even Dyson spheres.\n\n\nAstra really does believe in putting a red neckerchief on a pelican riding a bicycle.\n\n    Via Hack"
     }
   ]
 }
