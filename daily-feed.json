@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-08T14:09:39.828258+00:00",
+  "generated_at": "2026-09-08T18:19:37.243756+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "published": "2026-09-08T18:00:56+00:00",
+      "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
+    },
+    {
+      "title": "What is happening with code reviews?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+      "published": "2026-09-08T16:32:01+00:00",
+      "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt &#8211; or is it doomed? A look into this decades-old practice and the approaches that could replace it"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published": "2026-09-08T14:23:07+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+      "published": "2026-09-08T14:15:25+00:00",
+      "summary": "The open model ecosystem continues to expand in its breadth"
+    },
     {
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "source": "Google DeepMind News",
@@ -29,6 +61,14 @@
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
     },
     {
+      "title": "Fragments: September  8",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-09-08.html",
+      "published": "2026-09-08T11:22:00-04:00",
+      "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:.\n\n\n  This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code.\n[…]\nThe old automation boundary was routine versu"
+    },
+    {
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -37,12 +77,28 @@
       "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;"
     },
     {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "published": "2026-09-08T10:00:00+00:00",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
       "title": "Do you even need a presentation?",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
       "published": "2026-09-08T09:42:00-04:00",
       "summary": "Like me, Sumeet Gayathri Moghe is tired of poor\n      presentations with bad slide decks. He's started to write a series of\n      posts on how to avoid these calamities, beginning with a post that questions\n      whether a presentation is needed at all. \n\nmore…"
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "published": "2026-09-08T09:00:00+00:00",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
     },
     {
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
