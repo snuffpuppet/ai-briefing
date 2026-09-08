@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-08T18:19:37.243756+00:00",
+  "generated_at": "2026-09-08T21:35:09.781485+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "published": "2026-09-08T21:11:46+00:00",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "published": "2026-09-08T18:43:09+00:00",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics."
+    },
     {
       "title": "Update to Google’s AI weather model improves forecast accuracy",
       "source": "AI - Ars Technica",
@@ -13,12 +29,28 @@
       "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
     },
     {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published": "2026-09-08T17:00:00+00:00",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    },
+    {
       "title": "What is happening with code reviews?",
       "source": "The Pragmatic Engineer",
       "feed_url": "https://newsletter.pragmaticengineer.com/feed",
       "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
       "published": "2026-09-08T16:32:01+00:00",
       "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt &#8211; or is it doomed? A look into this decades-old practice and the approaches that could replace it"
+    },
+    {
+      "title": "AI Slop Is Changing How Engineers Review Code",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
+      "published": "2026-09-08T16:16:49+00:00",
+      "summary": "AI coding tools can now generate thousands of lines of code in minutes, helping companies build features, run tests, and fix issues faster. But the flood of AI-generated code still has to be reviewed. Large language models can produce code that looks clean on the surface but conceals sloppy mistakes such as faulty assumptions, security vulnerabilities, or subtle errors that emerge only after deployment. Fixing those problems could erase the productivity gains AI promises.Companies are responding"
     },
     {
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -59,6 +91,14 @@
       "url": "https://openai.com/index/the-work-now-within-reach",
       "published": "2026-09-08T13:00:00+00:00",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published": "2026-09-08T11:30:00+00:00",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
     },
     {
       "title": "Fragments: September  8",
@@ -107,6 +147,14 @@
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "published": "2026-09-08T00:00:00+00:00",
       "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+    },
+    {
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/1password",
+      "published": "2026-09-08T00:00:00+00:00",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
     },
     {
       "title": "llm 0.35",
