@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-08T00:00:57.338139+00:00",
+  "generated_at": "2026-09-08T04:12:44.231358+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 12,
   "items": [
+    {
+      "title": "llm 0.35",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "published": "2026-09-07T23:54:54+00:00",
+      "summary": "Release: llm 0.35\n        \n\nNew OpenAI model: gpt-6-astra for GPT-6 Astra.\n\n\n    \n    \n        Tags: openai, llm, gpt-6-astra"
+    },
     {
       "title": "Creepy crawlies",
       "source": "Simon Willison's Weblog",
@@ -91,14 +99,6 @@
       "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "published": "2026-09-06T23:57:40+00:00",
       "summary": "Research acceleration: The view inside OpenAI\nApparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk about it, and this one doesn't even bother to expand the acronym.\nIncluded are details on how OpenAI's own research team are using coding agents. Like pretty much everyone else 2026 has been the year that agentic engineering really took off at OpenAI, best illustra"
-    },
-    {
-      "title": "The purpose of DNS is to spread scams",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "published": "2026-09-06T14:40:07+00:00",
-      "summary": "The purpose of DNS is to spread scams\nTerence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\".\nOn this Interisle report (via Andrew Campling), Terence says:\n\nIt says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to blocklists by May 2025. It reckons that a 10% abuse rate is the likely floor for these numbers and it's"
     }
   ]
 }
