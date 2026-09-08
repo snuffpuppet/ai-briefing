@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-08T21:35:09.781485+00:00",
+  "generated_at": "2026-09-08T23:51:16.324536+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 28,
   "items": [
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "published": "2026-09-08T23:47:02+00:00",
+      "summary": "On the Navier–Stokes Millennium Prize Problem\nImpressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem, one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000.\nThe discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU mathematics professor who was collaborating on related problems with Levent Alpöge, an accomplished math"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "published": "2026-09-08T22:46:33+00:00",
+      "summary": "Introducing ChatGPT Images 2.5\nOpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\".\nThere are two new model IDs in the API: gpt-image-2.5-sunburst and gpt-image-2.5-flare. Based on this I think Sunburst is the stronger option:\n\nChoose Sun"
+    },
     {
       "title": "Why this month's Microsoft patch release is a doozy",
       "source": "AI - Ars Technica",
@@ -82,7 +98,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/alphagenome-atlas",
       "published": "2026-09-08T14:00:05+00:00",
-      "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “non-coding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Und"
+      "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Unde"
     },
     {
       "title": "The Work Now Within Reach",
@@ -211,14 +227,6 @@
       "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
       "published": "2026-09-07T12:26:31+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worrying nonetheless…Some researchers recently found another incident of AI agents autonomously creating their own communication system [&#8230;]"
-    },
-    {
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "published": "2026-09-07T11:00:03+00:00",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?"
     }
   ]
 }
