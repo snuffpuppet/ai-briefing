@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T20:26:30.836269+00:00",
+  "generated_at": "2026-09-09T22:56:51.228307+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 31,
   "items": [
     {
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
@@ -85,12 +85,20 @@
       "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
     },
     {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published": "2026-09-09T11:00:00+00:00",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+    },
+    {
       "title": "China’s Regulators Take Aim at “AI Boyfriends”",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
       "published": "2026-09-09T10:00:07+00:00",
-      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose.“He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote, according to the Taipei Times. “I really felt like I couldn’t go on living,” another woman, a 19 year old student, told a journalist for Malaysia’s The Star.The emotions were real but the lost companions were not. They were generative"
+      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose.“He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote, according to the Taipei Times. “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The Star.The emotions were real but the lost companions were not. They were generative"
     },
     {
       "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
@@ -237,36 +245,12 @@
       "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:.\n\n\n  This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code.\n[…]\nThe old automation boundary was routine versu"
     },
     {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "published": "2026-09-08T10:34:00+00:00",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "published": "2026-09-08T10:00:00+00:00",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
       "title": "Do you even need a presentation?",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
       "published": "2026-09-08T09:42:00-04:00",
       "summary": "Like me, Sumeet Gayathri Moghe is tired of poor\n      presentations with bad slide decks. He's started to write a series of\n      posts on how to avoid these calamities, beginning with a post that questions\n      whether a presentation is needed at all. \n\nmore…"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "published": "2026-09-08T09:00:00+00:00",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
     }
   ]
 }
