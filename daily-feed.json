@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-09T08:38:26.929650+00:00",
+  "generated_at": "2026-09-09T13:25:03.741477+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 26,
   "items": [
+    {
+      "title": "AI Models Are Watermarking Text—Will You Notice?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
+      "published": "2026-09-09T12:00:04+00:00",
+      "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) it uses on the output of its Gemini models. OpenAI has yet to introduce a text watermark but it plans to do so. The rapid spread of watermarking is in part a response to the European Union’s AI Act, which mandates watermarks for AI models released after"
+    },
+    {
+      "title": "When will average people feel AI’s impact?",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+      "published": "2026-09-09T11:01:23+00:00",
+      "summary": "We&#8217;re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this."
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "published": "2026-09-09T11:00:10+00:00",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
+    },
+    {
+      "title": "China’s Regulators Take Aim at “AI Boyfriends”",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "published": "2026-09-09T10:00:07+00:00",
+      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose.“He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote, according to the Taipei Times. “I really felt like I couldn’t go on living,” another woman, a 19 year old student, told a journalist for Malaysia’s The Star.The emotions were real but the lost companions were not. They were generative"
+    },
     {
       "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
       "source": "Latent.Space",
@@ -179,62 +211,6 @@
       "url": "https://openai.com/index/teen-development-research-grants",
       "published": "2026-09-08T09:00:00+00:00",
       "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "published": "2026-09-08T00:00:00+00:00",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
-    },
-    {
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/1password",
-      "published": "2026-09-08T00:00:00+00:00",
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
-    },
-    {
-      "title": "How to talk with AI?",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/how-to-talk-with-ai",
-      "published": "2026-09-08T00:00:00+00:00",
-      "summary": "How to talk with AI?"
-    },
-    {
-      "title": "llm 0.35",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "published": "2026-09-07T23:54:54+00:00",
-      "summary": "Release: llm 0.35\n        \n\nNew OpenAI model: gpt-6-astra for GPT-6 Astra.\n\n\n    \n    \n        Tags: openai, llm, gpt-6-astra"
-    },
-    {
-      "title": "Creepy crawlies",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-      "published": "2026-09-07T23:08:58+00:00",
-      "summary": "Creepy crawlies\nKonstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org, the official Git repository for the Linux kernel:\n\nTL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other kinds of legitimate access, including git clones. At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html.\n\nI worry about this a lot from the"
-    },
-    {
-      "title": "Quoting Jakub Pachocki",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-      "published": "2026-09-07T22:26:25+00:00",
-      "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...]\nWe will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time, and to invent entirely new protective measures. This will be a primary focus of OpenAI’s deployment efforts.\nAt the same time, even with the uncertainty that comes from anticipated broad AI progress and the need to b"
-    },
-    {
-      "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/aeo",
-      "published": "2026-09-07T21:32:37+00:00",
-      "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to."
     }
   ]
 }
