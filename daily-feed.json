@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-09T03:05:13.407581+00:00",
+  "generated_at": "2026-09-09T08:38:26.929650+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 29,
   "items": [
+    {
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "published": "2026-09-09T05:04:51+00:00",
+      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI."
+    },
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published": "2026-09-09T03:10:08+00:00",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;"
+    },
     {
       "title": "Quoting Terence Tao",
       "source": "Simon Willison's Weblog",
@@ -181,6 +197,14 @@
       "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
     },
     {
+      "title": "How to talk with AI?",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/how-to-talk-with-ai",
+      "published": "2026-09-08T00:00:00+00:00",
+      "summary": "How to talk with AI?"
+    },
+    {
       "title": "llm 0.35",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -211,22 +235,6 @@
       "url": "https://www.latent.space/p/aeo",
       "published": "2026-09-07T21:32:37+00:00",
       "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to."
-    },
-    {
-      "title": "Video compressor",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "published": "2026-09-07T18:29:07+00:00",
-      "summary": "Tool: Video compressor\n        I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG.\n\n    \n    \n        Tags: ffmpeg, video, webassembly, claude, claude-code, claude-mythos-fable"
-    },
-    {
-      "title": "Mercator ↔ Equal Earth",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-      "published": "2026-09-07T16:24:16+00:00",
-      "summary": "Tool: Mercator ↔ Equal Earth\n        I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3.\n\n  \n\n    \n    \n        Tags: geospatial, d3, vibe-coding, gpt-6-astra"
     }
   ]
 }
