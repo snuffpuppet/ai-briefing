@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-09T17:34:32.422647+00:00",
+  "generated_at": "2026-09-09T20:26:30.836269+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 33,
   "items": [
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "published": "2026-09-09T20:06:28+00:00",
+      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published": "2026-09-09T17:00:00+00:00",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    },
     {
       "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
       "source": "AI - Ars Technica",
