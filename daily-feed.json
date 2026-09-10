@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T05:37:03.836100+00:00",
+  "generated_at": "2026-09-10T10:37:58.113791+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 21,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -171,30 +171,6 @@
       "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
       "published": "2026-09-08T22:46:33+00:00",
       "summary": "Introducing ChatGPT Images 2.5\nOpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\".\nThere are two new model IDs in the API: gpt-image-2.5-sunburst and gpt-image-2.5-flare. Based on this I think Sunburst is the stronger option:\n\nChoose Sun"
-    },
-    {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "published": "2026-09-08T21:11:46+00:00",
-      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
-    },
-    {
-      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "published": "2026-09-08T18:43:09+00:00",
-      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics."
-    },
-    {
-      "title": "Update to Google’s AI weather model improves forecast accuracy",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "published": "2026-09-08T18:00:56+00:00",
-      "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
     }
   ]
 }
