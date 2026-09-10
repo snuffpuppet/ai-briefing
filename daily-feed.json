@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-10T00:52:01.590922+00:00",
+  "generated_at": "2026-09-10T05:37:03.836100+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+      "published": "2026-09-10T03:33:12+00:00",
+      "summary": "a quiet day"
+    },
+    {
+      "title": "Quoting Calif Research",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "published": "2026-09-10T00:56:41+00:00",
+      "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...]\nWorking with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.\nA worm at this scale used to be the kind of thing that t"
+    },
     {
       "title": ".blend URL Viewer",
       "source": "Simon Willison's Weblog",
@@ -179,86 +195,6 @@
       "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
       "published": "2026-09-08T18:00:56+00:00",
       "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "published": "2026-09-08T17:00:00+00:00",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-    },
-    {
-      "title": "What is happening with code reviews?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
-      "published": "2026-09-08T16:32:01+00:00",
-      "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt &#8211; or is it doomed? A look into this decades-old practice and the approaches that could replace it"
-    },
-    {
-      "title": "AI Slop Is Changing How Engineers Review Code",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
-      "published": "2026-09-08T16:16:49+00:00",
-      "summary": "AI coding tools can now generate thousands of lines of code in minutes, helping companies build features, run tests, and fix issues faster. But the flood of AI-generated code still has to be reviewed. Large language models can produce code that looks clean on the surface but conceals sloppy mistakes such as faulty assumptions, security vulnerabilities, or subtle errors that emerge only after deployment. Fixing those problems could erase the productivity gains AI promises.Companies are responding"
-    },
-    {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "published": "2026-09-08T14:23:07+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
-      "published": "2026-09-08T14:15:25+00:00",
-      "summary": "The open model ecosystem continues to expand in its breadth"
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "published": "2026-09-08T14:00:15+00:00",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-    },
-    {
-      "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/alphagenome-atlas",
-      "published": "2026-09-08T14:00:05+00:00",
-      "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Unde"
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "published": "2026-09-08T13:00:00+00:00",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
-    },
-    {
-      "title": "Fragments: September  8",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-09-08.html",
-      "published": "2026-09-08T11:22:00-04:00",
-      "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:.\n\n\n  This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code.\n[…]\nThe old automation boundary was routine versu"
-    },
-    {
-      "title": "Do you even need a presentation?",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
-      "published": "2026-09-08T09:42:00-04:00",
-      "summary": "Like me, Sumeet Gayathri Moghe is tired of poor\n      presentations with bad slide decks. He's started to write a series of\n      posts on how to avoid these calamities, beginning with a post that questions\n      whether a presentation is needed at all. \n\nmore…"
     }
   ]
 }
