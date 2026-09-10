@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T21:25:31.767816+00:00",
+  "generated_at": "2026-09-10T23:44:25.671115+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 24,
   "items": [
     {
       "title": "Native is now the future of mobile at Shopify",
@@ -93,20 +93,20 @@
       "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...]\nWorking with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.\nA worm at this scale used to be the kind of thing that t"
     },
     {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-    },
-    {
       "title": "Introducing the Agents API",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/introducing-the-agents-api",
       "published": "2026-09-10T00:00:00+00:00",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
     },
     {
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -195,38 +195,6 @@
       "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
       "published": "2026-09-09T12:00:04+00:00",
       "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) it uses on the output of its Gemini models. OpenAI has yet to introduce a text watermark but it plans to do so. The rapid spread of watermarking is in part a response to the European Union’s AI Act, which mandates watermarks for AI models released after"
-    },
-    {
-      "title": "When will average people feel AI’s impact?",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
-      "published": "2026-09-09T11:01:23+00:00",
-      "summary": "We&#8217;re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this."
-    },
-    {
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "published": "2026-09-09T11:00:10+00:00",
-      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "published": "2026-09-09T11:00:00+00:00",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-      "title": "China’s Regulators Take Aim at “AI Boyfriends”",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
-      "published": "2026-09-09T10:00:07+00:00",
-      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose.“He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote, according to the Taipei Times. “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The Star.The emotions were real but the lost companions were not. They were generative"
     }
   ]
 }
