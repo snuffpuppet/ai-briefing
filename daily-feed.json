@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-10T10:37:58.113791+00:00",
+  "generated_at": "2026-09-10T14:50:29.921713+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Powering AI is an architecture problem",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "published": "2026-09-10T11:00:00+00:00",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;"
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -19,6 +27,14 @@
       "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
       "published": "2026-09-10T00:56:41+00:00",
       "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...]\nWorking with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.\nA worm at this scale used to be the kind of thing that t"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": ".blend URL Viewer",
@@ -147,30 +163,6 @@
       "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "published": "2026-09-09T03:10:08+00:00",
       "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;"
-    },
-    {
-      "title": "Quoting Terence Tao",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-      "published": "2026-09-09T00:20:17+00:00",
-      "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...]\nWe have now seen that even the rumor of someone working on a problem can trigger a massive amount of AI-powered effort to flatten it before the original research project has time to reach its full potential.  The incentives may now be pointing in the direction of no longer sharing any promising research"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "published": "2026-09-08T23:55:12+00:00",
-      "summary": "On the Navier–Stokes Millennium Prize Problem\nImpressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem, one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000.\nThe discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU mathematics professor who was collaborating on related problems with Levent Alpöge, an accomplished math"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-      "published": "2026-09-08T22:46:33+00:00",
-      "summary": "Introducing ChatGPT Images 2.5\nOpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\".\nThere are two new model IDs in the API: gpt-image-2.5-sunburst and gpt-image-2.5-flare. Based on this I think Sunburst is the stronger option:\n\nChoose Sun"
     }
   ]
 }
