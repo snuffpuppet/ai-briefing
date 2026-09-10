@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-10T14:50:29.921713+00:00",
+  "generated_at": "2026-09-10T18:06:47.074903+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 24,
   "items": [
+    {
+      "title": "The Pulse #191: a new trend of CPU shortages",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+      "published": "2026-09-10T17:13:44+00:00",
+      "summary": "For compute-intensive services: it&#8217;s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published": "2026-09-10T16:00:00+00:00",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+    },
+    {
+      "title": "One resignation turned the embers of AI fear into a wildfire",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+      "published": "2026-09-10T15:28:52+00:00",
+      "summary": "Some quick notes on a truly weird week."
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/put-data-to-work",
+      "published": "2026-09-10T15:00:00+00:00",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
     {
       "title": "Powering AI is an architecture problem",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -11,6 +43,14 @@
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "2026-09-10T11:00:00+00:00",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
       "title": "[AINews] not much happened today",
@@ -27,6 +67,14 @@
       "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
       "published": "2026-09-10T00:56:41+00:00",
       "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...]\nWorking with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.\nA worm at this scale used to be the kind of thing that t"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
     },
     {
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -147,22 +195,6 @@
       "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
       "published": "2026-09-09T10:00:07+00:00",
       "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose.“He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote, according to the Taipei Times. “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The Star.The emotions were real but the lost companions were not. They were generative"
-    },
-    {
-      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "published": "2026-09-09T05:04:51+00:00",
-      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI."
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "published": "2026-09-09T03:10:08+00:00",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;"
     }
   ]
 }
