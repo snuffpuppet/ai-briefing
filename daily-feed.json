@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-09T22:56:51.228307+00:00",
+  "generated_at": "2026-09-10T00:52:01.590922+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 32,
   "items": [
+    {
+      "title": ".blend URL Viewer",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "published": "2026-09-09T23:58:32+00:00",
+      "summary": "Tool: .blend URL Viewer\n        I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL).\nAs a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make some new ones that celebrate popular culture.\nYesterday I decided to try out the new ChatGPT Images 2.5 by running this prompt:\n\nGenerate a photo of a faberge egg that's themed after the TV show Pluribus - research first\n\nIt gave me this - honestly not bad for a first attempt!\n\nThen, just to se"
+    },
     {
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
       "source": "AI - Ars Technica",
@@ -51,6 +59,14 @@
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "published": "2026-09-09T15:36:24+00:00",
       "summary": ""
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/ai-policy-window",
+      "published": "2026-09-09T13:00:00+00:00",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
     },
     {
       "title": "Social Media Engagement: summer 2026",
@@ -227,14 +243,6 @@
       "url": "https://openai.com/index/the-work-now-within-reach",
       "published": "2026-09-08T13:00:00+00:00",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "published": "2026-09-08T11:30:00+00:00",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
     },
     {
       "title": "Fragments: September  8",
