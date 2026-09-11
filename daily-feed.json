@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-11T19:29:17.047732+00:00",
+  "generated_at": "2026-09-11T22:16:58.399840+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "2026-09-11T20:05:06+00:00",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;"
+    },
+    {
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "published": "2026-09-11T19:34:09+00:00",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
+    },
     {
       "title": "Quoting Boris Cherny",
       "source": "Simon Willison's Weblog",
