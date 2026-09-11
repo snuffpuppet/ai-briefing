@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-11T16:56:33.752086+00:00",
+  "generated_at": "2026-09-11T19:29:17.047732+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 16,
   "items": [
+    {
+      "title": "Quoting Boris Cherny",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+      "published": "2026-09-11T17:47:11+00:00",
+      "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a mess that is hard to maintain down the line.\n&mdash; Boris Cherny\n\n    Tags: claude, ai, claude-code,"
+    },
     {
       "title": "Quoting huggingface.co/security.txt",
       "source": "Simon Willison's Weblog",
@@ -43,6 +51,14 @@
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "published": "2026-09-11T12:36:25+00:00",
       "summary": "How to get up to speed on open models and their implications."
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published": "2026-09-11T10:00:00+00:00",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
     },
     {
       "title": "Datasette 1.0a39 and 0.65.4 security releases",
@@ -115,22 +131,6 @@
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "2026-09-10T11:00:00+00:00",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     }
   ]
 }
