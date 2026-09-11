@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-10T23:44:25.671115+00:00",
+  "generated_at": "2026-09-11T03:00:53.964198+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Any Nix package, live in your browser",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+      "published": "2026-09-10T23:44:15+00:00",
+      "summary": "Any Nix package, live in your browser\nFarid Zakaria calls this his \"magnum opus of Nix work\", and I can see why.\ntrynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are URL addressable, so you can navigate to this page:\nhttps://trynix.dev/?pkg=python3%403.6.2\nThen click \"Load\" and get an interactive shell against a virtual machine running Python 3.6."
+    },
     {
       "title": "Native is now the future of mobile at Shopify",
       "source": "Simon Willison's Weblog",
@@ -173,28 +181,12 @@
       "summary": ""
     },
     {
-      "title": "The AI policy window is open. We need to act.",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ai-policy-window",
-      "published": "2026-09-09T13:00:00+00:00",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-    },
-    {
       "title": "Social Media Engagement: summer 2026",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/2026-social-traffic.html",
       "published": "2026-09-09T12:21:00-04:00",
       "summary": "A quick survey of recent engagement of my posts on social media, indicating which\n      service has by far the most engagement, and which service has seen a\n      precipitous decline since early 2025.\n\nmore…"
-    },
-    {
-      "title": "AI Models Are Watermarking Text—Will You Notice?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
-      "published": "2026-09-09T12:00:04+00:00",
-      "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) it uses on the output of its Gemini models. OpenAI has yet to introduce a text watermark but it plans to do so. The rapid spread of watermarking is in part a response to the European Union’s AI Act, which mandates watermarks for AI models released after"
     }
   ]
 }
