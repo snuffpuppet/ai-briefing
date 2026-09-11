@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-11T07:59:01.584755+00:00",
+  "generated_at": "2026-09-11T12:42:14.794713+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Open-Source AI & Open Models Reading List",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "published": "2026-09-11T12:36:25+00:00",
+      "summary": "How to get up to speed on open models and their implications."
+    },
     {
       "title": "Datasette 1.0a39 and 0.65.4 security releases",
       "source": "Simon Willison's Weblog",
@@ -107,46 +115,6 @@
       "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
       "published": "2026-09-10T00:56:41+00:00",
       "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...]\nWorking with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.\nA worm at this scale used to be the kind of thing that t"
-    },
-    {
-      "title": "Introducing the Agents API",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": ".blend URL Viewer",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "published": "2026-09-09T23:58:32+00:00",
-      "summary": "Tool: .blend URL Viewer\n        I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL).\nAs a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make some new ones that celebrate popular culture.\nYesterday I decided to try out the new ChatGPT Images 2.5 by running this prompt:\n\nGenerate a photo of a faberge egg that's themed after the TV show Pluribus - research first\n\nIt gave me this - honestly not bad for a first attempt!\n\nThen, just to se"
-    },
-    {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "published": "2026-09-09T20:06:28+00:00",
-      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
     }
   ]
 }
