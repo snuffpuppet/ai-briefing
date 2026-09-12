@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12T10:06:44.120582+00:00",
+  "generated_at": "2026-09-12T13:54:15.316610+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 18,
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -11,6 +11,14 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "published": "2026-09-12T11:00:53+00:00",
+      "summary": "Unitree might be the world’s most important robotics company."
     },
     {
       "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
@@ -139,38 +147,6 @@
       "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
       "published": "2026-09-11T02:58:52+00:00",
       "summary": "Release: datasette-publish-fly 1.4\n        \n\nSets force_https=true in fly.toml. #31\nFix for Volume could not be found bug. #32\nCompatible with app-scoped deploy tokens. #34\n\n\n    \n    \n        Tags: datasette, fly"
-    },
-    {
-      "title": "github-to-sqlite 2.9.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
-      "published": "2026-09-11T00:28:39+00:00",
-      "summary": "Release: github-to-sqlite 2.9.1\n        \n\nFix for compatibility with sqlite-utils 4.x. #85\n\n\n    \n    \n        Tags: github, sqlite"
-    },
-    {
-      "title": "datasette 0.65.4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette/",
-      "published": "2026-09-11T00:06:55+00:00",
-      "summary": "Release: datasette 0.65.4\n        See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog.\n    \n    \n        Tags: security, datasette"
-    },
-    {
-      "title": "datasette 1.0a39",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "published": "2026-09-11T00:05:54+00:00",
-      "summary": "Release: datasette 1.0a39\n        See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog.\n    \n    \n        Tags: security, datasette"
-    },
-    {
-      "title": "Any Nix package, live in your browser",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "published": "2026-09-10T23:44:15+00:00",
-      "summary": "Any Nix package, live in your browser\nFarid Zakaria calls this his \"magnum opus of Nix work\", and I can see why.\ntrynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are URL addressable, so you can navigate to this page:\nhttps://trynix.dev/?pkg=python3%403.6.2\nThen click \"Load\" and get an interactive shell against a virtual machine running Python 3.6."
     }
   ]
 }
