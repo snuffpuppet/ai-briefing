@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:17:29.492662+00:00",
+  "generated_at": "2026-09-12T23:45:25.509085+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 18,
@@ -11,6 +11,14 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "California Brown Pelican",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "published": "2026-09-12T21:16:09+00:00",
+      "summary": "California Brown Pelican, in San Mateo County, CA, USThe Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe.\nIt has since been entirely taken over by pelicans!\n    \n    \n        Tags: wildlife"
     },
     {
       "title": "Quoting Paul Ford",
@@ -139,14 +147,6 @@
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "published": "2026-09-11T12:36:25+00:00",
       "summary": "How to get up to speed on open models and their implications."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "published": "2026-09-11T10:00:00+00:00",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
     }
   ]
 }
