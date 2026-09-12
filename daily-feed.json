@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12T13:54:15.316610+00:00",
+  "generated_at": "2026-09-12T16:46:21.534358+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 17,
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -11,6 +11,14 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+      "published": "2026-09-12T15:01:19+00:00",
+      "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline &#8212; a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs."
     },
     {
       "title": "I spent $4,000 on a robot dog from China",
@@ -45,7 +53,7 @@
       "summary": "So you want to use OpenRouter?\nOne of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider.\nMohamed Moustafa points out a whole set of ways that this can cause you problems. Different providers run different serving software with different optimizations and settings, which means that the same OpenRouter endpoint can"
     },
     {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Will AI really kill us all?",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
@@ -131,22 +139,6 @@
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "published": "2026-09-11T10:00:00+00:00",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-    },
-    {
-      "title": "Datasette 1.0a39 and 0.65.4 security releases",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-      "published": "2026-09-11T03:27:16+00:00",
-      "summary": "Datasette 1.0a39 and 0.65.4 security releases\nToday we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family.\nThese are security fixes which you should apply if you are running a Datasette instance on the public web - in particular if that instance mixes both public and private tables.\nFollowing issues reported by Sevban Dönmez, Alex Garcia and I ran an extensive audit of Datasette using Claude Fable 5"
-    },
-    {
-      "title": "datasette-publish-fly 1.4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-      "published": "2026-09-11T02:58:52+00:00",
-      "summary": "Release: datasette-publish-fly 1.4\n        \n\nSets force_https=true in fly.toml. #31\nFix for Volume could not be found bug. #32\nCompatible with app-scoped deploy tokens. #34\n\n\n    \n    \n        Tags: datasette, fly"
     }
   ]
 }
