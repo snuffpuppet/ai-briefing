@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12T23:45:25.509085+00:00",
+  "generated_at": "2026-09-13T03:09:42.807575+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 15,
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -11,6 +11,14 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "published": "2026-09-12T23:56:42+00:00",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning:\n\nI live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data.\n\nIt worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here's that 5K route:\n\nWhen I asked it how it had created the route, it replied:\n\nI used Nominatim to locate the address and Overpass to download local OpenStre"
     },
     {
       "title": "California Brown Pelican",
@@ -115,38 +123,6 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "published": "2026-09-11T16:00:00+00:00",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-    },
-    {
-      "title": "Soft-deprecating re.match()",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
-      "published": "2026-09-11T14:47:57+00:00",
-      "summary": "Soft-deprecating re.match()\nPython has a concept of soft deprecation, where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future.\nPython 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15 release soft deprecation has come for the venerable but deeply confusing re.match() function. It's now available with the much clearer alternative re.prefixmatch() name - reflecting how it anchors at the beginning of the s"
-    },
-    {
-      "title": "Don't sleep on wrapture",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
-      "published": "2026-09-11T13:51:32+00:00",
-      "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it!\nGraham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's published so far:\n\nIntroducing wrapture - a new monkey patching library that serves both testing and observability (think New Relic style tracing) at the same time.\nUnit testing with wrapture - how to use"
-    },
-    {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "published": "2026-09-11T13:02:35+00:00",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
-    },
-    {
-      "title": "Open-Source AI & Open Models Reading List",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "published": "2026-09-11T12:36:25+00:00",
-      "summary": "How to get up to speed on open models and their implications."
     }
   ]
 }
