@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:44:49.708337+00:00",
+  "generated_at": "2026-09-14T05:48:45.070224+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 7,
@@ -10,7 +10,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
       "published": "2026-09-14T00:28:10+00:00",
-      "summary": "Release: commit-rewriter 0.1\n        I vibe-coded this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication.\nIf you want to edit the commit messages for a repository you can run it like this:\nuvx commit-rewriter path/to/repo\n\nOmit the path if you are already in the directory for that repo.\n\nWhen you submit y"
+      "summary": "Release: commit-rewriter 0.1\n        I built this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication.\nIf you want to edit the commit messages for a repository you can run it like this:\nuvx commit-rewriter path/to/repo\n\nOmit the path if you are already in the directory for that repo.\n\nWhen you submit your e"
     },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -19,6 +19,14 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "AI-ready data: The anthology - Part 1 of 2",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-1",
+      "published": "2026-09-14T00:00:00+00:00",
+      "summary": "AI-ready data: The anthology - Part 1 of 2"
     },
     {
       "title": "shot-scraper 1.12",
@@ -51,14 +59,6 @@
       "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
       "published": "2026-09-12T18:00:21+00:00",
       "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts. A.I. can write very good software, but it also makes it easy to do someone else’s job badly, which is part of why all those projects fail. Now that everyone can code,"
-    },
-    {
-      "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
-      "published": "2026-09-12T15:01:19+00:00",
-      "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline &#8212; a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs."
     }
   ]
 }
