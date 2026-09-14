@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-09-14T17:42:37.889982+00:00",
+  "generated_at": "2026-09-14T21:30:03.119656+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 20,
   "items": [
+    {
+      "title": "The contagion of fear",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "published": "2026-09-14T21:18:13+00:00",
+      "summary": "The contagion of fear\nBryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\".\nBryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same:\n\nThese ghoulish claims strike brazenly at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt into the mainstream, with pe"
+    },
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "published": "2026-09-14T21:04:32+00:00",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
+    },
+    {
+      "title": "What blog posts influenced your thinking the most?",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/14/influences/",
+      "published": "2026-09-14T20:21:48+00:00",
+      "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working, just in case one of those abstractions leaks.\nA more recent one, from 2018, is Migrations: the sole scalable fix to tech debt by Will Larson. I absolutely love his idea that migrations (e.g. replacin"
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "published": "2026-09-14T19:45:13+00:00",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
+    },
+    {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "published": "2026-09-14T19:38:46+00:00",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
+    },
+    {
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "published": "2026-09-14T19:28:42+00:00",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps."
+    },
+    {
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "published": "2026-09-14T19:06:13+00:00",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry."
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "published": "2026-09-14T17:54:22+00:00",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;"
+    },
     {
       "title": "Humanity’s Last Invention — Richard Socher of Recursive",
       "source": "Latent.Space",
