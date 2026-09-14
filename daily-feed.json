@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-13T22:53:50.601616+00:00",
+  "generated_at": "2026-09-14T00:44:49.708337+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 7,
   "items": [
+    {
+      "title": "commit-rewriter 0.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "published": "2026-09-14T00:28:10+00:00",
+      "summary": "Release: commit-rewriter 0.1\n        I vibe-coded this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication.\nIf you want to edit the commit messages for a repository you can run it like this:\nuvx commit-rewriter path/to/repo\n\nOmit the path if you are already in the directory for that repo.\n\nWhen you submit y"
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "source": "OpenAI News",
@@ -11,6 +19,14 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "shot-scraper 1.12",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "published": "2026-09-13T23:58:14+00:00",
+      "summary": "Release: shot-scraper 1.12\n        I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this:\nshot-scraper https://simonwillison.net -o screenshot.webp --quality 80\n\nThe --quality option sets the quality - without that option the WebP file will be lossless.\nIn my experience WebP screenshots are almost always significantly smaller in file size than their JPEG or PNG equivalents. See the PR for some examples.\nI shipped this fe"
     },
     {
       "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
@@ -43,14 +59,6 @@
       "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
       "published": "2026-09-12T15:01:19+00:00",
       "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline &#8212; a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs."
-    },
-    {
-      "title": "I spent $4,000 on a robot dog from China",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "published": "2026-09-12T11:00:53+00:00",
-      "summary": "Unitree might be the world’s most important robotics company."
     }
   ]
 }
