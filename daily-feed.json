@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T05:48:45.070224+00:00",
+  "generated_at": "2026-09-14T11:48:46.774395+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 5,
   "items": [
     {
       "title": "commit-rewriter 0.1",
@@ -43,22 +43,6 @@
       "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
       "published": "2026-09-12T23:56:42+00:00",
       "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning:\n\nI live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data.\n\nIt worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here's that 5K route:\n\nWhen I asked it how it had created the route, it replied:\n\nI used Nominatim to locate the address and Overpass to download local OpenStre"
-    },
-    {
-      "title": "California Brown Pelican",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-      "published": "2026-09-12T21:16:09+00:00",
-      "summary": "California Brown Pelican, in San Mateo County, CA, USThe Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe.\nIt has since been entirely taken over by pelicans!\n    \n    \n        Tags: wildlife"
-    },
-    {
-      "title": "Quoting Paul Ford",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-      "published": "2026-09-12T18:00:21+00:00",
-      "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts. A.I. can write very good software, but it also makes it easy to do someone else’s job badly, which is part of why all those projects fail. Now that everyone can code,"
     }
   ]
 }
