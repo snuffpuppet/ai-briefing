@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-09-14T11:48:46.774395+00:00",
+  "generated_at": "2026-09-14T17:42:37.889982+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/recursive",
+      "published": "2026-09-14T16:04:16+00:00",
+      "summary": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI &#8212; already worth $5B!"
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "published": "2026-09-14T16:00:00+00:00",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;"
+    },
+    {
+      "title": "Quoting Laurie Voss",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+      "published": "2026-09-14T14:34:29+00:00",
+      "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per piece of software and doesn't transfer, so as the amount of software goes to infinity, which it will because there's no ceiling on demand, that cost becomes the whole job.\n&mdash; Laurie Voss, We are all Product Engineers n"
+    },
+    {
+      "title": "Responsible AI for Higher Education",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+      "published": "2026-09-14T14:18:11+00:00",
+      "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q&amp;A. This will be an interactive session, so have phones ready to engage! Reg"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "published": "2026-09-14T14:06:31+00:00",
+      "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when compared to Nvidia’s GB300—a chip the company currently relies on—and do so while consuming less power"
+    },
+    {
+      "title": "Adversarial Fashion Confronts Surveillance Norms",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "published": "2026-09-14T13:00:03+00:00",
+      "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates. But a public backlash is gaining momentum.Privacy concerns abound, encompassing the lack of consent for capturing data, how that data is stored and used, and the risk of misuse. Those concerns are motivating people to fight back. The DeFlock project, for instance, maps automated license plate readers (ALPRs) to raise awareness. Some people resort to extreme measures, such as vand"
+    },
+    {
+      "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
+      "published": "2026-09-14T12:00:01+00:00",
+      "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish. Or the AI manager of a San Francisco store that fired a human employee. Or the AI radio DJ that said its catchphrase, “Stay in the manifest,” 229 times per day.These incidents all emerged from experiments run by Andon Labs, an AI safety company based in San Francisco that puts AI agents in charge of real-world operations and watches what happens. These operations double as testbeds for Andon’s commercia"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/fyxer",
+      "published": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+    },
     {
       "title": "commit-rewriter 0.1",
       "source": "Simon Willison's Weblog",
@@ -35,14 +99,6 @@
       "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
       "published": "2026-09-13T23:58:14+00:00",
       "summary": "Release: shot-scraper 1.12\n        I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this:\nshot-scraper https://simonwillison.net -o screenshot.webp --quality 80\n\nThe --quality option sets the quality - without that option the WebP file will be lossless.\nIn my experience WebP screenshots are almost always significantly smaller in file size than their JPEG or PNG equivalents. See the PR for some examples.\nI shipped this fe"
-    },
-    {
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "published": "2026-09-12T23:56:42+00:00",
-      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning:\n\nI live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data.\n\nIt worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here's that 5K route:\n\nWhen I asked it how it had created the route, it replied:\n\nI used Nominatim to locate the address and Overpass to download local OpenStre"
     }
   ]
 }
