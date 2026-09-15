@@ -1,11 +1,43 @@
 {
-  "generated_at": "2026-09-15T11:05:28.020696+00:00",
+  "generated_at": "2026-09-15T16:16:03.537028+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
   "items": [
     {
-      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "2026-09-15T16:00:44+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Inside OpenAI’s agentic software factory",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "published": "2026-09-15T15:41:25+00:00",
+      "summary": "A deepdive into how Codex has &#8220;taken over&#8221; OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI"
+    },
+    {
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "published": "2026-09-15T12:00:41+00:00",
+      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
+    },
+    {
+      "title": "Nail the Narrative",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+      "published": "2026-09-15T11:11:00-04:00",
+      "summary": "Sumeet Gayathri Moghe finds many folks building\n      presentations get tangled in building slides without a coherent narrative.\n      He advises distilling the big idea, visualizing the audience, and\n      building a structured storyline. \n\nmore…"
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -147,38 +179,6 @@
       "url": "https://openai.com/index/fyxer",
       "published": "2026-09-14T12:00:00+00:00",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-    },
-    {
-      "title": "commit-rewriter 0.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-      "published": "2026-09-14T00:28:10+00:00",
-      "summary": "Release: commit-rewriter 0.1\n        I built this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication.\nIf you want to edit the commit messages for a repository you can run it like this:\nuvx commit-rewriter path/to/repo\n\nOmit the path if you are already in the directory for that repo.\n\nWhen you submit your e"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "published": "2026-09-14T00:00:00+00:00",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "title": "AI-ready data: The anthology - Part 1 of 2",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-1",
-      "published": "2026-09-14T00:00:00+00:00",
-      "summary": "AI-ready data: The anthology - Part 1 of 2"
-    },
-    {
-      "title": "shot-scraper 1.12",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-      "published": "2026-09-13T23:58:14+00:00",
-      "summary": "Release: shot-scraper 1.12\n        I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this:\nshot-scraper https://simonwillison.net -o screenshot.webp --quality 80\n\nThe --quality option sets the quality - without that option the WebP file will be lossless.\nIn my experience WebP screenshots are almost always significantly smaller in file size than their JPEG or PNG equivalents. See the PR for some examples.\nI shipped this fe"
     }
   ]
 }
