@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-15T00:18:29.836924+00:00",
+  "generated_at": "2026-09-15T05:50:05.611942+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "published": "2026-09-15T04:50:36+00:00",
+      "summary": "Pacing gathers pace."
+    },
     {
       "title": "The contagion of fear",
       "source": "Simon Willison's Weblog",
