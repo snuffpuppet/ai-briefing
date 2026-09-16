@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-16T07:14:42.240285+00:00",
+  "generated_at": "2026-09-16T13:09:05.266946+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 14,
   "items": [
+    {
+      "title": "Building the materials foundation for AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "published": "2026-09-16T12:47:34+00:00",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;"
+    },
+    {
+      "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "published": "2026-09-16T11:09:53+00:00",
+      "summary": "congrats to TypeSafe!"
+    },
+    {
+      "title": "Quantifying AI adoption: From initial challenges to doubling speed",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/quantifying-ai-adoption-from-initial-challenges-to-doubling-speed",
+      "published": "2026-09-16T00:00:00+00:00",
+      "summary": "Quantifying AI adoption: From initial challenges to doubling speed"
+    },
     {
       "title": "Gemini Live audio",
       "source": "Simon Willison's Weblog",
@@ -91,54 +115,6 @@
       "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
       "published": "2026-09-15T04:50:36+00:00",
       "summary": "Pacing gathers pace."
-    },
-    {
-      "title": "The contagion of fear",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-      "published": "2026-09-14T21:18:13+00:00",
-      "summary": "The contagion of fear\nBryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\".\nBryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same:\n\nThese ghoulish claims strike brazenly at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt into the mainstream, with pe"
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "published": "2026-09-14T21:04:32+00:00",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
-    },
-    {
-      "title": "What blog posts influenced your thinking the most?",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/14/influences/",
-      "published": "2026-09-14T20:21:48+00:00",
-      "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working, just in case one of those abstractions leaks.\nA more recent one, from 2018, is Migrations: the sole scalable fix to tech debt by Will Larson. I absolutely love his idea that migrations (e.g. replacin"
-    },
-    {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "published": "2026-09-14T19:45:13+00:00",
-      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
-    },
-    {
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "published": "2026-09-14T19:38:46+00:00",
-      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
-    },
-    {
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "published": "2026-09-14T19:28:42+00:00",
-      "summary": "This is also the last version of macOS to support Rosetta for Intel apps."
     }
   ]
 }
