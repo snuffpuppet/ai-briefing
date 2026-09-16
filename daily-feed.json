@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-16T13:09:05.266946+00:00",
+  "generated_at": "2026-09-16T17:59:34.182355+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "published": "2026-09-16T16:51:02+00:00",
+      "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action"
+    },
+    {
+      "title": "Quoting Mustafa Suleyman",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "published": "2026-09-16T16:00:54+00:00",
+      "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder.\n&mdash; Mustafa Suleyman, A warning about ‘model welfare’\n\n    Tags: ai-ethics, generative-ai, ai, microsoft, llms"
+    },
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published": "2026-09-16T16:00:00+00:00",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published": "2026-09-16T13:00:00+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
     {
       "title": "Building the materials foundation for AI",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -19,6 +51,14 @@
       "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
       "published": "2026-09-16T11:09:53+00:00",
       "summary": "congrats to TypeSafe!"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published": "2026-09-16T09:00:00+00:00",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     },
     {
       "title": "Quantifying AI adoption: From initial challenges to doubling speed",
@@ -107,14 +147,6 @@
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "published": "2026-09-15T10:00:00+00:00",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;"
-    },
-    {
-      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "published": "2026-09-15T04:50:36+00:00",
-      "summary": "Pacing gathers pace."
     }
   ]
 }
