@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16T01:06:51.991655+00:00",
+  "generated_at": "2026-09-16T07:14:42.240285+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 17,
   "items": [
     {
       "title": "Gemini Live audio",
@@ -139,62 +139,6 @@
       "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
       "published": "2026-09-14T19:28:42+00:00",
       "summary": "This is also the last version of macOS to support Rosetta for Intel apps."
-    },
-    {
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "published": "2026-09-14T19:06:13+00:00",
-      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry."
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "published": "2026-09-14T17:54:22+00:00",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;"
-    },
-    {
-      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/recursive",
-      "published": "2026-09-14T16:04:16+00:00",
-      "summary": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI &#8212; already worth $5B!"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "published": "2026-09-14T16:00:00+00:00",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;"
-    },
-    {
-      "title": "Quoting Laurie Voss",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-      "published": "2026-09-14T14:34:29+00:00",
-      "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per piece of software and doesn't transfer, so as the amount of software goes to infinity, which it will because there's no ceiling on demand, that cost becomes the whole job.\n&mdash; Laurie Voss, We are all Product Engineers n"
-    },
-    {
-      "title": "Responsible AI for Higher Education",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-      "published": "2026-09-14T14:18:11+00:00",
-      "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q&amp;A. This will be an interactive session, so have phones ready to engage! Reg"
-    },
-    {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "published": "2026-09-14T14:06:31+00:00",
-      "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when compared to Nvidia’s GB300—a chip the company currently relies on—and do so while consuming less power"
     }
   ]
 }
