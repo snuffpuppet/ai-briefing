@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-15T22:51:26.913258+00:00",
+  "generated_at": "2026-09-16T01:06:51.991655+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Gemini Live audio",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "published": "2026-09-15T22:47:07+00:00",
+      "summary": "Tool: Gemini Live audio\n        Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family.\nI pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice conversation through your browser, including the ability to interrupt the model while it is talkin"
+    },
     {
       "title": "Can Skills Learned in Games Transfer to Real-World Work?",
       "source": "Latent.Space",
@@ -187,30 +195,6 @@
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "published": "2026-09-14T14:06:31+00:00",
       "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when compared to Nvidia’s GB300—a chip the company currently relies on—and do so while consuming less power"
-    },
-    {
-      "title": "Adversarial Fashion Confronts Surveillance Norms",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "published": "2026-09-14T13:00:03+00:00",
-      "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates. But a public backlash is gaining momentum.Privacy concerns abound, encompassing the lack of consent for capturing data, how that data is stored and used, and the risk of misuse. Those concerns are motivating people to fight back. The DeFlock project, for instance, maps automated license plate readers (ALPRs) to raise awareness. Some people resort to extreme measures, such as vand"
-    },
-    {
-      "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
-      "published": "2026-09-14T12:00:01+00:00",
-      "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish. Or the AI manager of a San Francisco store that fired a human employee. Or the AI radio DJ that said its catchphrase, “Stay in the manifest,” 229 times per day.These incidents all emerged from experiments run by Andon Labs, an AI safety company based in San Francisco that puts AI agents in charge of real-world operations and watches what happens. These operations double as testbeds for Andon’s commercia"
-    },
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/fyxer",
-      "published": "2026-09-14T12:00:00+00:00",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
     }
   ]
 }
