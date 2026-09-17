@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-17T15:30:01.618682+00:00",
+  "generated_at": "2026-09-17T19:33:32.639979+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 22,
   "items": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "published": "2026-09-17T18:33:13+00:00",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
+    },
+    {
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "published": "2026-09-17T16:18:34+00:00",
+      "summary": "Model maker commits to new framework for reporting misaligned models."
+    },
     {
       "title": "AI Skills with Matt Pocock",
       "source": "The Pragmatic Engineer",
