@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-17T19:33:32.639979+00:00",
+  "generated_at": "2026-09-17T22:41:16.368821+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "published": "2026-09-17T22:12:58+00:00",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
+    },
+    {
+      "title": "Self-generated prompt injections in compaction summaries",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "published": "2026-09-17T20:57:55+00:00",
+      "summary": "Self-generated prompt injections in compaction summaries\nIn Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts.\nCompaction is the process agent systems use when they are running out of tokens in their context window, so they summarize everything that has"
+    },
+    {
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "published": "2026-09-17T20:24:34+00:00",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks."
+    },
+    {
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "published": "2026-09-17T20:10:41+00:00",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
+    },
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
       "source": "AI - Ars Technica",
@@ -43,6 +75,14 @@
       "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
       "published": "2026-09-17T07:28:25+00:00",
       "summary": "A dash of cold water keeps the foomers away."
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/astra-for-law",
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     },
     {
       "title": "AI makes Agile more alive",
@@ -171,14 +211,6 @@
       "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
       "published": "2026-09-16T11:09:53+00:00",
       "summary": "congrats to TypeSafe!"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "published": "2026-09-16T09:00:00+00:00",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     }
   ]
 }
