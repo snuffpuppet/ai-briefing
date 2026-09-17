@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-17T10:59:12.040922+00:00",
+  "generated_at": "2026-09-17T15:30:01.618682+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 20,
   "items": [
+    {
+      "title": "AI Skills with Matt Pocock",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+      "published": "2026-09-17T11:29:00+00:00",
+      "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever."
+    },
+    {
+      "title": "I don't like LLMs",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "published": "2026-09-17T09:50:00-04:00",
+      "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I’m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don’t think"
+    },
     {
       "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
       "source": "Latent.Space",
@@ -11,6 +27,14 @@
       "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
       "published": "2026-09-17T07:28:25+00:00",
       "summary": "A dash of cold water keeps the foomers away."
+    },
+    {
+      "title": "AI makes Agile more alive",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/agile-engineering-practices/ai-makes-agile-more-alive",
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "AI makes Agile more alive"
     },
     {
       "title": "datasette 1.0a40",
@@ -93,6 +117,14 @@
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
     },
     {
+      "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
+      "published": "2026-09-16T13:24:18+00:00",
+      "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!"
+    },
+    {
       "title": "Reimagining advertising with AI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -131,14 +163,6 @@
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "published": "2026-09-16T09:00:00+00:00",
       "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
-    },
-    {
-      "title": "Quantifying AI adoption: From initial challenges to doubling speed",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/quantifying-ai-adoption-from-initial-challenges-to-doubling-speed",
-      "published": "2026-09-16T00:00:00+00:00",
-      "summary": "Quantifying AI adoption: From initial challenges to doubling speed"
     }
   ]
 }
