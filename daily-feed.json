@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-17T05:45:00.317358+00:00",
+  "generated_at": "2026-09-17T10:59:12.040922+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "published": "2026-09-17T07:28:25+00:00",
+      "summary": "A dash of cold water keeps the foomers away."
+    },
     {
       "title": "datasette 1.0a40",
       "source": "Simon Willison's Weblog",
@@ -131,38 +139,6 @@
       "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/quantifying-ai-adoption-from-initial-challenges-to-doubling-speed",
       "published": "2026-09-16T00:00:00+00:00",
       "summary": "Quantifying AI adoption: From initial challenges to doubling speed"
-    },
-    {
-      "title": "Gemini Live audio",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "published": "2026-09-15T22:47:07+00:00",
-      "summary": "Tool: Gemini Live audio\n        Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family.\nI pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice conversation through your browser, including the ability to interrupt the model while it is talkin"
-    },
-    {
-      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/good-start-labs",
-      "published": "2026-09-15T20:11:54+00:00",
-      "summary": "Good Start Labs trained an AI on a railroad game &#8212; and one version improved at financial research. The difference was the training design."
-    },
-    {
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "published": "2026-09-15T18:33:02+00:00",
-      "summary": "Robots can start working outside physical cages and without safety barriers."
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "published": "2026-09-15T17:47:51+00:00",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;"
     }
   ]
 }
