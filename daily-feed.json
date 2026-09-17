@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-16T21:03:51.728966+00:00",
+  "generated_at": "2026-09-17T00:06:08.925758+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
   "items": [
+    {
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "published": "2026-09-16T22:02:46+00:00",
+      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+    },
     {
       "title": "Claude Cowork and chat are now one Claude",
       "source": "Simon Willison's Weblog",
@@ -19,6 +27,14 @@
       "url": "https://www.latent.space/p/aiuc",
       "published": "2026-09-16T18:07:45+00:00",
       "summary": "We sit down with AIUC&#8217;s CEO on their Series A!"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     },
     {
       "title": "Rethinking Robot Safety in the Age of AI",
@@ -157,28 +173,12 @@
       "summary": "A deepdive into how Codex has &#8220;taken over&#8221; OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI"
     },
     {
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "published": "2026-09-15T12:00:41+00:00",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
-    },
-    {
       "title": "Nail the Narrative",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
       "published": "2026-09-15T11:11:00-04:00",
       "summary": "Sumeet Gayathri Moghe finds many folks building\n      presentations get tangled in building slides without a coherent narrative.\n      He advises distilling the big idea, visualizing the audience, and\n      building a structured storyline. \n\nmore…"
-    },
-    {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "published": "2026-09-15T10:00:00+00:00",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;"
     }
   ]
 }
