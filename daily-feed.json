@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-18T10:33:28.636314+00:00",
+  "generated_at": "2026-09-18T14:46:43.062316+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 17,
   "items": [
+    {
+      "title": "The Creative Spirit of Who Framed Roger Rabbit",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+      "published": "2026-09-18T14:36:41+00:00",
+      "summary": "The Creative Spirit of Who Framed Roger Rabbit\nI love Who Framed Roger Rabbit, the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie:\n\n\nIt's a pelican riding a bicycle!\nLook closely and you'll note that the pelican is animated while the bicycle is a real bicycle. Apparently they filled the wheels with water to add stability, then set it running and guided it with a cable.\nCypress gathered more"
+    },
+    {
+      "title": "Researchers used Claude to hack OpenAI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "published": "2026-09-18T13:30:12+00:00",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "published": "2026-09-18T11:29:22+00:00",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;"
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -11,6 +35,14 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
       "published": "2026-09-18T06:28:43+00:00",
       "summary": "a quiet day"
+    },
+    {
+      "title": "SaaSpocalypse: Hollow out the core, rebuild what matters",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/saaspocalypse-hollow-core-rebuild-what-matters",
+      "published": "2026-09-18T00:00:00+00:00",
+      "summary": "SaaSpocalypse: Hollow out the core, rebuild what matters"
     },
     {
       "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -107,38 +139,6 @@
       "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
       "published": "2026-09-17T07:28:25+00:00",
       "summary": "A dash of cold water keeps the foomers away."
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/astra-for-law",
-      "published": "2026-09-17T00:00:00+00:00",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-    },
-    {
-      "title": "AI makes Agile more alive",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/agile-engineering-practices/ai-makes-agile-more-alive",
-      "published": "2026-09-17T00:00:00+00:00",
-      "summary": "AI makes Agile more alive"
-    },
-    {
-      "title": "datasette 1.0a40",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
-      "published": "2026-09-16T23:51:43+00:00",
-      "summary": "Release: datasette 1.0a40\n        Same security fix as 0.65.5, plus some neat new features and bug fixes:\n\nPlugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia.\nI've migrated Datasette to httpx2 for features like the internal datasette.client.get() method.\nA whole lot of bug fixes, many of them stemming from a recent effort to triage issues for a 1.0 stable release.\n\n    \n    \n        Tags: security, datasette"
-    },
-    {
-      "title": "datasette 0.65.5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-      "published": "2026-09-16T23:51:08+00:00",
-      "summary": "Release: datasette 0.65.5\n        Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m.\n    \n    \n        Tags: security, datasette"
     }
   ]
 }
