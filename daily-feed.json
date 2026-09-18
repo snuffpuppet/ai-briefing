@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T01:00:16.986661+00:00",
+  "generated_at": "2026-09-18T05:47:32.027701+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 20,
   "items": [
     {
       "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -157,52 +157,12 @@
       "summary": "We sit down with AIUC&#8217;s CEO on their Series A!"
     },
     {
-      "title": "Our framework for reporting model misalignment",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "published": "2026-09-16T17:00:00+00:00",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "title": "Rethinking Robot Safety in the Age of AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "published": "2026-09-16T16:51:02+00:00",
-      "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action"
-    },
-    {
       "title": "Fragments: September 16",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/fragments/2026-09-16.html",
       "published": "2026-09-16T16:05:00-04:00",
       "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options:\n\n\n  \n    After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previously attacked RubyGems.\n    They knew about the attack on RubyGems and made the decision not to reach out to the RubyGems team about it.\n  \n\n  Both of these are bad!\n\n  Given this incident,"
-    },
-    {
-      "title": "Quoting Mustafa Suleyman",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-      "published": "2026-09-16T16:00:54+00:00",
-      "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder.\n&mdash; Mustafa Suleyman, A warning about ‘model welfare’\n\n    Tags: ai-ethics, generative-ai, ai, microsoft, llms"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "published": "2026-09-16T16:00:00+00:00",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-    },
-    {
-      "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-      "published": "2026-09-16T13:24:18+00:00",
-      "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!"
     }
   ]
 }
