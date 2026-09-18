@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:24:39.900170+00:00",
+  "generated_at": "2026-09-18T23:52:03.831145+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 22,
@@ -75,6 +75,14 @@
       "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "published": "2026-09-18T11:29:22+00:00",
       "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;"
+    },
+    {
+      "title": "AI Evals: Everything You Need to Know",
+      "source": "Hamel's Blog",
+      "feed_url": "https://hamel.dev/index.xml",
+      "url": "https://hamel.dev/blog/posts/evals-faq/",
+      "published": "2026-09-18T07:00:00+00:00",
+      "summary": "This document curates the most common questions Shreya and I received while teaching 700+ engineers &amp; PMs AI Evals. Warning: These are sharp opinions about what works in most cases. They are not universal truths. Use your judgment.\n\nHow to use this FAQ\nBrowse the questions that interest you, or choose a guide below for a curated reading path through the FAQs and related articles.\n\n\n\n\nWhere are you?\nThis sounds like me\n\n\n\n\nI’m new to evals\nI’ve heard the term, but I’m not sure what"
     },
     {
       "title": "[AINews] not much happened today",
@@ -163,14 +171,6 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "published": "2026-09-17T12:00:00+00:00",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "title": "AI Skills with Matt Pocock",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
-      "published": "2026-09-17T11:29:00+00:00",
-      "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever."
     },
     {
       "title": "I don't like LLMs",
