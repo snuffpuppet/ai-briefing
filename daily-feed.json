@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-18T05:47:32.027701+00:00",
+  "generated_at": "2026-09-18T10:33:28.636314+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 17,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "published": "2026-09-18T06:28:43+00:00",
+      "summary": "a quiet day"
+    },
     {
       "title": "Be alert: targeted attacks on prominent Rustaceans",
       "source": "Simon Willison's Weblog",
@@ -131,38 +139,6 @@
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
       "published": "2026-09-16T23:51:08+00:00",
       "summary": "Release: datasette 0.65.5\n        Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m.\n    \n    \n        Tags: security, datasette"
-    },
-    {
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "published": "2026-09-16T22:02:46+00:00",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
-    },
-    {
-      "title": "Claude Cowork and chat are now one Claude",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "published": "2026-09-16T18:09:49+00:00",
-      "summary": "Claude Cowork and chat are now one Claude\nIn hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:\n\nStarting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...]\nThis is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new user"
-    },
-    {
-      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/aiuc",
-      "published": "2026-09-16T18:07:45+00:00",
-      "summary": "We sit down with AIUC&#8217;s CEO on their Series A!"
-    },
-    {
-      "title": "Fragments: September 16",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-09-16.html",
-      "published": "2026-09-16T16:05:00-04:00",
-      "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options:\n\n\n  \n    After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previously attacked RubyGems.\n    They knew about the attack on RubyGems and made the decision not to reach out to the RubyGems team about it.\n  \n\n  Both of these are bad!\n\n  Given this incident,"
     }
   ]
 }
