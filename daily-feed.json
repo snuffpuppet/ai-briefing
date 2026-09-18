@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-17T22:41:16.368821+00:00",
+  "generated_at": "2026-09-18T01:00:16.986661+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "published": "2026-09-17T23:59:19+00:00",
+      "summary": "Be alert: targeted attacks on prominent Rustaceans\nImportant warning from Adam Harvey and the crates security team:\n\nWe believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware.\nA video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to inst"
+    },
+    {
+      "title": "How To Write With An LLM",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "published": "2026-09-17T23:37:27+00:00",
+      "summary": "How To Write With An LLM\nThomas Ptacek on using LLMs as copyeditors, not as writing assistants:\n\nRule Number One: You may not use a single word an LLM suggests to you.\n[...] I think that as a form of intellectual personal protective equipment you should adopt the rule that any specific turn of phrase an LLM suggests is off limits. Be strict about the rule!\n\nI won't let LLMs write content for my blog, but I use them for fact-checking, spelling and grammar and as an occasional thesaurus (see my pr"
+    },
     {
       "title": "Small AI models let drones autonomously identify and attack battlefield targets",
       "source": "AI - Ars Technica",
@@ -51,6 +67,14 @@
       "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
       "published": "2026-09-17T16:18:34+00:00",
       "summary": "Model maker commits to new framework for reporting misaligned models."
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "published": "2026-09-17T12:00:00+00:00",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     },
     {
       "title": "AI Skills with Matt Pocock",
@@ -179,38 +203,6 @@
       "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
       "published": "2026-09-16T13:24:18+00:00",
       "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!"
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "published": "2026-09-16T13:00:00+00:00",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-    },
-    {
-      "title": "Building the materials foundation for AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "published": "2026-09-16T12:47:34+00:00",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "published": "2026-09-16T12:00:00+00:00",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-    },
-    {
-      "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
-      "published": "2026-09-16T11:09:53+00:00",
-      "summary": "congrats to TypeSafe!"
     }
   ]
 }
