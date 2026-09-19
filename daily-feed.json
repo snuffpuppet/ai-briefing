@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T08:31:09.276951+00:00",
+  "generated_at": "2026-09-19T12:51:49.614796+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 13,
   "items": [
     {
       "title": "[AINews] Here are 6 Clones of Jev in 2 days",
@@ -107,46 +107,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
       "published": "2026-09-18T06:28:43+00:00",
       "summary": "a quiet day"
-    },
-    {
-      "title": "SaaSpocalypse: Hollow out the core, rebuild what matters",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/saaspocalypse-hollow-core-rebuild-what-matters",
-      "published": "2026-09-18T00:00:00+00:00",
-      "summary": "SaaSpocalypse: Hollow out the core, rebuild what matters"
-    },
-    {
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "published": "2026-09-17T23:59:19+00:00",
-      "summary": "Be alert: targeted attacks on prominent Rustaceans\nImportant warning from Adam Harvey and the crates security team:\n\nWe believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware.\nA video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to inst"
-    },
-    {
-      "title": "How To Write With An LLM",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-      "published": "2026-09-17T23:37:27+00:00",
-      "summary": "How To Write With An LLM\nThomas Ptacek on using LLMs as copyeditors, not as writing assistants:\n\nRule Number One: You may not use a single word an LLM suggests to you.\n[...] I think that as a form of intellectual personal protective equipment you should adopt the rule that any specific turn of phrase an LLM suggests is off limits. Be strict about the rule!\n\nI won't let LLMs write content for my blog, but I use them for fact-checking, spelling and grammar and as an occasional thesaurus (see my pr"
-    },
-    {
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "published": "2026-09-17T22:12:58+00:00",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
-    },
-    {
-      "title": "Self-generated prompt injections in compaction summaries",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-      "published": "2026-09-17T20:57:55+00:00",
-      "summary": "Self-generated prompt injections in compaction summaries\nIn Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts.\nCompaction is the process agent systems use when they are running out of tokens in their context window, so they summarize everything that has"
     }
   ]
 }
