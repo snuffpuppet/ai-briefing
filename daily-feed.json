@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-19T03:06:34.350621+00:00",
+  "generated_at": "2026-09-19T08:31:09.276951+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "published": "2026-09-19T05:48:28+00:00",
+      "summary": "Imitation is the sincerest form of Flattery"
+    },
     {
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "source": "Simon Willison's Weblog",
@@ -77,20 +85,20 @@
       "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
     },
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published": "2026-09-18T12:00:00+00:00",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+    },
+    {
       "title": "Could AI really kill us all? Your questions, answered.",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "published": "2026-09-18T11:29:22+00:00",
       "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;"
-    },
-    {
-      "title": "AI Evals: Everything You Need to Know",
-      "source": "Hamel's Blog",
-      "feed_url": "https://hamel.dev/index.xml",
-      "url": "https://hamel.dev/blog/posts/evals-faq/",
-      "published": "2026-09-18T07:00:00+00:00",
-      "summary": "This document curates the most common questions Shreya and I received while teaching 700+ engineers &amp; PMs AI Evals. Warning: These are sharp opinions about what works in most cases. They are not universal truths. Use your judgment.\n\nHow to use this FAQ\nBrowse the questions that interest you, or choose a guide below for a curated reading path through the FAQs and related articles.\n\n\n\n\nWhere are you?\nThis sounds like me\n\n\n\n\nI’m new to evals\nI’ve heard the term, but I’m not sure what"
     },
     {
       "title": "[AINews] not much happened today",
@@ -139,38 +147,6 @@
       "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
       "published": "2026-09-17T20:57:55+00:00",
       "summary": "Self-generated prompt injections in compaction summaries\nIn Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts.\nCompaction is the process agent systems use when they are running out of tokens in their context window, so they summarize everything that has"
-    },
-    {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "published": "2026-09-17T20:24:34+00:00",
-      "summary": "Multiple family members can share data to help the agent make plans and complete tasks."
-    },
-    {
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "published": "2026-09-17T20:10:41+00:00",
-      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
-    },
-    {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "published": "2026-09-17T18:33:13+00:00",
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
-    },
-    {
-      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-      "published": "2026-09-17T16:18:34+00:00",
-      "summary": "Model maker commits to new framework for reporting misaligned models."
     }
   ]
 }
