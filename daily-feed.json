@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-18T23:52:03.831145+00:00",
+  "generated_at": "2026-09-19T03:06:34.350621+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "published": "2026-09-18T23:57:57+00:00",
+      "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI\nGemini finally caught up on Felony Bench!\n\nThe hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta.\nIn one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to"
+    },
     {
       "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
       "source": "AI - Ars Technica",
@@ -163,22 +171,6 @@
       "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
       "published": "2026-09-17T16:18:34+00:00",
       "summary": "Model maker commits to new framework for reporting misaligned models."
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "published": "2026-09-17T12:00:00+00:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "title": "I don't like LLMs",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "published": "2026-09-17T09:50:00-04:00",
-      "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I’m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don’t think"
     }
   ]
 }
