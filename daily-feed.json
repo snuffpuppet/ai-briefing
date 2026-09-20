@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T22:06:21.528315+00:00",
+  "generated_at": "2026-09-20T00:37:49.124989+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 13,
   "items": [
     {
       "title": "datasette-auth-github 1.0",
@@ -107,22 +107,6 @@
       "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
       "published": "2026-09-18T13:30:12+00:00",
       "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published": "2026-09-18T12:00:00+00:00",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "published": "2026-09-18T11:29:22+00:00",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;"
     }
   ]
 }
