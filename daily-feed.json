@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T14:28:25.082952+00:00",
+  "generated_at": "2026-09-20T17:56:08.096722+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "datasette-auth-github 1.0",
@@ -27,14 +27,6 @@
       "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
       "published": "2026-09-19T15:42:20+00:00",
       "summary": "An &#8220;AI moderate&#8217;s&#8221; view on recent events and the trajectory of frontier models."
-    },
-    {
-      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "published": "2026-09-19T05:48:28+00:00",
-      "summary": "Imitation is the sincerest form of Flattery"
     }
   ]
 }
