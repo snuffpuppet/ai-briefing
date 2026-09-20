@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T10:36:33.707027+00:00",
+  "generated_at": "2026-09-20T14:28:25.082952+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "datasette-auth-github 1.0",
@@ -35,14 +35,6 @@
       "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
       "published": "2026-09-19T05:48:28+00:00",
       "summary": "Imitation is the sincerest form of Flattery"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "published": "2026-09-18T23:57:57+00:00",
-      "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI\nGemini finally caught up on Felony Bench!\n\nThe hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta.\nIn one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to"
     }
   ]
 }
