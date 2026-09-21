@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-21T05:57:07.966654+00:00",
+  "generated_at": "2026-09-21T12:17:59.747510+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter service in 2029, it will be the first subsea cable system to deploy multi-core fiber technology at scale, doubling [...]\nRead More...\nThe post Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable appeared first on Engineering at Meta."
+    },
+    {
+      "title": "The current balance of power in open models",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "published": "2026-09-21T11:56:56+00:00",
+      "summary": "The expanded form of a testimony I prepared for Congress."
+    },
     {
       "title": "Quoting voxium",
       "source": "Simon Willison's Weblog",
@@ -27,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "published": "2026-09-20T00:22:04+00:00",
       "summary": "Release: datasette-explain 0.2.2\n        \n\nExplain plans now work on read-only stored-query pages.\n\n\nI upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin.\n    \n    \n        Tags: sqlite, datasette"
-    },
-    {
-      "title": "datasette-auth-github 1.0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "published": "2026-09-19T19:52:02+00:00",
-      "summary": "Release: datasette-auth-github 1.0\n        I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the app.)\nI fixed that in #80 and, since this plugin has been around for quite a while and is te"
     }
   ]
 }
