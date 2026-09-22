@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-22T07:17:08.163076+00:00",
+  "generated_at": "2026-09-22T13:04:33.037928+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 24,
   "items": [
+    {
+      "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+      "published": "2026-09-22T12:22:50+00:00",
+      "summary": "This article is brought to you by CoolIT.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators will accept. The answer is near-total heat capture. Liquid takes effectively all the heat, air falls below 1 percent of the load, allowing the server to run fanless.CoolIT builds these loops today from modular coldplat"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "published": "2026-09-22T11:04:51+00:00",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
+    },
     {
       "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
       "source": "Latent.Space",
@@ -11,6 +27,14 @@
       "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
       "published": "2026-09-22T06:30:56+00:00",
       "summary": "crowning a new Chinese frontier lab"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
@@ -171,46 +195,6 @@
       "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
       "published": "2026-09-21T07:00:00+00:00",
       "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-    },
-    {
-      "title": "How V7 gives AI agents institutional memory",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/v7",
-      "published": "2026-09-21T00:00:00+00:00",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
-    },
-    {
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "published": "2026-09-21T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting voxium",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-      "published": "2026-09-20T21:06:43+00:00",
-      "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. Ever"
-    },
-    {
-      "title": "MCP was always a bad idea?",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "published": "2026-09-20T20:24:41+00:00",
-      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News.This article entirely misses the value that MCP brings today.\nSure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly.\nIf you want to operate something that's less YOLO than that, you'll find yourself wanting:\n\nControl over exactly which external services it can access\nA way to handle authenti"
-    },
-    {
-      "title": "llm-keys-ui 0.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "published": "2026-09-20T19:22:19+00:00",
-      "summary": "Release: llm-keys-ui 0.1\n        This plugin solves a very specific problem.\nI've started using Codex Remote to run coding agents on various machines while controlling them from my phone. \nSometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key.\nI don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly.\nWith this plugin, I can tell Codex to run"
     }
   ]
 }
