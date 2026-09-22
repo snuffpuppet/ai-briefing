@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-21T22:25:30.130760+00:00",
+  "generated_at": "2026-09-22T01:25:28.778876+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "published": "2026-09-21T23:09:20+00:00",
+      "summary": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores.\nTypeSafe describe Jev like this:\n\nThink of Jev as a front"
+    },
+    {
+      "title": "Cloudflare Python Workers are now generally available",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "published": "2026-09-21T22:25:44+00:00",
+      "summary": "Cloudflare Python Workers are now generally available\nAfter a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".\nA neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime.\nThis comes with some limitations, documented here - most notably both multiprocessing"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published": "2026-09-21T22:24:38+00:00",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent."
+    },
     {
       "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
       "source": "Latent.Space",
