@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-22T20:54:45.434751+00:00",
+  "generated_at": "2026-09-22T23:29:03.789914+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 38,
+  "item_count": 40,
   "items": [
+    {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "published": "2026-09-22T21:25:18+00:00",
+      "summary": "The frontier AI model race has entered its comparison shopping phase."
+    },
+    {
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/john-platt",
+      "published": "2026-09-22T21:07:39+00:00",
+      "summary": "We talked to Google&#8217;s Oscar winning &#8220;Giganerd&#8221; about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI"
+    },
     {
       "title": "Better prompt caching for GPT-6",
       "source": "OpenAI News",
@@ -107,6 +123,14 @@
       "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
       "published": "2026-09-22T12:22:50+00:00",
       "summary": "This article is brought to you by CoolIT, an Ecolab Company.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators will accept. The answer is near-total heat capture. Liquid takes effectively all the heat, air falls below 1 percent of the load, allowing the server to run fanless.CoolIT builds these loops today fr"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "published": "2026-09-22T12:00:00+00:00",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
     },
     {
       "title": "Don’t be fooled by this summer of AI hype",
@@ -237,20 +261,20 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly what is optimal, so the US should spend [&#8230;]"
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-    },
-    {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "published": "2026-09-21T12:00:00+00:00",
       "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
     },
     {
       "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
@@ -299,14 +323,6 @@
       "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "published": "2026-09-21T11:56:56+00:00",
       "summary": "The expanded form of a testimony I prepared for Congress."
-    },
-    {
-      "title": "Building standards for the next phase of AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "published": "2026-09-21T10:00:00+00:00",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
     }
   ]
 }
