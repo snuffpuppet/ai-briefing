@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-23T09:03:40.346549+00:00",
+  "generated_at": "2026-09-23T14:39:42.086527+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 26,
   "items": [
+    {
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "published": "2026-09-23T13:27:18+00:00",
+      "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself."
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published": "2026-09-23T13:00:00+00:00",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
     {
       "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
       "source": "Latent.Space",
@@ -19,6 +35,14 @@
       "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
       "published": "2026-09-23T02:53:19+00:00",
       "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\nThink of it as an agentic show-and-tell:\n\n​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly, o"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "published": "2026-09-23T00:00:00+00:00",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
     },
     {
       "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
@@ -187,78 +211,6 @@
       "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
       "published": "2026-09-22T06:30:56+00:00",
       "summary": "crowning a new Chinese frontier lab"
-    },
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "published": "2026-09-22T00:00:00+00:00",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "published": "2026-09-22T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "published": "2026-09-22T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/omlx",
-      "published": "2026-09-22T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The quantum countdown: Why post-quantum cryptography is a strategic imperative",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/the-quantum-countdown",
-      "published": "2026-09-22T00:00:00+00:00",
-      "summary": "The quantum countdown: Why post-quantum cryptography is a strategic imperative"
-    },
-    {
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/21/jev/",
-      "published": "2026-09-21T23:09:20+00:00",
-      "summary": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores.\nTypeSafe describe Jev like this:\n\nThink of Jev as a front"
-    },
-    {
-      "title": "Cloudflare Python Workers are now generally available",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-      "published": "2026-09-21T22:25:44+00:00",
-      "summary": "Cloudflare Python Workers are now generally available\nAfter a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".\nA neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime.\nThis comes with some limitations, documented here - most notably both multiprocessing"
-    },
-    {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "published": "2026-09-21T22:24:38+00:00",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent."
-    },
-    {
-      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/jev",
-      "published": "2026-09-21T22:13:49+00:00",
-      "summary": "The definitive Jev podcast with its lead creator."
     }
   ]
 }
