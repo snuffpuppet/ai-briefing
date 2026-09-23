@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-22T23:29:03.789914+00:00",
+  "generated_at": "2026-09-23T03:17:47.494073+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 40,
+  "item_count": 34,
   "items": [
+    {
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "published": "2026-09-23T02:53:19+00:00",
+      "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\nThink of it as an agentic show-and-tell:\n\n​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly, o"
+    },
+    {
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "published": "2026-09-22T23:46:41+00:00",
+      "summary": "Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna. It's going to take a while to get a good read on all of these new models, but here are my impressions so far.\nGPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents\nGPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being really c"
+    },
     {
       "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
       "source": "AI - Ars Technica",
@@ -45,6 +61,14 @@
       "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
     },
     {
+      "title": "llm 0.36",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "published": "2026-09-22T18:48:37+00:00",
+      "summary": "Release: llm 0.36\n        \n\nNew OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna. #1702\nModel plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations. The first plugin to use this is llm-typesafe. #1692\nReasoning traces in the Markdown output"
+    },
+    {
       "title": "Quoting @therealcornpop",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -67,6 +91,14 @@
       "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
       "published": "2026-09-22T17:17:31+00:00",
       "summary": "Deepdive into the Windows team&#8217;s efforts to make the OS &#8220;AI agent-friendly&#8221; and win back developers by going all-in on Linux on Windows, local models, GPUs, & more"
+    },
+    {
+      "title": "llm-anthropic 0.29",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "published": "2026-09-22T17:14:55+00:00",
+      "summary": "Release: llm-anthropic 0.29\n        Adds support for Claude Opus 5.5:\nllm -m claude-opus-5.5 \"prompt goes here\"\n\n    \n    \n        Tags: llm, anthropic"
     },
     {
       "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
@@ -243,86 +275,6 @@
       "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
       "published": "2026-09-21T15:37:56+00:00",
       "summary": "The president offered few details on what his proposed new AI Force would do."
-    },
-    {
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "published": "2026-09-21T13:44:34+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
-      "published": "2026-09-21T12:31:04+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly what is optimal, so the US should spend [&#8230;]"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-    },
-    {
-      "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter service in 2029, it will be the first subsea cable system to deploy multi-core fiber technology at scale, doubling [...]\nRead More...\nThe post Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable appeared first on Engineering at Meta."
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;"
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;"
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;"
-    },
-    {
-      "title": "The current balance of power in open models",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "published": "2026-09-21T11:56:56+00:00",
-      "summary": "The expanded form of a testimony I prepared for Congress."
     }
   ]
 }
