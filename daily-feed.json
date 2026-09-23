@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-23T03:17:47.494073+00:00",
+  "generated_at": "2026-09-23T09:03:40.346549+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 32,
   "items": [
+    {
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "published": "2026-09-23T06:41:41+00:00",
+      "summary": "overshadowing more efficient GPT6 models from OpenAI"
+    },
     {
       "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
       "source": "Simon Willison's Weblog",
@@ -251,30 +259,6 @@
       "url": "https://www.latent.space/p/jev",
       "published": "2026-09-21T22:13:49+00:00",
       "summary": "The definitive Jev podcast with its lead creator."
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "published": "2026-09-21T16:57:26+00:00",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
-    },
-    {
-      "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
-      "published": "2026-09-21T16:00:37+00:00",
-      "summary": "We&#8217;re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related concerns: how to specify an assignment problem, how to store it efficiently in memory, how to solve it, and how to debug it. This separation of concerns is crucial to [...]\nRead More...\nThe post Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems appeared fir"
-    },
-    {
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-      "published": "2026-09-21T15:37:56+00:00",
-      "summary": "The president offered few details on what his proposed new AI Force would do."
     }
   ]
 }
