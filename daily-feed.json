@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-09-23T18:49:21.346474+00:00",
+  "generated_at": "2026-09-23T22:02:31.493171+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 43,
   "items": [
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ringg",
-      "published": "2026-09-24T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "published": "2026-09-23T20:52:28+00:00",
+      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel."
+    },
+    {
+      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "published": "2026-09-23T20:28:42+00:00",
+      "summary": "$11M competition showed wildfire detection is still easier than stopping fires."
+    },
+    {
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "published": "2026-09-23T19:35:53+00:00",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams."
     },
     {
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
@@ -29,12 +45,28 @@
       "summary": "\"So absurd and embarrassing ...\""
     },
     {
+      "title": "Gemini 3.8 TTS Playground",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "published": "2026-09-23T17:12:27+00:00",
+      "summary": "Tool: Gemini 3.8 TTS Playground\n        Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts.\nThey come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your voice or a voice you have the rights to use\".\nI vibe coded this bring-your-own-key playground interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini API.\n\nA notable feature of"
+    },
+    {
       "title": "Design Engineering with Maggie Appleton",
       "source": "The Pragmatic Engineer",
       "feed_url": "https://newsletter.pragmaticengineer.com/feed",
       "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
       "published": "2026-09-23T17:07:22+00:00",
       "summary": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters."
+    },
+    {
+      "title": "Shadow roots, explained with live examples",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "published": "2026-09-23T16:37:18+00:00",
+      "summary": "Tool: Shadow roots, explained with live examples\n        Prompt to Fable 5.1 Medium:\n\nBuild an artifact to explain shadow roots in CSS with interactive examples\n\n    \n    \n        Tags: css"
     },
     {
       "title": "Advancing Private AI Compute with secure, server-side memory",
@@ -77,6 +109,54 @@
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
     },
     {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/ringg",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "published": "2026-09-23T10:00:00+00:00",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "published": "2026-09-23T09:00:00+00:00",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;"
+    },
+    {
       "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -91,6 +171,14 @@
       "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
       "published": "2026-09-23T02:53:19+00:00",
       "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\nThink of it as an agentic show-and-tell:\n\n​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly, o"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "published": "2026-09-23T01:00:00+00:00",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
     },
     {
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
