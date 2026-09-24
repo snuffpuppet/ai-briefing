@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-24T07:10:08.913734+00:00",
+  "generated_at": "2026-09-24T13:11:12.197831+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 25,
   "items": [
+    {
+      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "published": "2026-09-24T08:12:59+00:00",
+      "summary": "Team Zuck is absolutely on fire."
+    },
     {
       "title": "Data modernization: A practical guide for getting it right",
       "source": "Thoughtworks Insights",
@@ -195,70 +203,6 @@
       "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
       "published": "2026-09-23T02:00:00+00:00",
       "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
-    },
-    {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "published": "2026-09-23T01:00:00+00:00",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
-    },
-    {
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "published": "2026-09-23T00:00:00+00:00",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-    },
-    {
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-      "published": "2026-09-22T23:46:41+00:00",
-      "summary": "Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna. It's going to take a while to get a good read on all of these new models, but here are my impressions so far.\nGPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents\nGPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being really c"
-    },
-    {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "published": "2026-09-22T21:25:18+00:00",
-      "summary": "The frontier AI model race has entered its comparison shopping phase."
-    },
-    {
-      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/john-platt",
-      "published": "2026-09-22T21:07:39+00:00",
-      "summary": "We talked to Google&#8217;s Oscar winning &#8220;Giganerd&#8221; about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI"
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "published": "2026-09-22T21:00:00+00:00",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
-    },
-    {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "published": "2026-09-22T19:45:47+00:00",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
-    },
-    {
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "published": "2026-09-22T19:28:23+00:00",
-      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
     }
   ]
 }
