@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-09-24T13:11:12.197831+00:00",
+  "generated_at": "2026-09-24T18:10:27.806175+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 32,
   "items": [
+    {
+      "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
+      "published": "2026-09-24T16:44:27+00:00",
+      "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published": "2026-09-24T16:20:39+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "published": "2026-09-24T16:16:34+00:00",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
+    },
+    {
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "published": "2026-09-24T16:01:16+00:00",
+      "summary": "\"There will obviously be legal consequences,\" prime minister promises."
+    },
+    {
+      "title": "Foundries vs Navigators: Lowering the Cost of Science",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+      "published": "2026-09-24T15:03:16+00:00",
+      "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously."
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "published": "2026-09-24T14:08:57+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Meta puts its AI assistant on a keychain",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "published": "2026-09-24T14:03:38+00:00",
+      "summary": "Meta says the keychain-sized Muse Charm will ship in December."
+    },
+    {
+      "title": "Fragments: September 24",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-09-24.html",
+      "published": "2026-09-24T11:35:00-04:00",
+      "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all\n\n\n  The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast.\n\n\nCyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology."
+    },
+    {
+      "title": "Healthy Feedback",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+      "published": "2026-09-24T10:10:00-04:00",
+      "summary": "Human collaboration, like most things, improves with feedback. But it's\n      not obvious how to make feedback effective. Anuja Karnik\n      and Sumeet Gayathri Moghe pass on a bevy of tips for healthy\n      feedback, based on the principle that both praise and criticism should be\n      seen as positive.\n\nmore…"
+    },
     {
       "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
       "source": "Latent.Space",
@@ -187,22 +259,6 @@
       "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "published": "2026-09-23T06:41:41+00:00",
       "summary": "overshadowing more efficient GPT6 models from OpenAI"
-    },
-    {
-      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-      "published": "2026-09-23T02:53:19+00:00",
-      "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\nThink of it as an agentic show-and-tell:\n\n​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly, o"
-    },
-    {
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "published": "2026-09-23T02:00:00+00:00",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
     }
   ]
 }
