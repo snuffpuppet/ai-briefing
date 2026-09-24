@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-24T18:10:27.806175+00:00",
+  "generated_at": "2026-09-24T21:57:04.157540+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 33,
   "items": [
+    {
+      "title": "commit-rewriter 0.2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "published": "2026-09-24T20:06:53+00:00",
+      "summary": "Release: commit-rewriter 0.2\n        \nSupport for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3\n\n    \n    \n        Tags: git"
+    },
+    {
+      "title": "datasette 1.0a41",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "published": "2026-09-24T19:15:23+00:00",
+      "summary": "Release: datasette 1.0a41\n        Alec Garcia added support for OpenTelemetry to Datasette in this release.\nI've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use.\n    \n    \n        Tags: javascript, datasette, web-components, alex-garcia, opentelemetry"
+    },
+    {
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "published": "2026-09-24T18:20:58+00:00",
+      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
+    },
     {
       "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
       "source": "The Pragmatic Engineer",
@@ -243,22 +267,6 @@
       "url": "https://openai.com/index/introducing-mentalhealthbench",
       "published": "2026-09-23T10:00:00+00:00",
       "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-    },
-    {
-      "title": "The AI Hype Index: AI loves cheating",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "published": "2026-09-23T09:00:00+00:00",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;"
-    },
-    {
-      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "published": "2026-09-23T06:41:41+00:00",
-      "summary": "overshadowing more efficient GPT6 models from OpenAI"
     }
   ]
 }
