@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-24T01:03:13.579210+00:00",
+  "generated_at": "2026-09-24T07:10:08.913734+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 41,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Data modernization: A practical guide for getting it right",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/legacy-modernization/what-is-data-modernization",
+      "published": "2026-09-24T00:00:00+00:00",
+      "summary": "Data modernization: A practical guide for getting it right"
+    },
     {
       "title": "Bringing Private Processing to Meta AI Glasses",
       "source": "Engineering at Meta",
@@ -181,6 +189,14 @@
       "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\nThink of it as an agentic show-and-tell:\n\n​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly, o"
     },
     {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "published": "2026-09-23T02:00:00+00:00",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
+    },
+    {
       "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -243,94 +259,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
       "published": "2026-09-22T19:28:23+00:00",
       "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
-    },
-    {
-      "title": "llm 0.36",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/22/llm/",
-      "published": "2026-09-22T18:48:37+00:00",
-      "summary": "Release: llm 0.36\n        \n\nNew OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna. #1702\nModel plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations. The first plugin to use this is llm-typesafe. #1692\nReasoning traces in the Markdown output"
-    },
-    {
-      "title": "Quoting @therealcornpop",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-      "published": "2026-09-22T18:03:21+00:00",
-      "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not.\nIt's the lack of anything. It's the lack of a definitive sort of spear of your voice. It's the fact I can tell you don't have opinions ab"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published": "2026-09-22T18:00:00+00:00",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-    },
-    {
-      "title": "How will AI change operating systems? Part 2: Windows",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
-      "published": "2026-09-22T17:17:31+00:00",
-      "summary": "Deepdive into the Windows team&#8217;s efforts to make the OS &#8220;AI agent-friendly&#8221; and win back developers by going all-in on Linux on Windows, local models, GPUs, & more"
-    },
-    {
-      "title": "llm-anthropic 0.29",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-      "published": "2026-09-22T17:14:55+00:00",
-      "summary": "Release: llm-anthropic 0.29\n        Adds support for Claude Opus 5.5:\nllm -m claude-opus-5.5 \"prompt goes here\"\n\n    \n    \n        Tags: llm, anthropic"
-    },
-    {
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "published": "2026-09-22T17:06:16+00:00",
-      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-    },
-    {
-      "title": "llm-typesafe 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "published": "2026-09-22T15:54:16+00:00",
-      "summary": "Release: llm-typesafe 0.1a0\n        I built this new plugin for LLM to add support for TypeSafe AI's new Jev model. Install it like this:\nllm install llm-typesafe\n\nThen set an API key (get one here, the waitlist seems to move pretty fast):\nllm keys set typesafe\n# Paste key\n\nAnd now you can ask yes/no \"noul\" questions like this:\nllm -m jev 'Please refund my last payment.' \\\n  -s 'Does this message explicitly request a refund?'\n\nOutput:\n{\"type\": \"noul\", \"noul\": 0.99}\n\nOr choice questions like this"
-    },
-    {
-      "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
-      "published": "2026-09-22T15:00:05+00:00",
-      "summary": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken dependencies, and half-finished readme.txt?Well, now you can, more or less.Say hello to Paper2Agent, a new open-source framework that transforms academic reports into interactive AI agents you can talk to. Give it a paper, along with the accompanying codebase, data, or other suppl"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "published": "2026-09-22T13:42:05+00:00",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;"
-    },
-    {
-      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
-      "published": "2026-09-22T13:37:45+00:00",
-      "summary": "Podcast #19"
-    },
-    {
-      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-      "published": "2026-09-22T13:33:16+00:00",
-      "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush."
     }
   ]
 }
