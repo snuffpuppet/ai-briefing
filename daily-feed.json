@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-23T22:02:31.493171+00:00",
+  "generated_at": "2026-09-24T01:03:13.579210+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 43,
+  "item_count": 41,
   "items": [
+    {
+      "title": "Bringing Private Processing to Meta AI Glasses",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+      "published": "2026-09-24T00:00:00+00:00",
+      "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone.  Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and [...]\nRead More...\nThe post Bringing Private Processing to Meta AI Glasses appeared first on Engineering at Meta."
+    },
     {
       "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
       "source": "AI - Ars Technica",
@@ -323,30 +331,6 @@
       "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
       "published": "2026-09-22T13:33:16+00:00",
       "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush."
-    },
-    {
-      "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-      "published": "2026-09-22T12:22:50+00:00",
-      "summary": "This article is brought to you by CoolIT, an Ecolab Company.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators will accept. The answer is near-total heat capture. Liquid takes effectively all the heat, air falls below 1 percent of the load, allowing the server to run fanless.CoolIT builds these loops today fr"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "published": "2026-09-22T12:00:00+00:00",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
-    },
-    {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "published": "2026-09-22T11:04:51+00:00",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
     }
   ]
 }
