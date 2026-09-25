@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-09-25T05:47:27.314528+00:00",
+  "generated_at": "2026-09-25T11:07:30.623843+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "published": "2026-09-25T11:00:28+00:00",
+      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "published": "2026-09-25T09:16:25+00:00",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;"
+    },
     {
       "title": "[AINews] The Future of Latent Space",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
       "published": "2026-09-25T05:37:00+00:00",
-      "summary": "a quiet day lets us discuss the work behind the scenes - now open for business!"
+      "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!"
     },
     {
       "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
@@ -85,14 +101,6 @@
       "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously."
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "published": "2026-09-24T14:08:57+00:00",
-      "summary": ""
-    },
-    {
       "title": "Meta puts its AI assistant on a keychain",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -139,38 +147,6 @@
       "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
       "published": "2026-09-24T00:00:00+00:00",
       "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone.  Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and [...]\nRead More...\nThe post Bringing Private Processing to Meta AI Glasses appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-      "published": "2026-09-23T20:52:28+00:00",
-      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel."
-    },
-    {
-      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-      "published": "2026-09-23T20:28:42+00:00",
-      "summary": "$11M competition showed wildfire detection is still easier than stopping fires."
-    },
-    {
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-      "published": "2026-09-23T19:35:53+00:00",
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams."
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "published": "2026-09-23T18:41:40+00:00",
-      "summary": ""
     }
   ]
 }
