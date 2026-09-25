@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-25T11:07:30.623843+00:00",
+  "generated_at": "2026-09-25T16:30:49.826656+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 21,
   "items": [
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/proaction",
+      "published": "2026-09-25T19:00:00+00:00",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+    },
+    {
+      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+      "published": "2026-09-25T16:01:03+00:00",
+      "summary": "By Dhruv PratapIntroductionOrganizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your internal services actually check when they decide whether to answer a request.On infrastructure you build yourself, you can bootstrap your own identity however you like. On managed compute you cannot. The provider hands your process a cloud identity"
+    },
     {
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
       "source": "AI - Ars Technica",
@@ -18,7 +34,7 @@
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "published": "2026-09-25T09:16:25+00:00",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;"
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;"
     },
     {
       "title": "[AINews] The Future of Latent Space",
@@ -29,12 +45,28 @@
       "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!"
     },
     {
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "published": "2026-09-25T02:07:04+00:00",
+      "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor!\n    \n    \n        Tags: photography, wildlife"
+    },
+    {
       "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/runway",
       "published": "2026-09-25T01:30:57+00:00",
       "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time."
+    },
+    {
+      "title": "Note on 24th September 2026",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "published": "2026-09-24T23:31:08+00:00",
+      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.\n\n    Tags: coding-agents, ai, llms"
     },
     {
       "title": "commit-rewriter 0.2",
@@ -101,6 +133,14 @@
       "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously."
     },
     {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "published": "2026-09-24T14:08:57+00:00",
+      "summary": ""
+    },
+    {
       "title": "Meta puts its AI assistant on a keychain",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -131,22 +171,6 @@
       "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
       "published": "2026-09-24T08:12:59+00:00",
       "summary": "Team Zuck is absolutely on fire."
-    },
-    {
-      "title": "Data modernization: A practical guide for getting it right",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/legacy-modernization/what-is-data-modernization",
-      "published": "2026-09-24T00:00:00+00:00",
-      "summary": "Data modernization: A practical guide for getting it right"
-    },
-    {
-      "title": "Bringing Private Processing to Meta AI Glasses",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
-      "published": "2026-09-24T00:00:00+00:00",
-      "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone.  Most of the time, glasses are helping you see well, protecting your eyes and complementing your look, and [...]\nRead More...\nThe post Bringing Private Processing to Meta AI Glasses appeared first on Engineering at Meta."
     }
   ]
 }
