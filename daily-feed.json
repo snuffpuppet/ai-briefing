@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T23:48:46.977950+00:00",
+  "generated_at": "2026-09-26T03:29:42.266781+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 22,
   "items": [
     {
       "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
@@ -173,44 +173,12 @@
       "summary": "\"There will obviously be legal consequences,\" prime minister promises."
     },
     {
-      "title": "Foundries vs Navigators: Lowering the Cost of Science",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "published": "2026-09-24T15:03:16+00:00",
-      "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously."
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "published": "2026-09-24T14:08:57+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Meta puts its AI assistant on a keychain",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "published": "2026-09-24T14:03:38+00:00",
-      "summary": "Meta says the keychain-sized Muse Charm will ship in December."
-    },
-    {
       "title": "Fragments: September 24",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/fragments/2026-09-24.html",
       "published": "2026-09-24T11:35:00-04:00",
       "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all\n\n\n  The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast.\n\n\nCyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology."
-    },
-    {
-      "title": "Healthy Feedback",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/healthy-peer-feedback.html",
-      "published": "2026-09-24T10:10:00-04:00",
-      "summary": "Human collaboration, like most things, improves with feedback. But it's\n      not obvious how to make feedback effective. Anuja Karnik\n      and Sumeet Gayathri Moghe pass on a bevy of tips for healthy\n      feedback, based on the principle that both praise and criticism should be\n      seen as positive.\n\nmore…"
     }
   ]
 }
