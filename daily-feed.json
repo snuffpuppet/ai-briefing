@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26T03:29:42.266781+00:00",
+  "generated_at": "2026-09-26T09:05:27.822056+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 14,
   "items": [
     {
       "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
@@ -13,7 +13,7 @@
       "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B."
     },
     {
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
@@ -115,70 +115,6 @@
       "url": "https://simonwillison.net/2026/Sep/24/harder/",
       "published": "2026-09-24T23:31:08+00:00",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.\n\n    Tags: coding-agents, ai, llms"
-    },
-    {
-      "title": "commit-rewriter 0.2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-      "published": "2026-09-24T20:06:53+00:00",
-      "summary": "Release: commit-rewriter 0.2\n        \nSupport for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3\n\n    \n    \n        Tags: git"
-    },
-    {
-      "title": "datasette 1.0a41",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "published": "2026-09-24T19:15:23+00:00",
-      "summary": "Release: datasette 1.0a41\n        Alec Garcia added support for OpenTelemetry to Datasette in this release.\nI've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use.\n    \n    \n        Tags: javascript, datasette, web-components, alex-garcia, opentelemetry"
-    },
-    {
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "published": "2026-09-24T18:20:58+00:00",
-      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
-    },
-    {
-      "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
-      "published": "2026-09-24T16:44:27+00:00",
-      "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "published": "2026-09-24T16:20:39+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "published": "2026-09-24T16:16:34+00:00",
-      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
-    },
-    {
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "published": "2026-09-24T16:01:16+00:00",
-      "summary": "\"There will obviously be legal consequences,\" prime minister promises."
-    },
-    {
-      "title": "Fragments: September 24",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-09-24.html",
-      "published": "2026-09-24T11:35:00-04:00",
-      "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all\n\n\n  The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast.\n\n\nCyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology."
     }
   ]
 }
