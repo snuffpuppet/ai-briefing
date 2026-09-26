@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26T09:05:27.822056+00:00",
+  "generated_at": "2026-09-26T14:05:06.214329+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 12,
   "items": [
     {
       "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
@@ -99,22 +99,6 @@
       "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
       "published": "2026-09-25T02:07:04+00:00",
       "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor!\n    \n    \n        Tags: photography, wildlife"
-    },
-    {
-      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/runway",
-      "published": "2026-09-25T01:30:57+00:00",
-      "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time."
-    },
-    {
-      "title": "Note on 24th September 2026",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/24/harder/",
-      "published": "2026-09-24T23:31:08+00:00",
-      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.\n\n    Tags: coding-agents, ai, llms"
     }
   ]
 }
