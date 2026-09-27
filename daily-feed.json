@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T06:11:35.977772+00:00",
+  "generated_at": "2026-09-27T12:43:58.234712+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 1,
   "items": [
     {
       "title": "Kākāpō Party",
@@ -11,46 +11,6 @@
       "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
       "published": "2026-09-26T23:39:06+00:00",
       "summary": "Tool: Kākāpō Party\n        I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026.\nFor my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos from Google image search and dropped them into Claude with this prompt:\n\nHere are some photo"
-    },
-    {
-      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/openrouter",
-      "published": "2026-09-25T23:14:41+00:00",
-      "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B."
-    },
-    {
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "published": "2026-09-25T21:36:20+00:00",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
-    },
-    {
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "published": "2026-09-25T21:10:51+00:00",
-      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-    },
-    {
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "published": "2026-09-25T19:11:05+00:00",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/proaction",
-      "published": "2026-09-25T19:00:00+00:00",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
     }
   ]
 }
