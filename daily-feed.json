@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-29T04:12:13.596062+00:00",
+  "generated_at": "2026-09-29T11:04:38.395095+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+      "published": "2026-09-29T10:00:06+00:00",
+      "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex engineering workflowsSee real-world impact across semiconductor design and verificationGain practical insights from Ambiq’s deployment of autonomous AI in productionRegister now for this free webinar"
+    },
     {
       "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
       "source": "Latent.Space",
@@ -27,6 +35,14 @@
       "url": "https://www.latent.space/p/thariq",
       "published": "2026-09-29T01:48:18+00:00",
       "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier"
+    },
+    {
+      "title": "Engineering the harness: A practical pattern for reliable coding agents",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents",
+      "published": "2026-09-29T00:00:00+00:00",
+      "summary": "Engineering the harness: A practical pattern for reliable coding agents"
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -53,6 +69,14 @@
       "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips."
     },
     {
+      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+      "published": "2026-09-28T21:48:56+00:00",
+      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.In this Robots Guide profile, Kemp shares his path from studying artificial intelligence at MIT to building Stretch, explains how working with people with disabilities has shaped his approach, and offers advice for aspiring roboticists. Rea"
+    },
+    {
       "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -75,6 +99,14 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "published": "2026-09-28T19:00:00+00:00",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
     },
     {
       "title": "When can we say AI made a scientific discovery?",
@@ -179,14 +211,6 @@
       "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
       "published": "2026-09-27T23:09:19+00:00",
       "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade:\n2006-03-14  $0.150/GB-month\n2010-11-01  $0.140/GB-month\n2012-02-01  $0.125/GB-month\n2012-12-01  $0.095/GB-month\n2014-02-01  $0.085/GB-month\n2014-04-01  $0.030/GB-month\n2016-12-01  $0.023/GB-month\n\nToday it's still $0.023/GB-month.\n    \n    \n        Tags: amazon-web-services, s3"
-    },
-    {
-      "title": "Bluesky reply bot checker",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
-      "published": "2026-09-27T18:41:44+00:00",
-      "summary": "Tool: Bluesky reply bot checker\n        Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies.\nThey've started manifesting on Bluesky as well.\nUnlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing doesn't slow down the bots, but it does make investigating them a lot more frustrating.\nSo I had Opus 5.5 vibe code th"
     }
   ]
 }
