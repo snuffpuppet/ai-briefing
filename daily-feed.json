@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-09-29T17:36:58.538073+00:00",
+  "generated_at": "2026-09-29T21:51:03.953239+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 34,
   "items": [
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "published": "2026-09-29T21:14:49+00:00",
+      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion."
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "published": "2026-09-29T18:11:09+00:00",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+    },
     {
       "title": "OpenAI DevDay 2026 live blog",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
       "published": "2026-09-29T15:55:13+00:00",
-      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day.\n\nOpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.\n    \n        Tags: ai, openai, generative-ai, llms, coding-agents, live-blog"
+      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day.\n\nOpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.\n    \n        Tags: ai, openai, generative-ai, llms, coding-agents, live-blog, openai-devday"
     },
     {
       "title": "Why has Shopify dropped React Native?",
@@ -85,6 +101,22 @@
       "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex engineering workflowsSee real-world impact across semiconductor design and verificationGain practical insights from Ambiq’s deployment of autonomous AI in productionRegister now for this free webinar"
     },
     {
+      "title": "Introducing GPT-6.1 Sol",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
       "title": "Bliki: Sensible Default",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
@@ -123,6 +155,14 @@
       "url": "https://www.latent.space/p/thariq",
       "published": "2026-09-29T01:48:18+00:00",
       "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier"
+    },
+    {
+      "title": "Introducing dots",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-dots",
+      "published": "2026-09-29T00:00:00+00:00",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
     },
     {
       "title": "Engineering the harness: A practical pattern for reliable coding agents",
@@ -235,30 +275,6 @@
       "url": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
       "published": "2026-09-28T11:00:05+00:00",
       "summary": "Space was always supposed to be the final frontier of human exploration. It’s shaping up to be the final frontier for artificial intelligence too.Last December, NASA’s Jet Propulsion Laboratory used Anthropic’s Claude models to help plan two Mars drives for the Perseverance rover, with human planners checking and adjusting the route before upload. In May, NASA and IBM put a compressed AI model on the International Space Station and a satellite to identify things like floods and clouds from orbit"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "published": "2026-09-28T09:44:05+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "published": "2026-09-28T08:06:22+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published": "2026-09-28T07:00:00+00:00",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
     }
   ]
 }
