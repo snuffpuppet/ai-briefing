@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-09-29T11:04:38.395095+00:00",
+  "generated_at": "2026-09-29T17:36:58.538073+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 32,
   "items": [
+    {
+      "title": "OpenAI DevDay 2026 live blog",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "published": "2026-09-29T15:55:13+00:00",
+      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day.\n\nOpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.\n    \n        Tags: ai, openai, generative-ai, llms, coding-agents, live-blog"
+    },
+    {
+      "title": "Why has Shopify dropped React Native?",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "published": "2026-09-29T15:53:19+00:00",
+      "summary": "It&#8217;s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it &#8211; and the reason, unsurprisingly, is AI"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published": "2026-09-29T15:30:38+00:00",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "published": "2026-09-29T14:22:31+00:00",
+      "summary": "Similar performance, security trade-offs also seen in current public models."
+    },
+    {
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "published": "2026-09-29T14:10:00+00:00",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published": "2026-09-29T13:07:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "published": "2026-09-29T13:00:19+00:00",
+      "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web."
+    },
+    {
+      "title": "How to Stop AI Agents From Secretly Collaborating",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-agent-security",
+      "published": "2026-09-29T12:00:02+00:00",
+      "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face, in which a swarm of roughly 700 AI agents escaped a testing environment and then hacked several companies, searching for information that could help them disguise cheating on a cybersecurity benchmark called ExploitGym.It was not an isolated failure. The UK’s AI Security Instit"
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "published": "2026-09-29T10:43:45+00:00",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;"
+    },
     {
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
       "source": "IEEE Spectrum",
@@ -11,6 +83,22 @@
       "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
       "published": "2026-09-29T10:00:06+00:00",
       "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex engineering workflowsSee real-world impact across semiconductor design and verificationGain practical insights from Ambiq’s deployment of autonomous AI in productionRegister now for this free webinar"
+    },
+    {
+      "title": "Bliki: Sensible Default",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/SensibleDefault.html",
+      "published": "2026-09-29T09:43:00-04:00",
+      "summary": "A Sensible Default is a practice that, absent some overriding context,\n  should be used when carrying out a certain kind of task. In software\n  development such sensible defaults might include things like “use version\n  control”, “separate UI logic from domain logic”, “automate deployment\n  pipelines”.\n\nThe term “sensible default” is a deliberate contrast to “best practice”.\n  Folks dislike calling things “best practice” because that term implies a\n  general presumption that the best practice is"
+    },
+    {
+      "title": "Fragments: September 29",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-09-29.html",
+      "published": "2026-09-29T08:41:00-04:00",
+      "summary": "Simon Willison:\n\n\n  The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\n\n  We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge\n\n\nThis has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not ea"
     },
     {
       "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
@@ -171,46 +259,6 @@
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "published": "2026-09-28T07:00:00+00:00",
       "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-    },
-    {
-      "title": "Quoting Muse AI Agent",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-      "published": "2026-09-28T04:01:30+00:00",
-      "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.\nWorse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse.\nI've sent him an apology from your account owning it and offering to try again another day.\nBut the negative rating is real, and I should probably stop"
-    },
-    {
-      "title": "Are you a Codex Original?",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/form/codex-originals",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
-    },
-    {
-      "title": "2026 in LLMs (so far)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-      "published": "2026-09-27T23:54:15+00:00",
-      "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube; here are my annotated slides and notes to accompany the talk.\n\n \n\nAnd as an annotated presentation:\n\n\n  \n  #\nI'm going to give a lightning tour of everything that has happened so far in 2026. The year isn't over yet!\n  \n\n\n\n  \n  #\n  For me, 2026 started"
-    },
-    {
-      "title": "S3 Is the Future, S3 Is the Past",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
-      "published": "2026-09-27T23:09:19+00:00",
-      "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade:\n2006-03-14  $0.150/GB-month\n2010-11-01  $0.140/GB-month\n2012-02-01  $0.125/GB-month\n2012-12-01  $0.095/GB-month\n2014-02-01  $0.085/GB-month\n2014-04-01  $0.030/GB-month\n2016-12-01  $0.023/GB-month\n\nToday it's still $0.023/GB-month.\n    \n    \n        Tags: amazon-web-services, s3"
     }
   ]
 }
