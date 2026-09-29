@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-28T23:41:21.074734+00:00",
+  "generated_at": "2026-09-29T04:12:13.596062+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 23,
   "items": [
+    {
+      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "published": "2026-09-29T02:55:27+00:00",
+      "summary": "Congrats team!"
+    },
+    {
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "published": "2026-09-29T02:44:29+00:00",
+      "summary": "a rare feature of a capability"
+    },
+    {
+      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/thariq",
+      "published": "2026-09-29T01:48:18+00:00",
+      "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier"
+    },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -43,6 +67,14 @@
       "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
       "published": "2026-09-28T19:11:42+00:00",
       "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden t"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
     },
     {
       "title": "When can we say AI made a scientific discovery?",
