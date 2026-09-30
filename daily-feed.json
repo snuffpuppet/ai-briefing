@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-30T07:57:21.132410+00:00",
+  "generated_at": "2026-09-30T14:43:59.091394+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 26,
   "items": [
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "published": "2026-09-30T14:06:15+00:00",
+      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
+    },
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "published": "2026-09-30T10:40:30+00:00",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;"
+    },
+    {
+      "title": "Principles for effective slides",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+      "published": "2026-09-30T10:14:00-04:00",
+      "summary": "Not every presentation needs slides, but when they earn their place,\n      they work as a visual channel that complements the speaker rather than\n      replacing them. Sumeet Gayathri Moghe sets out the\n      principles that follow from that idea &#x2014; control over the rate of knowledge\n      exposition, tight coupling between slides and speaker, minimalism by\n      default, visuals that say more than words can, and never sending your\n      slides out in advance.\n\nmore…"
+    },
     {
       "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
       "source": "Latent.Space",
@@ -51,6 +75,14 @@
       "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
       "published": "2026-09-29T18:11:09+00:00",
       "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+    },
+    {
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+      "published": "2026-09-29T16:45:27+00:00",
+      "summary": "Tool: Photo Scrubber — local face blur &amp; metadata removal\n        I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and automatically blur them out.\nIt uses Google's MediaPipe C++ library, compiled to WebAssembly via @mediapipe/tasks-vision, plus the BlazeFace face detection model.\n    \n    \n        Tags: photography, tools"
     },
     {
       "title": "OpenAI DevDay 2026 live blog",
@@ -114,7 +146,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-agent-security",
       "published": "2026-09-29T12:00:02+00:00",
-      "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face, in which a swarm of roughly 700 AI agents escaped a testing environment and then hacked several companies, searching for information that could help them disguise cheating on a cybersecurity benchmark called ExploitGym.It was not an isolated failure. The UK’s AI Security Instit"
+      "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face, in which a swarm of roughly 700 AI agents escaped a testing environment and then hacked several companies, searching for information that could help them disguise cheating on a cybersecurity benchmark called ExploitGym.It was not an isolated failure. The United Kingdom’s AI Sec"
     },
     {
       "title": "Making AI an asset, not an expense",
@@ -179,70 +211,6 @@
       "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
       "published": "2026-09-29T02:44:29+00:00",
       "summary": "a rare feature of a capability"
-    },
-    {
-      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/thariq",
-      "published": "2026-09-29T01:48:18+00:00",
-      "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier"
-    },
-    {
-      "title": "Introducing dots",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-dots",
-      "published": "2026-09-29T00:00:00+00:00",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
-    },
-    {
-      "title": "Engineering the harness: A practical pattern for reliable coding agents",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents",
-      "published": "2026-09-29T00:00:00+00:00",
-      "summary": "Engineering the harness: A practical pattern for reliable coding agents"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "published": "2026-09-28T22:17:07+00:00",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;"
-    },
-    {
-      "title": "Claude Sonnet 5.5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "published": "2026-09-28T22:07:38+00:00",
-      "summary": "Claude Sonnet 5.5\nNew Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.\nHere are some pelicans riding bicycles. Sonnet 5.5 suffered from the same bug as Opus 5.5: the \"max\" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.\nHere's the pelican it g"
-    },
-    {
-      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "published": "2026-09-28T21:49:10+00:00",
-      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips."
-    },
-    {
-      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "published": "2026-09-28T21:48:56+00:00",
-      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.In this Robots Guide profile, Kemp shares his path from studying artificial intelligence at MIT to building Stretch, explains how working with people with disabilities has shaped his approach, and offers advice for aspiring roboticists. Rea"
-    },
-    {
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "published": "2026-09-28T20:49:39+00:00",
-      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
     }
   ]
 }
