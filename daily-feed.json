@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-30T19:48:46.914582+00:00",
+  "generated_at": "2026-09-30T23:27:06.941871+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 35,
   "items": [
+    {
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/devday-2026",
+      "published": "2026-09-30T22:23:40+00:00",
+      "summary": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI&#8217;s CUA team and API platform."
+    },
+    {
+      "title": "He Built This City",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+      "published": "2026-09-30T21:54:19+00:00",
+      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.\nIt exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance.\n\n\n    Tags: museums, new-york"
+    },
+    {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "published": "2026-09-30T20:11:08+00:00",
+      "summary": "So much for Gemini 3.5 Pro."
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published": "2026-09-30T20:01:45+00:00",
+      "summary": ""
+    },
+    {
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+      "published": "2026-09-30T19:31:25+00:00",
+      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy."
+    },
     {
       "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
       "source": "AI - Ars Technica",
@@ -91,6 +131,14 @@
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "published": "2026-09-30T10:00:00+00:00",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+      "title": "Claude’s new auto eval tool",
+      "source": "Hamel's Blog",
+      "feed_url": "https://hamel.dev/index.xml",
+      "url": "https://hamel.dev/blog/posts/claude-auto-evals/",
+      "published": "2026-09-30T07:00:00+00:00",
+      "summary": "Anthropic released new eval tooling for Claude Code. Their claude-api plugin now includes a new build_eval and hill-climb command that helps you build evals, check the graders, and improve your application against them.\nI usually don’t review eval tools. Software changes so often that a review has a short shelf life. But a first-party tool from Anthropic is likely to influence how people approach evals, so I wanted to try it.\nIsaac Flath and I livestreamed ourselves using it on convers"
     },
     {
       "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
@@ -219,38 +267,6 @@
       "url": "https://spectrum.ieee.org/ai-agent-security",
       "published": "2026-09-29T12:00:02+00:00",
       "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face, in which a swarm of roughly 700 AI agents escaped a testing environment and then hacked several companies, searching for information that could help them disguise cheating on a cybersecurity benchmark called ExploitGym.It was not an isolated failure. The United Kingdom’s AI Sec"
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "published": "2026-09-29T10:43:45+00:00",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;"
-    },
-    {
-      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "published": "2026-09-29T10:00:06+00:00",
-      "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex engineering workflowsSee real-world impact across semiconductor design and verificationGain practical insights from Ambiq’s deployment of autonomous AI in productionRegister now for this free webinar"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
     },
     {
       "title": "Bliki: Sensible Default",
