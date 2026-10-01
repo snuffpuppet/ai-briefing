@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-01T04:07:31.011213+00:00",
+  "generated_at": "2026-10-01T11:21:06.197995+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "published": "2026-10-01T06:45:05+00:00",
+      "summary": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;"
+    },
+    {
+      "title": "Quoting Matthew Green",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "published": "2026-10-01T06:29:01+00:00",
+      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-depl"
+    },
     {
       "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
       "source": "Latent.Space",
@@ -155,54 +171,6 @@
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "published": "2026-09-30T00:00:00+00:00",
       "summary": ""
-    },
-    {
-      "title": "Quoting Anthropic Frontier Red Team",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-      "published": "2026-09-29T22:20:28+00:00",
-      "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them.\n&mdash; Anthropic Frontier Red Team, GLM-5.3 and the spread of advanced cyber capabi"
-    },
-    {
-      "title": "Protests against OpenAI get increasingly creative",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-      "published": "2026-09-29T21:52:58+00:00",
-      "summary": "New sculpture depicts AI leaders escaping a sinking ship."
-    },
-    {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "published": "2026-09-29T21:14:49+00:00",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion."
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-      "published": "2026-09-29T18:27:48+00:00",
-      "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News.I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv...\nHere they are for GPT-6.1-Sol: https://tools.simonwillison.net/markdown-svg-renderer?url=ht...\nThey're not notably different from the GPT-6 family pelicans: https://static.simonwillison.net/static/2026/gpt-pelicans-gr...\n    \n    \n        Tags: ai, openai, generativ"
-    },
-    {
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "published": "2026-09-29T18:11:09+00:00",
-      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
-    },
-    {
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-      "published": "2026-09-29T16:45:27+00:00",
-      "summary": "Tool: Photo Scrubber — local face blur &amp; metadata removal\n        I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and automatically blur them out.\nIt uses Google's MediaPipe C++ library, compiled to WebAssembly via @mediapipe/tasks-vision, plus the BlazeFace face detection model.\n    \n    \n        Tags: photography, tools"
     }
   ]
 }
