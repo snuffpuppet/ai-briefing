@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-02T15:22:27.617373+00:00",
+  "generated_at": "2026-10-02T20:20:48.243562+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 16,
   "items": [
+    {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "published": "2026-10-02T18:39:36+00:00",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published": "2026-10-02T16:15:00+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "published": "2026-10-02T15:49:04+00:00",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;"
+    },
     {
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "source": "Hugging Face - Blog",
@@ -13,7 +37,7 @@
       "summary": ""
     },
     {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
@@ -61,6 +85,14 @@
       "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses."
     },
     {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/chatham-financial",
+      "published": "2026-10-02T00:00:00+00:00",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+    },
+    {
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -99,22 +131,6 @@
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "published": "2026-10-01T16:00:00+00:00",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-      "published": "2026-10-01T06:45:05+00:00",
-      "summary": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;"
-    },
-    {
-      "title": "Quoting Matthew Green",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "published": "2026-10-01T06:29:01+00:00",
-      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-depl"
     }
   ]
 }
