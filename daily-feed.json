@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-02T08:22:17.901843+00:00",
+  "generated_at": "2026-10-02T15:22:27.617373+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "published": "2026-10-02T15:19:50+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "published": "2026-10-02T14:52:16+00:00",
+      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
+    },
+    {
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/airbnb",
+      "published": "2026-10-02T14:04:49+00:00",
+      "summary": "After leading Meta&#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI &#8212; from how its teams develop products to how it serves guests."
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "published": "2026-10-02T08:00:00+00:00",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
+    },
     {
       "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
       "source": "Latent.Space",
@@ -69,14 +101,6 @@
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
     },
     {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "published": "2026-10-01T15:01:43+00:00",
-      "summary": ""
-    },
-    {
       "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -91,30 +115,6 @@
       "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "published": "2026-10-01T06:29:01+00:00",
       "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-depl"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-den-family-social",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/devday-2026",
-      "published": "2026-09-30T22:23:40+00:00",
-      "summary": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI&#8217;s CUA team and API platform."
-    },
-    {
-      "title": "He Built This City",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-      "published": "2026-09-30T21:54:19+00:00",
-      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.\nIt exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance.\n\n\n\n    Tags: museums, new-york"
     }
   ]
 }
