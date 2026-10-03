@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:58:04.736439+00:00",
+  "generated_at": "2026-10-03T19:43:27.119017+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 11,
@@ -19,6 +19,14 @@
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "published": "2026-10-02T23:03:16+00:00",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+    },
+    {
+      "title": "Rex's Dino Store",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "published": "2026-10-02T22:57:38+00:00",
+      "summary": "Museum: Rex&#x27;s Dino Store\n        Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur.\nThe density of dinosaur puns is exceptional.\n    \n    \n        Tags: art, new-york"
     },
     {
       "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
@@ -83,14 +91,6 @@
       "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "published": "2026-10-02T08:00:00+00:00",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
-    },
-    {
-      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "published": "2026-10-02T06:40:53+00:00",
-      "summary": "the minimalist harness goes stable... and TypeScript!"
     }
   ]
 }
