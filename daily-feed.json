@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-02T20:20:48.243562+00:00",
+  "generated_at": "2026-10-03T00:09:09.097067+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "2026-10-02T23:03:16+00:00",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+    },
+    {
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "published": "2026-10-02T20:30:27+00:00",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
+    },
     {
       "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
       "source": "AI - Ars Technica",
