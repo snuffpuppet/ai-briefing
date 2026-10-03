@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-03T19:43:27.119017+00:00",
+  "generated_at": "2026-10-03T22:39:42.391682+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 11,
   "items": [
+    {
+      "title": "September sponsors-only newsletter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "published": "2026-10-03T22:00:31+00:00",
+      "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here.\nThis month:\n\nMore Fable class models\nA pricing war\n3D graphics, Blender, and pixel art\nLLMs come for mathematics\nSo many more accidental cyberattacks\nThe vulnapocalypse comes for Datasette\nWhat I'm using right now\nMy software releases this month\n2026 in LLMs (so far)\n\nHere's a copy of the August newsletter as a preview of what you'll get. Pay $10/mon"
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent.Space",
@@ -83,14 +91,6 @@
       "url": "https://www.latent.space/p/airbnb",
       "published": "2026-10-02T14:04:49+00:00",
       "summary": "After leading Meta&#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI &#8212; from how its teams develop products to how it serves guests."
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "published": "2026-10-02T08:00:00+00:00",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
     }
   ]
 }
