@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-03T06:01:14.444482+00:00",
+  "generated_at": "2026-10-03T12:12:53.576717+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 13,
   "items": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "published": "2026-10-03T08:45:15+00:00",
+      "summary": "a quiet day."
+    },
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "source": "AI - Ars Technica",
@@ -99,22 +107,6 @@
       "url": "https://www.latent.space/p/rlm",
       "published": "2026-10-02T00:28:04+00:00",
       "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses."
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatham-financial",
-      "published": "2026-10-02T00:00:00+00:00",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-    },
-    {
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "published": "2026-10-01T20:11:55+00:00",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
     }
   ]
 }
