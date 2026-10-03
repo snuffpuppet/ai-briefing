@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:09:09.097067+00:00",
+  "generated_at": "2026-10-03T06:01:14.444482+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 14,
   "items": [
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -115,38 +115,6 @@
       "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
       "published": "2026-10-01T20:11:55+00:00",
       "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
-    },
-    {
-      "title": "The eternal complement",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "published": "2026-10-01T17:00:00+00:00",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
-      "title": "The Pulse: Firebase’s global outage & poor response",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
-      "published": "2026-10-01T16:43:19+00:00",
-      "summary": "Also: OpenAI&#8217;s platform play that has similarities to AWS, more data on companies moving to open models, and more"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "published": "2026-10-01T16:28:04+00:00",
-      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key."
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "published": "2026-10-01T16:00:00+00:00",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
     }
   ]
 }
