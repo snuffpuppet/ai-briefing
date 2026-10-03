@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T12:12:53.576717+00:00",
+  "generated_at": "2026-10-03T16:58:04.736439+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 11,
   "items": [
     {
       "title": "[AINews] not much happened today",
@@ -91,22 +91,6 @@
       "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
       "published": "2026-10-02T06:40:53+00:00",
       "summary": "the minimalist harness goes stable... and TypeScript!"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published": "2026-10-02T04:01:31+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Academia is for Ambition — Alex Zhang, MIT",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/rlm",
-      "published": "2026-10-02T00:28:04+00:00",
-      "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses."
     }
   ]
 }
