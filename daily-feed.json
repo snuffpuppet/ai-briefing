@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T19:10:00.198563+00:00",
+  "generated_at": "2026-10-04T22:43:06.308074+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "We're going to need default hard budget caps on pretty much everything",
@@ -27,14 +27,6 @@
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
       "published": "2026-10-03T22:00:31+00:00",
       "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here.\nThis month:\n\nMore Fable class models\nA pricing war\n3D graphics, Blender, and pixel art\nLLMs come for mathematics\nSo many more accidental cyberattacks\nThe vulnapocalypse comes for Datasette\nWhat I'm using right now\nMy software releases this month\n2026 in LLMs (so far)\n\nHere's a copy of the August newsletter as a preview of what you'll get. Pay $10/mon"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "published": "2026-10-03T08:45:15+00:00",
-      "summary": "a quiet day."
     }
   ]
 }
