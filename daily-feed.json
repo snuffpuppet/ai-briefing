@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T09:19:41.102587+00:00",
+  "generated_at": "2026-10-04T15:08:41.662726+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 4,
   "items": [
     {
       "title": "We're going to need default hard budget caps on pretty much everything",
@@ -35,22 +35,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
       "published": "2026-10-03T08:45:15+00:00",
       "summary": "a quiet day."
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "published": "2026-10-02T23:03:16+00:00",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-    },
-    {
-      "title": "Rex's Dino Store",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
-      "published": "2026-10-02T22:57:38+00:00",
-      "summary": "Museum: Rex&#x27;s Dino Store\n        Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur.\nThe density of dinosaur puns is exceptional.\n    \n    \n        Tags: art, new-york"
     }
   ]
 }
