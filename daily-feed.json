@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T02:22:42.468658+00:00",
+  "generated_at": "2026-10-04T09:19:41.102587+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 6,
   "items": [
     {
       "title": "We're going to need default hard budget caps on pretty much everything",
@@ -51,54 +51,6 @@
       "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
       "published": "2026-10-02T22:57:38+00:00",
       "summary": "Museum: Rex&#x27;s Dino Store\n        Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur.\nThe density of dinosaur puns is exceptional.\n    \n    \n        Tags: art, new-york"
-    },
-    {
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "published": "2026-10-02T20:30:27+00:00",
-      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
-    },
-    {
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "published": "2026-10-02T18:39:36+00:00",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "published": "2026-10-02T16:15:00+00:00",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "published": "2026-10-02T15:49:04+00:00",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;"
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "published": "2026-10-02T15:19:50+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "published": "2026-10-02T14:52:16+00:00",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
     }
   ]
 }
