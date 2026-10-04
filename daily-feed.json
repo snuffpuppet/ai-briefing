@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-03T22:39:42.391682+00:00",
+  "generated_at": "2026-10-04T02:22:42.468658+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 12,
   "items": [
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "published": "2026-10-03T23:34:02+00:00",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it.\nCoding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinnin"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published": "2026-10-03T22:56:48+00:00",
+      "summary": ""
+    },
     {
       "title": "September sponsors-only newsletter",
       "source": "Simon Willison's Weblog",
@@ -83,14 +99,6 @@
       "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
       "published": "2026-10-02T14:52:16+00:00",
       "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
-    },
-    {
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/airbnb",
-      "published": "2026-10-02T14:04:49+00:00",
-      "summary": "After leading Meta&#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI &#8212; from how its teams develop products to how it serves guests."
     }
   ]
 }
