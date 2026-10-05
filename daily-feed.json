@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-05T01:35:03.172300+00:00",
+  "generated_at": "2026-10-05T08:18:35.398001+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "Fragments: October  4",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-10-04.html",
+      "published": "2026-10-04T23:28:00-05:00",
+      "summary": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied:\n\n\n  we shipped the id and forgot the superego. classic software lifecycle.\n\n\nI don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, goin"
+    },
     {
       "title": "We're going to need default hard budget caps on pretty much everything",
       "source": "Simon Willison's Weblog",
