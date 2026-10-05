@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-05T17:51:43.929689+00:00",
+  "generated_at": "2026-10-05T23:43:32.517746+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 15,
   "items": [
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "published": "2026-10-05T22:26:35+00:00",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "published": "2026-10-05T19:14:44+00:00",
+      "summary": "The tool can free up over 12GB of storage."
+    },
+    {
+      "title": "6 Guidelines for Governing AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+      "published": "2026-10-05T18:00:02+00:00",
+      "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business systems.I built and scaled analytics teams at Best Buy and Target, studying how customers shop and what stores should stock. Today I lead enterprise AI transformation at Lowe’s, the Fortune 100 home imp"
+    },
     {
       "title": "Attempts to Keep Humans in the AI Loop May Actually Push Them Out",
       "source": "IEEE Spectrum",
@@ -58,7 +82,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/millennium-prize-ai",
       "published": "2026-10-05T12:00:02+00:00",
-      "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst.Having attended several of these events in the past, the mathematicians’ chatter is normally concerned with which famed researchers are attending, or what interesting problems they have been working on. But instead, every snippet of conversation caught in passing or any debate acc"
+      "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst.Having attended several of these events in the past, the mathematicians normally focus their chatter on which famed researchers are present, or what interesting problems they have been working on. But instead, every snippet of conversation caught in passing or any debate accidenta"
     },
     {
       "title": "Building advertising for the way people use AI",
