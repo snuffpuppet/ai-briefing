@@ -1,9 +1,97 @@
 {
-  "generated_at": "2026-10-05T08:18:35.398001+00:00",
+  "generated_at": "2026-10-05T17:51:43.929689+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Attempts to Keep Humans in the AI Loop May Actually Push Them Out",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop",
+      "published": "2026-10-05T15:57:11+00:00",
+      "summary": "A crucial safeguard against AI agents going rogue—keeping humans in the loop to review and approve their decisions—will fail unless designers and users change their current practices, a trio of leading AI ethics researchers argue.Though most autonomous agents have systems to keep users in the loop about their actions, in practice these processes actually push humans out of the loop, the authors argue in a paper posted to ArXiv on 6 September. In other words, “the human just becomes this meat too"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "published": "2026-10-05T15:47:52+00:00",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "published": "2026-10-05T15:00:00+00:00",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+    },
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "published": "2026-10-05T13:39:30+00:00",
+      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders."
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "published": "2026-10-05T13:29:32+00:00",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;"
+    },
+    {
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "published": "2026-10-05T12:32:30+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?&#8230;Toby Ord has a nice, short post about how to think about [&#8230;]"
+    },
+    {
+      "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/millennium-prize-ai",
+      "published": "2026-10-05T12:00:02+00:00",
+      "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst.Having attended several of these events in the past, the mathematicians’ chatter is normally concerned with which famed researchers are attending, or what interesting problems they have been working on. But instead, every snippet of conversation caught in passing or any debate acc"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published": "2026-10-05T10:00:00+00:00",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published": "2026-10-05T08:00:00+00:00",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;"
+    },
+    {
+      "title": "Qwen3.8 27B addition in words",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "published": "2026-10-04T23:34:00+00:00",
+      "summary": "Research: Qwen3.8 27B addition in words\n        Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results:\n\nI'm confident GPT-4o didn't cheat and use a calculator, especially since it got so many of the calculations wrong, but I was inspired to run the experiment again on local hardware (a DGX Spark) to explore t"
+    },
     {
       "title": "Fragments: October  4",
       "source": "Martin Fowler",
@@ -11,30 +99,6 @@
       "url": "https://martinfowler.com/fragments/2026-10-04.html",
       "published": "2026-10-04T23:28:00-05:00",
       "summary": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied:\n\n\n  we shipped the id and forgot the superego. classic software lifecycle.\n\n\nI don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, goin"
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "published": "2026-10-03T23:34:02+00:00",
-      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it.\nCoding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinnin"
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "published": "2026-10-03T22:56:48+00:00",
-      "summary": ""
-    },
-    {
-      "title": "September sponsors-only newsletter",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "published": "2026-10-03T22:00:31+00:00",
-      "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here.\nThis month:\n\nMore Fable class models\nA pricing war\n3D graphics, Blender, and pixel art\nLLMs come for mathematics\nSo many more accidental cyberattacks\nThe vulnapocalypse comes for Datasette\nWhat I'm using right now\nMy software releases this month\n2026 in LLMs (so far)\n\nHere's a copy of the August newsletter as a preview of what you'll get. Pay $10/mon"
     }
   ]
 }
