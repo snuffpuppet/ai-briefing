@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-06T04:50:39.611804+00:00",
+  "generated_at": "2026-10-06T11:46:32.764688+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 19,
   "items": [
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published": "2026-10-06T06:44:39+00:00",
+      "summary": ""
+    },
+    {
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "published": "2026-10-06T06:28:43+00:00",
+      "summary": "A small win for US open source"
+    },
+    {
+      "title": "How Jev can help improve the efficiency of RAG pipelines",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/how-jev-can-help-improve-the-efficiency-of-rag-pipelines",
+      "published": "2026-10-06T00:00:00+00:00",
+      "summary": "How Jev can help improve the efficiency of RAG pipelines"
+    },
+    {
+      "title": "AI-ready data: The anthology - Part 2 of 2",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-2",
+      "published": "2026-10-06T00:00:00+00:00",
+      "summary": "AI-ready data: The anthology - Part 2 of 2"
+    },
     {
       "title": "Quoting Felix Rieseberg",
       "source": "Simon Willison's Weblog",
@@ -115,14 +147,6 @@
       "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
       "published": "2026-10-05T04:00:00+00:00",
       "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;"
-    },
-    {
-      "title": "Qwen3.8 27B addition in words",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "published": "2026-10-04T23:34:00+00:00",
-      "summary": "Research: Qwen3.8 27B addition in words\n        Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results:\n\nI'm confident GPT-4o didn't cheat and use a calculator, especially since it got so many of the calculations wrong, but I was inspired to run the experiment again on local hardware (a DGX Spark) to explore t"
     },
     {
       "title": "Fragments: October  4",
