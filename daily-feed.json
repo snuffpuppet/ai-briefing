@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-10-06T17:54:52.351389+00:00",
+  "generated_at": "2026-10-06T22:19:06.929283+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 31,
   "items": [
+    {
+      "title": "llm-mistral 0.16",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "published": "2026-10-06T21:32:34+00:00",
+      "summary": "Release: llm-mistral 0.16\n        Adds support for reasoning models, such as the newly released Mistral Large 4.\n    \n    \n        Tags: llm, mistral, llm-reasoning"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "published": "2026-10-06T20:50:32+00:00",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
+    },
+    {
+      "title": "EmbeddingGemma 2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "published": "2026-10-06T20:37:53+00:00",
+      "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license.\nFor embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model.\nMost applications of embedding models involve calculating thousands or even millions of embedding vectors and storing them for later comparison.\nIf your model is proprietary, the vendor is likely someday going to decide to stop offering that model. They'll hav"
+    },
+    {
+      "title": "Introducing Mistral Large 4: Le chonk",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "published": "2026-10-06T20:18:19+00:00",
+      "summary": "Introducing Mistral Large 4: Le chonk\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs.\nThe preview is available via their API. They promise to release the open weights model at the \"end of this month\".\nThe model only supports two reasoning levels - \"none\" and \"high\" - via the Mistral API. Here are both pelicans - the \"high\" one looks bett"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "published": "2026-10-06T19:57:04+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Using Parseable with Datasette for OpenTelemetry traces",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+      "published": "2026-10-06T19:07:31+00:00",
+      "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces\n        I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option.\nSince Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it figure out how to run Parseable and feed it traces from Datasette.\nHere's my (human-written) TIL s"
+    },
+    {
+      "title": "Mistral Large 4",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "published": "2026-10-06T18:20:58+00:00",
+      "summary": "My comment on Mistral Large 4 &mdash; Hacker News.\nwren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars.\n\nOK well I couldn't resist this one:\nllm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars'\nllm -m gpt-6.1-sol 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars'\nllm -m gemini-3.8-flash 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars'\nllm -m mistr"
+    },
+    {
+      "title": "datasette-atom 0.11a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
+      "published": "2026-10-06T17:35:39+00:00",
+      "summary": "Release: datasette-atom 0.11a0\n        A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41.\n    \n    \n        Tags: atom, datasette"
+    },
     {
       "title": "The state of the tech industry in 2026",
       "source": "The Pragmatic Engineer",
@@ -51,6 +115,14 @@
       "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "published": "2026-10-06T12:21:53+00:00",
       "summary": "The reports of OpenAI agents harming third-party sites keep coming."
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "published": "2026-10-06T10:00:00+00:00",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
     },
     {
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
@@ -179,22 +251,6 @@
       "url": "https://spectrum.ieee.org/millennium-prize-ai",
       "published": "2026-10-05T12:00:02+00:00",
       "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst.Having attended several of these events in the past, the mathematicians normally focus their chatter on which famed researchers are present, or what interesting problems they have been working on. But instead, every snippet of conversation caught in passing or any debate accidenta"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published": "2026-10-05T10:00:00+00:00",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "published": "2026-10-05T08:00:00+00:00",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;"
     }
   ]
 }
