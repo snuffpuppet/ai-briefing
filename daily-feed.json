@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-05T23:43:32.517746+00:00",
+  "generated_at": "2026-10-06T04:50:39.611804+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 16,
   "items": [
+    {
+      "title": "Quoting Felix Rieseberg",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "published": "2026-10-05T23:56:47+00:00",
+      "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally. Also, people didn't love that closing your laptop means the work stops.\nThe \"new\" version of Cowork"
+    },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "source": "AI - Ars Technica",
