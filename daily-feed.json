@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-10-07T09:47:19.988394+00:00",
+  "generated_at": "2026-10-07T17:14:05.077509+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published": "2026-10-07T16:54:33+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Anti-Patterns in Software Blogging",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "published": "2026-10-07T14:53:51+00:00",
+      "summary": "Anti-Patterns in Software Blogging\nSome excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.\nHe also warns against overreliance on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I have a nagging suspicion that almost nobody ever clicks on them.\n(In a Lobste.rs comment Michael clarifies that \"My rule of thumb"
+    },
+    {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "published": "2026-10-07T14:12:37+00:00",
+      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight."
+    },
+    {
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/stacklok",
+      "published": "2026-10-07T14:10:45+00:00",
+      "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud."
+    },
+    {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "published": "2026-10-07T14:00:08+00:00",
+      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more."
+    },
+    {
+      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "published": "2026-10-07T13:49:48+00:00",
+      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot.What you will learn about: Why humanoid robot learning, a central problem in embodied AI and Physical AI, needs data that internet video and existing motion capture datasets cannot provide. How FrameNet, a linguistic framework for human act"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "published": "2026-10-07T12:45:31+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "published": "2026-10-07T12:00:00+00:00",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+    },
     {
       "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
       "source": "Latent.Space",
@@ -27,6 +91,14 @@
       "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
       "published": "2026-10-07T00:16:45+00:00",
       "summary": "OpenAI “rogue” agent activities found on Wikimedia projects\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking:\n\nThe Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. Th"
+    },
+    {
+      "title": "The action gap: All that customer insight. Now what?",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/the-action-gap-customer-insight",
+      "published": "2026-10-07T00:00:00+00:00",
+      "summary": "The action gap: All that customer insight. Now what?"
     },
     {
       "title": "Quoting Victoria Kim",
@@ -181,60 +253,12 @@
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
     },
     {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "published": "2026-10-06T06:44:39+00:00",
-      "summary": ""
-    },
-    {
       "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
       "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
       "published": "2026-10-06T06:28:43+00:00",
       "summary": "A small win for US open source"
-    },
-    {
-      "title": "How Jev can help improve the efficiency of RAG pipelines",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/how-jev-can-help-improve-the-efficiency-of-rag-pipelines",
-      "published": "2026-10-06T00:00:00+00:00",
-      "summary": "How Jev can help improve the efficiency of RAG pipelines"
-    },
-    {
-      "title": "AI-ready data: The anthology - Part 2 of 2",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-2",
-      "published": "2026-10-06T00:00:00+00:00",
-      "summary": "AI-ready data: The anthology - Part 2 of 2"
-    },
-    {
-      "title": "Quality is speed: Where engineering discipline moves in the AI era",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/quality-is-speed-AI-era",
-      "published": "2026-10-06T00:00:00+00:00",
-      "summary": "Quality is speed: Where engineering discipline moves in the AI era"
-    },
-    {
-      "title": "Quoting Felix Rieseberg",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "published": "2026-10-05T23:56:47+00:00",
-      "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally. Also, people didn't love that closing your laptop means the work stops.\nThe \"new\" version of Cowork"
-    },
-    {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "published": "2026-10-05T22:26:35+00:00",
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
     }
   ]
 }
