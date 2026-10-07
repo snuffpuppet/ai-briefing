@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-07T02:04:21.999407+00:00",
+  "generated_at": "2026-10-07T09:47:19.988394+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 29,
   "items": [
+    {
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "published": "2026-10-07T04:55:44+00:00",
+      "summary": "Our head hurts."
+    },
+    {
+      "title": "Quoting Jake Boggan",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "published": "2026-10-07T04:47:55+00:00",
+      "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it.\nBut it's supposedly proven here - problem 180. I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it."
+    },
     {
       "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
       "source": "Simon Willison's Weblog",
@@ -181,20 +197,20 @@
       "summary": "A small win for US open source"
     },
     {
-      "title": "AI-ready data: The anthology - Part 2 of 2",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-2",
-      "published": "2026-10-06T00:00:00+00:00",
-      "summary": "AI-ready data: The anthology - Part 2 of 2"
-    },
-    {
       "title": "How Jev can help improve the efficiency of RAG pipelines",
       "source": "Thoughtworks Insights",
       "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
       "url": "https://www.thoughtworks.com/insights/blog/generative-ai/how-jev-can-help-improve-the-efficiency-of-rag-pipelines",
       "published": "2026-10-06T00:00:00+00:00",
       "summary": "How Jev can help improve the efficiency of RAG pipelines"
+    },
+    {
+      "title": "AI-ready data: The anthology - Part 2 of 2",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-2",
+      "published": "2026-10-06T00:00:00+00:00",
+      "summary": "AI-ready data: The anthology - Part 2 of 2"
     },
     {
       "title": "Quality is speed: Where engineering discipline moves in the AI era",
@@ -219,46 +235,6 @@
       "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
       "published": "2026-10-05T22:26:35+00:00",
       "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
-    },
-    {
-      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-      "published": "2026-10-05T19:14:44+00:00",
-      "summary": "The tool can free up over 12GB of storage."
-    },
-    {
-      "title": "6 Guidelines for Governing AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "published": "2026-10-05T18:00:02+00:00",
-      "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business systems.I built and scaled analytics teams at Best Buy and Target, studying how customers shop and what stores should stock. Today I lead enterprise AI transformation at Lowe’s, the Fortune 100 home imp"
-    },
-    {
-      "title": "Attempts to Keep Humans in the AI Loop May Actually Push Them Out",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop",
-      "published": "2026-10-05T15:57:11+00:00",
-      "summary": "A crucial safeguard against AI agents going rogue—keeping humans in the loop to review and approve their decisions—will fail unless designers and users change their current practices, a trio of leading AI ethics researchers argue.Though most autonomous agents have systems to keep users in the loop about their actions, in practice these processes actually push humans out of the loop, the authors argue in a paper posted to ArXiv on 6 September. In other words, “the human just becomes this meat too"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "published": "2026-10-05T15:47:52+00:00",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "published": "2026-10-05T15:00:00+00:00",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
     }
   ]
 }
