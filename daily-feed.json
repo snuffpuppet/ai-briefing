@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-06T22:19:06.929283+00:00",
+  "generated_at": "2026-10-07T02:04:21.999407+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 32,
   "items": [
+    {
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "published": "2026-10-07T00:16:45+00:00",
+      "summary": "OpenAI “rogue” agent activities found on Wikimedia projects\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking:\n\nThe Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. Th"
+    },
+    {
+      "title": "Quoting Victoria Kim",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "published": "2026-10-06T23:58:56+00:00",
+      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said.\n&mdash; Victoria Kim, Reporting from the Australian parliament\n\n    Tags: accidental-cyberattacks, generative-ai, ai-security-research, openai, ai, llms"
+    },
+    {
+      "title": "llm-openai-decisions 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "published": "2026-10-06T23:04:13+00:00",
+      "summary": "Release: llm-openai-decisions 0.1a0\n        OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay.\nSince I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin inspired by llm-typesafe.\nUnlike Jev, the new gpt-6-luna decision model supports image input in addition to text. Both models charge for input it and not for output: OpenAI's is 10 cents per millio"
+    },
     {
       "title": "llm-mistral 0.16",
       "source": "Simon Willison's Weblog",
@@ -117,6 +141,22 @@
       "summary": "The reports of OpenAI agents harming third-party sites keep coming."
     },
     {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/jump-trading",
+      "published": "2026-10-06T12:00:00+00:00",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "published": "2026-10-06T12:00:00+00:00",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+    },
+    {
       "title": "Advancing computer use with Ironclad",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -219,38 +259,6 @@
       "url": "https://openai.com/index/eu-text-provenance",
       "published": "2026-10-05T15:00:00+00:00",
       "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-    },
-    {
-      "title": "AI glasses face their first major government crackdown",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "published": "2026-10-05T13:39:30+00:00",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders."
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "published": "2026-10-05T13:29:32+00:00",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;"
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "published": "2026-10-05T12:32:30+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?&#8230;Toby Ord has a nice, short post about how to think about [&#8230;]"
-    },
-    {
-      "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/millennium-prize-ai",
-      "published": "2026-10-05T12:00:02+00:00",
-      "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of discussion, networking, and—naturally—wurst.Having attended several of these events in the past, the mathematicians normally focus their chatter on which famed researchers are present, or what interesting problems they have been working on. But instead, every snippet of conversation caught in passing or any debate accidenta"
     }
   ]
 }
