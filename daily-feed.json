@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-07T17:14:05.077509+00:00",
+  "generated_at": "2026-10-07T22:41:10.763721+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 36,
   "items": [
+    {
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "published": "2026-10-07T21:56:42+00:00",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished."
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "published": "2026-10-07T20:56:21+00:00",
+      "summary": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5.\nThe previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI's GPT-6 Luna, released last month.\n\nThe new Haiku exactly matches the price of GPT-6 Luna - $0.10/$0.50 - up to 100,000 tokens. Beyond 100,000 tokens the price increases 5x to $0.50/$"
+    },
+    {
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "published": "2026-10-07T17:57:39+00:00",
+      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
+    },
+    {
+      "title": "Building resilient systems with Sam Newman",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "published": "2026-10-07T17:19:58+00:00",
+      "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development."
+    },
     {
       "title": "Multimodal open d1 decision models for the edge",
       "source": "Hugging Face - Blog",
@@ -69,6 +101,14 @@
       "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
     },
     {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/radisson",
+      "published": "2026-10-07T07:00:00+00:00",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+    },
+    {
       "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
       "source": "Latent.Space",
       "feed_url": "https://www.latent.space/feed",
@@ -91,6 +131,14 @@
       "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
       "published": "2026-10-07T00:16:45+00:00",
       "summary": "OpenAI “rogue” agent activities found on Wikimedia projects\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking:\n\nThe Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. Th"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "published": "2026-10-07T00:00:00+00:00",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
     },
     {
       "title": "The action gap: All that customer insight. Now what?",
@@ -243,22 +291,6 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "published": "2026-10-06T12:00:00+00:00",
       "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published": "2026-10-06T10:00:00+00:00",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-    },
-    {
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "published": "2026-10-06T06:28:43+00:00",
-      "summary": "A small win for US open source"
     }
   ]
 }
