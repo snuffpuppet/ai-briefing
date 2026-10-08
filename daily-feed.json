@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-07T22:41:10.763721+00:00",
+  "generated_at": "2026-10-08T02:29:32.324671+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 36,
+  "item_count": 34,
   "items": [
+    {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "published": "2026-10-08T00:00:24+00:00",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop."
+    },
+    {
+      "title": "Quoting Ben Affleck",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "published": "2026-10-07T23:14:58+00:00",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.\nSo I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things l"
+    },
     {
       "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
       "source": "AI - Ars Technica",
@@ -259,38 +275,6 @@
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
       "published": "2026-10-06T15:17:39+00:00",
       "summary": "Tool: Scrimshaw Jukebox\n        I wanted to see if Claude Opus 5.5 could compose music, so I tried this:\n\nI want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact\nI am looking for music of the quality of the original secret of Monkey Island\n\nIt leaned a lot harder into the Monkey Island theme than I had intended, but the results are surprisingly good.\n\nI"
-    },
-    {
-      "title": "The Cyber Risk Discourse is Broken",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "published": "2026-10-06T14:22:41+00:00",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs."
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "published": "2026-10-06T12:21:53+00:00",
-      "summary": "The reports of OpenAI agents harming third-party sites keep coming."
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/jump-trading",
-      "published": "2026-10-06T12:00:00+00:00",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published": "2026-10-06T12:00:00+00:00",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     }
   ]
 }
