@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-08T02:29:32.324671+00:00",
+  "generated_at": "2026-10-08T09:58:00.245909+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 25,
   "items": [
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "published": "2026-10-08T09:00:00+00:00",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;"
+    },
+    {
+      "title": "Building a safer path to autonomous industrial AI",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "published": "2026-10-08T08:17:32+00:00",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;"
+    },
+    {
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "published": "2026-10-08T07:27:51+00:00",
+      "summary": "yay small models"
+    },
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "source": "AI - Ars Technica",
@@ -179,102 +203,6 @@
       "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
       "published": "2026-10-06T23:04:13+00:00",
       "summary": "Release: llm-openai-decisions 0.1a0\n        OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay.\nSince I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin inspired by llm-typesafe.\nUnlike Jev, the new gpt-6-luna decision model supports image input in addition to text. Both models charge for input it and not for output: OpenAI's is 10 cents per millio"
-    },
-    {
-      "title": "llm-mistral 0.16",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-      "published": "2026-10-06T21:32:34+00:00",
-      "summary": "Release: llm-mistral 0.16\n        Adds support for reasoning models, such as the newly released Mistral Large 4.\n    \n    \n        Tags: llm, mistral, llm-reasoning"
-    },
-    {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "published": "2026-10-06T20:50:32+00:00",
-      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
-    },
-    {
-      "title": "EmbeddingGemma 2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "published": "2026-10-06T20:37:53+00:00",
-      "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license.\nFor embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model.\nMost applications of embedding models involve calculating thousands or even millions of embedding vectors and storing them for later comparison.\nIf your model is proprietary, the vendor is likely someday going to decide to stop offering that model. They'll hav"
-    },
-    {
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "published": "2026-10-06T20:18:19+00:00",
-      "summary": "Introducing Mistral Large 4: Le chonk\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs.\nThe preview is available via their API. They promise to release the open weights model at the \"end of this month\".\nThe model only supports two reasoning levels - \"none\" and \"high\" - via the Mistral API. Here are both pelicans - the \"high\" one looks bett"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "published": "2026-10-06T19:57:04+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "published": "2026-10-06T19:07:31+00:00",
-      "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces\n        I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option.\nSince Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it figure out how to run Parseable and feed it traces from Datasette.\nHere's my (human-written) TIL s"
-    },
-    {
-      "title": "Mistral Large 4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "published": "2026-10-06T18:20:58+00:00",
-      "summary": "My comment on Mistral Large 4 &mdash; Hacker News.\nwren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars.\n\nOK well I couldn't resist this one:\nllm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars'\nllm -m gpt-6.1-sol 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars'\nllm -m gemini-3.8-flash 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars'\nllm -m mistr"
-    },
-    {
-      "title": "datasette-atom 0.11a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
-      "published": "2026-10-06T17:35:39+00:00",
-      "summary": "Release: datasette-atom 0.11a0\n        A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41.\n    \n    \n        Tags: atom, datasette"
-    },
-    {
-      "title": "The state of the tech industry in 2026",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
-      "published": "2026-10-06T16:25:03+00:00",
-      "summary": "A look into what has changed, what&#8217;s still the same &#8211; and what&#8217;s broken &#8211; in the tech industry. The full video and the summary of my keynote at LDX3 New York"
-    },
-    {
-      "title": "NTS: Authenticated Time at Meta",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-      "published": "2026-10-06T16:00:06+00:00",
-      "summary": "Meta’s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way. Our NTS servers hold no per-client state. Cookie keys are derived, not stored and not replicated. We’ve open sourced everything, including [...]\nRead More...\nThe post NTS: Authenticated Time at Meta appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "published": "2026-10-06T16:00:00+00:00",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
-    },
-    {
-      "title": "Scrimshaw Jukebox",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "published": "2026-10-06T15:17:39+00:00",
-      "summary": "Tool: Scrimshaw Jukebox\n        I wanted to see if Claude Opus 5.5 could compose music, so I tried this:\n\nI want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact\nI am looking for music of the quality of the original secret of Monkey Island\n\nIt leaned a lot harder into the Monkey Island theme than I had intended, but the results are surprisingly good.\n\nI"
     }
   ]
 }
