@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-09T17:17:50.488525+00:00",
+  "generated_at": "2026-10-09T22:14:03.458289+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "published": "2026-10-09T22:04:07+00:00",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model."
+    },
+    {
+      "title": "I expect rapid progress but not towards general superintelligence",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "published": "2026-10-09T21:33:47+00:00",
+      "summary": "I&#8217;ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn&#8217;t really know why I doubted it."
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "published": "2026-10-09T19:43:50+00:00",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\""
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "published": "2026-10-09T18:44:06+00:00",
+      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
+    },
+    {
+      "title": "Master AI Chip Principles With New IEEE Design Program",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "published": "2026-10-09T18:00:02+00:00",
+      "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model architecture limitations, and network demands across edge-AI deployments.The acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger"
+    },
     {
       "title": "Impactful scheduling for GPU clusters",
       "source": "Hugging Face - Blog",
@@ -43,6 +83,14 @@
       "url": "https://openai.com/index/sophos",
       "published": "2026-10-09T07:00:00+00:00",
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     },
     {
       "title": "ttok 1.0",
@@ -155,30 +203,6 @@
       "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
       "published": "2026-10-08T11:15:33+00:00",
       "summary": "Full-stack safety solution for physical AI is being used by robotics companies."
-    },
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "published": "2026-10-08T09:00:00+00:00",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;"
-    },
-    {
-      "title": "Building a safer path to autonomous industrial AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "published": "2026-10-08T08:17:32+00:00",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;"
-    },
-    {
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "published": "2026-10-08T07:27:51+00:00",
-      "summary": "yay small models"
     }
   ]
 }
