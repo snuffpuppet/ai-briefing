@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-09T10:01:41.667583+00:00",
+  "generated_at": "2026-10-09T17:17:50.488525+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published": "2026-10-09T15:20:29+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Quoting Matthew Green",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "published": "2026-10-09T15:02:29+00:00",
+      "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]\nThe problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surpris"
+    },
+    {
+      "title": "A new feature for my blog, built using my voice",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "published": "2026-10-09T12:54:06+00:00",
+      "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner.\nCodex voice mode\nI used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like:\n\nI started the"
+    },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -43,6 +67,14 @@
       "url": "https://www.thoughtworks.com/insights/blog/leadership/leadership-in-the-age-of-agents",
       "published": "2026-10-09T00:00:00+00:00",
       "summary": "Leadership in the age of AI agents"
+    },
+    {
+      "title": "The leadership contract behind effective program delivery",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/leadership/leadership-contract-effective-program-delivery",
+      "published": "2026-10-09T00:00:00+00:00",
+      "summary": "The leadership contract behind effective program delivery"
     },
     {
       "title": "ttok 0.4",
@@ -147,46 +179,6 @@
       "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
       "published": "2026-10-08T07:27:51+00:00",
       "summary": "yay small models"
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "published": "2026-10-08T00:00:24+00:00",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop."
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "published": "2026-10-08T00:00:00+00:00",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "published": "2026-10-08T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Real-world lessons in agentic authority and overreach",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/real-world-lessons-agentic-authority-overreach",
-      "published": "2026-10-08T00:00:00+00:00",
-      "summary": "Real-world lessons in agentic authority and overreach"
-    },
-    {
-      "title": "Quoting Ben Affleck",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "published": "2026-10-07T23:14:58+00:00",
-      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.\nSo I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things l"
     }
   ]
 }
