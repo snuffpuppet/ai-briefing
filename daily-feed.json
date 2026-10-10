@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-10T19:44:18.351383+00:00",
+  "generated_at": "2026-10-10T23:12:38.320951+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 14,
   "items": [
+    {
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/nyc2026",
+      "published": "2026-10-10T22:07:17+00:00",
+      "summary": "Tomorrow and Tuesday. If you see this you&#8217;re in!"
+    },
     {
       "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
       "source": "Latent.Space",
@@ -107,14 +115,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
       "published": "2026-10-09T12:54:06+00:00",
       "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner.\nCodex voice mode\nI used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like:\n\nI started the"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "published": "2026-10-09T09:00:00+00:00",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;"
     }
   ]
 }
