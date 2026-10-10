@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-09T22:14:03.458289+00:00",
+  "generated_at": "2026-10-10T02:03:42.698966+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 24,
   "items": [
+    {
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/biohub-deepmind",
+      "published": "2026-10-10T00:31:26+00:00",
+      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind&#8217;s Pushmeet Kohli and Biohub&#8217;s Sal Candido are rethinking what it takes to build AI that truly understands biology."
+    },
+    {
+      "title": "Deno is joining Cloudflare",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "published": "2026-10-09T22:48:37+00:00",
+      "summary": "Deno is joining Cloudflare\nThe Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers.\nToday, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the Cloudflare blog.)\nThe bad news is that Deno itself will not be maintained by Cloudflare beyond the next year:"
+    },
     {
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
       "source": "AI - Ars Technica",
@@ -179,30 +195,6 @@
       "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
       "published": "2026-10-08T14:28:17+00:00",
       "summary": "If there is any place that would be off-limits to AI, the control room of a nuclear power plant certainly sounds like one. The nuclear industry is historically cautious and risk averse—understandable given the possible catastrophic consequences of an accident or a mistake. Even well-trained managers struggle with the operational complexity of a nuclear reactor. It’s not the kind of setting that seems well suited to a powerful but error-prone new technology.Reality tells a startlingly different s"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/pollo-ai",
-      "published": "2026-10-08T12:00:00+00:00",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "published": "2026-10-08T12:00:00+00:00",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "published": "2026-10-08T11:15:33+00:00",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies."
     }
   ]
 }
