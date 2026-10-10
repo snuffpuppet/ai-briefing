@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T15:41:19.611025+00:00",
+  "generated_at": "2026-10-10T19:44:18.351383+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 14,
   "items": [
     {
       "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
@@ -115,22 +115,6 @@
       "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "published": "2026-10-09T09:00:00+00:00",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/sophos",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     }
   ]
 }
