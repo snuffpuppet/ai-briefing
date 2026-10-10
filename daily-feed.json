@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-10T02:03:42.698966+00:00",
+  "generated_at": "2026-10-10T09:22:39.628159+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 21,
   "items": [
+    {
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "published": "2026-10-10T06:45:57+00:00",
+      "summary": "Wow."
+    },
+    {
+      "title": "Quoting The New York Times",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "published": "2026-10-10T02:04:12+00:00",
+      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said.\n&mdash; The New York Times, Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website\n\n    Tags: accidental-cyberattacks, anthropi"
+    },
     {
       "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
       "source": "Latent.Space",
@@ -155,46 +171,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
       "published": "2026-10-08T23:29:43+00:00",
       "summary": "a quiet day."
-    },
-    {
-      "title": "Quoting Carson Gross",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-      "published": "2026-10-08T21:05:44+00:00",
-      "summary": "Computer programming is, fundamentally, about two things:\n\nProblem-solving using computers\nLearning to control complexity while solving these problems\n\nI have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent of AI tools.\n&mdash; Carson Gross\n\n    Tags: computer-science, carson-gross, careers, ai"
-    },
-    {
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-      "published": "2026-10-08T16:55:51+00:00",
-      "summary": "Also: do us engineers truly enjoy &#8216;hard problems&#8217;, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more"
-    },
-    {
-      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/periodic",
-      "published": "2026-10-08T16:27:54+00:00",
-      "summary": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/oracle",
-      "published": "2026-10-08T16:00:00+00:00",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "title": "The U.S. Nuclear Plant Fleet Is Leaning Into AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
-      "published": "2026-10-08T14:28:17+00:00",
-      "summary": "If there is any place that would be off-limits to AI, the control room of a nuclear power plant certainly sounds like one. The nuclear industry is historically cautious and risk averse—understandable given the possible catastrophic consequences of an accident or a mistake. Even well-trained managers struggle with the operational complexity of a nuclear reactor. It’s not the kind of setting that seems well suited to a powerful but error-prone new technology.Reality tells a startlingly different s"
     }
   ]
 }
