@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T03:57:46.856795+00:00",
+  "generated_at": "2026-10-11T10:41:25.713720+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 13,
+  "item_count": 8,
   "items": [
     {
       "title": "Dwarf Fortress uses version control now",
@@ -67,46 +67,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
       "published": "2026-10-09T22:48:37+00:00",
       "summary": "Deno is joining Cloudflare\nThe Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers.\nToday, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the Cloudflare blog.)\nThe bad news is that Deno itself will not be maintained by Cloudflare beyond the next year:"
-    },
-    {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "published": "2026-10-09T22:04:07+00:00",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model."
-    },
-    {
-      "title": "I expect rapid progress but not towards general superintelligence",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "published": "2026-10-09T21:33:47+00:00",
-      "summary": "I&#8217;ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn&#8217;t really know why I doubted it."
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "published": "2026-10-09T19:43:50+00:00",
-      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\""
-    },
-    {
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-      "published": "2026-10-09T18:44:06+00:00",
-      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
-    },
-    {
-      "title": "Master AI Chip Principles With New IEEE Design Program",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "published": "2026-10-09T18:00:02+00:00",
-      "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model architecture limitations, and network demands across edge-AI deployments.The acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger"
     }
   ]
 }
