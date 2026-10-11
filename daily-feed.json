@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T10:41:25.713720+00:00",
+  "generated_at": "2026-10-11T16:32:41.108262+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 8,
+  "item_count": 5,
   "items": [
     {
       "title": "Dwarf Fortress uses version control now",
@@ -43,30 +43,6 @@
       "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
       "published": "2026-10-10T06:45:57+00:00",
       "summary": "Wow."
-    },
-    {
-      "title": "Quoting The New York Times",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "published": "2026-10-10T02:04:12+00:00",
-      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said.\n&mdash; The New York Times, Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website\n\n    Tags: accidental-cyberattacks, anthropi"
-    },
-    {
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/biohub-deepmind",
-      "published": "2026-10-10T00:31:26+00:00",
-      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind&#8217;s Pushmeet Kohli and Biohub&#8217;s Sal Candido are rethinking what it takes to build AI that truly understands biology."
-    },
-    {
-      "title": "Deno is joining Cloudflare",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "published": "2026-10-09T22:48:37+00:00",
-      "summary": "Deno is joining Cloudflare\nThe Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers.\nToday, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the Cloudflare blog.)\nThe bad news is that Deno itself will not be maintained by Cloudflare beyond the next year:"
     }
   ]
 }
