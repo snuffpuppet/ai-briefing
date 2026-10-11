@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-10T23:12:38.320951+00:00",
+  "generated_at": "2026-10-11T03:57:46.856795+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 13,
   "items": [
+    {
+      "title": "Dwarf Fortress uses version control now",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "published": "2026-10-11T00:52:37+00:00",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more. That's art.\nI went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time:\n\nMarch 2013: \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box thi"
+    },
+    {
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "published": "2026-10-10T23:58:04+00:00",
+      "summary": "Python 3.15.0 added to actions/python-versions\nBit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it:\n\nClone https://github.com/actions/python-versions  and git pull once an hour until they add the stable  3.15 - then tell me about it\n\nNow that this has landed, you can add \"3.15\" to a GitHub Actions testing matrix to run tests against the new Python 3.15.0 release.\n\n\n    Tags: github, python, github-actions, chatgpt"
+    },
     {
       "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
       "source": "Latent.Space",
@@ -91,30 +107,6 @@
       "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
       "published": "2026-10-09T18:00:02+00:00",
       "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model architecture limitations, and network demands across edge-AI deployments.The acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger"
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "published": "2026-10-09T15:20:29+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting Matthew Green",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "published": "2026-10-09T15:02:29+00:00",
-      "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]\nThe problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surpris"
-    },
-    {
-      "title": "A new feature for my blog, built using my voice",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "published": "2026-10-09T12:54:06+00:00",
-      "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner.\nCodex voice mode\nI used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like:\n\nI started the"
     }
   ]
 }
