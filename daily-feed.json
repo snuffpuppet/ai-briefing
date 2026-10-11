@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T16:32:41.108262+00:00",
+  "generated_at": "2026-10-11T20:47:32.089581+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Dwarf Fortress uses version control now",
@@ -35,14 +35,6 @@
       "url": "https://www.latent.space/p/standard-bots",
       "published": "2026-10-10T14:04:11+00:00",
       "summary": "Inside Standard Bots&#8217; AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments."
-    },
-    {
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "published": "2026-10-10T06:45:57+00:00",
-      "summary": "Wow."
     }
   ]
 }
