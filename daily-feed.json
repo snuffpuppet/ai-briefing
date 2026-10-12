@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-12T06:57:15.861193+00:00",
+  "generated_at": "2026-10-12T16:34:54.936068+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 7,
   "items": [
+    {
+      "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+      "published": "2026-10-12T16:01:32+00:00",
+      "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We’re sharing how we shipped MoQ on Instagram Live ingest, and what the future looks like from here. [...]\nRead More...\nThe post Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "published": "2026-10-12T12:43:10+00:00",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale."
+    },
+    {
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "published": "2026-10-12T12:30:39+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highlights some shortcomings of current AI systems…AI startups Elorian and Scale AI have built [&#8230;]"
+    },
+    {
+      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+      "published": "2026-10-12T10:00:03+00:00",
+      "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation and real-world deployment.What you will learn about: Why combining a professional athlete’s motion style with reliable task performance remains an open challenge in humanoid ball-sports robotics, and"
+    },
     {
       "title": "Mislabelled: Why retail calls its strategic failures execution problems",
       "source": "Thoughtworks Insights",
@@ -13,28 +45,20 @@
       "summary": "Mislabelled: Why retail calls its strategic failures execution problems"
     },
     {
-      "title": "Dwarf Fortress uses version control now",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-      "published": "2026-10-11T00:52:37+00:00",
-      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more. That's art.\nI went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time:\n\nMarch 2013: \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box thi"
+      "title": "Why agentic payments require an executable model of organizational authority",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/why-agentic-payments-require-executable-model-organizational-authority",
+      "published": "2026-10-12T00:00:00+00:00",
+      "summary": "Why agentic payments require an executable model of organizational authority"
     },
     {
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "published": "2026-10-10T23:58:04+00:00",
-      "summary": "Python 3.15.0 added to actions/python-versions\nBit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it:\n\nClone https://github.com/actions/python-versions  and git pull once an hour until they add the stable  3.15 - then tell me about it\n\nNow that this has landed, you can add \"3.15\" to a GitHub Actions testing matrix to run tests against the new Python 3.15.0 release.\n\n\n    Tags: github, python, github-actions, chatgpt"
-    },
-    {
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/nyc2026",
-      "published": "2026-10-10T22:07:17+00:00",
-      "summary": "Tomorrow and Tuesday. If you see this you&#8217;re in!"
+      "title": "Decision models and the possibility of NoOps",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/decision-models-and-the-possibility-of-no-ops",
+      "published": "2026-10-12T00:00:00+00:00",
+      "summary": "Decision models and the possibility of NoOps"
     }
   ]
 }
