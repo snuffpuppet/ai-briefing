@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-12T00:12:56.965132+00:00",
+  "generated_at": "2026-10-12T06:57:15.861193+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 4,
   "items": [
+    {
+      "title": "Mislabelled: Why retail calls its strategic failures execution problems",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/mislabelled-why-retail-calls-its-strategic-failures-execution-problems",
+      "published": "2026-10-12T00:00:00+00:00",
+      "summary": "Mislabelled: Why retail calls its strategic failures execution problems"
+    },
     {
       "title": "Dwarf Fortress uses version control now",
       "source": "Simon Willison's Weblog",
@@ -27,14 +35,6 @@
       "url": "https://www.latent.space/p/nyc2026",
       "published": "2026-10-10T22:07:17+00:00",
       "summary": "Tomorrow and Tuesday. If you see this you&#8217;re in!"
-    },
-    {
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/standard-bots",
-      "published": "2026-10-10T14:04:11+00:00",
-      "summary": "Inside Standard Bots&#8217; AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments."
     }
   ]
 }
