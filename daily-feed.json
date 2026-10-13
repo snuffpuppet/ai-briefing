@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-12T23:29:06.112283+00:00",
+  "generated_at": "2026-10-13T05:27:14.996785+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 18,
   "items": [
+    {
+      "title": "Using Grafana AI to accelerate incident investigation",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/product-innovation/using-grafana-ai-to-accelerate-incident-investigation",
+      "published": "2026-10-13T00:00:00+00:00",
+      "summary": "Using Grafana AI to accelerate incident investigation"
+    },
     {
       "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
       "source": "Engineering at Meta",
@@ -75,6 +83,14 @@
       "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
       "published": "2026-10-12T16:00:50+00:00",
       "summary": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromising baseline performance. This post describes how we designed and now operate the system at Meta&#8217;s scale and how it drives [...]\nRead More...\nThe post Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations appeared first on Engineeri"
+    },
+    {
+      "title": "web-edit 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "published": "2026-10-12T15:54:36+00:00",
+      "summary": "Release: web-edit 0.1a0\n        I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself.\nSo... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an agent start this running and then edit files via my Tailscale network directly from my phone."
     },
     {
       "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
