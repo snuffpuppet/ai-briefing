@@ -1,9 +1,97 @@
 {
-  "generated_at": "2026-10-13T13:33:24.301311+00:00",
+  "generated_at": "2026-10-13T20:04:24.456767+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 32,
   "items": [
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "published": "2026-10-13T19:43:07+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "published": "2026-10-13T18:23:33+00:00",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published": "2026-10-13T17:05:48+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+      "published": "2026-10-13T17:00:39+00:00",
+      "summary": "Google plans to help turn those personal AI-generated apps into wide releases."
+    },
+    {
+      "title": "Building resilient AI-powered software, and planning for when things go wrong",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "published": "2026-10-13T16:03:33+00:00",
+      "summary": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published": "2026-10-13T16:01:58+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "published": "2026-10-13T16:01:52+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+      "published": "2026-10-13T16:01:00+00:00",
+      "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta&#8217;s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, our next goal is to further scale both compute and intelligence transfer with next-generation hardware, and expand this capability across Meta’s entire ads ecosystem. This [...]\nRead More...\nThe post Meta’s Generative Ads Model (GEM): Scaling the Central"
+    },
+    {
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "published": "2026-10-13T16:00:02+00:00",
+      "summary": "Developers will get 50 percent discounted API rates through November."
+    },
+    {
+      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "published": "2026-10-13T15:17:59+00:00",
+      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over."
+    },
+    {
+      "title": "Quoting Geoffrey Huntley",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "published": "2026-10-13T13:32:00+00:00",
+      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten.\n&mdash; Geoffrey Huntley, nobody should type code by hand anymore. here's what's left.\n\n    Tags: codin"
+    },
     {
       "title": "Google Deepmind’s New Resident Philosopher Tackles AI Ethics",
       "source": "IEEE Spectrum",
@@ -11,6 +99,22 @@
       "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
       "published": "2026-10-13T13:00:03+00:00",
       "summary": "How should humans relate to generative AI? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could some day have moral rights? These are among the cognitive and ethical questions that occupied philosopher Henry Shevlin at Cambridge University’s Leverhulme Centre for the Future of Intelligence. But last May Shevlin became part of the growing cohort of philosophers who work insid"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published": "2026-10-13T12:00:00+00:00",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    },
+    {
+      "title": "The Craft of Practitioner Voice",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+      "published": "2026-10-13T10:06:00-04:00",
+      "summary": "A couple of months ago Jim Highsmith explained how\n      practitioners writing for each other forms a distinct style of writing. He\n      now adds a section to the article with more detail on the craft of how we\n      write in this style. How the writer shows up in the prose, its four\n      principles, the role of story, how to sensibly use AI, three levels of\n      editing, and clarity of the audience.\n\nmore…"
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -27,6 +131,14 @@
       "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
       "published": "2026-10-13T09:37:04+00:00",
       "summary": "MSL&#8217;s emergence as a frontier lab is finally complete."
+    },
+    {
+      "title": "Are Harnesses Worth the Cost?",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "published": "2026-10-13T09:35:00-04:00",
+      "summary": "Naresh Jain compares coding agents building the same\n      API service with and without a behavioral harness. A frontier model, GPT-6\n      Sol, passed every external evaluation either way. But a cost-optimized\n      model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10\n      with the harness. While adding the harness increased token usage and\n      runtime for Luna, the harnessed Luna runs achieved the same 10-for-10\n      reliability as GPT-6 Sol while costing 33% less per"
     },
     {
       "title": "AI labs are buying data from dead startups to train their models",
@@ -147,14 +259,6 @@
       "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
       "published": "2026-10-12T10:00:03+00:00",
       "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation and real-world deployment.What you will learn about: Why combining a professional athlete’s motion style with reliable task performance remains an open challenge in humanoid ball-sports robotics, and"
-    },
-    {
-      "title": "datasette-ports 0.4",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "published": "2026-10-12T04:57:07+00:00",
-      "summary": "Release: datasette-ports 0.4\n        My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler.\n    \n    \n        Tags: datasette"
     }
   ]
 }
