@@ -1,9 +1,121 @@
 {
-  "generated_at": "2026-10-14T16:31:01.205688+00:00",
+  "generated_at": "2026-10-14T20:26:25.009949+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 47,
   "items": [
+    {
+      "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T20:02:22+00:00",
+      "summary": "Authors: Divya Gadde, Ko-Jen Hsiao, Dhaval Patel and Moumita BhattacharyaThe motivation for building the Netflix Foundation Model for personalization was laid out in this previous blog post. The Netflix homepage is powered by several specialized models and it requires significant time and resources to maintain and continue innovating on these individual models. Therefore, we decided to centralize member preference learning and have one powerful model learned from comprehensive user interaction h"
+    },
+    {
+      "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:59:08+00:00",
+      "summary": "by Olek Gorajek, Samuel Redai, Yian ShangIntroOur Netflix journey from data to dashboards, particularly within the space of the experimentation platform, always presented a unique set of challenges. This blog post aims to illuminate these hurdles and explain how an innovative open-source metric platform became instrumental in overcoming some of them. We’ll showcase the critical role that DataJunction played in streamlining our data workflows and enhancing our ability to derive meaningful insight"
+    },
+    {
+      "title": "Measuring the Impact of Personalized Recommendations",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:57:43+00:00",
+      "summary": "By Kevin Zielnicki, Guy Aridor, Aurélien Bibaut, Allen Tran, Winston Chou, and Nathan KallusIntroductionPersonalization is everywhere on the internet. It shapes the products we discover, the stories we read, the music we hear, and the movies and TV shows we watch. At Netflix, personalization has been central to the member experience for decades — from the Netflix Prize to our modern recommender system that helps members navigate a large and constantly changing catalog.But personalization is not"
+    },
+    {
+      "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:56:08+00:00",
+      "summary": "By Oleksii Tkachuk, Rajiv Shringi, Chris Lohfink, Abe Ratnofsky, Kartik SathyanarayananIntroductionIn an earlier post, we introduced the TimeSeries Abstraction, our high-throughput, low-latency platform designed to store and query temporal event data at scale. It has since become the operational backbone for Netflix’s largest datasets, which now span multiple petabytes.However, managing such large datasets in hot storage, tuned for low-millisecond latency access, is not cheap. At Netflix, cost-e"
+    },
+    {
+      "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:51:35+00:00",
+      "summary": "By Yogesh NagarurIntroductionIn Part 1 of this series, we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract. The result was Ads Event Publisher, the system that collects ad telemetry from client devices, enriches it with the context of the ad that was actually served, and publishes a single, unified stream of ad events to every downstream consumer: fr"
+    },
+    {
+      "title": "Netflix Conductor: The Next Chapter",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:50:17+00:00",
+      "summary": "Netflix Conductor : The Next Chapterby Aravindan Ramkumar on behalf of the Conductor teamConductor is the workflow orchestration engine Netflix uses to stitch micro-services into reliable, observable business processes.If you’ve followed Conductor from the outside, the last thing you heard was probably the note on its GitHub repository: Netflix discontinued maintenance of Conductor OSS to refocus its resources on the internal fork.That announcement marked the end of the open-source chapter, and"
+    },
+    {
+      "title": "Running Apache Spark experiments in my sleep (and on a plane)",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:49:11+00:00",
+      "summary": "By Prashanth Gedde NarayanaswamyAs one of Netflix’s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual viewing sessions per profile.A quick two-week tuning effort spiraled into two months when standard approaches hit a wall. Because the failures only happened at full production scale, each test took hours, limiting me to just three or four attempts daily. The tur"
+    },
+    {
+      "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:48:49+00:00",
+      "summary": "By Emma Yanyang Kong, JJ Tan, Ishan Gupta, Lars Olds, Claire Campbell, David Fagnan, Ratna Kavuri, Rohan Gosain, Veli Balin, Minsu Jang, Louis GarciaIntroductionAny team generating text with an LLM at scale hits the same problem. You cannot evaluate everything manually. You don't know which outputs are great, which are mediocre, and which are harmful, because you simply cannot read them all. The standard solution is LLM-as-a-Judge, a second model that scores the first model’s output as a proxy f"
+    },
+    {
+      "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:48:20+00:00",
+      "summary": "By Violetta Pidvolotska and Naveen MareddyStratum is Netflix’s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads — including encoding, packaging, inspection, and quality scoring — behind playback, advertising, studio workflows, AI embeddings, and more.Engineers develop Stratum functions by packaging application code and OS dependencies into OCI images. Stratum then schedules t"
+    },
+    {
+      "title": "Reliable GPU compute for large training & inference jobs",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+      "published": "2026-10-14T19:47:42+00:00",
+      "summary": "Authors: Nick Rutigliano, Argha C, Samartha ChandrashekarHow we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss.Open Netflix, and the home screen is assembled for you: which rows appear, the order they appear in, the titles within them, and the artwork for each title are chosen by machine learning models trained on how hundreds of millions of members watch. Personalization is one of the most widely used things we build, an"
+    },
+    {
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "published": "2026-10-14T17:10:15+00:00",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years."
+    },
+    {
+      "title": "Uber’s AI infra, from the inside",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "published": "2026-10-14T17:06:56+00:00",
+      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity."
+    },
+    {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "published": "2026-10-14T16:41:49+00:00",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges."
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "published": "2026-10-14T16:26:53+00:00",
+      "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary.\nIndie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly).\nI like how this piece captures both the positives and the negatives of this new development:\n\nMost people already realized the scary part by now. If AI"
+    },
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "source": "Hugging Face - Blog",
@@ -19,6 +131,22 @@
       "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "published": "2026-10-14T12:55:06+00:00",
       "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/sentinelone",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
     },
     {
       "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
