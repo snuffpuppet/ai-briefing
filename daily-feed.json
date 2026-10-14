@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-14T05:47:28.242177+00:00",
+  "generated_at": "2026-10-14T11:09:49.524194+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 30,
   "items": [
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "published": "2026-10-14T11:00:30+00:00",
+      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
+    },
     {
       "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
       "source": "Latent.Space",
@@ -21,12 +29,28 @@
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
     },
     {
+      "title": "The EU’s next chapter in AI is agentic",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published": "2026-10-14T00:00:00+00:00",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+    },
+    {
       "title": "The real AI project at your airport isn't an AI project",
       "source": "Thoughtworks Insights",
       "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
       "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-real-ai-project-at-your-airport-isnt-an-ai-project",
       "published": "2026-10-14T00:00:00+00:00",
       "summary": "The real AI project at your airport isn't an AI project"
+    },
+    {
+      "title": "AI Agent Harness",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-agent-harness",
+      "published": "2026-10-14T00:00:00+00:00",
+      "summary": "AI Agent Harness"
     },
     {
       "title": "Redesigning source control at Anthropic",
@@ -219,62 +243,6 @@
       "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
       "published": "2026-10-12T23:58:46+00:00",
       "summary": "Release: llm-meta-ai 0.2\n        Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol.\nI updated my llm-meta-ai plugin for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal, low, medium, high, xhigh, max. This is the max one:\n\nFor comparison, here are pelicans for Muse 1.3 (released September 2"
-    },
-    {
-      "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
-      "published": "2026-10-12T21:19:18+00:00",
-      "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including:  Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs connect to the network MetaRoCE, our open-source AI transport protocol. Launching [...]\nRead More...\nThe post OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scal"
-    },
-    {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "published": "2026-10-12T20:59:50+00:00",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter."
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "published": "2026-10-12T18:21:36+00:00",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police."
-    },
-    {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
-      "published": "2026-10-12T18:18:17+00:00",
-      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers."
-    },
-    {
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "published": "2026-10-12T18:15:38+00:00",
-      "summary": "Python 3.15 is here! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11.\nFirst, some highlights from Python 3.15.\nExplicit lazy imports\nI'm most excited about Explicit lazy imports from PEP 810. These let you import modules like so:\nlazy import json\nlazy f"
-    },
-    {
-      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "published": "2026-10-12T18:00:02+00:00",
-      "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs.Gurmeet SaranEmployer Anthropic in"
-    },
-    {
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "published": "2026-10-12T17:52:36+00:00",
-      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable."
     }
   ]
 }
