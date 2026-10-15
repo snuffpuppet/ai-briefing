@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-15T18:00:23.594838+00:00",
+  "generated_at": "2026-10-15T21:55:11.349971+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 41,
+  "item_count": 43,
   "items": [
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published": "2026-10-15T20:34:01+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Chirp Pong",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "published": "2026-10-15T19:47:52+00:00",
+      "summary": "Tool: Chirp Pong\n        Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!\n\nBuild a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and in"
+    },
+    {
+      "title": "How Meta Built Forum With AI-Native Engineering",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "published": "2026-10-15T19:00:03+00:00",
+      "summary": "Meta&#8217;s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We&#8217;re sharing insights into what it took to build Forum with agentic AI: how we [...]\nRead More...\nThe post How Meta Built Forum With AI-Native Engineering appeared first on Engineering at Meta."
+    },
+    {
+      "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+      "published": "2026-10-15T18:30:29+00:00",
+      "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of everything we’ve built — but none are bigger than the quadrennial [...]\nRead More...\nThe post 2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale appeared first on Engineering at Meta."
+    },
     {
       "title": "The Pulse: OpenAI software engineer accused of spying",
       "source": "The Pragmatic Engineer",
@@ -315,22 +347,6 @@
       "url": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
       "published": "2026-10-14T10:20:00-04:00",
       "summary": "Building a slide template starts with three foundational choices &#x2014;\n      colours, fonts and layouts. Sumeet Gayathri Moghe covers\n      the basics of color theory and how to build a reusable palette, the\n      essentials of typography, including serif, sans-serif, handwritten and\n      monospace fonts, plus the finer points of kerning and leading, and why a\n      near-blank layout might serve you better than the prescribed layouts that\n      ship with your slideware.\n\nmore…"
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/third-moment-research",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     }
   ]
 }
