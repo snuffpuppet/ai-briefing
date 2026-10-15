@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T03:10:16.569455+00:00",
+  "generated_at": "2026-10-15T08:49:58.620492+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 44,
+  "item_count": 34,
   "items": [
     {
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
@@ -18,7 +18,7 @@
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
       "published": "2026-10-14T21:23:01+00:00",
-      "summary": "Tool: Tree Appreciator\n        Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with:\n\nBuild a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful.\n\nSomewhat embarrassingly given my recent talk, I've found that telling O"
+      "summary": "Tool: Tree Appreciator\n        Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:\n\nBuild a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful.\n\nSomewhat embarrassingly given my recent talk, I've found that telling"
     },
     {
       "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
@@ -114,7 +114,7 @@
       "feed_url": "https://netflixtechblog.com/feed",
       "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
       "published": "2026-10-14T19:47:42+00:00",
-      "summary": "Authors: Nick Rutigliano, Argha C, Samartha ChandrashekarHow we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss.Open Netflix, and the home screen is assembled for you: which rows appear, the order they appear in, the titles within them, and the artwork for each title are chosen by machine learning models trained on how hundreds of millions of members watch. Personalization is one of the most widely used things we build, an"
+      "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss.Authors: Nick Rutigliano, Argha C, Samartha ChandrashekarOpen Netflix, and the home screen is assembled for you: which rows appear, the order they appear in, the titles within them, and the artwork for each title are chosen by machine learning models trained on how hundreds of millions of members watch. Personalization is one of the most widely used things we build, an"
     },
     {
       "title": "Researchers use AI to design proteins that cut up other proteins",
@@ -275,86 +275,6 @@
       "url": "https://www.latent.space/p/dyna",
       "published": "2026-10-13T22:25:55+00:00",
       "summary": "Our first robotics pod with Dyna&#8217;s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "published": "2026-10-13T19:43:07+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "published": "2026-10-13T18:23:33+00:00",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
-    },
-    {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published": "2026-10-13T17:05:48+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "published": "2026-10-13T17:00:39+00:00",
-      "summary": "Google plans to help turn those personal AI-generated apps into wide releases."
-    },
-    {
-      "title": "Building resilient AI-powered software, and planning for when things go wrong",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
-      "published": "2026-10-13T16:03:33+00:00",
-      "summary": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "published": "2026-10-13T16:01:58+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "published": "2026-10-13T16:01:52+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
-      "published": "2026-10-13T16:01:00+00:00",
-      "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta&#8217;s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, our next goal is to further scale both compute and intelligence transfer with next-generation hardware, and expand this capability across Meta’s entire ads ecosystem. This [...]\nRead More...\nThe post Meta’s Generative Ads Model (GEM): Scaling the Central"
-    },
-    {
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "published": "2026-10-13T16:00:02+00:00",
-      "summary": "Developers will get 50 percent discounted API rates through November."
-    },
-    {
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "published": "2026-10-13T15:17:59+00:00",
-      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over."
     }
   ]
 }
