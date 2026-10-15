@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T23:39:59.592228+00:00",
+  "generated_at": "2026-10-15T03:10:16.569455+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 48,
+  "item_count": 44,
   "items": [
     {
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
@@ -11,6 +11,14 @@
       "url": "https://www.latent.space/p/crossing-the-threshold",
       "published": "2026-10-14T21:40:52+00:00",
       "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control."
+    },
+    {
+      "title": "Tree Appreciator",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "published": "2026-10-14T21:23:01+00:00",
+      "summary": "Tool: Tree Appreciator\n        Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with:\n\nBuild a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful.\n\nSomewhat embarrassingly given my recent talk, I've found that telling O"
     },
     {
       "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
@@ -347,46 +355,6 @@
       "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
       "published": "2026-10-13T15:17:59+00:00",
       "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over."
-    },
-    {
-      "title": "Quoting Geoffrey Huntley",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "published": "2026-10-13T13:32:00+00:00",
-      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten.\n&mdash; Geoffrey Huntley, nobody should type code by hand anymore. here's what's left.\n\n    Tags: codin"
-    },
-    {
-      "title": "Google DeepMind’s New Resident Philosopher Tackles AI Ethics",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
-      "published": "2026-10-13T13:00:03+00:00",
-      "summary": "How should humans relate to generative AI? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could someday have moral rights? These are among the cognitive and ethical questions that occupied philosopher Henry Shevlin at Cambridge University’s Leverhulme Centre for the Future of Intelligence. But last May, Shevlin became part of the growing cohort of philosophers who work insid"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published": "2026-10-13T12:00:00+00:00",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
-      "title": "The Craft of Practitioner Voice",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
-      "published": "2026-10-13T10:06:00-04:00",
-      "summary": "A couple of months ago Jim Highsmith explained how\n      practitioners writing for each other forms a distinct style of writing. He\n      now adds a section to the article with more detail on the craft of how we\n      write in this style. How the writer shows up in the prose, its four\n      principles, the role of story, how to sensibly use AI, three levels of\n      editing, and clarity of the audience.\n\nmore…"
-    },
-    {
-      "title": "Are Harnesses Worth the Cost?",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
-      "published": "2026-10-13T09:35:00-04:00",
-      "summary": "Naresh Jain compares coding agents building the same\n      API service with and without a behavioral harness. A frontier model, GPT-6\n      Sol, passed every external evaluation either way. But a cost-optimized\n      model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10\n      with the harness. While adding the harness increased token usage and\n      runtime for Luna, the harnessed Luna runs achieved the same 10-for-10\n      reliability as GPT-6 Sol while costing 33% less per"
     }
   ]
 }
