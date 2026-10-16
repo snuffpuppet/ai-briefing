@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-16T15:11:01.359287+00:00",
+  "generated_at": "2026-10-16T19:17:16.601899+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 22,
   "items": [
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;"
+    },
+    {
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+      "published": "2026-10-16T16:01:02+00:00",
+      "summary": "Prasanna Vijayanathan, Renzo Sanchez-SilvaWhen Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure takes in more than 2 billion requests and handles upwards of 38 million real-time logging events every second. At that scale, the whole picture doesn’t fit into a single engineering team’s head or onto a single dashboard. With more Live content, Podcasts and real-time streams, our nee"
+    },
+    {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "published": "2026-10-16T15:41:00+00:00",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab."
+    },
     {
       "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
       "source": "AI - Ars Technica",
