@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T21:55:11.349971+00:00",
+  "generated_at": "2026-10-16T00:04:26.416752+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 43,
+  "item_count": 40,
   "items": [
     {
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
@@ -27,6 +27,14 @@
       "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
       "published": "2026-10-15T19:00:03+00:00",
       "summary": "Meta&#8217;s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We&#8217;re sharing insights into what it took to build Forum with agentic AI: how we [...]\nRead More...\nThe post How Meta Built Forum With AI-Native Engineering appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
       "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
@@ -107,14 +115,6 @@
       "url": "https://martinfowler.com/articles/software-meets-hardware.html",
       "published": "2026-10-15T09:25:00-04:00",
       "summary": "When software meets hardware, engineering principles remain largely the\n    same, but the sensible defaults often change. Kuldeep Singh\n    describes our experience modernizing a large IoT fleet of battery-powered\n    sensors. Our familiar principles remained important; what changed was how we\n    applied them. These practices emerged through experiments, failures, and\n    operational experience&#x2014;each challenge helping us replace a reasonable\n    assumption with a more sensible default."
-    },
-    {
-      "title": "Apertus 1.5 Release Notes",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "published": "2026-10-15T09:08:45+00:00",
-      "summary": ""
     },
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -315,30 +315,6 @@
       "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "published": "2026-10-14T12:55:06+00:00",
       "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/sentinelone",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-    },
-    {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "published": "2026-10-14T11:00:30+00:00",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
     },
     {
       "title": "Build your slide template",
