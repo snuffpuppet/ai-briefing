@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-16T19:17:16.601899+00:00",
+  "generated_at": "2026-10-16T22:30:05.271170+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 26,
   "items": [
+    {
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "published": "2026-10-16T22:06:37+00:00",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"\nAsking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague.\nNow, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This c"
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "published": "2026-10-16T20:59:01+00:00",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+    },
+    {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "published": "2026-10-16T20:20:07+00:00",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
+    },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -11,6 +35,14 @@
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "published": "2026-10-16T18:00:00+00:00",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;"
+    },
+    {
+      "title": "Simulation App Speeds Up Electric Truck Battery Design",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+      "published": "2026-10-16T16:49:18+00:00",
+      "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, companies are investing in electric trucks for their delivery fleets. While turning to electric trucks is a"
     },
     {
       "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
@@ -51,6 +83,14 @@
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "published": "2026-10-16T01:44:47+00:00",
       "summary": ""
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -163,14 +203,6 @@
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "published": "2026-10-15T13:00:00+00:00",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-    },
-    {
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "published": "2026-10-15T10:08:08+00:00",
-      "summary": "Sandboxes are all you need."
     },
     {
       "title": "When Software Meets Hardware",
