@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T01:02:12.183850+00:00",
+  "generated_at": "2026-10-17T06:32:47.840422+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 19,
   "items": [
     {
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -101,6 +101,14 @@
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
+    {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
@@ -147,70 +155,6 @@
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "published": "2026-10-15T19:00:00+00:00",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
-      "published": "2026-10-15T18:30:29+00:00",
-      "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of everything we’ve built — but none are bigger than the quadrennial [...]\nRead More...\nThe post 2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale appeared first on Engineering at Meta."
-    },
-    {
-      "title": "The Pulse: OpenAI software engineer accused of spying",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-      "published": "2026-10-15T16:55:18+00:00",
-      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more"
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "published": "2026-10-15T16:08:03+00:00",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-    },
-    {
-      "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
-      "published": "2026-10-15T16:00:59+00:00",
-      "summary": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, “Sapienz: multi-objective automated testing for Android applications.” The recognition celebrates a decade of impact from work that began at University College London and went [...]\nRead More...\nThe post Sapienz Receives ISSTA 2026 Impact Paper Award appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "published": "2026-10-15T15:43:24+00:00",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports."
-    },
-    {
-      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-      "published": "2026-10-15T15:12:58+00:00",
-      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon."
-    },
-    {
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "published": "2026-10-15T13:04:03+00:00",
-      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO\nThe phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"people with knowledge of the matter\".\nKey things I learned from the article:\n\nQ1 revenue (Jan/Feb/Mar) was \"about $4.8bn\"\nQ2 (Apr/May/Jun) was $11.5bn\nQ3 (Jul/Aug/Sep) was $16.8bn\nIn Q3: $1.70 in revenue for every $1 spent on \"computing power\"\nAdjusted"
-    },
-    {
-      "title": "When Software Meets Hardware",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/software-meets-hardware.html",
-      "published": "2026-10-15T09:25:00-04:00",
-      "summary": "When software meets hardware, engineering principles remain largely the\n    same, but the sensible defaults often change. Kuldeep Singh\n    describes our experience modernizing a large IoT fleet of battery-powered\n    sensors. Our familiar principles remained important; what changed was how we\n    applied them. These practices emerged through experiments, failures, and\n    operational experience&#x2014;each challenge helping us replace a reasonable\n    assumption with a more sensible default."
     }
   ]
 }
