@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-17T11:21:16.626675+00:00",
+  "generated_at": "2026-10-17T14:56:49.839138+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Meta shakes up the frontiers, open and closed",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "published": "2026-10-17T14:06:54+00:00",
+      "summary": "US open weights are back!"
+    },
     {
       "title": "[AINews] High Taste Testers Ep. 1",
       "source": "Latent.Space",
@@ -91,46 +99,6 @@
       "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
       "published": "2026-10-16T04:16:45+00:00",
       "summary": "Nick Cammarata out of nowhere with some major claims!"
-    },
-    {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "published": "2026-10-16T01:44:47+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-    },
-    {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Why executive judgment decides who wins with AI",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/why-executive-judgment-decides-who-wins-with-ai",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Why executive judgment decides who wins with AI"
     }
   ]
 }
