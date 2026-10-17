@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:30:05.271170+00:00",
+  "generated_at": "2026-10-17T01:02:12.183850+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 26,
@@ -27,6 +27,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
       "published": "2026-10-16T20:20:07+00:00",
       "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -195,14 +203,6 @@
       "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
       "published": "2026-10-15T13:04:03+00:00",
       "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO\nThe phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"people with knowledge of the matter\".\nKey things I learned from the article:\n\nQ1 revenue (Jan/Feb/Mar) was \"about $4.8bn\"\nQ2 (Apr/May/Jun) was $11.5bn\nQ3 (Jul/Aug/Sep) was $16.8bn\nIn Q3: $1.70 in revenue for every $1 spent on \"computing power\"\nAdjusted"
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published": "2026-10-15T13:00:00+00:00",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
     },
     {
       "title": "When Software Meets Hardware",
