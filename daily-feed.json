@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-18T00:37:51.837942+00:00",
+  "generated_at": "2026-10-18T05:24:34.023566+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 9,
   "items": [
+    {
+      "title": "Inline rendering with document​.currentScript",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "published": "2026-10-17T21:11:12+00:00",
+      "summary": "Inline rendering with document​.currentScript\nLean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads:\nThe year is &lt;script&gt;\ndocument.currentScript.replaceWith(\n  new Date().getFullYear())&lt;/script&gt;\n\nIf you define a shortcut function like this:\n$=(...n)=&gt;document.currentScript.replaceWith(...n)\n\nYou get a tiny template language:\nThe year is"
+    },
     {
       "title": "Meta shakes up the frontiers, open and closed",
       "source": "Interconnects AI",
@@ -11,6 +19,14 @@
       "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
       "published": "2026-10-17T14:06:54+00:00",
       "summary": "US open weights are back!"
+    },
+    {
+      "title": "web-edit 0.1a2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "published": "2026-10-17T13:16:49+00:00",
+      "summary": "Release: web-edit 0.1a2\n        web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.\nI added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017) and I wanted an easy way to copy the resulting logs into a Gist.\n    \n    \n        Tags: projects, pelican-riding-a-bicycle, deepsee"
     },
     {
       "title": "[AINews] High Taste Testers Ep. 1",
@@ -59,38 +75,6 @@
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "published": "2026-10-16T18:00:00+00:00",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;"
-    },
-    {
-      "title": "Simulation App Speeds Up Electric Truck Battery Design",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "published": "2026-10-16T16:49:18+00:00",
-      "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, companies are investing in electric trucks for their delivery fleets. While turning to electric trucks is a"
-    },
-    {
-      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
-      "published": "2026-10-16T16:01:02+00:00",
-      "summary": "Prasanna Vijayanathan, Renzo Sanchez-SilvaWhen Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure takes in more than 2 billion requests and handles upwards of 38 million real-time logging events every second. At that scale, the whole picture doesn’t fit into a single engineering team’s head or onto a single dashboard. With more Live content, Podcasts and real-time streams, our nee"
-    },
-    {
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "published": "2026-10-16T15:41:00+00:00",
-      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab."
-    },
-    {
-      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-      "published": "2026-10-16T14:00:59+00:00",
-      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer."
     }
   ]
 }
