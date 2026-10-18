@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-18T14:17:07.949127+00:00",
+  "generated_at": "2026-10-18T17:48:26.574596+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "published": "2026-10-18T16:25:19+00:00",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval."
+    },
     {
       "title": "Inline rendering with document​.currentScript",
       "source": "Simon Willison's Weblog",
