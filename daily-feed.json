@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T17:48:26.574596+00:00",
+  "generated_at": "2026-10-18T20:05:00.402219+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 4,
   "items": [
     {
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -35,14 +35,6 @@
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
       "published": "2026-10-17T13:16:49+00:00",
       "summary": "Release: web-edit 0.1a2\n        web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.\nI added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017) and I wanted an easy way to copy the resulting logs into a Gist.\n    \n    \n        Tags: projects, pelican-riding-a-bicycle, deepsee"
-    },
-    {
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "published": "2026-10-17T07:47:38+00:00",
-      "summary": "a quiet day lets us pilot a new show"
     }
   ]
 }
