@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T05:24:34.023566+00:00",
+  "generated_at": "2026-10-18T10:22:38.007272+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 4,
   "items": [
     {
       "title": "Inline rendering with document​.currentScript",
@@ -35,46 +35,6 @@
       "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
       "published": "2026-10-17T07:47:38+00:00",
       "summary": "a quiet day lets us pilot a new show"
-    },
-    {
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
-      "published": "2026-10-16T22:06:37+00:00",
-      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"\nAsking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague.\nNow, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This c"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "published": "2026-10-16T20:59:01+00:00",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
-    },
-    {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "published": "2026-10-16T20:20:07+00:00",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "published": "2026-10-16T18:00:00+00:00",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;"
     }
   ]
 }
