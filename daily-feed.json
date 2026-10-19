@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-19T18:59:26.396118+00:00",
+  "generated_at": "2026-10-19T22:51:43.777726+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "published": "2026-10-19T20:21:53+00:00",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."
+    },
     {
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -69,6 +77,14 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at the IMF meeting in Bangkok. This speech is inspired by the megatrend readers have [&#8230;]"
     },
     {
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published": "2026-10-19T12:00:00+00:00",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+    },
+    {
       "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
@@ -83,6 +99,14 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "published": "2026-10-19T09:08:05+00:00",
       "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;"
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-19T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Cheaper code won't kill software development, but it’s already reshaping it",
