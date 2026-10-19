@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-19T05:42:30.892391+00:00",
+  "generated_at": "2026-10-19T12:06:02.277369+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
+      "published": "2026-10-19T10:00:04+00:00",
+      "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.What you will learn about: How the shift from smart cities to cognitive cities depends on infrastructure that reasons and acts, rather than infrastructure that only monitors.Why edge AI supports low-latency decisions, keeps sensitive data within city boun"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "published": "2026-10-19T09:08:05+00:00",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;"
+    },
     {
       "title": "llm-tools-datasette 0.1.1",
       "source": "Simon Willison's Weblog",
@@ -27,14 +43,6 @@
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
       "published": "2026-10-18T16:25:19+00:00",
       "summary": "The outside watchdog can publish its findings without Anthropic's approval."
-    },
-    {
-      "title": "Inline rendering with document​.currentScript",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "published": "2026-10-17T21:11:12+00:00",
-      "summary": "Inline rendering with document​.currentScript\nLean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads:\nThe year is &lt;script&gt;\ndocument.currentScript.replaceWith(\n  new Date().getFullYear())&lt;/script&gt;\n\nIf you define a shortcut function like this:\n$=(...n)=&gt;document.currentScript.replaceWith(...n)\n\nYou get a tiny template language:\nThe year is"
     }
   ]
 }
