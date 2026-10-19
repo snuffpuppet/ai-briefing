@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T00:47:42.891134+00:00",
+  "generated_at": "2026-10-19T05:42:30.892391+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 4,
   "items": [
     {
       "title": "llm-tools-datasette 0.1.1",
@@ -35,22 +35,6 @@
       "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
       "published": "2026-10-17T21:11:12+00:00",
       "summary": "Inline rendering with document​.currentScript\nLean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads:\nThe year is &lt;script&gt;\ndocument.currentScript.replaceWith(\n  new Date().getFullYear())&lt;/script&gt;\n\nIf you define a shortcut function like this:\n$=(...n)=&gt;document.currentScript.replaceWith(...n)\n\nYou get a tiny template language:\nThe year is"
-    },
-    {
-      "title": "Meta shakes up the frontiers, open and closed",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "published": "2026-10-17T14:06:54+00:00",
-      "summary": "US open weights are back!"
-    },
-    {
-      "title": "web-edit 0.1a2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "published": "2026-10-17T13:16:49+00:00",
-      "summary": "Release: web-edit 0.1a2\n        web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.\nI added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017) and I wanted an easy way to copy the resulting logs into a Gist.\n    \n    \n        Tags: projects, pelican-riding-a-bicycle, deepsee"
     }
   ]
 }
