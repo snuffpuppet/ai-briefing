@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-20T01:34:02.819271+00:00",
+  "generated_at": "2026-10-20T07:08:49.587807+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 19,
   "items": [
+    {
+      "title": "How To Use Decision Models for Evals",
+      "source": "Hamel's Blog",
+      "feed_url": "https://hamel.dev/index.xml",
+      "url": "https://hamel.dev/blog/posts/decision-model-evals/",
+      "published": "2026-10-20T07:00:00+00:00",
+      "summary": "Decision models have exploded onto the scene recently, starting with TypeSafe’s Jev, followed by Perplexity’s Decider, Liquid’s d1, Cloudflare’s Clef, and OpenAI’s Decisions API1. These models promise fast, inexpensive classification.\nDecision models are an appealing low-cost alternative to LLM judges2 for automated evals. But whether they’re the right choice depends on the cost, performance, and latency requirements of your use case.\nWe’ve also noticed people using the default decis"
+    },
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "published": "2026-10-20T05:21:52+00:00",
+      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet."
+    },
     {
       "title": "My obituary for programming",
       "source": "Simon Willison's Weblog",
@@ -139,14 +155,6 @@
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
       "published": "2026-10-18T23:16:16+00:00",
       "summary": "Release: llm-echo 0.5\n        I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account.\nExample usage:\nuvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage\n\nOutputs:\nFirst I consider"
-    },
-    {
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "published": "2026-10-18T16:25:19+00:00",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval."
     }
   ]
 }
