@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-20T07:08:49.587807+00:00",
+  "generated_at": "2026-10-20T13:19:25.166173+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "published": "2026-10-20T12:33:13+00:00",
+      "summary": "A single query is all that's required to find thousands of conversations listed by title."
+    },
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "published": "2026-10-20T12:00:00+00:00",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;"
+    },
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "published": "2026-10-20T09:00:00+00:00",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;"
+    },
     {
       "title": "How To Use Decision Models for Evals",
       "source": "Hamel's Blog",
@@ -19,6 +43,22 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
       "published": "2026-10-20T05:21:52+00:00",
       "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet."
+    },
+    {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "My obituary for programming",
@@ -123,38 +163,6 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "published": "2026-10-19T09:08:05+00:00",
       "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;"
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "published": "2026-10-19T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Cheaper code won't kill software development, but it’s already reshaping it",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/cheaper-code-wont-kill-software-development",
-      "published": "2026-10-19T00:00:00+00:00",
-      "summary": "Cheaper code won't kill software development, but it’s already reshaping it"
-    },
-    {
-      "title": "llm-tools-datasette 0.1.1",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "published": "2026-10-18T23:43:09+00:00",
-      "summary": "Release: llm-tools-datasette 0.1.1\n        When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.\n    \n    \n        Tags: datasette, llm"
-    },
-    {
-      "title": "llm-echo 0.5",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "published": "2026-10-18T23:16:16+00:00",
-      "summary": "Release: llm-echo 0.5\n        I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account.\nExample usage:\nuvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage\n\nOutputs:\nFirst I consider"
     }
   ]
 }
