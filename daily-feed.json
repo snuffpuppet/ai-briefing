@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-10-21T18:21:44.568056+00:00",
+  "generated_at": "2026-10-21T22:04:45.076171+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 37,
+  "item_count": 39,
   "items": [
     {
-      "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+      "title": "Broad access through consistent standards",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published": "2026-10-21T21:00:00+00:00",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "published": "2026-10-21T19:44:40+00:00",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps."
+    },
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "published": "2026-10-21T18:51:42+00:00",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "published": "2026-10-21T18:41:53+00:00",
+      "summary": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security\nIf you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process.\nThis post from the PHP Foundation explain what went so wrong:\n\nOn Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online f"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
-      "published": "2026-10-21T17:58:42+00:00",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21T18:26:30+00:00",
       "summary": ""
+    },
+    {
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "published": "2026-10-21T18:20:40+00:00",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules."
     },
     {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -157,6 +197,14 @@
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
     },
     {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "published": "2026-10-21T00:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
+    },
+    {
       "title": "eMudhra Intermediate CA Compromise",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -267,38 +315,6 @@
       "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
       "published": "2026-10-20T12:00:00+00:00",
       "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "published": "2026-10-20T10:00:00+00:00",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
-    },
-    {
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "published": "2026-10-20T09:00:00+00:00",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;"
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/terminal-x",
-      "published": "2026-10-20T07:00:00+00:00",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
-    },
-    {
-      "title": "How To Use Decision Models for Evals",
-      "source": "Hamel's Blog",
-      "feed_url": "https://hamel.dev/index.xml",
-      "url": "https://hamel.dev/blog/posts/decision-model-evals/",
-      "published": "2026-10-20T07:00:00+00:00",
-      "summary": "Decision models have exploded onto the scene recently, starting with TypeSafe’s Jev, followed by Perplexity’s Decider, Liquid’s d1, Cloudflare’s Clef, and OpenAI’s Decisions API1. These models promise fast, inexpensive classification.\nDecision models are an appealing low-cost alternative to LLM judges2 for automated evals. But whether they’re the right choice depends on the cost, performance, and latency requirements of your use case.\nWe’ve also noticed people using the default decis"
     }
   ]
 }
