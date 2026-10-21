@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-21T07:02:00.231779+00:00",
+  "generated_at": "2026-10-21T13:24:47.697477+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 28,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "source": "Latent.Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://www.latent.space/p/claude-mods",
+      "published": "2026-10-21T13:04:19+00:00",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human."
+    },
+    {
+      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "published": "2026-10-21T13:00:02+00:00",
+      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI’s role in the world’s most widely used encyclopedia. When did you realize Wikipedia had a problem with AI"
+    },
+    {
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "published": "2026-10-21T12:51:24+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Fragments: October 21",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-10-21.html",
+      "published": "2026-10-21T12:51:00+02:00",
+      "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:\n\n\n  When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?\n\n  I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you"
+    },
+    {
+      "title": "Could Treating AI as Conscious Make It More Dangerous?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-model-welfare",
+      "published": "2026-10-21T12:00:02+00:00",
+      "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “retirement interview” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave it a blog. Claude’s Corner featured essays on fraught topics such as machine consciousness, along with exchanges between the model and human commenters that seemed both earnest and emotional.The blog experiment was part o"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published": "2026-10-21T12:00:00+00:00",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
     {
       "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
       "source": "Latent.Space",
@@ -67,14 +115,6 @@
       "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
       "published": "2026-10-20T18:22:54+00:00",
       "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties."
-    },
-    {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "published": "2026-10-20T18:17:47+00:00",
-      "summary": ""
     },
     {
       "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
@@ -179,54 +219,6 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
       "published": "2026-10-20T05:21:52+00:00",
       "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet."
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments."
-    },
-    {
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "MPS in PyTorch 2.15",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "My obituary for programming",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "published": "2026-10-19T23:58:25+00:00",
-      "summary": "My obituary for programming\nJeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code:\n\nProgramming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would so"
-    },
-    {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "published": "2026-10-19T20:21:53+00:00",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."
     }
   ]
 }
