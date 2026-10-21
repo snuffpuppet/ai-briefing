@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-20T22:04:59.577478+00:00",
+  "generated_at": "2026-10-21T01:16:11.715349+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 32,
   "items": [
+    {
+      "title": "eMudhra Intermediate CA Compromise",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "published": "2026-10-20T23:50:25+00:00",
+      "summary": "eMudhra Intermediate CA Compromise\nThis is very, very bad news:\n\nThe private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores.\n\nAny software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages.\nIn Python world uv"
+    },
     {
       "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
       "source": "AI - Ars Technica",
@@ -133,6 +141,14 @@
       "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;"
     },
     {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/terminal-x",
+      "published": "2026-10-20T07:00:00+00:00",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+    },
+    {
       "title": "How To Use Decision Models for Evals",
       "source": "Hamel's Blog",
       "feed_url": "https://hamel.dev/index.xml",
@@ -243,30 +259,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
       "published": "2026-10-19T14:45:43+00:00",
       "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
-    },
-    {
-      "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "published": "2026-10-19T13:00:10+00:00",
-      "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scaling it to comprise  ~1 million GPUs. Prometheus also features technologies like closed-loop liquid cooling [...]\nRead More...\nThe post Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
-      "published": "2026-10-19T12:31:37+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at the IMF meeting in Bangkok. This speech is inspired by the megatrend readers have [&#8230;]"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "published": "2026-10-19T12:00:00+00:00",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
     }
   ]
 }
