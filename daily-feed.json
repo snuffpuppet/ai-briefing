@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T01:11:41.977200+00:00",
+  "generated_at": "2026-10-22T07:04:26.998133+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 38,
+  "item_count": 31,
   "items": [
     {
       "title": "Broad access through consistent standards",
@@ -251,62 +251,6 @@
       "url": "https://www.latent.space/p/sfcompute2",
       "published": "2026-10-20T19:31:57+00:00",
       "summary": "From GPU trading to physical settlement, independent markets, and programmable compute"
-    },
-    {
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "published": "2026-10-20T18:22:54+00:00",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties."
-    },
-    {
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "published": "2026-10-20T17:40:20+00:00",
-      "summary": "Meta argues nobody “decided” to pirate books to train AI."
-    },
-    {
-      "title": "What’s the ROI of software engineers’ spending on AI?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-      "published": "2026-10-20T17:34:18+00:00",
-      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies &#8211; with some interesting findings"
-    },
-    {
-      "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-      "published": "2026-10-20T17:04:21+00:00",
-      "summary": "Western open models strike back"
-    },
-    {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "published": "2026-10-20T16:09:19+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The new economics of enterprise AI",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "published": "2026-10-20T15:20:25+00:00",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;"
-    },
-    {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published": "2026-10-20T15:19:48+00:00",
-      "summary": ""
     }
   ]
 }
