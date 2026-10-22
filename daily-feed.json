@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T22:04:45.076171+00:00",
+  "generated_at": "2026-10-22T01:11:41.977200+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 39,
+  "item_count": 38,
   "items": [
     {
       "title": "Broad access through consistent standards",
@@ -197,6 +197,14 @@
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
     },
     {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "published": "2026-10-21T00:00:00+00:00",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+    },
+    {
       "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -299,22 +307,6 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
       "published": "2026-10-20T15:19:48+00:00",
       "summary": ""
-    },
-    {
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "published": "2026-10-20T12:33:13+00:00",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy."
-    },
-    {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "published": "2026-10-20T12:00:00+00:00",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;"
     }
   ]
 }
