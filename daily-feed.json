@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-23T01:11:16.487462+00:00",
+  "generated_at": "2026-10-23T06:56:14.562428+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 36,
+  "item_count": 26,
   "items": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+    },
     {
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "source": "Hugging Face - Blog",
@@ -203,94 +211,6 @@
       "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
       "published": "2026-10-21T19:44:40+00:00",
       "summary": "Opinion: In a world of AI slop, showing the human hands making things helps."
-    },
-    {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "published": "2026-10-21T18:51:42+00:00",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
-    },
-    {
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "published": "2026-10-21T18:41:53+00:00",
-      "summary": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security\nIf you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process.\nThis post from the PHP Foundation explain what went so wrong:\n\nOn Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online f"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "published": "2026-10-21T18:26:30+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-      "published": "2026-10-21T18:20:40+00:00",
-      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules."
-    },
-    {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "published": "2026-10-21T17:35:36+00:00",
-      "summary": ""
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/att-legal",
-      "published": "2026-10-21T17:00:00+00:00",
-      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-    },
-    {
-      "title": "The revised rules of engineering management with Will Larson",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
-      "published": "2026-10-21T16:58:21+00:00",
-      "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO."
-    },
-    {
-      "title": "Panache — RTS Belle Époque pour mobile",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "published": "2026-10-21T16:25:16+00:00",
-      "summary": "Panache — RTS Belle Époque pour mobile\nWell this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro!\n\nPanache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marchante — et beaucoup"
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "2026-10-21T16:04:43+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "published": "2026-10-21T15:14:07+00:00",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads."
-    },
-    {
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "published": "2026-10-21T14:58:18+00:00",
-      "summary": ""
     }
   ]
 }
