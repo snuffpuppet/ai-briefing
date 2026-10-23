@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-23T12:26:27.438320+00:00",
+  "generated_at": "2026-10-23T17:41:32.702752+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 27,
   "items": [
+    {
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "published": "2026-10-23T17:18:31+00:00",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production."
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "2026-10-23T17:00:00+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "published": "2026-10-23T16:15:50+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "published": "2026-10-23T15:19:48+00:00",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next."
+    },
     {
       "title": "[AINews] Black October",
       "source": "Latent Space",
@@ -19,6 +51,22 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "published": "2026-10-23T00:00:00+00:00",
       "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The agentic control tower: From supply chain visibility to action",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/the-agentic-control-tower-supply-chain",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "The agentic control tower: From supply chain visibility to action"
     },
     {
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -83,14 +131,6 @@
       "url": "https://latent.space/p/modal-d/",
       "published": "2026-10-22T17:40:57+00:00",
       "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud"
-    },
-    {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "published": "2026-10-22T16:11:31+00:00",
-      "summary": ""
     },
     {
       "title": "Quoting Armin Ronacher",
