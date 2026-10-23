@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-22T22:04:20.522889+00:00",
+  "generated_at": "2026-10-23T01:11:16.487462+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 40,
+  "item_count": 36,
   "items": [
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "2026-10-22T22:24:34+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+      "published": "2026-10-22T22:19:12+00:00",
+      "summary": "Samartha Chandrashekar &amp; Nick ParkerYou click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container hosting platform: we keep both the control plane and the data plane (the container hosts that actually run containers) patched and up to date, so application teams get a consistent and reliable container experience. They hand us a container"
+    },
     {
       "title": "Designing an AI serving harness built to last",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -275,54 +291,6 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "published": "2026-10-21T14:58:18+00:00",
       "summary": ""
-    },
-    {
-      "title": "Claude Mods: Flipping the Harness Inside Out",
-      "source": "Latent.Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/claude-mods",
-      "published": "2026-10-21T13:04:19+00:00",
-      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human."
-    },
-    {
-      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "published": "2026-10-21T13:00:02+00:00",
-      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI’s role in the world’s most widely used encyclopedia. When did you realize Wikipedia had a problem with AI"
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "published": "2026-10-21T13:00:00+00:00",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "title": "Fragments: October 21",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-10-21.html",
-      "published": "2026-10-21T12:51:00+02:00",
-      "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:\n\n\n  When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?\n\n  I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you"
-    },
-    {
-      "title": "Could Treating AI as Conscious Make It More Dangerous?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-model-welfare",
-      "published": "2026-10-21T12:00:02+00:00",
-      "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “retirement interview” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave it a blog. Claude’s Corner featured essays on fraught topics such as machine consciousness, along with exchanges between the model and human commenters that seemed both earnest and emotional.The blog experiment was part o"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "published": "2026-10-21T12:00:00+00:00",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
     }
   ]
 }
