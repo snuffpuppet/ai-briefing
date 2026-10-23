@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-23T06:56:14.562428+00:00",
+  "generated_at": "2026-10-23T12:26:27.438320+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 22,
   "items": [
+    {
+      "title": "[AINews] Black October",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-black-october/",
+      "published": "2026-10-23T10:09:29+00:00",
+      "summary": "the Cyber onslaught continues."
+    },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "source": "OpenAI News",
@@ -70,9 +78,9 @@
     },
     {
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "source": "Latent.Space",
+      "source": "Latent Space",
       "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/modal-d",
+      "url": "https://latent.space/p/modal-d/",
       "published": "2026-10-22T17:40:57+00:00",
       "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud"
     },
@@ -118,11 +126,11 @@
     },
     {
       "title": "You are the Team  — Anekha Sokhal, Moshi",
-      "source": "Latent.Space",
+      "source": "Latent Space",
       "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/moshi",
+      "url": "https://latent.space/p/moshi/",
       "published": "2026-10-22T14:03:40+00:00",
-      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader&#8217;s workflow."
+      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow."
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
@@ -158,9 +166,9 @@
     },
     {
       "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "source": "Latent.Space",
+      "source": "Latent Space",
       "feed_url": "https://www.latent.space/feed",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
       "published": "2026-10-22T07:42:44+00:00",
       "summary": "The Big Hardening begins"
     },
@@ -171,46 +179,6 @@
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "published": "2026-10-22T06:00:00+00:00",
       "summary": "What forward deployed engineering means at OpenAI"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "published": "2026-10-22T00:00:00+00:00",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-      "title": "Don’t ask AI to write the user story yet",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/dont-ask-ai-to-write-the-user-story-yet",
-      "published": "2026-10-22T00:00:00+00:00",
-      "summary": "Don’t ask AI to write the user story yet"
-    },
-    {
-      "title": "How Sensible Harness can help teams create an AI-first delivery environment",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/how-sensible-harness-help-teams-create-ai-first-delivery-environment",
-      "published": "2026-10-22T00:00:00+00:00",
-      "summary": "How Sensible Harness can help teams create an AI-first delivery environment"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "published": "2026-10-21T21:00:00+00:00",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-    },
-    {
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "published": "2026-10-21T19:44:40+00:00",
-      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps."
     }
   ]
 }
