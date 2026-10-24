@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T20:11:51.763590+00:00",
+  "generated_at": "2026-10-24T22:52:40.035302+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 10,
   "items": [
     {
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
@@ -83,22 +83,6 @@
       "url": "https://latent.space/p/ai-is-getting-good-at-math/",
       "published": "2026-10-23T15:19:48+00:00",
       "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next."
-    },
-    {
-      "title": "[AINews] Black October",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-black-october/",
-      "published": "2026-10-23T10:09:29+00:00",
-      "summary": "the Cyber onslaught continues."
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published": "2026-10-23T10:00:00+00:00",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
     }
   ]
 }
