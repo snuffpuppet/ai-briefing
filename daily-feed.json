@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T08:37:35.937097+00:00",
+  "generated_at": "2026-10-24T13:05:23.677000+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 11,
   "items": [
     {
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
@@ -91,54 +91,6 @@
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "published": "2026-10-23T10:00:00+00:00",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The agentic control tower: From supply chain visibility to action",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/the-agentic-control-tower-supply-chain",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "The agentic control tower: From supply chain visibility to action"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published": "2026-10-22T22:24:34+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
-      "published": "2026-10-22T22:19:12+00:00",
-      "summary": "Samartha Chandrashekar &amp; Nick ParkerYou click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container hosting platform: we keep both the control plane and the data plane (the container hosts that actually run containers) patched and up to date, so application teams get a consistent and reliable container experience. They hand us a container"
-    },
-    {
-      "title": "Designing an AI serving harness built to last",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "published": "2026-10-22T21:17:29+00:00",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;"
     }
   ]
 }
