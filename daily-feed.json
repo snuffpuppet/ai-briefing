@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:48:29.260197+00:00",
+  "generated_at": "2026-10-25T05:39:46.801297+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 6,
   "items": [
     {
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
@@ -51,38 +51,6 @@
       "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
       "published": "2026-10-23T18:32:51+00:00",
       "summary": "By Roberto Perez Alcolea, Java Platform TeamQuasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decisionAt Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem. A library change begins in one repository, but its impact can reach many others. Producers can see the API diff in front of them. What they often cannot see is who still depends on the symbo"
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "published": "2026-10-23T17:18:31+00:00",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published": "2026-10-23T17:00:00+00:00",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "published": "2026-10-23T16:15:50+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
-      "published": "2026-10-23T15:19:48+00:00",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next."
     }
   ]
 }
