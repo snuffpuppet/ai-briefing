@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T18:06:34.072392+00:00",
+  "generated_at": "2026-10-25T21:24:57.224685+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 1,
   "items": [
     {
       "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
@@ -11,14 +11,6 @@
       "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
       "published": "2026-10-25T11:49:00+00:00",
       "summary": "#20"
-    },
-    {
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-kimi-31/",
-      "published": "2026-10-24T07:18:29+00:00",
-      "summary": "We have Fable at home... or so we are being told by paid shills"
     }
   ]
 }
