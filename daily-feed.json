@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T14:47:35.181118+00:00",
+  "generated_at": "2026-10-25T18:06:34.072392+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
@@ -19,14 +19,6 @@
       "url": "https://latent.space/p/ainews-kimi-31/",
       "published": "2026-10-24T07:18:29+00:00",
       "summary": "We have Fable at home... or so we are being told by paid shills"
-    },
-    {
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "published": "2026-10-24T03:59:57+00:00",
-      "summary": "Release: battledrones v14: Compass Rose, a four player map\n        I added four player online mode to Battledrones - previous maps were limited to two.\nHere's the initial prompt I used: \n\nAdd a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI)\n\nClaude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer net"
     }
   ]
 }
