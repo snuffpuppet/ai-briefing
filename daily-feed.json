@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T05:39:46.801297+00:00",
+  "generated_at": "2026-10-25T10:42:07.898958+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 2,
   "items": [
     {
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
@@ -19,38 +19,6 @@
       "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "published": "2026-10-24T03:59:57+00:00",
       "summary": "Release: battledrones v14: Compass Rose, a four player map\n        I added four player online mode to Battledrones - previous maps were limited to two.\nHere's the initial prompt I used: \n\nAdd a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI)\n\nClaude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer net"
-    },
-    {
-      "title": "Quick Study",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "published": "2026-10-23T21:35:13+00:00",
-      "summary": "Tool: Quick Study\n        Prompt to Claude Opus 5.5 High:\n\nBuild an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush\n\nSee also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js.\n\nQuick Study uses Sobel edge detection, with no external libraries beyond Google Fonts.\n    \n    \n        Tags: tools"
-    },
-    {
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "published": "2026-10-23T20:19:55+00:00",
-      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting."
-    },
-    {
-      "title": "Introducing Kimi K3.1 Pro",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "published": "2026-10-23T19:40:54+00:00",
-      "summary": "Introducing Kimi K3.1 Pro\nKimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot  promise \"Full model weights will be released by Nov 4, 2026\".\nThey're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).\nThe US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5.\nMoonshot's own benchmarks show"
-    },
-    {
-      "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-      "source": "Netflix TechBlog - Medium",
-      "feed_url": "https://netflixtechblog.com/feed",
-      "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
-      "published": "2026-10-23T18:32:51+00:00",
-      "summary": "By Roberto Perez Alcolea, Java Platform TeamQuasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decisionAt Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem. A library change begins in one repository, but its impact can reach many others. Producers can see the API diff in front of them. What they often cannot see is who still depends on the symbo"
     }
   ]
 }
