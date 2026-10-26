@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-26T03:10:58.315801+00:00",
+  "generated_at": "2026-10-26T09:41:04.794590+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Ethical and commercial risk regarding product development, GDR and AI",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/product-innovation/ethical-commercial-risk-regarding-product-development-gdr-ai",
+      "published": "2026-10-26T00:00:00+00:00",
+      "summary": "Ethical and commercial risk regarding product development, GDR and AI"
+    },
+    {
+      "title": "Seam Cutter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "published": "2026-10-25T15:10:19+00:00",
+      "summary": "Tool: Seam Cutter\n        I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.\nI wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript,"
+    },
     {
       "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
       "source": "Interconnects AI",
