@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-26T09:41:04.794590+00:00",
+  "generated_at": "2026-10-26T16:28:18.821980+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 10,
   "items": [
+    {
+      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "published": "2026-10-26T16:01:02+00:00",
+      "summary": "Serdar Cellat, Yuchen Xie, Bernadette Marcu, Blaid Burgess, Cody Jarrett, Carlos Pereira, Qing Shi, Samuel Carvajal, Manuel Pamplona, Dorothy Jung, Feiko Ritsema, Benjamin Klein, Alex Woo, Eugene Lok, Anna Pulido, Rebecka Swe, Sanford HolsappleIntroductionClips in the Netflix mobile app.At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device. Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our social media accounts,"
+    },
+    {
+      "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+      "published": "2026-10-26T16:00:07+00:00",
+      "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster.  Highlights IcePack &#38; IceCube: Meta&#8217;s first liquid-cooled network rack with 102.4T switch blades (128×800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running [...]\nRead More...\nThe post Meta Networking at the 2026 OCP Global Summit: Open Innovation for"
+    },
+    {
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+      "published": "2026-10-26T14:30:27+00:00",
+      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot."
+    },
+    {
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "published": "2026-10-26T12:31:52+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resolution (formerly known as Sequent, Import AI 461) has published work on [&#8230;]"
+    },
+    {
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "published": "2026-10-26T09:01:00+00:00",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published": "2026-10-26T07:00:00+00:00",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+    },
     {
       "title": "Ethical and commercial risk regarding product development, GDR and AI",
       "source": "Thoughtworks Insights",
@@ -19,6 +67,14 @@
       "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "published": "2026-10-25T15:10:19+00:00",
       "summary": "Tool: Seam Cutter\n        I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.\nI wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript,"
+    },
+    {
+      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "published": "2026-10-25T12:00:02+00:00",
+      "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be present,mine to develop apps. Our tasksverge toward a common logic:living filaments of root, of interface."
     },
     {
       "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
