@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-27T07:16:36.178119+00:00",
+  "generated_at": "2026-10-27T13:56:29.614800+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 23,
   "items": [
+    {
+      "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "published": "2026-10-27T13:00:03+00:00",
+      "summary": "Science has a spam problem. And the spam filter is getting clogged up.According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-genera"
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "published": "2026-10-27T11:19:18+00:00",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;"
+    },
+    {
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "published": "2026-10-27T07:24:59+00:00",
+      "summary": "The S-1, the numbers, and the reactions."
+    },
     {
       "title": "GPT-6.1 Terra",
       "source": "Simon Willison's Weblog",
@@ -58,7 +82,7 @@
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "published": "2026-10-26T17:45:43+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;"
     },
     {
       "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
@@ -163,22 +187,6 @@
       "url": "https://openai.com/index/openai-cut-incident-investigation",
       "published": "2026-10-26T07:00:00+00:00",
       "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-    },
-    {
-      "title": "Introducing GPT-6.1 Terra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "Bringing fast and capable computer use to everyone"
-    },
-    {
-      "title": "Ethical and commercial risk regarding product development, GDR and AI",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/product-innovation/ethical-commercial-risk-regarding-product-development-gdr-ai",
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "Ethical and commercial risk regarding product development, GDR and AI"
     }
   ]
 }
