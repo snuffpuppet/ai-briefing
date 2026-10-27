@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-27T19:14:50.985478+00:00",
+  "generated_at": "2026-10-27T23:28:21.366571+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 34,
+  "item_count": 37,
   "items": [
+    {
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "published": "2026-10-27T21:50:04+00:00",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+    },
+    {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "published": "2026-10-27T21:31:14+00:00",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+    },
+    {
+      "title": "Game Boy Color on My Conference Badge",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "published": "2026-10-27T19:34:18+00:00",
+      "summary": "Game Boy Color on My Conference Badge\nI'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer.\nI've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color.\nWhich means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on yo"
+    },
     {
       "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
       "source": "Latent Space",
@@ -93,6 +117,14 @@
       "summary": "The 2026 Python Typing Survey received 1,794 responses.  Type hint use changed little across three years, but checker selection changed sharply.  Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty. For the third consecutive year, we asked Python developers how they [...]\nRead More...\nThe post Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape appeared first on Engineering at"
     },
     {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27T15:00:00+00:00",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+    },
+    {
       "title": "Coding From the Himalayas With an Offline AI Agent",
       "source": "Latent Space",
       "feed_url": "https://www.latent.space/feed",
@@ -131,6 +163,14 @@
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "published": "2026-10-27T07:00:00+00:00",
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
     },
     {
       "title": "GPT-6.1 Terra",
@@ -259,22 +299,6 @@
       "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
       "published": "2026-10-26T12:31:52+00:00",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resolution (formerly known as Sequent, Import AI 461) has published work on [&#8230;]"
-    },
-    {
-      "title": "ChatGPT’s expanding world of work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "published": "2026-10-26T10:00:00+00:00",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
-    },
-    {
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "published": "2026-10-26T09:01:00+00:00",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;"
     }
   ]
 }
