@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-26T21:19:53.706203+00:00",
+  "generated_at": "2026-10-27T01:06:28.272407+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 23,
   "items": [
+    {
+      "title": "GPT-6.1 Terra",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "published": "2026-10-26T23:53:07+00:00",
+      "summary": "GPT-6.1 Terra\nIt's always interesting to note which aspects of a new model are emphasized in the release announcement.\nIn the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use:\n\nWe’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published": "2026-10-26T22:00:00+00:00",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    },
     {
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
       "source": "AI - Ars Technica",
@@ -61,12 +77,20 @@
       "summary": "By Praneeth Yenugutala, Victor Dusa, Anastasia Samoilova, Megan Ren, Justin Wei, Marcelo MaywormAt Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark, Trino, and Druid. On peak days, roughly 100,000 workloads fail. When workloads fail, the failure itself is only the beginning. Someone still needs to find the useful signal in several logs, decide whether the cause sits in their code or the platf"
     },
     {
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "published": "2026-10-26T16:15:00+00:00",
+      "summary": "Research: webframe: evaluated as a scraper and a sandbox\n        webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error.\nIt's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need"
+    },
+    {
       "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
       "source": "Netflix TechBlog - Medium",
       "feed_url": "https://netflixtechblog.com/feed",
       "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
       "published": "2026-10-26T16:01:02+00:00",
-      "summary": "Serdar Cellat, Yuchen Xie, Bernadette Marcu, Blaid Burgess, Cody Jarrett, Carlos Pereira, Qing Shi, Samuel Carvajal, Manuel Pamplona, Dorothy Jung, Feiko Ritsema, Benjamin Klein, Alex Woo, Eugene Lok, Anna Pulido, Rebecka Swe, Sanford HolsappleIntroductionClips in the Netflix mobile app.At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device. Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our social media accounts,"
+      "summary": "Serdar Cellat, Yuchen Xie, Bernadette Marcu, Blaid Burgess, Cody Jarrett, Carlos Pereira, Qing Shi, Samuel Carvajal, Manuel Pamplona, Dorothy Jung, Feiko Ritsema, Benjamin Klein, Alex Woo, Eugene Lok, Anna Pulido, Rebecka Swe, Sanford Holsapple, Ranjith Kumar ShettyIntroductionClips in the Netflix mobile app.At Netflix, a crucial part of our mission is ensuring our content looks stunning on any device. Vertical formats are increasingly important for Netflix, as we have 1.2B followers across our"
     },
     {
       "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
@@ -83,6 +107,22 @@
       "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
       "published": "2026-10-26T14:30:27+00:00",
       "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot."
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published": "2026-10-26T14:30:00+00:00",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published": "2026-10-26T13:45:00+00:00",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
     },
     {
       "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
@@ -147,22 +187,6 @@
       "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "published": "2026-10-25T15:10:19+00:00",
       "summary": "Tool: Seam Cutter\n        I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.\nI wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript,"
-    },
-    {
-      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
-      "published": "2026-10-25T12:00:02+00:00",
-      "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be present,mine to develop apps. Our tasksverge toward a common logic:living filaments of root, of interface."
-    },
-    {
-      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
-      "published": "2026-10-25T11:49:00+00:00",
-      "summary": "#20"
     }
   ]
 }
