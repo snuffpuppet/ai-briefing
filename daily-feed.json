@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T23:28:21.366571+00:00",
+  "generated_at": "2026-10-28T03:57:54.047730+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 37,
+  "item_count": 33,
   "items": [
     {
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
@@ -267,38 +267,6 @@
       "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
       "published": "2026-10-26T16:00:07+00:00",
       "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster.  Highlights IcePack &#38; IceCube: Meta&#8217;s first liquid-cooled network rack with 102.4T switch blades (128×800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running [...]\nRead More...\nThe post Meta Networking at the 2026 OCP Global Summit: Open Innovation for"
-    },
-    {
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "published": "2026-10-26T14:30:27+00:00",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot."
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published": "2026-10-26T14:30:00+00:00",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published": "2026-10-26T13:45:00+00:00",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-    },
-    {
-      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
-      "published": "2026-10-26T12:31:52+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resolution (formerly known as Sequent, Import AI 461) has published work on [&#8230;]"
     }
   ]
 }
