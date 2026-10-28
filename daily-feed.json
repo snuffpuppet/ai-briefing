@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-28T10:49:57.495973+00:00",
+  "generated_at": "2026-10-28T16:58:32.700973+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 32,
   "items": [
+    {
+      "title": "GitHub Octoverse 2026",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "published": "2026-10-28T16:45:23+00:00",
+      "summary": "GitHub Octoverse 2026\nI'm at GitHub Universe today (GitHub gave  me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular:\n\nThis is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of t"
+    },
+    {
+      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "published": "2026-10-28T16:00:01+00:00",
+      "summary": "This post describes the next generation of Meta Andromeda, Meta&#8217;s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval scale and surfaces the top candidates at over one [...]\nRead More...\nThe post Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design appear"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published": "2026-10-28T14:58:17+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The October inflection point for vibe game development",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "published": "2026-10-28T13:55:15+00:00",
+      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games.\n\n\n  Tree Appreciator\n  Emberwick\n  Battle Drones\n  Pumpkin Farmer, aka Quarter Sun Cove\n  Four times as insulting\n  What happens if someone ac"
+    },
+    {
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "published": "2026-10-28T12:58:39+00:00",
+      "summary": "A sort of review of the benchmarking industry and what's missing."
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": ""
+    },
     {
       "title": "Quoting Terk Terkowitz",
       "source": "Simon Willison's Weblog",
@@ -19,6 +67,38 @@
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "published": "2026-10-28T09:30:00+00:00",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/legora",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    },
+    {
+      "title": "Fragments: October 28",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-10-28.html",
+      "published": "2026-10-28T08:55:00-04:00",
+      "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\n\n\n  The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\n\n\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s"
+    },
+    {
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "published": "2026-10-28T08:50:30+00:00",
+      "summary": "Since coding is solved, why code for the job?"
+    },
+    {
+      "title": "The 14 GB cold-start problem: Rebuilding self-hosted GitHub Actions runners on Azure Kubernetes Service",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/rebuilding-self-hosted-github-actions-runners-on-aks",
+      "published": "2026-10-28T00:00:00+00:00",
+      "summary": "The 14 GB cold-start problem: Rebuilding self-hosted GitHub Actions runners on Azure Kubernetes Service"
     },
     {
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
@@ -45,12 +125,28 @@
       "summary": "Game Boy Color on My Conference Badge\nI'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer.\nI've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color.\nWhich means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on yo"
     },
     {
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/opus55/",
+      "published": "2026-10-27T18:53:10+00:00",
+      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents."
+    },
+    {
       "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
       "published": "2026-10-27T18:49:08+00:00",
       "summary": "You can apparently now tell AI tools what sort of protein you want them to make."
+    },
+    {
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "published": "2026-10-27T18:40:19+00:00",
+      "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ..."
     },
     {
       "title": "Build specialized multimodal models with LFM3",
@@ -125,12 +221,20 @@
       "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
     },
     {
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/offline-coding/",
+      "published": "2026-10-27T14:41:25+00:00",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen."
+    },
+    {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
       "published": "2026-10-27T13:00:03+00:00",
-      "summary": "Science has a spam problem. And the spam filter is getting clogged up.According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-genera"
+      "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-genera"
     },
     {
       "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -141,28 +245,20 @@
       "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;"
     },
     {
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "published": "2026-10-27T07:24:59+00:00",
+      "summary": "The S-1, the numbers, and the reactions."
+    },
+    {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "published": "2026-10-27T07:00:00+00:00",
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "published": "2026-10-27T00:00:00+00:00",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
-    },
-    {
-      "title": "GPT-6.1 Terra",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "published": "2026-10-26T23:53:07+00:00",
-      "summary": "GPT-6.1 Terra\nIt's always interesting to note which aspects of a new model are emphasized in the release announcement.\nIn the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use:\n\nWe’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting"
     }
   ]
 }
