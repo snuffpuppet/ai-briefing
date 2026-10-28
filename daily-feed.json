@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-28T16:58:32.700973+00:00",
+  "generated_at": "2026-10-28T21:34:24.575667+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 37,
   "items": [
+    {
+      "title": "Creating AI value with enterprise context",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "published": "2026-10-28T20:32:02+00:00",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;"
+    },
+    {
+      "title": "Why Agents Love Supabase",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/supabase/",
+      "published": "2026-10-28T19:48:05+00:00",
+      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents"
+    },
+    {
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "published": "2026-10-28T18:47:27+00:00",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+    },
+    {
+      "title": "Systems Thinking Is Vital in the Age of AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "published": "2026-10-28T18:00:02+00:00",
+      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engineer can then bring the results to specialists who understand the parts AI cannot judge on its own, such as whether a design can be built safely, whether it makes sense in a particular setting, or how"
+    },
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "published": "2026-10-28T17:46:32+00:00",
+      "summary": "But the AI responses get more forthright when asked outside the US."
+    },
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published": "2026-10-28T17:00:58+00:00",
+      "summary": ""
+    },
     {
       "title": "GitHub Octoverse 2026",
       "source": "Simon Willison's Weblog",
@@ -37,6 +85,14 @@
       "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games.\n\n\n  Tree Appreciator\n  Emberwick\n  Battle Drones\n  Pumpkin Farmer, aka Quarter Sun Cove\n  Four times as insulting\n  What happens if someone ac"
     },
     {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
       "title": "Artificial Analysis v5 and the benchmarker's dilemma",
       "source": "Interconnects AI",
       "feed_url": "https://www.interconnects.ai/feed",
@@ -61,12 +117,12 @@
       "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for.\n&mdash; Terk Terkowitz, An update from Amazon engineering leadership on the role of the developer in the age of AI\n\n    Tags: amazon, generative-ai, agentic-engineering, ai, llms"
     },
     {
-      "title": "Legora is building the agentic operating system for legal work",
+      "title": "The future of the firm",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "published": "2026-10-28T09:30:00+00:00",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us."
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
@@ -243,22 +299,6 @@
       "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
       "published": "2026-10-27T11:19:18+00:00",
       "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;"
-    },
-    {
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-anthropic-s1/",
-      "published": "2026-10-27T07:24:59+00:00",
-      "summary": "The S-1, the numbers, and the reactions."
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published": "2026-10-27T07:00:00+00:00",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
     }
   ]
 }
