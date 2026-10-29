@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-29T15:09:33.060227+00:00",
+  "generated_at": "2026-10-29T20:51:30.784133+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 29,
+  "item_count": 36,
   "items": [
+    {
+      "title": "Trump declares robot imports a national security threat",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "2026-10-29T19:07:53+00:00",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs."
+    },
+    {
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "published": "2026-10-29T17:00:26+00:00",
+      "summary": "How I Built the Most AI-Pilled Company in the World\nDon't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models.\nSpawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world.\nI fired it up on my phone for a few minutes and was able to prompt a castle into"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    },
+    {
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "published": "2026-10-29T16:24:55+00:00",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
+    },
+    {
+      "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+      "published": "2026-10-29T16:00:12+00:00",
+      "summary": "Over the last year we&#8217;ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we&#8217;re sharing the results and positive impact we&#8217;ve seen with Catching JiTTests deployed into production. Our paper, “Just-in-Time Catching Test Generation at Meta,” fully details [...]\nRead More...\nThe post Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale appeared fi"
+    },
+    {
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/elorian/",
+      "published": "2026-10-29T16:00:00+00:00",
+      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images."
+    },
     {
       "title": "Quoting Ben Hylak",
       "source": "Simon Willison's Weblog",
@@ -34,7 +82,7 @@
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "published": "2026-10-29T10:28:00-04:00",
-      "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading\n  the output of an LLM. I can't necessarily define why, although there are the common\n  tells (it's not the em-dashes, it's the load-bearing tapestries). As I\n  do this my desire to read on atrophies, sometimes to the point of revulsion\n\nThere are tools out there that cliam to be able to tell the difference\n  between LLM-written prose and the old-fashioned biological product. I'm wary\n  of them, partly due skeptism about th"
+      "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading\n  the output of an LLM. I can't necessarily define why, although there are the common\n  tells (it's not the em-dashes, it's the load-bearing tapestries). As I\n  do this my desire to read on atrophies, sometimes to the point of revulsion\n\nThere are tools out there that claim to be able to tell the difference\n  between LLM-written prose and the old-fashioned biological product. I'm wary\n  of them, partly due skeptism about th"
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -51,6 +99,22 @@
       "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
       "published": "2026-10-29T09:50:00-04:00",
       "summary": "TL;DRGood developers’ caution about agentic development comes from knowing that built isn’t the same as working in production.\nI’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone else and in many cases invent new tools and practices that support building the application well. So why have we had so much reluctance?\n\nThe easy (lazy?) answer is that they love writing code, or they’r"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
     },
     {
       "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
@@ -227,14 +291,6 @@
       "url": "https://martinfowler.com/fragments/2026-10-28.html",
       "published": "2026-10-28T08:55:00-04:00",
       "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\n\n\n  The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\n\n\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s"
-    },
-    {
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-      "published": "2026-10-28T08:50:30+00:00",
-      "summary": "Since coding is solved, why code for the job?"
     }
   ]
 }
