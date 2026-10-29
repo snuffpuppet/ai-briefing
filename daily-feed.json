@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-28T21:34:24.575667+00:00",
+  "generated_at": "2026-10-29T01:31:22.933626+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 37,
+  "item_count": 36,
   "items": [
+    {
+      "title": "Quoting Ted Sanders",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "published": "2026-10-28T23:23:21+00:00",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered:\nLuna &lt; Terra &lt; Sol"
+    },
     {
       "title": "Creating AI value with enterprise context",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -283,22 +291,6 @@
       "url": "https://latent.space/p/offline-coding/",
       "published": "2026-10-27T14:41:25+00:00",
       "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen."
-    },
-    {
-      "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "published": "2026-10-27T13:00:03+00:00",
-      "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-genera"
-    },
-    {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "published": "2026-10-27T11:19:18+00:00",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;"
     }
   ]
 }
