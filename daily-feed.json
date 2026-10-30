@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T00:35:45.406986+00:00",
+  "generated_at": "2026-10-30T06:47:03.100646+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 23,
   "items": [
     {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
@@ -187,86 +187,6 @@
       "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
       "published": "2026-10-28T18:47:27+00:00",
       "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon."
-    },
-    {
-      "title": "Systems Thinking Is Vital in the Age of AI",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
-      "published": "2026-10-28T18:00:02+00:00",
-      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engineer can then bring the results to specialists who understand the parts AI cannot judge on its own, such as whether a design can be built safely, whether it makes sense in a particular setting, or how"
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "published": "2026-10-28T17:46:32+00:00",
-      "summary": "But the AI responses get more forthright when asked outside the US."
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "published": "2026-10-28T17:00:58+00:00",
-      "summary": ""
-    },
-    {
-      "title": "GitHub Octoverse 2026",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-      "published": "2026-10-28T16:45:23+00:00",
-      "summary": "GitHub Octoverse 2026\nI'm at GitHub Universe today (GitHub gave  me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular:\n\nThis is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of t"
-    },
-    {
-      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-      "published": "2026-10-28T16:00:01+00:00",
-      "summary": "This post describes the next generation of Meta Andromeda, Meta&#8217;s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval scale and surfaces the top candidates at over one [...]\nRead More...\nThe post Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design appear"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "published": "2026-10-28T14:58:17+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The October inflection point for vibe game development",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "published": "2026-10-28T13:55:15+00:00",
-      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games.\n\n\n  Tree Appreciator\n  Emberwick\n  Battle Drones\n  Pumpkin Farmer, aka Quarter Sun Cove\n  Four times as insulting\n  What happens if someone ac"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "2026-10-28T13:15:00+00:00",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
-    },
-    {
-      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-      "published": "2026-10-28T12:58:39+00:00",
-      "summary": "A sort of review of the benchmarking industry and what's missing."
-    },
-    {
-      "title": "Fragments: October 28",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-10-28.html",
-      "published": "2026-10-28T08:55:00-04:00",
-      "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\n\n\n  The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\n\n\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s"
     }
   ]
 }
