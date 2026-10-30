@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-30T18:58:38.917867+00:00",
+  "generated_at": "2026-10-30T22:53:51.408974+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 27,
   "items": [
+    {
+      "title": "dbreunig/nesformer",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "published": "2026-10-30T21:59:22+00:00",
+      "summary": "dbreunig/nesformer\nInspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen!\nIn a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system:\n\nRead this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Ninte"
+    },
+    {
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "published": "2026-10-30T21:41:54+00:00",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer."
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "published": "2026-10-30T21:09:54+00:00",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+    },
+    {
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "published": "2026-10-30T20:40:13+00:00",
+      "summary": "People who love AI don't always love telling others they used it."
+    },
+    {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "published": "2026-10-30T19:30:52+00:00",
+      "summary": "But it's still early days for the relatively new e-commerce use case."
+    },
     {
       "title": "nemotron-halloween",
       "source": "Hugging Face - Blog",
@@ -67,6 +107,14 @@
       "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
       "published": "2026-10-30T08:24:29+00:00",
       "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps."
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published": "2026-10-30T00:00:00+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
     },
     {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
@@ -165,36 +213,12 @@
       "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading\n  the output of an LLM. I can't necessarily define why, although there are the common\n  tells (it's not the em-dashes, it's the load-bearing tapestries). As I\n  do this my desire to read on atrophies, sometimes to the point of revulsion\n\nThere are tools out there that claim to be able to tell the difference\n  between LLM-written prose and the old-fashioned biological product. I'm wary\n  of them, partly due skeptism about th"
     },
     {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "published": "2026-10-29T10:11:12+00:00",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;"
-    },
-    {
       "title": "Why are good developers so wary of agentic development?",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
       "published": "2026-10-29T09:50:00-04:00",
       "summary": "TL;DRGood developers’ caution about agentic development comes from knowing that built isn’t the same as working in production.\nI’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone else and in many cases invent new tools and practices that support building the application well. So why have we had so much reluctance?\n\nThe easy (lazy?) answer is that they love writing code, or they’r"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
     }
   ]
 }
