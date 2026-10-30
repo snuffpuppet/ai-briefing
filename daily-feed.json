@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-30T06:47:03.100646+00:00",
+  "generated_at": "2026-10-30T13:49:42.659797+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "published": "2026-10-30T08:24:29+00:00",
+      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps."
+    },
     {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "source": "Simon Willison's Weblog",
@@ -11,6 +19,14 @@
       "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
       "published": "2026-10-29T22:48:29+00:00",
       "summary": "API credits benefit for eligible ChatGPT subscriptions\nEarlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API.\nOpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations.\nI mainta"
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "published": "2026-10-29T19:18:20+00:00",
+      "summary": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes of wearable devices that, in addition to being able to leverage powerful frontier models, feature built-in intelligence that understand the context of a user. Where are they? What are they seeing and hea"
     },
     {
       "title": "Trump declares robot imports a national security threat",
@@ -131,62 +147,6 @@
       "url": "https://latent.space/p/ainews-gemini-4-carbon/",
       "published": "2026-10-29T05:55:19+00:00",
       "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders."
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "published": "2026-10-29T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "published": "2026-10-29T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "published": "2026-10-29T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting Ted Sanders",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "published": "2026-10-28T23:23:21+00:00",
-      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered:\nLuna &lt; Terra &lt; Sol"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "published": "2026-10-28T20:32:02+00:00",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;"
-    },
-    {
-      "title": "Why Agents Love Supabase",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/supabase/",
-      "published": "2026-10-28T19:48:05+00:00",
-      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents"
-    },
-    {
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "published": "2026-10-28T18:47:27+00:00",
-      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon."
     }
   ]
 }
