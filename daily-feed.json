@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T08:19:29.850529+00:00",
+  "generated_at": "2026-10-31T15:00:25.031563+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 14,
   "items": [
     {
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
@@ -115,22 +115,6 @@
       "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
       "published": "2026-10-30T08:24:29+00:00",
       "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps."
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "published": "2026-10-30T00:00:00+00:00",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
-    },
-    {
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "published": "2026-10-29T22:48:29+00:00",
-      "summary": "API credits benefit for eligible ChatGPT subscriptions\nEarlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API.\nOpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations.\nI mainta"
     }
   ]
 }
