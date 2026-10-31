@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-31T15:00:25.031563+00:00",
+  "generated_at": "2026-10-31T19:42:24.834274+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 14,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/arca/",
+      "published": "2026-10-31T16:05:00+00:00",
+      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days."
+    },
     {
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
       "source": "Latent Space",
