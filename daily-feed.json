@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T19:42:24.834274+00:00",
+  "generated_at": "2026-10-31T23:03:41.712516+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 12,
   "items": [
     {
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
@@ -99,30 +99,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
       "published": "2026-10-30T16:37:51+00:00",
       "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io&#8217;s AI spend, Microsoft&#8217;s exit offer to engineers, and more"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "published": "2026-10-30T09:30:00+00:00",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-      "published": "2026-10-30T08:24:29+00:00",
-      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps."
     }
   ]
 }
