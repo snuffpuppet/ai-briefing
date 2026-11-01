@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-01T11:39:56.168881+00:00",
+  "generated_at": "2026-11-01T17:37:54.768445+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 5,
   "items": [
+    {
+      "title": "Quoting Kyle Kingsbury",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "published": "2026-11-01T16:49:04+00:00",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...]\nIn the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users?\n&mdash; Kyle Kingsbury, Jepsen resul"
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "published": "2026-11-01T14:00:01+00:00",
+      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion.Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit bac"
+    },
     {
       "title": "How We Took Over ChatGPT Accounts",
       "source": "Simon Willison's Weblog",
@@ -27,14 +43,6 @@
       "url": "https://latent.space/p/arca/",
       "published": "2026-10-31T16:05:00+00:00",
       "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days."
-    },
-    {
-      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-      "published": "2026-10-31T05:00:48+00:00",
-      "summary": "It turns out you cannot have your cake AND eat it"
     }
   ]
 }
