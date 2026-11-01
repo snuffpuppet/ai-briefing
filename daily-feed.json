@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-31T23:03:41.712516+00:00",
+  "generated_at": "2026-11-01T04:21:52.015106+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 14,
   "items": [
+    {
+      "title": "How We Took Over ChatGPT Accounts",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "published": "2026-10-31T23:15:22+00:00",
+      "summary": "How We Took Over ChatGPT Accounts\nParameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe.\nIt's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data.\nParameter found quite a complex attack chain. OpenAI"
+    },
+    {
+      "title": "datasette-llm 0.1a9",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "published": "2026-10-31T22:10:01+00:00",
+      "summary": "Release: datasette-llm 0.1a9\n        I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. \nIt now picks up the default model used by LLM, which means you can start using Datasette Agent without needing to explicitly configure a default model:\nuvx --with datasette-agent datasette content.db --internal internal.db\n\nPreviously you would also need to specify a model with -s plugins.datasette"
+    },
     {
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "source": "Latent Space",
