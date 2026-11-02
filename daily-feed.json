@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-11-02T08:52:07.072110+00:00",
+  "generated_at": "2026-11-02T19:09:54.120296+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "published": "2026-11-02T18:32:21+00:00",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."
+    },
+    {
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "published": "2026-11-02T18:05:31+00:00",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem."
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "published": "2026-11-02T17:00:00+00:00",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+    },
+    {
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "published": "2026-11-02T14:30:54+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can play games or do online auctions for you…Researchers have built [&#8230;]"
+    },
+    {
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "published": "2026-11-02T13:31:26+00:00",
+      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis, and then to experiment with Claude's new Code Interpreter. I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that"
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "published": "2026-11-02T13:10:32+00:00",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;"
+    },
+    {
+      "title": "The agentic web is here",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "published": "2026-11-02T09:35:19+00:00",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every&#8230;"
+    },
+    {
+      "title": "LifeVal",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/lifeval",
+      "published": "2026-11-02T09:00:00+00:00",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+    },
     {
       "title": "If in doubt, delete the uv.lock file",
       "source": "Simon Willison's Weblog",
@@ -27,22 +99,6 @@
       "url": "https://spectrum.ieee.org/ai-slop-trust-science",
       "published": "2026-11-01T14:00:01+00:00",
       "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion.Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit bac"
-    },
-    {
-      "title": "How We Took Over ChatGPT Accounts",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "published": "2026-10-31T23:15:22+00:00",
-      "summary": "How We Took Over ChatGPT Accounts\nParameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe.\nIt's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data.\nParameter found quite a complex attack chain. OpenAI"
-    },
-    {
-      "title": "datasette-llm 0.1a9",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "published": "2026-10-31T22:10:01+00:00",
-      "summary": "Release: datasette-llm 0.1a9\n        I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. \nIt now picks up the default model used by LLM, which means you can start using Datasette Agent without needing to explicitly configure a default model:\nuvx --with datasette-agent datasette content.db --internal internal.db\n\nPreviously you would also need to specify a model with -s plugins.datasette"
     }
   ]
 }
