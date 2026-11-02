@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T01:15:06.642485+00:00",
+  "generated_at": "2026-11-02T08:52:07.072110+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 5,
   "items": [
     {
       "title": "If in doubt, delete the uv.lock file",
@@ -43,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
       "published": "2026-10-31T22:10:01+00:00",
       "summary": "Release: datasette-llm 0.1a9\n        I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. \nIt now picks up the default model used by LLM, which means you can start using Datasette Agent without needing to explicitly configure a default model:\nuvx --with datasette-agent datasette content.db --internal internal.db\n\nPreviously you would also need to specify a model with -s plugins.datasette"
-    },
-    {
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/arca/",
-      "published": "2026-10-31T16:05:00+00:00",
-      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days."
     }
   ]
 }
