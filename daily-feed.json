@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-01T21:40:57.055226+00:00",
+  "generated_at": "2026-11-02T01:15:06.642485+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "If in doubt, delete the uv.lock file",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "published": "2026-11-01T23:24:22+00:00",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:\nIf in doubt, delete the uv.lock file\nMost of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it.\nRunning uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories.\nBut... somet"
+    },
     {
       "title": "Quoting Kyle Kingsbury",
       "source": "Simon Willison's Weblog",
