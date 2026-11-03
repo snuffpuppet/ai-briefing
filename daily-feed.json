@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-03T01:59:28.958226+00:00",
+  "generated_at": "2026-11-03T09:23:56.884873+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 18,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "published": "2026-11-03T05:35:00+00:00",
+      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark."
+    },
+    {
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "published": "2026-11-03T05:32:25+00:00",
+      "summary": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube\nGenius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights.\n \n\n    Via Lobste.rs\n\n\n    Tags: privacy, youtube"
+    },
+    {
+      "title": "October sponsors-only newsletter",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "published": "2026-11-03T05:28:59+00:00",
+      "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month:\n\nThe October inflection point for vibe game development\nThe vulnerability apocalypse gets hot\nLLM releases\nAPI credits for $100+/month subscriptions\nWhat I'm using right now\nMy software releases\n\nMy September newsletter can now be seen here, as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!\n\n    Tags: new"
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "published": "2026-11-03T04:18:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": ""
+    },
     {
       "title": "llm 0.37",
       "source": "Simon Willison's Weblog",
@@ -43,6 +83,22 @@
       "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
       "published": "2026-11-02T18:05:31+00:00",
       "summary": "The tsunami of imitators is way bigger than any one model maker can stem."
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
     },
     {
       "title": "Raising the quality of insights in agentic analytics",
@@ -125,28 +181,20 @@
       "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
     },
     {
+      "title": "AI readiness starts with data ownership",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/data-strategy/ai-readiness-starts-with-data-ownership",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "AI readiness starts with data ownership"
+    },
+    {
       "title": "If in doubt, delete the uv.lock file",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
       "published": "2026-11-01T23:24:22+00:00",
       "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:\nIf in doubt, delete the uv.lock file\nMost of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it.\nRunning uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories.\nBut... somet"
-    },
-    {
-      "title": "Quoting Kyle Kingsbury",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "published": "2026-11-01T16:49:04+00:00",
-      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...]\nIn the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users?\n&mdash; Kyle Kingsbury, Jepsen resul"
-    },
-    {
-      "title": "Guarding the Gates of Knowledge",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
-      "published": "2026-11-01T14:00:01+00:00",
-      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion.Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit bac"
     }
   ]
 }
