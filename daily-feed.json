@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-02T19:09:54.120296+00:00",
+  "generated_at": "2026-11-03T01:59:28.958226+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 18,
   "items": [
+    {
+      "title": "llm 0.37",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "published": "2026-11-02T23:49:30+00:00",
+      "summary": "Release: llm 0.37\n        There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.\nI added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints.\nI switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna.\nLLM's support for e"
+    },
+    {
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "published": "2026-11-02T23:01:02+00:00",
+      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model"
+    },
+    {
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "published": "2026-11-02T22:54:03+00:00",
+      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies..."
+    },
     {
       "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
       "source": "AI - Ars Technica",
@@ -27,6 +51,14 @@
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "published": "2026-11-02T17:00:00+00:00",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published": "2026-11-02T15:30:00+00:00",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -75,6 +107,22 @@
       "url": "https://openai.com/index/lifeval",
       "published": "2026-11-02T09:00:00+00:00",
       "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
     },
     {
       "title": "If in doubt, delete the uv.lock file",
