@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-11-04T02:54:06.530282+00:00",
+  "generated_at": "2026-11-04T18:26:37.588389+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published": "2026-11-04T17:50:10+00:00",
+      "summary": ""
+    },
+    {
+      "title": "How big is the open model economy today?",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "published": "2026-11-04T16:35:44+00:00",
+      "summary": "Our first open model economy research note for paid subscribers."
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04T14:30:00+00:00",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "published": "2026-11-04T13:00:00+00:00",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published": "2026-11-04T07:00:00+00:00",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+      "title": "The harness is a product",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/harness-is-a-product",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "The harness is a product"
+    },
+    {
+      "title": "Macro trends in the tech industry | November 2026",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/macro-trends-tech-industry-november-2026",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "Macro trends in the tech industry | November 2026"
+    },
     {
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
       "source": "AI - Ars Technica",
@@ -107,158 +163,6 @@
       "url": "https://openai.com/index/heimstaden",
       "published": "2026-11-03T08:00:00+00:00",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-      "published": "2026-11-03T05:35:00+00:00",
-      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark."
-    },
-    {
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-      "published": "2026-11-03T05:32:25+00:00",
-      "summary": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube\nGenius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights.\n \n\n    Via Lobste.rs\n\n\n    Tags: privacy, youtube"
-    },
-    {
-      "title": "October sponsors-only newsletter",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "published": "2026-11-03T05:28:59+00:00",
-      "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month:\n\nThe October inflection point for vibe game development\nThe vulnerability apocalypse gets hot\nLLM releases\nAPI credits for $100+/month subscriptions\nWhat I'm using right now\nMy software releases\n\nMy September newsletter can now be seen here, as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!\n\n    Tags: new"
-    },
-    {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "published": "2026-11-03T04:18:47+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;"
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The next chapter: Why quantum is the catalyst AI has been waiting for",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/why-quantum-is-the-catalyst-ai",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "The next chapter: Why quantum is the catalyst AI has been waiting for"
-    },
-    {
-      "title": "The token bleed reality: Bridging the chasm from unthrottled AI adoption to sustainable AI transformation",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/the-token-bleed-reality",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "The token bleed reality: Bridging the chasm from unthrottled AI adoption to sustainable AI transformation"
-    },
-    {
-      "title": "llm 0.37",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/2/llm/",
-      "published": "2026-11-02T23:49:30+00:00",
-      "summary": "Release: llm 0.37\n        There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.\nI added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints.\nI switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna.\nLLM's support for e"
-    },
-    {
-      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
-      "published": "2026-11-02T23:01:02+00:00",
-      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model"
-    },
-    {
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-      "published": "2026-11-02T22:54:03+00:00",
-      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies..."
-    },
-    {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "published": "2026-11-02T18:32:21+00:00",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."
-    },
-    {
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "published": "2026-11-02T18:05:31+00:00",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem."
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "published": "2026-11-02T17:00:00+00:00",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "published": "2026-11-02T15:30:00+00:00",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "published": "2026-11-02T15:00:00+00:00",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
     }
   ]
 }
