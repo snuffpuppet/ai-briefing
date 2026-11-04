@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T22:53:31.659321+00:00",
+  "generated_at": "2026-11-04T02:54:06.530282+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 35,
+  "item_count": 32,
   "items": [
     {
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
@@ -221,20 +221,20 @@
       "summary": "The tsunami of imitators is way bigger than any one model maker can stem."
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "published": "2026-11-02T18:00:00+00:00",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
     },
     {
       "title": "Raising the quality of insights in agentic analytics",
@@ -259,30 +259,6 @@
       "url": "https://openai.com/index/grid-protectors-program",
       "published": "2026-11-02T15:00:00+00:00",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-    },
-    {
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
-      "published": "2026-11-02T14:30:54+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can play games or do online auctions for you…Researchers have built [&#8230;]"
-    },
-    {
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "published": "2026-11-02T13:31:26+00:00",
-      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis, and then to experiment with Claude's new Code Interpreter. I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "published": "2026-11-02T13:10:32+00:00",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;"
     }
   ]
 }
