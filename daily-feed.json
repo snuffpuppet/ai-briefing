@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-05T16:07:08.964166+00:00",
+  "generated_at": "2026-11-05T22:31:37.038762+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 23,
   "items": [
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "published": "2026-11-05T21:40:36+00:00",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants."
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "published": "2026-11-05T21:39:40+00:00",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says."
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published": "2026-11-05T19:35:16+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Quoting Paul Ford",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "published": "2026-11-05T17:34:03+00:00",
+      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day.\n&mdash; Paul Ford, The Web Is More Than Enough\n\n    Tags: browsers, paul-ford, web-development"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published": "2026-11-05T17:05:16+00:00",
+      "summary": ""
+    },
     {
       "title": "Scaling Slack and GitHub with Maude Lemaire",
       "source": "The Pragmatic Engineer",
@@ -13,12 +53,12 @@
       "summary": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands."
     },
     {
-      "title": "AI Text Watermarking May Not Be Able to Meet the EU’s New Rules",
+      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
       "source": "IEEE Spectrum",
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "published": "2026-11-05T15:00:03+00:00",
-      "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new EU law, show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’s uncertain whether textGrain will meet Europe’s transparency rules, which could cost the company signi"
+      "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law, show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’s uncertain whether textGrain will meet Europe’s transparency rules, which could cost the company sig"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -35,6 +75,14 @@
       "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
       "published": "2026-11-05T09:11:00-05:00",
       "summary": "Many organizations adopting data mesh and data products face a common\n     challenge. They may be tasked with building a self-service platform for\n     data products and data mesh from scratch, or they may have an existing\n     platform that suffers from low adoption, preventing their data mesh from\n     scaling. This article provides a platform navigator, based on the CNCF's\n     Platform Engineering Maturity Model, to help you reason about your current\n     situation and determine the next s"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05T09:00:00+00:00",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
     },
     {
       "title": "[AINews] It's Swapping Season",
@@ -139,22 +187,6 @@
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "published": "2026-11-04T13:00:00+00:00",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published": "2026-11-04T08:00:00+00:00",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published": "2026-11-04T07:00:00+00:00",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
     }
   ]
 }
