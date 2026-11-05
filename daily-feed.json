@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-04T18:26:37.588389+00:00",
+  "generated_at": "2026-11-05T00:08:27.463054+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 25,
   "items": [
+    {
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "published": "2026-11-04T20:55:50+00:00",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers."
+    },
+    {
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "published": "2026-11-04T19:17:30+00:00",
+      "summary": "November 3, 2026 — A quiet day lets us share some behind the senes."
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "published": "2026-11-04T18:50:55+00:00",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;"
+    },
     {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "source": "Hugging Face - Blog",
@@ -19,6 +43,14 @@
       "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
       "published": "2026-11-04T16:35:44+00:00",
       "summary": "Our first open model economy research note for paid subscribers."
+    },
+    {
+      "title": "datasette-llm 0.1a10",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "published": "2026-11-04T15:26:02+00:00",
+      "summary": "Release: datasette-llm 0.1a10\n        Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration.\n    \n    \n        Tags: datasette, llm"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -37,12 +69,36 @@
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;"
     },
     {
+      "title": "A thousand fewer paths to root",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "published": "2026-11-04T07:00:00+00:00",
       "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+      "title": "datasette-apps 0.3a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "published": "2026-11-04T00:29:36+00:00",
+      "summary": "Release: datasette-apps 0.3a0\n        Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.\nThese can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration:\n\n\nApps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view.\nNew app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
     },
     {
       "title": "The harness is a product",
@@ -59,6 +115,22 @@
       "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/macro-trends-tech-industry-november-2026",
       "published": "2026-11-04T00:00:00+00:00",
       "summary": "Macro trends in the tech industry | November 2026"
+    },
+    {
+      "title": "datasette-agent 0.5a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "published": "2026-11-03T23:13:45+00:00",
+      "summary": "Release: datasette-agent 0.5a0\n        This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page.\nWhen combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app.\n\nYou can try it by signing in with your GitHub account to agent.datasette.io."
+    },
+    {
+      "title": "llm 0.37.1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/3/llm/",
+      "published": "2026-11-03T21:41:42+00:00",
+      "summary": "Release: llm 0.37.1\n        A bugfix release for LLM, with contributions from Steven Huang, Tao An, Arjan Mossel, and XQ.\n    \n    \n        Tags: llm"
     },
     {
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
@@ -131,38 +203,6 @@
       "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
       "published": "2026-11-03T14:30:02+00:00",
       "summary": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody mentioned Africa at all,” he says.Even then—before AI giants like OpenAI and Anthropic had launched their chatbots to the public—Kariuki could see significant obstacles to AI adoption in Africa. Internet access was slow a"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
-    },
-    {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "published": "2026-11-03T10:43:41+00:00",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/cisco-cyber",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/heimstaden",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
     }
   ]
 }
