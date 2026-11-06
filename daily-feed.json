@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T22:31:37.038762+00:00",
+  "generated_at": "2026-11-06T03:08:08.748004+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 23,
+  "item_count": 26,
   "items": [
     {
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -19,6 +19,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
       "published": "2026-11-05T21:39:40+00:00",
       "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says."
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published": "2026-11-05T20:00:00+00:00",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
     },
     {
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
@@ -43,6 +51,14 @@
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "published": "2026-11-05T17:05:16+00:00",
       "summary": ""
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published": "2026-11-05T17:00:00+00:00",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
       "title": "Scaling Slack and GitHub with Maude Lemaire",
@@ -85,6 +101,14 @@
       "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
     },
     {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+    },
+    {
       "title": "[AINews] It's Swapping Season",
       "source": "Latent Space",
       "feed_url": "https://www.latent.space/feed",
@@ -99,6 +123,22 @@
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "published": "2026-11-05T02:00:00+00:00",
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+    },
+    {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "published": "2026-11-05T00:45:15+00:00",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
+    },
+    {
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/franklin-templeton",
+      "published": "2026-11-05T00:00:00+00:00",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
     },
     {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -171,22 +211,6 @@
       "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
       "published": "2026-11-04T15:26:02+00:00",
       "summary": "Release: datasette-llm 0.1a10\n        Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration.\n    \n    \n        Tags: datasette, llm"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "published": "2026-11-04T14:30:00+00:00",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "published": "2026-11-04T13:00:00+00:00",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;"
     }
   ]
 }
