@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:52:36.741013+00:00",
+  "generated_at": "2026-11-06T23:38:42.779924+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 25,
@@ -11,6 +11,14 @@
       "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
       "published": "2026-11-10T00:00:00+00:00",
       "summary": "Beyond the award: The people behind our onboarding experience"
+    },
+    {
+      "title": "The Pragmatic Summit 2027",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "published": "2026-11-06T19:39:15+00:00",
+      "summary": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027"
     },
     {
       "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
@@ -75,6 +83,14 @@
       "url": "https://openai.com/index/partnering-with-hacktron",
       "published": "2026-11-06T08:00:00+00:00",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
     },
     {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
@@ -187,22 +203,6 @@
       "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
       "published": "2026-11-05T09:11:00-05:00",
       "summary": "Many organizations adopting data mesh and data products face a common\n     challenge. They may be tasked with building a self-service platform for\n     data products and data mesh from scratch, or they may have an existing\n     platform that suffers from low adoption, preventing their data mesh from\n     scaling. This article provides a platform navigator, based on the CNCF's\n     Platform Engineering Maturity Model, to help you reason about your current\n     situation and determine the next s"
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "published": "2026-11-05T09:00:00+00:00",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
     }
   ]
 }
