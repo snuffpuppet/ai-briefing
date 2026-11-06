@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T11:47:49.382040+00:00",
+  "generated_at": "2026-11-06T18:52:36.741013+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 24,
+  "item_count": 25,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -11,6 +11,46 @@
       "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
       "published": "2026-11-10T00:00:00+00:00",
       "summary": "Beyond the award: The people behind our onboarding experience"
+    },
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "published": "2026-11-06T17:43:02+00:00",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content."
+    },
+    {
+      "title": "Quoting Nilay Patel",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "published": "2026-11-06T17:13:12+00:00",
+      "summary": "The products aren't good enough to sell people on the costs.\nYou cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history.\nIt's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in Europ"
+    },
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "published": "2026-11-06T16:19:12+00:00",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures."
+    },
+    {
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "published": "2026-11-06T15:10:53+00:00",
+      "summary": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "2026-11-06T14:00:48+00:00",
+      "summary": ""
     },
     {
       "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
@@ -29,12 +69,36 @@
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;"
     },
     {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "published": "2026-11-06T00:00:00+00:00",
       "summary": ""
+    },
+    {
+      "title": "Closing the context gap is what banking AI needs",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/data-strategy/closing-the-context-gap-is-what-banking-ai-needs",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "Closing the context gap is what banking AI needs"
+    },
+    {
+      "title": "Why a language model misses fraud in your transaction data",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/why-a-language-model-misses-fraud-in-your-transaction-data",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "Why a language model misses fraud in your transaction data"
     },
     {
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -139,62 +203,6 @@
       "url": "https://openai.com/index/merge-builds-with-openai",
       "published": "2026-11-05T08:00:00+00:00",
       "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
-    },
-    {
-      "title": "[AINews] It's Swapping Season",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
-      "published": "2026-11-05T06:24:09+00:00",
-      "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B."
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "published": "2026-11-05T02:00:00+00:00",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "published": "2026-11-05T00:45:15+00:00",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/franklin-templeton",
-      "published": "2026-11-05T00:00:00+00:00",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "published": "2026-11-05T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The commoditization of code: Why empathy is the new core engineering skill",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-commoditization-of-code-why-empathy-is-the-new-core-engineering-skill",
-      "published": "2026-11-05T00:00:00+00:00",
-      "summary": "The commoditization of code: Why empathy is the new core engineering skill"
-    },
-    {
-      "title": "Context rot in AI agents: How to recognize and fix it",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/what-is-context-rot",
-      "published": "2026-11-05T00:00:00+00:00",
-      "summary": "Context rot in AI agents: How to recognize and fix it"
     }
   ]
 }
