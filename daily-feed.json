@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T11:29:54.164356+00:00",
+  "generated_at": "2026-11-07T17:24:50.639907+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 11,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -91,38 +91,6 @@
       "url": "https://openai.com/index/partnering-with-hacktron",
       "published": "2026-11-06T08:00:00+00:00",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Closing the context gap is what banking AI needs",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/data-strategy/closing-the-context-gap-is-what-banking-ai-needs",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "Closing the context gap is what banking AI needs"
-    },
-    {
-      "title": "Why a language model misses fraud in your transaction data",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/why-a-language-model-misses-fraud-in-your-transaction-data",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "Why a language model misses fraud in your transaction data"
     }
   ]
 }
