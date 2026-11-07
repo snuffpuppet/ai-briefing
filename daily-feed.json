@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T17:24:50.639907+00:00",
+  "generated_at": "2026-11-07T21:26:25.887675+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 10,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -83,14 +83,6 @@
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "published": "2026-11-06T10:00:00+00:00",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     }
   ]
 }
