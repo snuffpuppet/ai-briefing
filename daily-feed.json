@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T04:38:12.256093+00:00",
+  "generated_at": "2026-11-07T11:29:54.164356+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 15,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -123,62 +123,6 @@
       "url": "https://www.thoughtworks.com/insights/blog/why-a-language-model-misses-fraud-in-your-transaction-data",
       "published": "2026-11-06T00:00:00+00:00",
       "summary": "Why a language model misses fraud in your transaction data"
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "published": "2026-11-05T21:40:36+00:00",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants."
-    },
-    {
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "published": "2026-11-05T21:39:40+00:00",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says."
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "published": "2026-11-05T20:00:00+00:00",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "published": "2026-11-05T19:35:16+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Quoting Paul Ford",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-      "published": "2026-11-05T17:34:03+00:00",
-      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day.\n&mdash; Paul Ford, The Web Is More Than Enough\n\n    Tags: browsers, paul-ford, web-development"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "published": "2026-11-05T17:05:16+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "published": "2026-11-05T17:00:00+00:00",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     }
   ]
 }
