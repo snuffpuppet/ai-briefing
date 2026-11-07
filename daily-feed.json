@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T23:38:42.779924+00:00",
+  "generated_at": "2026-11-07T04:38:12.256093+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 22,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -11,6 +11,14 @@
       "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
       "published": "2026-11-10T00:00:00+00:00",
       "summary": "Beyond the award: The people behind our onboarding experience"
+    },
+    {
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+      "published": "2026-11-07T03:04:53+00:00",
+      "summary": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails."
     },
     {
       "title": "The Pragmatic Summit 2027",
@@ -171,38 +179,6 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "published": "2026-11-05T17:00:00+00:00",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    },
-    {
-      "title": "Scaling Slack and GitHub with Maude Lemaire",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
-      "published": "2026-11-05T15:58:00+00:00",
-      "summary": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands."
-    },
-    {
-      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
-      "published": "2026-11-05T15:00:03+00:00",
-      "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law, show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’s uncertain whether textGrain will meet Europe’s transparency rules, which could cost the company sig"
-    },
-    {
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "published": "2026-11-05T12:00:41+00:00",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
-    },
-    {
-      "title": "The Data Product Platform Navigator",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
-      "published": "2026-11-05T09:11:00-05:00",
-      "summary": "Many organizations adopting data mesh and data products face a common\n     challenge. They may be tasked with building a self-service platform for\n     data products and data mesh from scratch, or they may have an existing\n     platform that suffers from low adoption, preventing their data mesh from\n     scaling. This article provides a platform navigator, based on the CNCF's\n     Platform Engineering Maturity Model, to help you reason about your current\n     situation and determine the next s"
     }
   ]
 }
