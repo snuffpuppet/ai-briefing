@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T08:34:39.629358+00:00",
+  "generated_at": "2026-11-08T15:46:38.901027+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 2,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -19,14 +19,6 @@
       "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
       "published": "2026-11-07T23:57:46+00:00",
       "summary": "datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages\nI was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table.\nThis was happening because Datasette pages serve an HTTP link header like this:\nlink: &lt;https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv&gt;; rel=\"next\"\nThis is bad. A tiny fraction of the visitors to"
-    },
-    {
-      "title": "[AINews] Anthropic IPO: Whither Now?",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "published": "2026-11-07T03:04:53+00:00",
-      "summary": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails."
     }
   ]
 }
