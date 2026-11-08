@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T21:26:25.887675+00:00",
+  "generated_at": "2026-11-08T01:03:40.536620+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 9,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -11,6 +11,14 @@
       "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
       "published": "2026-11-10T00:00:00+00:00",
       "summary": "Beyond the award: The people behind our onboarding experience"
+    },
+    {
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "published": "2026-11-07T23:57:46+00:00",
+      "summary": "datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages\nI was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table.\nThis was happening because Datasette pages serve an HTTP link header like this:\nlink: &lt;https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv&gt;; rel=\"next\"\nThis is bad. A tiny fraction of the visitors to"
     },
     {
       "title": "[AINews] Anthropic IPO: Whither Now?",
@@ -67,22 +75,6 @@
       "url": "https://huggingface.co/blog/allenai/toyblocks",
       "published": "2026-11-06T14:00:48+00:00",
       "summary": ""
-    },
-    {
-      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
-      "published": "2026-11-06T10:35:21+00:00",
-      "summary": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic."
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;"
     }
   ]
 }
