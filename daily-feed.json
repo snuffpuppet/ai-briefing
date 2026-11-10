@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-11-10T09:14:15.480415+00:00",
+  "generated_at": "2026-11-10T17:28:48.502208+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 39,
   "items": [
+    {
+      "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+      "published": "2026-11-10T17:00:49+00:00",
+      "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive recommendations, and how LLMs are tailored to specific tasks within the system. Traditionally, the [...]\nRead More...\nThe post Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations appeared first"
+    },
+    {
+      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+      "published": "2026-11-10T16:59:31+00:00",
+      "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton&#8217;s productive programming model.  TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without sacrificing velocity.  TLX has demonstrated performance improvements in RecSys training, RecSys inference, and large-scale LLM pretraining. Modern GPU architectures increasingly [...]\nRead More...\nThe po"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "published": "2026-11-10T16:03:47+00:00",
+      "summary": ""
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "published": "2026-11-10T15:00:39+00:00",
+      "summary": "The new model is up to twice as successful at some tasks."
+    },
+    {
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "published": "2026-11-10T15:00:21+00:00",
+      "summary": "A deep conversation on the biggest challenges of developing with AI &#8211; while trying not to mention the phrase &#8220;AI&#8221; once. Why? To dig up the fundamentals that are as important as ever"
+    },
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "published": "2026-11-10T12:15:32+00:00",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "published": "2026-11-10T12:02:28+00:00",
+      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption."
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "title": "Fragments: November 10",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-11-10.html",
+      "published": "2026-11-10T09:30:00-05:00",
+      "summary": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last six months. It’s been a busy half-year, one that again has been dominated by AI, and that’s reflected in the many AI blips on the radar.\n\nThe mass of blips makes it hard to develop a coherent story around trends, but Chris Ford has done a fine job of the w"
+    },
+    {
+      "title": "Long-horizon agents and durable execution",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+      "published": "2026-11-10T09:10:00-05:00",
+      "summary": "Long-horizon agents can automate complex tasks that take days or weeks\n     to complete and involve multiple exchanges with people and external\n     systems. Many things can go wrong during this time, including process\n     crashes, network failures, and unanticipated real-world behavior.\n     Kiran Prakash explains durable execution: an emerging\n     pattern that helps agents recover from these failures and move towards\n     their goal. In this programming model, the runtime keeps a record of"
+    },
     {
       "title": "Closing the AI guidance gap in education",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "published": "2026-11-10T09:00:00+00:00",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
     },
     {
       "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -19,6 +99,14 @@
       "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
       "published": "2026-11-10T07:28:21+00:00",
       "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember\nMeta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:\n\n[...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.\n\nFor shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published": "2026-11-10T07:00:00+00:00",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
     },
     {
       "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
@@ -45,6 +133,22 @@
       "summary": "Tool: Yonkers Rises\n        I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to:\n\nMake a three js animation where yonkers stands up as a big mech (cool stand up motion) and átomos around manhattan and queens and Brooklyn, use openstreetmap mapping data\n\nIt correctly deduced that \"átomos\" was a mobile keyboard typo"
     },
     {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/decision",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": ""
+    },
+    {
       "title": "Beyond the award: The people behind our onboarding experience",
       "source": "Thoughtworks Insights",
       "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
@@ -67,6 +171,14 @@
       "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "published": "2026-11-09T23:57:21+00:00",
       "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping. The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator, a software system for triangulating the source of a mysterious beep using multiple devices scattered a"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "published": "2026-11-09T19:51:47+00:00",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
     },
     {
       "title": "The backlash about data centers might really just be about electricity",
@@ -197,52 +309,12 @@
       "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
     },
     {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "published": "2026-11-09T04:32:33+00:00",
-      "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News.OK, this comment convinced me to give that a shot.\nHere's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB)\nI just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it had built it, and got this: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (98"
-    },
-    {
-      "title": "Hide your slop PR descriptions behind <details><summary>",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
-      "published": "2026-11-09T04:25:05+00:00",
-      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions.\nThey're too good at describing the work\nThe problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes"
-    },
-    {
       "title": "BAIR at CoRL 2026",
       "source": "The Berkeley Artificial Intelligence Research Blog",
       "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
       "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
       "published": "2026-11-09T01:00:00-08:00",
       "summary": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies.\n\n\n\n\n\n\nNovember 9–12, 2026Austin, TexasAll times CST · UTC−6\n\n\n33Main-conference papers\n4Late-breaking re"
-    },
-    {
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-      "published": "2026-11-08T22:26:00+00:00",
-      "summary": "Research: parse_number() as a SQLite extension: C vs Rust\n        I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted.\nI fired up regular Claude chat (Opus 5.5) and prompted:\n\nI'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '£' and '%', handles a leading '-', and r"
-    },
-    {
-      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/cs146s/",
-      "published": "2026-11-08T21:41:44+00:00",
-      "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco."
-    },
-    {
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-      "published": "2026-11-08T21:23:29+00:00",
-      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ..."
     }
   ]
 }
