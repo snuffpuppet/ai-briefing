@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T18:17:05.284343+00:00",
+  "generated_at": "2026-11-10T01:52:48.786915+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 25,
   "items": [
     {
       "title": "Beyond the award: The people behind our onboarding experience",
@@ -11,6 +11,38 @@
       "url": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
       "published": "2026-11-10T00:00:00+00:00",
       "summary": "Beyond the award: The people behind our onboarding experience"
+    },
+    {
+      "title": "llm-anthropic 0.31",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "published": "2026-11-09T23:58:46+00:00",
+      "summary": "Release: llm-anthropic 0.31\n        Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic, so you can now run prompts through Fable 5.2 like this:\nuv tool install llm\nllm install llm-anthropic\nllm keys set anthropic\n# paste key here\nllm -m claude-fable-5.2 \"Generate an SVG of a pelican riding a bicycle\"\n\nI ran pelicans at all five reasoning levels - low, medium, high, xhigh, and max. You can see them all here - here's the best result I got, from xhigh:\n\nmax failed t"
+    },
+    {
+      "title": "Locating the source of a mysterious beep with Claude",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "published": "2026-11-09T23:57:21+00:00",
+      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping. The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator, a software system for triangulating the source of a mysterious beep using multiple devices scattered a"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "published": "2026-11-09T19:35:33+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
     },
     {
       "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -85,6 +117,14 @@
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a theorem:…An evocative taste of the singularity…In the same way a few years ago it went from remarkable [&#8230;]"
     },
     {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/control-room",
+      "published": "2026-11-09T13:00:00+00:00",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
       "title": "Innovating with AI in the special chemicals industry",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -101,6 +141,22 @@
       "summary": ""
     },
     {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/kuken",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+    },
+    {
       "title": "The Web Is More Than Enough, by Paul Ford",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
@@ -115,6 +171,14 @@
       "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
       "published": "2026-11-09T04:25:05+00:00",
       "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions.\nThey're too good at describing the work\nThe problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes"
+    },
+    {
+      "title": "BAIR at CoRL 2026",
+      "source": "The Berkeley Artificial Intelligence Research Blog",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "published": "2026-11-09T01:00:00-08:00",
+      "summary": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies.\n\n\n\n\n\n\nNovember 9–12, 2026Austin, TexasAll times CST · UTC−6\n\n\n33Main-conference papers\n4Late-breaking re"
     },
     {
       "title": "parse_number() as a SQLite extension: C vs Rust",
