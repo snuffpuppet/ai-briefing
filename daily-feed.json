@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-10T17:28:48.502208+00:00",
+  "generated_at": "2026-11-10T22:49:35.113096+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 39,
+  "item_count": 43,
   "items": [
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "2026-11-10T22:35:01+00:00",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "2026-11-10T21:12:59+00:00",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+    },
+    {
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "published": "2026-11-10T20:30:01+00:00",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World."
+    },
+    {
+      "title": "llm-gemini 0.36",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "published": "2026-11-10T20:09:44+00:00",
+      "summary": "Release: llm-gemini 0.36\n        Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else.\nThis is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5).\nHere are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got fo"
+    },
+    {
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/resend/",
+      "published": "2026-11-10T20:05:17+00:00",
+      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send."
+    },
+    {
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/naiveai/",
+      "published": "2026-11-10T18:56:32+00:00",
+      "summary": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek."
+    },
     {
       "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
       "source": "Engineering at Meta",
@@ -67,6 +115,14 @@
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "published": "2026-11-10T12:00:00+00:00",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published": "2026-11-10T10:00:00+00:00",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
       "title": "Fragments: November 10",
@@ -291,30 +347,6 @@
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "published": "2026-11-09T12:34:29+00:00",
       "summary": ""
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
-    },
-    {
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/kuken",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
-    },
-    {
-      "title": "BAIR at CoRL 2026",
-      "source": "The Berkeley Artificial Intelligence Research Blog",
-      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
-      "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
-      "published": "2026-11-09T01:00:00-08:00",
-      "summary": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies.\n\n\n\n\n\n\nNovember 9–12, 2026Austin, TexasAll times CST · UTC−6\n\n\n33Main-conference papers\n4Late-breaking re"
     }
   ]
 }
