@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-10T22:49:35.113096+00:00",
+  "generated_at": "2026-11-11T02:30:55.484734+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 43,
+  "item_count": 40,
   "items": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
     {
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
       "source": "AI - Ars Technica",
@@ -314,38 +322,6 @@
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
       "published": "2026-11-09T15:05:57+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "source": "Import AI",
-      "feed_url": "https://jack-clark.net/feed/",
-      "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
-      "published": "2026-11-09T13:31:34+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a theorem:…An evocative taste of the singularity…In the same way a few years ago it went from remarkable [&#8230;]"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/control-room",
-      "published": "2026-11-09T13:00:00+00:00",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "published": "2026-11-09T13:00:00+00:00",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "published": "2026-11-09T12:34:29+00:00",
       "summary": ""
     }
   ]
