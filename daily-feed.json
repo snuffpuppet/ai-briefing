@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T18:21:37.198443+00:00",
+  "generated_at": "2026-11-12T01:17:36.860628+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 37,
+  "item_count": 33,
   "items": [
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -11,6 +11,30 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "published": "2026-11-12T00:00:00+00:00",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "Gemini Decisions API",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "published": "2026-11-11T22:03:25+00:00",
+      "summary": "Gemini Decisions API\nGoogle join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question.\nIt's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million.\nJev is text (and JSON) only. Open"
+    },
+    {
+      "title": "aws-emulator",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "published": "2026-11-11T21:18:30+00:00",
+      "summary": "aws-emulator\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.\nIt's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog.\nIt currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great"
+    },
+    {
+      "title": "Browse tools.simonwillison.net by tag",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "published": "2026-11-11T18:42:50+00:00",
+      "summary": "Browse tools.simonwillison.net by tag\nI've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool.\nThe homepage now features tag clouds for browsing by each of those categories of tag:\n\n\n\n    Tags: javascript, tools, ai, generative-ai, llms, claude, vibe-coding"
     },
     {
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
@@ -26,7 +50,15 @@
       "feed_url": "https://arstechnica.com/ai/feed/",
       "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
       "published": "2026-11-11T17:37:32+00:00",
-      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges."
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges."
+    },
+    {
+      "title": "llm 0.37.2",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "published": "2026-11-11T17:19:52+00:00",
+      "summary": "Release: llm 0.37.2\n        Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w.\nLLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers.\nDaniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a resp"
     },
     {
       "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
@@ -115,6 +147,14 @@
       "url": "https://latent.space/p/codex-work/",
       "published": "2026-11-11T04:49:48+00:00",
       "summary": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots."
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
     },
     {
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
@@ -213,38 +253,6 @@
       "summary": "A deep conversation on the biggest challenges of developing with AI &#8211; while trying not to mention the phrase &#8220;AI&#8221; once. Why? To dig up the fundamentals that are as important as ever"
     },
     {
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "published": "2026-11-10T12:15:32+00:00",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "published": "2026-11-10T12:02:28+00:00",
-      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption."
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published": "2026-11-10T12:00:00+00:00",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published": "2026-11-10T10:00:00+00:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-    },
-    {
       "title": "Fragments: November 10",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
@@ -259,46 +267,6 @@
       "url": "https://martinfowler.com/articles/durable-execution-agents.html",
       "published": "2026-11-10T09:10:00-05:00",
       "summary": "Long-horizon agents can automate complex tasks that take days or weeks\n     to complete and involve multiple exchanges with people and external\n     systems. Many things can go wrong during this time, including process\n     crashes, network failures, and unanticipated real-world behavior.\n     Kiran Prakash explains durable execution: an emerging\n     pattern that helps agents recover from these failures and move towards\n     their goal. In this programming model, the runtime keeps a record of"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published": "2026-11-10T09:00:00+00:00",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "published": "2026-11-10T08:00:00+00:00",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
-    },
-    {
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "published": "2026-11-10T07:28:21+00:00",
-      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember\nMeta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:\n\n[...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.\n\nFor shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published": "2026-11-10T07:00:00+00:00",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-    },
-    {
-      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "published": "2026-11-10T06:34:44+00:00",
-      "summary": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?"
     }
   ]
 }
