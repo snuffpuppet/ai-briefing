@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-12T09:16:07.204808+00:00",
+  "generated_at": "2026-11-12T17:54:50.633889+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 23,
   "items": [
+    {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "published": "2026-11-12T14:50:17+00:00",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published": "2026-11-12T09:30:00+00:00",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    },
+    {
+      "title": "Bliki: Generated Glossary",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+      "published": "2026-11-12T09:15:00-05:00",
+      "summary": "When we use LLMs in a specialized domain, such as the operations of any\n  reasonably-large organization, there is a lot of specialized vocabulary. Such\n  words and specialized meanings will be foreign to an LLM because they aren't\n  in its training set, making it harder for the LLM to be effective when doing\n  tasks in that domain. One technique to aid this is to use an LLM to generate a\n  glossary of the terminology in that domain, and make this glossary available\n  for any LLMs doing work in t"
+    },
     {
       "title": "[AINews] D-Day (Decision Models Day)",
       "source": "Latent Space",
@@ -21,12 +45,28 @@
       "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
     },
     {
+      "title": "Supporting research on AI and children’s safety",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "published": "2026-11-12T00:00:00+00:00",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Gemini Decisions API",
@@ -122,7 +162,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/national-science-foundation-x-labs",
       "published": "2026-11-11T13:00:03+00:00",
-      "summary": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now, the NSF is doubling down on the idea, with an announcement in October that charities, companies, and investment funds would provide X-Lab winners practical support such as laboratory space, software, shared equipment, and access to key data and expert guidanc"
+      "summary": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now the NSF is doubling down on the idea, with an announcement in October that charities, companies, and investment funds would provide X-Lab winners practical support such as laboratory space, software, shared equipment, and access to key data and expert guidance"
     },
     {
       "title": "Tests as data: ensuring AI-generated code does what we want",
@@ -147,46 +187,6 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "published": "2026-11-11T08:00:00+00:00",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "published": "2026-11-11T05:01:16+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/codex-work/",
-      "published": "2026-11-11T04:49:48+00:00",
-      "summary": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots."
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published": "2026-11-11T00:00:00+00:00",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "published": "2026-11-11T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "published": "2026-11-10T22:35:01+00:00",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
     }
   ]
 }
