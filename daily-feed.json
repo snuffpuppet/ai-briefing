@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-12T01:17:36.860628+00:00",
+  "generated_at": "2026-11-12T09:16:07.204808+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 33,
+  "item_count": 23,
   "items": [
+    {
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "published": "2026-11-12T05:26:54+00:00",
+      "summary": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers."
+    },
+    {
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/jev-revolution/",
+      "published": "2026-11-12T05:08:20+00:00",
+      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "source": "OpenAI News",
@@ -98,7 +114,7 @@
       "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
       "url": "https://spectrum.ieee.org/human-centered-ai-product-design",
       "published": "2026-11-11T14:00:02+00:00",
-      "summary": "Over the past few years, the tech industry has rushed to plug a new microchip into every device on the assumption that if you can add AI, you should. Smart vision toothbrushes, mood-reading household robots, and a host of physical products are invading consumers’ daily lives, reliant on artificial intelligence to learn, predict, and adjust our behavior. But as anyone who’s struggled to update the firmware in their fridge knows, AI doesn’t improve every product. Some product designers are asking"
+      "summary": "Over the past few years, the tech industry has rushed to plug a new microchip into every device on the assumption that if you can add AI, you should. Smart-vision toothbrushes, mood-reading household robots, and a host of physical products are invading consumers’ daily lives, reliant on artificial intelligence to learn, predict, and adjust our behavior. But as anyone who’s struggled to update the firmware in their fridge knows, AI doesn’t improve every product. Some product designers are asking"
     },
     {
       "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
@@ -171,102 +187,6 @@
       "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
       "published": "2026-11-10T22:35:01+00:00",
       "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
-    },
-    {
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "published": "2026-11-10T21:12:59+00:00",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
-    },
-    {
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "published": "2026-11-10T20:30:01+00:00",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World."
-    },
-    {
-      "title": "llm-gemini 0.36",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "published": "2026-11-10T20:09:44+00:00",
-      "summary": "Release: llm-gemini 0.36\n        Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else.\nThis is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5).\nHere are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got fo"
-    },
-    {
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/resend/",
-      "published": "2026-11-10T20:05:17+00:00",
-      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send."
-    },
-    {
-      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/naiveai/",
-      "published": "2026-11-10T18:56:32+00:00",
-      "summary": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek."
-    },
-    {
-      "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
-      "published": "2026-11-10T17:00:49+00:00",
-      "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive recommendations, and how LLMs are tailored to specific tasks within the system. Traditionally, the [...]\nRead More...\nThe post Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations appeared first"
-    },
-    {
-      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
-      "published": "2026-11-10T16:59:31+00:00",
-      "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton&#8217;s productive programming model.  TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without sacrificing velocity.  TLX has demonstrated performance improvements in RecSys training, RecSys inference, and large-scale LLM pretraining. Modern GPU architectures increasingly [...]\nRead More...\nThe po"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "published": "2026-11-10T16:03:47+00:00",
-      "summary": ""
-    },
-    {
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "published": "2026-11-10T15:00:39+00:00",
-      "summary": "The new model is up to twice as successful at some tasks."
-    },
-    {
-      "title": "Software correctness & supply chain security, with Sean Allen",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
-      "published": "2026-11-10T15:00:21+00:00",
-      "summary": "A deep conversation on the biggest challenges of developing with AI &#8211; while trying not to mention the phrase &#8220;AI&#8221; once. Why? To dig up the fundamentals that are as important as ever"
-    },
-    {
-      "title": "Fragments: November 10",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-11-10.html",
-      "published": "2026-11-10T09:30:00-05:00",
-      "summary": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last six months. It’s been a busy half-year, one that again has been dominated by AI, and that’s reflected in the many AI blips on the radar.\n\nThe mass of blips makes it hard to develop a coherent story around trends, but Chris Ford has done a fine job of the w"
-    },
-    {
-      "title": "Long-horizon agents and durable execution",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/durable-execution-agents.html",
-      "published": "2026-11-10T09:10:00-05:00",
-      "summary": "Long-horizon agents can automate complex tasks that take days or weeks\n     to complete and involve multiple exchanges with people and external\n     systems. Many things can go wrong during this time, including process\n     crashes, network failures, and unanticipated real-world behavior.\n     Kiran Prakash explains durable execution: an emerging\n     pattern that helps agents recover from these failures and move towards\n     their goal. In this programming model, the runtime keeps a record of"
     }
   ]
 }
