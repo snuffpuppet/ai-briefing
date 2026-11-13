@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-11-13T13:54:35.836336+00:00",
+  "generated_at": "2026-11-13T20:45:02.684795+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 25,
   "items": [
+    {
+      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+      "published": "2026-11-13T19:00:03+00:00",
+      "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governance, and auditing into daily operational workflows has become one of the industry’s toughest challenges.“AI ethics” refers to the principles developers use to govern and operate workflows. “Governance” refers to the rules and procedures an organization establishes for AI workflows and how they interac"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published": "2026-11-13T18:00:39+00:00",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "published": "2026-11-13T17:25:45+00:00",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "published": "2026-11-13T17:02:35+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "published": "2026-11-13T17:00:39+00:00",
+      "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...]\nRead More...\nThe post Cuttlefish on Mac: Running Android&#8217;s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published": "2026-11-13T14:05:22+00:00",
+      "summary": ""
+    },
     {
       "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
       "source": "Latent Space",
@@ -147,22 +203,6 @@
       "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
       "published": "2026-11-12T09:15:00-05:00",
       "summary": "When we use LLMs in a specialized domain, such as the operations of any\n  reasonably-large organization, there is a lot of specialized vocabulary. Such\n  words and specialized meanings will be foreign to an LLM because they aren't\n  in its training set, making it harder for the LLM to be effective when doing\n  tasks in that domain. One technique to aid this is to use an LLM to generate a\n  glossary of the terminology in that domain, and make this glossary available\n  for any LLMs doing work in t"
-    },
-    {
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
-      "published": "2026-11-12T05:26:54+00:00",
-      "summary": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers."
-    },
-    {
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/jev-revolution/",
-      "published": "2026-11-12T05:08:20+00:00",
-      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
     }
   ]
 }
