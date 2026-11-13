@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-13T05:01:15.556839+00:00",
+  "generated_at": "2026-11-13T13:54:35.836336+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 26,
+  "item_count": 20,
   "items": [
+    {
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "published": "2026-11-13T09:04:13+00:00",
+      "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?"
+    },
     {
       "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
       "source": "Latent Space",
@@ -11,6 +19,22 @@
       "url": "https://latent.space/p/artcraft/",
       "published": "2026-11-13T04:17:25+00:00",
       "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!"
+    },
+    {
+      "title": "SpecBench: A tool to evaluate AI-enabled software development workflows",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/specbench-tool-evaluate-ai-enabled-software-development-workflows",
+      "published": "2026-11-13T00:00:00+00:00",
+      "summary": "SpecBench: A tool to evaluate AI-enabled software development workflows"
+    },
+    {
+      "title": "Attackers are targeting the AI tools that produce our software",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/attackers-are-targeting-the-ai-tools-that-produce-our-software",
+      "published": "2026-11-13T00:00:00+00:00",
+      "summary": "Attackers are targeting the AI tools that produce our software"
     },
     {
       "title": "llm-gemini 0.37",
@@ -139,78 +163,6 @@
       "url": "https://latent.space/p/jev-revolution/",
       "published": "2026-11-12T05:08:20+00:00",
       "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/children-first-declaration",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-    },
-    {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Gemini Decisions API",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "published": "2026-11-11T22:03:25+00:00",
-      "summary": "Gemini Decisions API\nGoogle join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question.\nIt's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million.\nJev is text (and JSON) only. Open"
-    },
-    {
-      "title": "aws-emulator",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-      "published": "2026-11-11T21:18:30+00:00",
-      "summary": "aws-emulator\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.\nIt's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog.\nIt currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great"
-    },
-    {
-      "title": "Browse tools.simonwillison.net by tag",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-      "published": "2026-11-11T18:42:50+00:00",
-      "summary": "Browse tools.simonwillison.net by tag\nI've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool.\nThe homepage now features tag clouds for browsing by each of those categories of tag:\n\n\n\n    Tags: javascript, tools, ai, generative-ai, llms, claude, vibe-coding"
-    },
-    {
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "published": "2026-11-11T18:16:40+00:00",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
-    },
-    {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "published": "2026-11-11T17:37:32+00:00",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges."
-    },
-    {
-      "title": "llm 0.37.2",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/11/llm/",
-      "published": "2026-11-11T17:19:52+00:00",
-      "summary": "Release: llm 0.37.2\n        Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w.\nLLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers.\nDaniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a resp"
     }
   ]
 }
