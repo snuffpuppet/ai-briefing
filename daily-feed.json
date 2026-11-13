@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-12T23:12:05.529888+00:00",
+  "generated_at": "2026-11-13T05:01:15.556839+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 30,
+  "item_count": 26,
   "items": [
+    {
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/artcraft/",
+      "published": "2026-11-13T04:17:25+00:00",
+      "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!"
+    },
+    {
+      "title": "llm-gemini 0.37",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "published": "2026-11-12T22:55:19+00:00",
+      "summary": "Release: llm-gemini 0.37\n        Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.\nIt's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme:\n\n  \n    \n      Model\n      Dates\n      Input ($/M)\n      Cached input\n      Output\n    \n  \n  \n    \n      Gemini 4 Carbon\n      Through Nov 30, 2026\n      $2.00\n      $0.10\n      $10.00\n    \n    \n      From Dec 1, 20"
+    },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "source": "AI - Ars Technica",
@@ -24,7 +40,7 @@
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/amplitude",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "published": "2026-11-12T20:00:00+00:00",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
@@ -83,6 +99,14 @@
       "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "published": "2026-11-12T14:50:17+00:00",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "published": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -187,62 +211,6 @@
       "url": "https://simonwillison.net/2026/Nov/11/llm/",
       "published": "2026-11-11T17:19:52+00:00",
       "summary": "Release: llm 0.37.2\n        Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w.\nLLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers.\nDaniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a resp"
-    },
-    {
-      "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
-      "source": "Engineering at Meta",
-      "feed_url": "https://engineering.fb.com/feed/",
-      "url": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
-      "published": "2026-11-11T17:00:38+00:00",
-      "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it to get the best outcome for the entire system. We built [...]\nRead More...\nThe post Intelligent Delivery: Making Every Unit of Compute Serve Better Ads appeared first on Engineering at Meta."
-    },
-    {
-      "title": "Anthropic's IPO roadshow video",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "published": "2026-11-11T15:11:59+00:00",
-      "summary": "Anthropic&#x27;s IPO roadshow video\nAnthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.\nThe section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs.\nI'm not sure why there's no official video transcript, but here's one that I extracted using MacWhisper. Highlig"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "published": "2026-11-11T15:00:15+00:00",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
-    },
-    {
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "published": "2026-11-11T14:08:57+00:00",
-      "summary": "The four-week project hints that AI could make formal verification far more practical."
-    },
-    {
-      "title": "When Does It Actually Make Sense to Put AI Into Products?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/human-centered-ai-product-design",
-      "published": "2026-11-11T14:00:02+00:00",
-      "summary": "Over the past few years, the tech industry has rushed to plug a new microchip into every device on the assumption that if you can add AI, you should. Smart-vision toothbrushes, mood-reading household robots, and a host of physical products are invading consumers’ daily lives, reliant on artificial intelligence to learn, predict, and adjust our behavior. But as anyone who’s struggled to update the firmware in their fridge knows, AI doesn’t improve every product. Some product designers are asking"
-    },
-    {
-      "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/national-science-foundation-x-labs",
-      "published": "2026-11-11T13:00:03+00:00",
-      "summary": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now the NSF is doubling down on the idea, with an announcement in October that charities, companies, and investment funds would provide X-Lab winners practical support such as laboratory space, software, shared equipment, and access to key data and expert guidance"
-    },
-    {
-      "title": "Tests as data: ensuring AI-generated code does what we want",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/articles/tests-as-data.html",
-      "published": "2026-11-11T10:17:00-05:00",
-      "summary": "Automated testing in the age of AI coding assistants is problematic:\n     when AI agents write both production and test code, developers risk losing\n     the assurance that automated tests protect against functional errors.\n     Matteo Vaccari makes three claims: (1) when AI writes the\n     code, developers become its customers; (2) therefore customer tests, not\n     developer tests, become the primary contract between humans and AI; (3)\n     moving that contract into test data rather than tes"
     }
   ]
 }
