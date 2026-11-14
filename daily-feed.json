@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-13T20:45:02.684795+00:00",
+  "generated_at": "2026-11-14T01:15:43.734268+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 25,
+  "item_count": 26,
   "items": [
+    {
+      "title": "datasette-cluster-map 0.19",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "published": "2026-11-13T23:02:45+00:00",
+      "summary": "Release: datasette-cluster-map 0.19\n        One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.\nHere's a map of power plants owned by California's PG&amp;E, also demonstrating Datasette's recently redesigned facets:\n\n    \n    \n        Tags: datasette, geospatial, openstreetmap"
+    },
+    {
+      "title": "datasette-leaflet 0.3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "published": "2026-11-13T22:30:54+00:00",
+      "summary": "Release: datasette-leaflet 0.3\n        OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy.\ndatasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "published": "2026-11-13T21:20:47+00:00",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+    },
     {
       "title": "How Microcredentials Help Engineers Build Trustworthy AI",
       "source": "IEEE Spectrum",
@@ -24,7 +48,7 @@
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "published": "2026-11-13T17:25:45+00:00",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
     },
@@ -69,6 +93,14 @@
       "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?"
     },
     {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
       "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
       "source": "Latent Space",
       "feed_url": "https://www.latent.space/feed",
@@ -99,14 +131,6 @@
       "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
       "published": "2026-11-12T22:55:19+00:00",
       "summary": "Release: llm-gemini 0.37\n        Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.\nIt's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme:\n\n  \n    \n      Model\n      Dates\n      Input ($/M)\n      Cached input\n      Output\n    \n  \n  \n    \n      Gemini 4 Carbon\n      Through Nov 30, 2026\n      $2.00\n      $0.10\n      $10.00\n    \n    \n      From Dec 1, 20"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "published": "2026-11-12T22:28:47+00:00",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -179,22 +203,6 @@
       "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "published": "2026-11-12T14:50:17+00:00",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "published": "2026-11-12T12:00:00+00:00",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published": "2026-11-12T09:30:00+00:00",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
     },
     {
       "title": "Bliki: Generated Glossary",
