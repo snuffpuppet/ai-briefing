@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T15:32:30.774659+00:00",
+  "generated_at": "2026-11-14T20:24:11.891895+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 13,
   "items": [
     {
       "title": "Open-source AI without Jensen",
@@ -107,22 +107,6 @@
       "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
       "published": "2026-11-13T09:04:13+00:00",
       "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "published": "2026-11-13T08:00:00+00:00",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
-    },
-    {
-      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/artcraft/",
-      "published": "2026-11-13T04:17:25+00:00",
-      "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!"
     }
   ]
 }
