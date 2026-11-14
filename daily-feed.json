@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-14T08:34:58.342890+00:00",
+  "generated_at": "2026-11-14T15:32:30.774659+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Open-source AI without Jensen",
+      "source": "Interconnects AI",
+      "feed_url": "https://www.interconnects.ai/feed",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "published": "2026-11-14T12:23:15+00:00",
+      "summary": "A decapitation. It&#8217;s time to rebuild."
+    },
     {
       "title": "[AINews] The No AI Slop Manifesto",
       "source": "Latent Space",
@@ -115,30 +123,6 @@
       "url": "https://latent.space/p/artcraft/",
       "published": "2026-11-13T04:17:25+00:00",
       "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!"
-    },
-    {
-      "title": "SpecBench: A tool to evaluate AI-enabled software development workflows",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/specbench-tool-evaluate-ai-enabled-software-development-workflows",
-      "published": "2026-11-13T00:00:00+00:00",
-      "summary": "SpecBench: A tool to evaluate AI-enabled software development workflows"
-    },
-    {
-      "title": "Attackers are targeting the AI tools that produce our software",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/attackers-are-targeting-the-ai-tools-that-produce-our-software",
-      "published": "2026-11-13T00:00:00+00:00",
-      "summary": "Attackers are targeting the AI tools that produce our software"
-    },
-    {
-      "title": "llm-gemini 0.37",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "published": "2026-11-12T22:55:19+00:00",
-      "summary": "Release: llm-gemini 0.37\n        Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.\nIt's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme:\n\n  \n    \n      Model\n      Dates\n      Input ($/M)\n      Cached input\n      Output\n    \n  \n  \n    \n      Gemini 4 Carbon\n      Through Nov 30, 2026\n      $2.00\n      $0.10\n      $10.00\n    \n    \n      From Dec 1, 20"
     }
   ]
 }
