@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-14T20:24:11.891895+00:00",
+  "generated_at": "2026-11-15T00:44:03.106773+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 13,
   "items": [
+    {
+      "title": "datasette-vega 0.7",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "published": "2026-11-14T17:09:09+00:00",
+      "summary": "Release: datasette-vega 0.7\n        A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite against data in a table or custom query. The last release was in July 2018!\nI finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite.\n(Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.)\nSince it works with Datasette Lite, the li"
+    },
     {
       "title": "Open-source AI without Jensen",
       "source": "Interconnects AI",
@@ -99,14 +107,6 @@
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "published": "2026-11-13T14:05:22+00:00",
       "summary": ""
-    },
-    {
-      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-      "published": "2026-11-13T09:04:13+00:00",
-      "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?"
     }
   ]
 }
