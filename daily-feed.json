@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T15:18:45.576630+00:00",
+  "generated_at": "2026-11-15T20:48:36.280690+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 3,
   "items": [
     {
       "title": "datasette-llm 0.1a11",
@@ -27,14 +27,6 @@
       "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
       "published": "2026-11-14T12:23:15+00:00",
       "summary": "A decapitation. It&#8217;s time to rebuild."
-    },
-    {
-      "title": "[AINews] The No AI Slop Manifesto",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-      "published": "2026-11-14T08:31:02+00:00",
-      "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop."
     }
   ]
 }
