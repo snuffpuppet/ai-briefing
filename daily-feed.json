@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T07:31:53.204440+00:00",
+  "generated_at": "2026-11-15T15:18:45.576630+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 7,
+  "item_count": 4,
   "items": [
     {
       "title": "datasette-llm 0.1a11",
@@ -35,30 +35,6 @@
       "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
       "published": "2026-11-14T08:31:02+00:00",
       "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop."
-    },
-    {
-      "title": "datasette-cluster-map 0.19",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "published": "2026-11-13T23:02:45+00:00",
-      "summary": "Release: datasette-cluster-map 0.19\n        One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.\nHere's a map of power plants owned by California's PG&amp;E, also demonstrating Datasette's recently redesigned facets:\n\n    \n    \n        Tags: datasette, geospatial, openstreetmap"
-    },
-    {
-      "title": "datasette-leaflet 0.3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-      "published": "2026-11-13T22:30:54+00:00",
-      "summary": "Release: datasette-leaflet 0.3\n        OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy.\ndatasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "published": "2026-11-13T21:20:47+00:00",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
     }
   ]
 }
