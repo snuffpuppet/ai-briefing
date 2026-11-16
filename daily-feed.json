@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-15T20:48:36.280690+00:00",
+  "generated_at": "2026-11-16T00:44:22.786091+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 5,
   "items": [
+    {
+      "title": "datasette 0.65.6",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "published": "2026-11-15T23:18:17+00:00",
+      "summary": "Release: datasette 0.65.6\n        I backported a minor security fix from 1.0a43:\n\nFixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...]\n\n    \n    \n        Tags: security, datasette"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published": "2026-11-15T22:00:01+00:00",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
+      "title": "Our new blog for science",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "published": "2026-11-15T22:00:00+00:00",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
     {
       "title": "datasette-llm 0.1a11",
       "source": "Simon Willison's Weblog",
@@ -19,14 +43,6 @@
       "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
       "published": "2026-11-14T17:09:09+00:00",
       "summary": "Release: datasette-vega 0.7\n        A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against data in a table or custom query. The last release was in July 2018!\nI finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite.\n(Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.)\nSince it works with Datasette Lite, the l"
-    },
-    {
-      "title": "Open-source AI without Jensen",
-      "source": "Interconnects AI",
-      "feed_url": "https://www.interconnects.ai/feed",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "published": "2026-11-14T12:23:15+00:00",
-      "summary": "A decapitation. It&#8217;s time to rebuild."
     }
   ]
 }
