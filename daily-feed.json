@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-16T00:44:22.786091+00:00",
+  "generated_at": "2026-11-16T07:38:19.452826+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 5,
+  "item_count": 8,
   "items": [
+    {
+      "title": "datasette-maplibre 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "published": "2026-11-15T23:58:36+00:00",
+      "summary": "Release: datasette-maplibre 0.1a0\n        The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.)\nI built most of this with a single prompt to Claude Fable 5.2:\n\nLook at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreG"
+    },
+    {
+      "title": "datasette 1.0a43",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "published": "2026-11-15T23:20:27+00:00",
+      "summary": "Release: datasette 1.0a43\n        I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete.\nThe biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method.\nThere are a couple of security fixes, one of which I deemed deserving of a"
+    },
     {
       "title": "datasette 0.65.6",
       "source": "Simon Willison's Weblog",
@@ -29,20 +45,28 @@
       "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
     },
     {
+      "title": "datasette-apps 0.4a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "published": "2026-11-15T04:02:45+00:00",
+      "summary": "Release: datasette-apps 0.4a0\n        Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data.\n0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other.\nThis means you can have e.g. an app that shows details about"
+    },
+    {
+      "title": "datasette-agent 0.6a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "published": "2026-11-15T03:49:47+00:00",
+      "summary": "Release: datasette-agent 0.6a0\n        Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries:\n\n    \n    \n        Tags: datasette-agent, llm, datasette, llms, ai, generative-ai"
+    },
+    {
       "title": "datasette-llm 0.1a11",
       "source": "Simon Willison's Weblog",
       "feed_url": "https://simonwillison.net/atom/everything/",
       "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
       "published": "2026-11-14T23:59:28+00:00",
       "summary": "Release: datasette-llm 0.1a11\n        datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.\nThis release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol.\nThis means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0) you can run Datasette via uvx like this:\nwget https://dat"
-    },
-    {
-      "title": "datasette-vega 0.7",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "published": "2026-11-14T17:09:09+00:00",
-      "summary": "Release: datasette-vega 0.7\n        A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against data in a table or custom query. The last release was in July 2018!\nI finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite.\n(Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.)\nSince it works with Datasette Lite, the l"
     }
   ]
 }
