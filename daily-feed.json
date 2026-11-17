@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-16T17:55:37.147614+00:00",
+  "generated_at": "2026-11-17T01:34:09.788041+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 22,
+  "item_count": 27,
   "items": [
+    {
+      "title": "llm 0.37.3",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "published": "2026-11-16T23:57:26+00:00",
+      "summary": "Release: llm 0.37.3\n        A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software.\nHomebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code.\nShort version: in SQLite 3.54.0 the following SQL:\nselect json_object('a', (select json_array(1)))\n\nReturns this:\n{\"a\":[1]}\n\nBut in 3.54.1 the same query returns this:\n{\"a\":\"[1]\"}\n\nAccording to D. Richard Hipp:\n\nThat was a bug fix. Per the documentation, (SELECT jso"
+    },
+    {
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "published": "2026-11-16T22:58:27+00:00",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home."
+    },
+    {
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/bfl/",
+      "published": "2026-11-16T21:38:03+00:00",
+      "summary": "Black Forest Labs’ case for learning AGI from pixels, motion and sound."
+    },
+    {
+      "title": "US moves to cut China’s remote access to AI chips",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "published": "2026-11-16T19:10:09+00:00",
+      "summary": "Trump bets China won’t mind US blocking remote access to AI chips."
+    },
+    {
+      "title": "The open-source movement wants Jensen Huang back",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "published": "2026-11-16T18:38:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;"
+    },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
       "source": "IEEE Spectrum",
@@ -43,14 +83,6 @@
       "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
       "published": "2026-11-16T14:06:16+00:00",
       "summary": "Huang is weighing a return just days after resigning amid a deepening scandal."
-    },
-    {
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "source": "Import AI",
-      "feed_url": "https://importai.substack.com/feed",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "published": "2026-11-16T14:01:15+00:00",
-      "summary": "Plus: CucumberVision!"
     },
     {
       "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
@@ -131,6 +163,14 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "published": "2026-11-16T00:00:00+00:00",
       "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+    },
+    {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
     },
     {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
