@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-17T01:34:09.788041+00:00",
+  "generated_at": "2026-11-17T10:10:10.829359+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 27,
+  "item_count": 31,
   "items": [
+    {
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "published": "2026-11-17T09:24:56+00:00",
+      "summary": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches."
+    },
+    {
+      "title": "Quoting Go Proverbs",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "published": "2026-11-17T06:16:26+00:00",
+      "summary": "A little copying is better than a little dependency.\n&mdash; Go Proverbs, via\n\n    Tags: go, programming"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
+      "title": "Model sovereignty is not about owning the model",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/model-sovereignty-is-not-about-owning-the-model",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "Model sovereignty is not about owning the model"
+    },
+    {
+      "title": "Sovereign AI: A practical approach to models, infrastructure and control",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/sovereign-ai--practical-approach-to-models-infrastructure-and-control",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "Sovereign AI: A practical approach to models, infrastructure and control"
+    },
     {
       "title": "llm 0.37.3",
       "source": "Simon Willison's Weblog",
@@ -125,6 +165,14 @@
       "summary": "This article is brought to you by VicOne.VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others.Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE"
     },
     {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "published": "2026-11-16T09:30:00+00:00",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+    },
+    {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
@@ -141,20 +189,20 @@
       "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
     },
     {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": ""
-    },
-    {
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "published": "2026-11-16T06:00:00+00:00",
       "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -203,22 +251,6 @@
       "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
       "published": "2026-11-15T23:18:17+00:00",
       "summary": "Release: datasette 0.65.6\n        I backported a minor security fix from 1.0a43:\n\nFixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...]\n\n    \n    \n        Tags: security, datasette"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "published": "2026-11-15T22:00:01+00:00",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
-    },
-    {
-      "title": "Our new blog for science",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "published": "2026-11-15T22:00:00+00:00",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
     }
   ]
 }
