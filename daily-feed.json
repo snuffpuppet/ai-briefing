@@ -1,9 +1,113 @@
 {
-  "generated_at": "2026-11-17T10:10:10.829359+00:00",
+  "generated_at": "2026-11-17T19:35:42.385595+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 31,
+  "item_count": 40,
   "items": [
+    {
+      "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+      "published": "2026-11-17T19:00:03+00:00",
+      "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents.Those issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems.In 2016 IEEE SA launched the IEEE Global Initiative for Ethica"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published": "2026-11-17T17:45:00+00:00",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+    },
+    {
+      "title": "Engineering AI Discover",
+      "source": "Netflix TechBlog - Medium",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "url": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+      "published": "2026-11-17T17:01:02+00:00",
+      "summary": "The challenges and decisions behind AI Discover’s intelligence layerBy Varun Khaitan, Peng Ren, Gary Tang, Itay Teller, Atif Faheem, Nipun Kumar, Donnie DeBoer, Eduardo Lundgren, Matteo Rinaldi, Raghav BakshiWe recently introduced AI Discover, a new tab in our TV app where a small group of members can try new ways to find something to watch. For years, our recommendations have worked in the background, inferring what a member might enjoy from their viewing history. AI Discover moves from that si"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "published": "2026-11-17T16:50:10+00:00",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+    },
+    {
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "published": "2026-11-17T16:48:33+00:00",
+      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide. I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application.\nYou can now do all of the following, using a carefully crafted URL to lite.datasette.io:\n\nLoad client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script\nSelect a released version of Datasette to l"
+    },
+    {
+      "title": "Inference engineering for software engineers",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "published": "2026-11-17T16:11:23+00:00",
+      "summary": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive"
+    },
+    {
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "published": "2026-11-17T15:28:59+00:00",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time."
+    },
+    {
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/cloudflare/",
+      "published": "2026-11-17T15:00:00+00:00",
+      "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds."
+    },
+    {
+      "title": "Research Reports",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "published": "2026-11-17T14:39:46+00:00",
+      "summary": "To access a report, click on the corresponding image below."
+    },
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "published": "2026-11-17T14:00:29+00:00",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+    },
+    {
+      "title": "AI Is Giving Optical Computing Another Shot",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "published": "2026-11-17T14:00:03+00:00",
+      "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponentially in the coming years.The reason for this sudden surge will surprise no one: AI. In particular,"
+    },
+    {
+      "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+      "published": "2026-11-17T11:00:04+00:00",
+      "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC.Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages.Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore operations.How power efficiency, RF signaling, and antenna design shape satellite-connected device development.Why long propagation delay, Doppler shift, and intermittent coverage make static test methods"
+    },
+    {
+      "title": "Deterministic Simulation Testing",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+      "published": "2026-11-17T09:33:00-05:00",
+      "summary": "Distributed systems are hard to test because partial failures overlap\n     with live traffic and the same fault can produce different execution traces\n     on different runs. Unmesh Joshi describes how\n     deterministic simulation testing addresses this by replacing real clocks,\n     networks, and storage with simulated components driven by a single-threaded\n     execution loop. This allows simulating both hard failures and routine\n     slowdowns&#x2014;such as network and disk latency spikes&#"
+    },
     {
       "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
       "source": "Latent Space",
@@ -27,6 +131,38 @@
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "published": "2026-11-17T00:00:00+00:00",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+    },
+    {
+      "title": "Taking AI agents from pilot to production starts with workforce design",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/taking-ai-agents-from-pilot-to-production-starts-with-workforce-",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "Taking AI agents from pilot to production starts with workforce design"
+    },
+    {
+      "title": "Why agentic AI pilots don’t scale",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/why-agentic-ai-pilots-dont-scale",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "Why agentic AI pilots don’t scale"
     },
     {
       "title": "Model sovereignty is not about owning the model",
@@ -187,70 +323,6 @@
       "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
       "published": "2026-11-16T08:00:00+00:00",
       "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "published": "2026-11-16T00:00:00+00:00",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
-    },
-    {
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "published": "2026-11-16T00:00:00+00:00",
-      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
-    },
-    {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/openrouter",
-      "published": "2026-11-16T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "datasette-maplibre 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "published": "2026-11-15T23:58:36+00:00",
-      "summary": "Release: datasette-maplibre 0.1a0\n        The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.)\nI built most of this with a single prompt to Claude Fable 5.2:\n\nLook at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreG"
-    },
-    {
-      "title": "datasette 1.0a43",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "published": "2026-11-15T23:20:27+00:00",
-      "summary": "Release: datasette 1.0a43\n        I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete.\nThe biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method.\nThere are a couple of security fixes, one of which I deemed deserving of a"
-    },
-    {
-      "title": "datasette 0.65.6",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "published": "2026-11-15T23:18:17+00:00",
-      "summary": "Release: datasette 0.65.6\n        I backported a minor security fix from 1.0a43:\n\nFixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...]\n\n    \n    \n        Tags: security, datasette"
     }
   ]
 }
