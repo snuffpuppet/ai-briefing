@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-18T02:05:28.297718+00:00",
+  "generated_at": "2026-11-18T11:06:37.351768+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 37,
+  "item_count": 32,
   "items": [
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "published": "2026-11-18T10:20:30+00:00",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;"
+    },
+    {
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "published": "2026-11-18T10:19:04+00:00",
+      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with."
+    },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "source": "AI - Ars Technica",
@@ -11,6 +27,14 @@
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
       "published": "2026-11-18T00:27:29+00:00",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
     },
     {
       "title": "External sandboxes for coding agents",
@@ -99,6 +123,14 @@
       "url": "https://latent.space/p/cloudflare/",
       "published": "2026-11-17T15:00:00+00:00",
       "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds."
+    },
+    {
+      "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+      "source": "Don't Worry About the Vase",
+      "feed_url": "https://thezvi.substack.com/feed",
+      "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
+      "published": "2026-11-17T14:41:58+00:00",
+      "summary": "This scandal is a really big deal."
     },
     {
       "title": "Research Reports",
@@ -227,78 +259,6 @@
       "url": "https://simonwillison.net/2026/Nov/16/llm/",
       "published": "2026-11-16T23:57:26+00:00",
       "summary": "Release: llm 0.37.3\n        A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software.\nHomebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code.\nShort version: in SQLite 3.54.0 the following SQL:\nselect json_object('a', (select json_array(1)))\n\nReturns this:\n{\"a\":[1]}\n\nBut in 3.54.1 the same query returns this:\n{\"a\":\"[1]\"}\n\nAccording to D. Richard Hipp:\n\nThat was a bug fix. Per the documentation, (SELECT jso"
-    },
-    {
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "published": "2026-11-16T22:58:27+00:00",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home."
-    },
-    {
-      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/bfl/",
-      "published": "2026-11-16T21:38:03+00:00",
-      "summary": "Black Forest Labs’ case for learning AGI from pixels, motion and sound."
-    },
-    {
-      "title": "US moves to cut China’s remote access to AI chips",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "published": "2026-11-16T19:10:09+00:00",
-      "summary": "Trump bets China won’t mind US blocking remote access to AI chips."
-    },
-    {
-      "title": "The open-source movement wants Jensen Huang back",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "published": "2026-11-16T18:38:47+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;"
-    },
-    {
-      "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models",
-      "published": "2026-11-16T17:00:54+00:00",
-      "summary": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev. The company’s broad, disruptive claims about Jev that turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate.TypeSafe AI’s marketing is an obvious shot across the bow of other AI companies and their large language models (LLMs), which, despite their capabilities in math and coding, are infamous for their cost and tendency to “hallucinate” factually"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "published": "2026-11-16T17:00:00+00:00",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "published": "2026-11-16T17:00:00+00:00",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "published": "2026-11-16T16:04:28+00:00",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;"
-    },
-    {
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "published": "2026-11-16T14:06:16+00:00",
-      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal."
     }
   ]
 }
