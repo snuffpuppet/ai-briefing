@@ -1,9 +1,121 @@
 {
-  "generated_at": "2026-11-18T11:06:37.351768+00:00",
+  "generated_at": "2026-11-18T19:57:39.997931+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 32,
+  "item_count": 42,
   "items": [
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published": "2026-11-18T19:54:56+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "published": "2026-11-18T19:19:33+00:00",
+      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says."
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published": "2026-11-18T18:53:43+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Genie 4 is now available",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "published": "2026-11-18T18:13:42+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "published": "2026-11-18T18:10:33+00:00",
+      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\""
+    },
+    {
+      "title": "Software factories and code reviews with Harjot Gill",
+      "source": "The Pragmatic Engineer",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "published": "2026-11-18T18:08:52+00:00",
+      "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI."
+    },
+    {
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "published": "2026-11-18T17:00:00+00:00",
+      "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models.  Now, we’re sharing how we propagate ranking model improvements like architectural advancements and training optimizations efficiently across a large and diverse fleet of ads [...]\nRead More...\nThe post How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models appea"
+    },
+    {
+      "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+      "source": "Engineering at Meta",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+      "published": "2026-11-18T16:59:38+00:00",
+      "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta, we built a template-driven approach that standardizes model design [...]\nRead More...\nThe post Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem appeared first on Engineering at Meta."
+    },
+    {
+      "title": "Quoting Daniel Stenberg",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "published": "2026-11-18T15:58:27+00:00",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 200 and maybe fixed a few more vulnerabilities. Will these clones keep up?\n&mdash; Daniel Stenberg, Ac"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published": "2026-11-18T15:00:23+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The PSF end-of-year fundraiser",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "published": "2026-11-18T14:44:48+00:00",
+      "summary": "The PSF end-of-year fundraiser\nWith my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community.\nIf your company or your work benefits from Python, please consider donating this year!\nThe PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports community events (including running PyCon US every year), and employs a small and excellent staff team to"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "published": "2026-11-18T14:42:44+00:00",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;"
+    },
+    {
+      "title": "Startup Makes Headway Towards Formalizing All of Math With AI",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/enormous-theorem-ai",
+      "published": "2026-11-18T13:00:03+00:00",
+      "summary": "As Axiom Math’s AI swarm was putting the final touches on the automatic verification of 15,000-page proof of the Classification of Finite Simple Groups (CFSG), colloquially referred to as the ‘enormous theorem’, on Sunday 25 October, the company’s Founding Mathematician Ken Ono had nothing to do but watch and reflect on the achievement.As the son of a mathematician, he had grown up surrounded by some of the architects of the CFSG’s proof, widely considered to be the longest mathematical proof ev"
+    },
+    {
+      "title": "Will AI Coding Eat Video Game Engines?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "published": "2026-11-18T12:00:03+00:00",
+      "summary": "When Travis McGeathy’s studio, Seeker Entertainment, ran out of funding in September, its game KinForge went down with it. KinForge was an online game built in Unreal Engine 5.7 and designed to run on servers hosted by Amazon Web Services (AWS). With no one left to pay the server bill, the game became unplayable even for those few developers, including studio co-founder McGeathy, who had the code.Then, on a whim, McGeathy pointed Anthropic’s Claude Code at the project and asked it to make KinFor"
+    },
     {
       "title": "This smell startup says its AI nose is as good as a human’s",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -21,6 +133,22 @@
       "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with."
     },
     {
+      "title": "Data Contracts",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/articles/data-contracts.html",
+      "published": "2026-11-18T09:02:00-05:00",
+      "summary": "Data contracts are a way to describe the contents and guarantees of\n     datasets. Simon Harrer and Arif Wider\n     describe in detail what they are and how to use them. They apply practices\n     from API design to data by treating them as data-providing services - such\n     as data products - whose interfaces we want to define as clearly as\n     possible. This approach significantly increases the robustness of\n     large-scale data landscapes, and gives both people and AI agents the\n     expl"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+    },
+    {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -29,12 +157,44 @@
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
     },
     {
+      "title": "The Silent Consensus",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+    },
+    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "published": "2026-11-18T00:00:00+00:00",
       "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "External sandboxes for coding agents",
@@ -125,14 +285,6 @@
       "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds."
     },
     {
-      "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
-      "source": "Don't Worry About the Vase",
-      "feed_url": "https://thezvi.substack.com/feed",
-      "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
-      "published": "2026-11-17T14:41:58+00:00",
-      "summary": "This scandal is a really big deal."
-    },
-    {
       "title": "Research Reports",
       "source": "Artificial intelligence – MIT Technology Review",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
@@ -187,78 +339,6 @@
       "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "published": "2026-11-17T08:00:00+00:00",
       "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
-    },
-    {
-      "title": "Quoting Go Proverbs",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-      "published": "2026-11-17T06:16:26+00:00",
-      "summary": "A little copying is better than a little dependency.\n&mdash; Go Proverbs, via\n\n    Tags: go, programming"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
-    },
-    {
-      "title": "Astra for Law leads in legal intelligence",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-    },
-    {
-      "title": "Taking AI agents from pilot to production starts with workforce design",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/taking-ai-agents-from-pilot-to-production-starts-with-workforce-",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "Taking AI agents from pilot to production starts with workforce design"
-    },
-    {
-      "title": "Why agentic AI pilots don’t scale",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/why-agentic-ai-pilots-dont-scale",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "Why agentic AI pilots don’t scale"
-    },
-    {
-      "title": "Model sovereignty is not about owning the model",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/model-sovereignty-is-not-about-owning-the-model",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "Model sovereignty is not about owning the model"
-    },
-    {
-      "title": "Sovereign AI: A practical approach to models, infrastructure and control",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/sovereign-ai--practical-approach-to-models-infrastructure-and-control",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "Sovereign AI: A practical approach to models, infrastructure and control"
-    },
-    {
-      "title": "llm 0.37.3",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/16/llm/",
-      "published": "2026-11-16T23:57:26+00:00",
-      "summary": "Release: llm 0.37.3\n        A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software.\nHomebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code.\nShort version: in SQLite 3.54.0 the following SQL:\nselect json_object('a', (select json_array(1)))\n\nReturns this:\n{\"a\":[1]}\n\nBut in 3.54.1 the same query returns this:\n{\"a\":\"[1]\"}\n\nAccording to D. Richard Hipp:\n\nThat was a bug fix. Per the documentation, (SELECT jso"
     }
   ]
 }
