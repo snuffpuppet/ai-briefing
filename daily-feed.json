@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-18T19:57:39.997931+00:00",
+  "generated_at": "2026-11-19T01:46:59.344384+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 42,
+  "item_count": 43,
   "items": [
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "published": "2026-11-18T21:35:43+00:00",
+      "summary": ""
+    },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "source": "Hugging Face - Blog",
@@ -133,12 +141,36 @@
       "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with."
     },
     {
+      "title": "The Silent Consensus",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "published": "2026-11-18T10:00:00+00:00",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+    },
+    {
       "title": "Data Contracts",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/data-contracts.html",
       "published": "2026-11-18T09:02:00-05:00",
       "summary": "Data contracts are a way to describe the contents and guarantees of\n     datasets. Simon Harrer and Arif Wider\n     describe in detail what they are and how to use them. They apply practices\n     from API design to data by treating them as data-providing services - such\n     as data products - whose interfaces we want to define as clearly as\n     possible. This approach significantly increases the robustness of\n     large-scale data landscapes, and gives both people and AI agents the\n     expl"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
     },
     {
       "title": "Inside the Codex sandbox",
@@ -149,6 +181,14 @@
       "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
     },
     {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "published": "2026-11-18T06:00:00+00:00",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+    },
+    {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "source": "AI - Ars Technica",
       "feed_url": "https://arstechnica.com/ai/feed/",
@@ -157,12 +197,12 @@
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
     },
     {
-      "title": "The Silent Consensus",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "source": "OpenAI News",
       "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "published": "2026-11-18T00:00:00+00:00",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
     },
     {
       "title": "Advancing chip design with OpenAI models",
@@ -171,14 +211,6 @@
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "published": "2026-11-18T00:00:00+00:00",
       "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "published": "2026-11-18T00:00:00+00:00",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -309,36 +341,12 @@
       "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponentially in the coming years.The reason for this sudden surge will surprise no one: AI. In particular,"
     },
     {
-      "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
-      "published": "2026-11-17T11:00:04+00:00",
-      "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC.Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages.Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore operations.How power efficiency, RF signaling, and antenna design shape satellite-connected device development.Why long propagation delay, Doppler shift, and intermittent coverage make static test methods"
-    },
-    {
       "title": "Deterministic Simulation Testing",
       "source": "Martin Fowler",
       "feed_url": "https://martinfowler.com/feed.atom",
       "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
       "published": "2026-11-17T09:33:00-05:00",
       "summary": "Distributed systems are hard to test because partial failures overlap\n     with live traffic and the same fault can produce different execution traces\n     on different runs. Unmesh Joshi describes how\n     deterministic simulation testing addresses this by replacing real clocks,\n     networks, and storage with simulated components driven by a single-threaded\n     execution loop. This allows simulating both hard failures and routine\n     slowdowns&#x2014;such as network and disk latency spikes&#"
-    },
-    {
-      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
-      "published": "2026-11-17T09:24:56+00:00",
-      "summary": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches."
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "published": "2026-11-17T08:00:00+00:00",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
     }
   ]
 }
