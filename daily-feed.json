@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-20T09:39:23.178842+00:00",
+  "generated_at": "2026-11-20T18:17:22.648784+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 12,
   "items": [
+    {
+      "title": "Quoting Levent Alpöge",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "published": "2026-11-20T16:30:48+00:00",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one"
+    },
     {
       "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
       "source": "Latent Space",
@@ -19,6 +27,14 @@
       "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "published": "2026-11-20T02:49:57+00:00",
       "summary": "Token fraud is here and it’s BAD (YouTube)\nClaire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.\nIn this YouTube video (see also the accompanying Twitter post) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
@@ -83,54 +99,6 @@
       "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
       "published": "2026-11-19T07:07:43+00:00",
       "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83."
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
-      "title": "See PR scans in action",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
-    },
-    {
-      "title": "Get started with Daybreak Blue",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
-    },
-    {
-      "title": "The AI factory stack",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-factory-stack",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "The AI factory stack"
-    },
-    {
-      "title": "llm-gemini 0.38",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "published": "2026-11-18T23:59:20+00:00",
-      "summary": "Release: llm-gemini 0.38\n        Today Google introduced Gemini 4 Neon. I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse.\nPreviously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price, and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires.\nThe Neon announcement pretends that Argon doe"
     }
   ]
 }
