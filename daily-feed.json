@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-20T18:17:22.648784+00:00",
+  "generated_at": "2026-11-21T00:35:24.244747+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 12,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "published": "2026-11-20T21:58:29+00:00",
+      "summary": "Google search is making it even easier to access AI tools on the search page."
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "published": "2026-11-20T21:47:10+00:00",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
+    },
+    {
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/formal-verification/",
+      "published": "2026-11-20T21:18:41+00:00",
+      "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process."
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published": "2026-11-20T20:59:08+00:00",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+    },
+    {
+      "title": "Quoting Ravi Vakil",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "published": "2026-11-20T19:21:49+00:00",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft.\n&mdash; Ravi Vakil, Hurried Announcement: Alessandro Masullo GRH"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "published": "2026-11-20T18:15:15+00:00",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;"
+    },
     {
       "title": "Quoting Levent Alpöge",
       "source": "Simon Willison's Weblog",
@@ -11,6 +59,22 @@
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "published": "2026-11-20T16:30:48+00:00",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one"
+    },
+    {
+      "title": "Fragments: November 20",
+      "source": "Martin Fowler",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "url": "https://martinfowler.com/fragments/2026-11-20.html",
+      "published": "2026-11-20T13:38:00-05:00",
+      "summary": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review.\n\n\n  Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%.\n\n\nThe measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs:"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published": "2026-11-20T10:00:00+00:00",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
     },
     {
       "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
@@ -27,6 +91,30 @@
       "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "published": "2026-11-20T02:49:57+00:00",
       "summary": "Token fraud is here and it’s BAD (YouTube)\nClaire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.\nIn this YouTube video (see also the accompanying Twitter post) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": ""
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -75,30 +163,6 @@
       "url": "https://spectrum.ieee.org/ai-agent-manager",
       "published": "2026-11-19T15:00:03+00:00",
       "summary": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to hacking websites and even launching cyberattacks.Much like human workers need managers, Weiyan Shi, an assistant professor at Northeastern University, believes AI agents require oversight. “They are running potentially for a long time. However, the longer they run, they may have s"
-    },
-    {
-      "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
-      "published": "2026-11-19T12:00:03+00:00",
-      "summary": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI were “racing straight to self-improving superintelligence and gambling with our lives.” Evan Hubinger, Anthropic’s head of alignment science, replied, “Jacob is correct here—we really do earnestly b"
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-    },
-    {
-      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
-      "published": "2026-11-19T07:07:43+00:00",
-      "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83."
     }
   ]
 }
