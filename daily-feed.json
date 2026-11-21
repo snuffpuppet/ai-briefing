@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T16:00:01.907273+00:00",
+  "generated_at": "2026-11-21T21:34:36.370675+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 11,
+  "item_count": 10,
   "items": [
     {
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
@@ -83,14 +83,6 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "published": "2026-11-20T10:00:00+00:00",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
-      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-      "published": "2026-11-20T07:12:24+00:00",
-      "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers."
     }
   ]
 }
