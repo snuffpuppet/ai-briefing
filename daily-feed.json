@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-21T00:35:24.244747+00:00",
+  "generated_at": "2026-11-21T07:58:14.131813+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 20,
+  "item_count": 19,
   "items": [
+    {
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "published": "2026-11-21T05:02:13+00:00",
+      "summary": "November 20 2026 —"
+    },
     {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "source": "AI - Ars Technica",
@@ -147,22 +155,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
       "published": "2026-11-19T20:19:28+00:00",
       "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
-    },
-    {
-      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
-      "published": "2026-11-19T17:08:59+00:00",
-      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more"
-    },
-    {
-      "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/ai-agent-manager",
-      "published": "2026-11-19T15:00:03+00:00",
-      "summary": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to hacking websites and even launching cyberattacks.Much like human workers need managers, Weiyan Shi, an assistant professor at Northeastern University, believes AI agents require oversight. “They are running potentially for a long time. However, the longer they run, they may have s"
     }
   ]
 }
