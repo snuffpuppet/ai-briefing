@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T07:58:14.131813+00:00",
+  "generated_at": "2026-11-21T16:00:01.907273+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 19,
+  "item_count": 11,
   "items": [
     {
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
@@ -91,70 +91,6 @@
       "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
       "published": "2026-11-20T07:12:24+00:00",
       "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers."
-    },
-    {
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "published": "2026-11-20T02:49:57+00:00",
-      "summary": "Token fraud is here and it’s BAD (YouTube)\nClaire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.\nIn this YouTube video (see also the accompanying Twitter post) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
-    },
-    {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/linear-scaling/",
-      "published": "2026-11-19T23:58:21+00:00",
-      "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs"
-    },
-    {
-      "title": "PostgreSQL 19 Released",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-      "published": "2026-11-19T20:43:57+00:00",
-      "summary": "PostgreSQL 19 Released\nMost years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse.\nThis release was definitely worth the wait. My favorite new feature is this one:\n\nFor applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command. A session on a stand"
-    },
-    {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "published": "2026-11-19T20:19:28+00:00",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
     }
   ]
 }
