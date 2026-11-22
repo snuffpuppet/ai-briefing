@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-21T21:34:36.370675+00:00",
+  "generated_at": "2026-11-22T01:54:00.307885+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 10,
   "items": [
+    {
+      "title": "Muru",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "published": "2026-11-21T23:56:28+00:00",
+      "summary": "Muru\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process.\nHere's everything he's published"
+    },
     {
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
       "source": "Latent Space",
@@ -75,14 +83,6 @@
       "url": "https://martinfowler.com/fragments/2026-11-20.html",
       "published": "2026-11-20T13:38:00-05:00",
       "summary": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review.\n\n\n  Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%.\n\n\nThe measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs:"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "published": "2026-11-20T10:00:00+00:00",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
     }
   ]
 }
