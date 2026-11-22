@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T01:54:00.307885+00:00",
+  "generated_at": "2026-11-22T09:20:18.923173+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 10,
+  "item_count": 4,
   "items": [
     {
       "title": "Muru",
@@ -35,54 +35,6 @@
       "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
       "published": "2026-11-20T21:47:10+00:00",
       "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
-    },
-    {
-      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/formal-verification/",
-      "published": "2026-11-20T21:18:41+00:00",
-      "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process."
-    },
-    {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "published": "2026-11-20T20:59:08+00:00",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
-    },
-    {
-      "title": "Quoting Ravi Vakil",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "published": "2026-11-20T19:21:49+00:00",
-      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft.\n&mdash; Ravi Vakil, Hurried Announcement: Alessandro Masullo GRH"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "published": "2026-11-20T18:15:15+00:00",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;"
-    },
-    {
-      "title": "Quoting Levent Alpöge",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "published": "2026-11-20T16:30:48+00:00",
-      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one"
-    },
-    {
-      "title": "Fragments: November 20",
-      "source": "Martin Fowler",
-      "feed_url": "https://martinfowler.com/feed.atom",
-      "url": "https://martinfowler.com/fragments/2026-11-20.html",
-      "published": "2026-11-20T13:38:00-05:00",
-      "summary": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review.\n\n\n  Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%.\n\n\nThe measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs:"
     }
   ]
 }
