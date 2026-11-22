@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-22T17:36:50.667613+00:00",
+  "generated_at": "2026-11-22T23:13:10.990998+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 2,
   "items": [
+    {
+      "title": "Perplexity and Intelligence",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "2026-11-22T00:00:00+00:00",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+    },
     {
       "title": "Muru",
       "source": "Simon Willison's Weblog",
@@ -11,14 +19,6 @@
       "url": "https://simonwillison.net/2026/Nov/21/muru/",
       "published": "2026-11-21T23:56:28+00:00",
       "summary": "Muru\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process.\nHere's everything he's published"
-    },
-    {
-      "title": "GPT-6.2 Astra and Sol: The System Card",
-      "source": "Don't Worry About the Vase",
-      "feed_url": "https://thezvi.substack.com/feed",
-      "url": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
-      "published": "2026-11-21T15:11:35+00:00",
-      "summary": "We have to stop meeting like this."
     }
   ]
 }
