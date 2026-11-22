@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T09:20:18.923173+00:00",
+  "generated_at": "2026-11-22T17:36:50.667613+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 4,
+  "item_count": 2,
   "items": [
     {
       "title": "Muru",
@@ -13,28 +13,12 @@
       "summary": "Muru\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process.\nHere's everything he's published"
     },
     {
-      "title": "[AINews] Riemann Hypothesis proved...twice independently",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "published": "2026-11-21T05:02:13+00:00",
-      "summary": "November 20 2026 —"
-    },
-    {
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "published": "2026-11-20T21:58:29+00:00",
-      "summary": "Google search is making it even easier to access AI tools on the search page."
-    },
-    {
-      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-      "published": "2026-11-20T21:47:10+00:00",
-      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
+      "title": "GPT-6.2 Astra and Sol: The System Card",
+      "source": "Don't Worry About the Vase",
+      "feed_url": "https://thezvi.substack.com/feed",
+      "url": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+      "published": "2026-11-21T15:11:35+00:00",
+      "summary": "We have to stop meeting like this."
     }
   ]
 }
