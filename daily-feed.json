@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-11-23T05:44:26.661184+00:00",
+  "generated_at": "2026-11-23T17:22:39.950919+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 3,
+  "item_count": 9,
   "items": [
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "2026-11-23T17:20:37+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "source": "Google DeepMind News",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published": "2026-11-23T16:59:40+00:00",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "published": "2026-11-23T15:46:18+00:00",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
+    },
+    {
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+      "source": "Import AI",
+      "feed_url": "https://jack-clark.net/feed/",
+      "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "published": "2026-11-23T14:11:17+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. Subscribe now Chinese researchers optimize Huawei chips with a kernel improvement benchmark:…AscendGYM will help China do its own form of RSI…Researchers with the Shenzhen Loop Area Institute, a Chinese research organization, have built and released AscendGYM, [&#8230;]"
+    },
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "published": "2026-11-23T12:00:00+00:00",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Understanding the context development lifecycle",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/understanding-context-development-lifecycle",
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "Understanding the context development lifecycle"
+    },
+    {
+      "title": "We started a hackathon; we got a pipeline",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/hackathon-pipeline",
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "We started a hackathon; we got a pipeline"
+    },
     {
       "title": "Select Styling Specimens",
       "source": "Simon Willison's Weblog",
@@ -11,22 +75,6 @@
       "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
       "published": "2026-11-22T19:45:06+00:00",
       "summary": "Tool: Select Styling Specimens\n        I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:\n\nSo I had Claude Fable 5.2 build me this page showing all of the ways they can be styled:\n\nBuild an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser\n\nAfter some experimentation I've decided my favorite CSS for select boxes is this:\nselect {"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "published": "2026-11-22T00:00:00+00:00",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
-    },
-    {
-      "title": "Muru",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "published": "2026-11-21T23:56:28+00:00",
-      "summary": "Muru\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process.\nHere's everything he's published"
     }
   ]
 }
