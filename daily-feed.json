@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-22T23:13:10.990998+00:00",
+  "generated_at": "2026-11-23T05:44:26.661184+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "Select Styling Specimens",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "published": "2026-11-22T19:45:06+00:00",
+      "summary": "Tool: Select Styling Specimens\n        I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:\n\nSo I had Claude Fable 5.2 build me this page showing all of the ways they can be styled:\n\nBuild an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser\n\nAfter some experimentation I've decided my favorite CSS for select boxes is this:\nselect {"
+    },
     {
       "title": "Perplexity and Intelligence",
       "source": "OpenAI News",
