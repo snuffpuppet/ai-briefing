@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-23T17:22:39.950919+00:00",
+  "generated_at": "2026-11-24T03:47:54.097191+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 17,
   "items": [
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "published": "2026-11-23T23:40:49+00:00",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer\nGLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this:\n\nIn a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count.\n\nThis is the"
+    },
+    {
+      "title": "Ladybird's first alpha release",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "published": "2026-11-23T21:46:35+00:00",
+      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS.\nThis morning"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "2026-11-23T21:30:44+00:00",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "published": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;"
+    },
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "source": "Hugging Face - Blog",
@@ -43,6 +83,30 @@
       "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
       "published": "2026-11-23T12:00:00+00:00",
       "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "source": "OpenAI News",
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+    },
+    {
+      "title": "datasette-charts 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "published": "2026-11-23T00:37:20+00:00",
+      "summary": "Release: datasette-charts 0.1a0\n        I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin.\nYou can try it out in Datasette Lite here. It looks like this:\n\nThe new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3, Observable Plot, and topojson-client), each with a se"
     },
     {
       "title": "How to build and maintain an agentic evaluation",
