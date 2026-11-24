@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-24T03:47:54.097191+00:00",
+  "generated_at": "2026-11-24T14:31:42.863036+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
   "item_count": 17,
   "items": [
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "source": "AI - Ars Technica",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "published": "2026-11-24T12:30:05+00:00",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+    },
+    {
+      "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/swahili-speech-recognition",
+      "published": "2026-11-24T12:00:03+00:00",
+      "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher reports a 3.24 percent word error rate on recordings from Mozilla’s Common Voice collection of volunteer-recorded speech. But Kenyans rarely talk like Common Voice volunteers. They switch between Swahili and English mid-sentence, drop in Sheng slang that changes by neighborhood,"
+    },
+    {
+      "title": "datasette-charts 0.2a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "published": "2026-11-24T04:24:29+00:00",
+      "summary": "Release: datasette-charts 0.2a0\n        I introduced this new charting plugin for Datasette yesterday. Today it's gained integration with Datasette Agent, so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools.\nHere's a demo video, recorded on agent.datasette.io  where you can sign in with GitHub to try the plugin yourself:\n\n  \n    \n    Download the video (MP4)\n  \n  \n    I prompt Datasette Agent to \"Use #stats to show sq"
+    },
+    {
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "published": "2026-11-24T04:14:16+00:00",
+      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit."
+    },
+    {
+      "title": "datasette-agent 0.7a1",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "published": "2026-11-24T03:45:57+00:00",
+      "summary": "Release: datasette-agent 0.7a1\n        I small improvement to Datasette Agent: chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state.\nI built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release.\n    \n    \n        Tags"
+    },
     {
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
       "source": "Simon Willison's Weblog",
@@ -99,46 +139,6 @@
       "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "published": "2026-11-23T08:00:00+00:00",
       "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
-    },
-    {
-      "title": "datasette-charts 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
-      "published": "2026-11-23T00:37:20+00:00",
-      "summary": "Release: datasette-charts 0.1a0\n        I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin.\nYou can try it out in Datasette Lite here. It looks like this:\n\nThe new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3, Observable Plot, and topojson-client), each with a se"
-    },
-    {
-      "title": "How to build and maintain an agentic evaluation",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "published": "2026-11-23T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Understanding the context development lifecycle",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/understanding-context-development-lifecycle",
-      "published": "2026-11-23T00:00:00+00:00",
-      "summary": "Understanding the context development lifecycle"
-    },
-    {
-      "title": "We started a hackathon; we got a pipeline",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/technology-strategy/hackathon-pipeline",
-      "published": "2026-11-23T00:00:00+00:00",
-      "summary": "We started a hackathon; we got a pipeline"
-    },
-    {
-      "title": "Select Styling Specimens",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-      "published": "2026-11-22T19:45:06+00:00",
-      "summary": "Tool: Select Styling Specimens\n        I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:\n\nSo I had Claude Fable 5.2 build me this page showing all of the ways they can be styled:\n\nBuild an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser\n\nAfter some experimentation I've decided my favorite CSS for select boxes is this:\nselect {"
     }
   ]
 }
