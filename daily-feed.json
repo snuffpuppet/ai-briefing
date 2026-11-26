@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-26T10:27:04.993858+00:00",
+  "generated_at": "2026-11-26T19:58:44.289266+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 16,
+  "item_count": 17,
   "items": [
+    {
+      "title": "Quoting Jack Despain Zhou",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "published": "2026-11-26T15:09:31+00:00",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude.\n&mdash; Jack Despain Zhou, Spitting in the Face of Glaude\n\n    Tag"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "2026-11-26T11:37:17+00:00",
+      "summary": ""
+    },
     {
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
       "source": "Simon Willison's Weblog",
@@ -13,12 +29,36 @@
       "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite\nThis additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most attractive characteristics.\nNormally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO. In both cases you need enough disk space to create a duplicate copy of your d"
     },
     {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "published": "2026-11-26T05:08:46+00:00",
+      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News.I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that.\nHe did spend a bunch of time trying to find the best pos"
+    },
+    {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "source": "Hugging Face - Blog",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "published": "2026-11-26T05:05:36+00:00",
       "summary": ""
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "published": "2026-11-26T00:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Building what matters in the AI era: A conversation with Marty Cagan",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/articles/building-what-matters-with-marty-cagan",
+      "published": "2026-11-26T00:00:00+00:00",
+      "summary": "Building what matters in the AI era: A conversation with Marty Cagan"
     },
     {
       "title": "Quoting Scott Aaronson",
@@ -99,38 +139,6 @@
       "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
       "published": "2026-11-25T10:00:00+00:00",
       "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;"
-    },
-    {
-      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
-      "published": "2026-11-25T04:29:07+00:00",
-      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%."
-    },
-    {
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "published": "2026-11-25T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Building Code Argus: From hackathon idea to agentic DevSecOps",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/blog/generative-ai/building-code-argus-hackathon-to-agentic-devsecops",
-      "published": "2026-11-25T00:00:00+00:00",
-      "summary": "Building Code Argus: From hackathon idea to agentic DevSecOps"
-    },
-    {
-      "title": "Three LLM inflection points in twelve months",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-      "published": "2026-11-24T23:02:07+00:00",
-      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months.\nHere's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply.\n \n\nCoding agents in November 2025\nToday, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5. With hindsight, this"
     }
   ]
 }
