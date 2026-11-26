@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-11-25T17:52:45.616424+00:00",
+  "generated_at": "2026-11-26T01:32:55.209927+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 21,
+  "item_count": 20,
   "items": [
+    {
+      "title": "Quoting Scott Aaronson",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "published": "2026-11-25T23:26:32+00:00",
+      "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved.\n&mdash; Scott"
+    },
+    {
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "published": "2026-11-25T22:28:01+00:00",
+      "summary": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t..."
+    },
+    {
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "published": "2026-11-25T22:23:41+00:00",
+      "summary": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms."
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published": "2026-11-25T18:52:55+00:00",
+      "summary": ""
+    },
     {
       "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
       "source": "The Pragmatic Engineer",
@@ -131,46 +163,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
       "published": "2026-11-24T14:56:50+00:00",
       "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back."
-    },
-    {
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "source": "Google DeepMind News",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "published": "2026-11-24T13:07:53+00:00",
-      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "published": "2026-11-24T13:00:00+00:00",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "published": "2026-11-24T12:30:05+00:00",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
-    },
-    {
-      "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
-      "source": "IEEE Spectrum",
-      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "url": "https://spectrum.ieee.org/swahili-speech-recognition",
-      "published": "2026-11-24T12:00:03+00:00",
-      "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher reports a 3.24 percent word-error rate on recordings from Mozilla’s Common Voice collection of volunteer-recorded speech. But Kenyans rarely talk like Common Voice volunteers. They switch between Swahili and English mid-sentence, drop in Sheng slang that changes by neighborhood,"
-    },
-    {
-      "title": "Searching for distant planets with Astra",
-      "source": "OpenAI News",
-      "feed_url": "https://openai.com/blog/rss.xml",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "published": "2026-11-24T11:00:00+00:00",
-      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
     }
   ]
 }
