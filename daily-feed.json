@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-26T19:58:44.289266+00:00",
+  "generated_at": "2026-11-27T02:44:01.836382+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 17,
+  "item_count": 15,
   "items": [
+    {
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "published": "2026-11-26T23:02:48+00:00",
+      "summary": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent"
+    },
     {
       "title": "Quoting Jack Despain Zhou",
       "source": "Simon Willison's Weblog",
@@ -115,30 +123,6 @@
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
       "published": "2026-11-25T16:47:14+00:00",
       "summary": "Militaries have many reasons to target data centers and the cloud in wartime."
-    },
-    {
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "published": "2026-11-25T12:00:28+00:00",
-      "summary": "Frontier AI is already solving problems that once took top physicists a full day."
-    },
-    {
-      "title": "An Indic Voice Agent with CUGA",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "published": "2026-11-25T10:22:09+00:00",
-      "summary": ""
-    },
-    {
-      "title": "AI is straining America’s open records systems",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "published": "2026-11-25T10:00:00+00:00",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;"
     }
   ]
 }
