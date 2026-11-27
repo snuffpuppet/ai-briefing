@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-27T02:44:01.836382+00:00",
+  "generated_at": "2026-11-27T11:45:09.494237+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 15,
+  "item_count": 9,
   "items": [
+    {
+      "title": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery",
+      "source": "Thoughtworks Insights",
+      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/refactoring_the_engine_an_incremental_path_to_AI_assisted_delivery",
+      "published": "2026-11-27T00:00:00+00:00",
+      "summary": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery"
+    },
     {
       "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
       "source": "Latent Space",
@@ -67,62 +75,6 @@
       "url": "https://www.thoughtworks.com/insights/articles/building-what-matters-with-marty-cagan",
       "published": "2026-11-26T00:00:00+00:00",
       "summary": "Building what matters in the AI era: A conversation with Marty Cagan"
-    },
-    {
-      "title": "Quoting Scott Aaronson",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
-      "published": "2026-11-25T23:26:32+00:00",
-      "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved.\n&mdash; Scott"
-    },
-    {
-      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
-      "published": "2026-11-25T22:28:01+00:00",
-      "summary": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t..."
-    },
-    {
-      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
-      "source": "Latent Space",
-      "feed_url": "https://www.latent.space/feed",
-      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
-      "published": "2026-11-25T22:23:41+00:00",
-      "summary": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms."
-    },
-    {
-      "title": "Where scientists draw the line on AI agents",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "published": "2026-11-25T18:52:55+00:00",
-      "summary": ""
-    },
-    {
-      "title": "datasette-charts 0.3a0",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
-      "published": "2026-11-25T18:16:50+00:00",
-      "summary": "Release: datasette-charts 0.3a0\n        I added chart annotations to datasette-charts!\nYou can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three.\nA chart with annotations looks like this:\n\nHere's that same chart in Datasette Lite, where you can tweak the annotations using the chart builder UI:\n\nIf you also install Datasette Agent the agent can build annotated charts for you. Here's what I got on the agent.datasette.io demo for this prompt:\n\nS"
-    },
-    {
-      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
-      "source": "The Pragmatic Engineer",
-      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
-      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
-      "published": "2026-11-25T17:31:32+00:00",
-      "summary": "Katelyn Lesse explains how Anthropic rewrote Claude&#8217;s API in Rust and how AI agents are changing engineering at the company."
-    },
-    {
-      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
-      "source": "AI - Ars Technica",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
-      "published": "2026-11-25T16:47:14+00:00",
-      "summary": "Militaries have many reasons to target data centers and the cloud in wartime."
     }
   ]
 }
