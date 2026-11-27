@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-27T11:45:09.494237+00:00",
+  "generated_at": "2026-11-27T20:40:10.498597+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 9,
+  "item_count": 6,
   "items": [
+    {
+      "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "source": "IEEE Spectrum",
+      "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "published": "2026-11-27T14:00:01+00:00",
+      "summary": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job.At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context.Dinesh RaiEmployer: Boston Children’s HospitalOccupat"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "source": "Hugging Face - Blog",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27T00:00:00+00:00",
+      "summary": ""
+    },
     {
       "title": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery",
       "source": "Thoughtworks Insights",
@@ -35,46 +51,6 @@
       "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "published": "2026-11-26T11:37:17+00:00",
       "summary": ""
-    },
-    {
-      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-      "published": "2026-11-26T06:08:25+00:00",
-      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite\nThis additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most attractive characteristics.\nNormally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO. In both cases you need enough disk space to create a duplicate copy of your d"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "source": "Simon Willison's Weblog",
-      "feed_url": "https://simonwillison.net/atom/everything/",
-      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
-      "published": "2026-11-26T05:08:46+00:00",
-      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News.I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that.\nHe did spend a bunch of time trying to find the best pos"
-    },
-    {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "published": "2026-11-26T05:05:36+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "published": "2026-11-26T00:00:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Building what matters in the AI era: A conversation with Marty Cagan",
-      "source": "Thoughtworks Insights",
-      "feed_url": "https://www.thoughtworks.com/rss/insights.xml",
-      "url": "https://www.thoughtworks.com/insights/articles/building-what-matters-with-marty-cagan",
-      "published": "2026-11-26T00:00:00+00:00",
-      "summary": "Building what matters in the AI era: A conversation with Marty Cagan"
     }
   ]
 }
