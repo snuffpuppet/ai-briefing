@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-27T20:40:10.498597+00:00",
+  "generated_at": "2026-11-28T03:04:37.694390+00:00",
   "lookback_hours": 36,
   "feed_count": 20,
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "datasette-charts 0.4a0",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "published": "2026-11-27T23:57:17+00:00",
+      "summary": "Release: datasette-charts 0.4a0\n        The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic.\nI've also added a website for the plugin, at charts.datas"
+    },
+    {
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "source": "Latent Space",
+      "feed_url": "https://www.latent.space/feed",
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "published": "2026-11-27T22:19:18+00:00",
+      "summary": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger..."
+    },
     {
       "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
       "source": "IEEE Spectrum",
@@ -11,6 +27,14 @@
       "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
       "published": "2026-11-27T14:00:01+00:00",
       "summary": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job.At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context.Dinesh RaiEmployer: Boston Children’s HospitalOccupat"
+    },
+    {
+      "title": "datasette-mcp 0.4",
+      "source": "Simon Willison's Weblog",
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "published": "2026-11-27T00:26:17+00:00",
+      "summary": "Release: datasette-mcp 0.4\n        Fixed for compatibility with Datasette 1.0a44.\n    \n    \n        Tags: model-context-protocol, datasette"
     },
     {
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -43,14 +67,6 @@
       "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
       "published": "2026-11-26T15:09:31+00:00",
       "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude.\n&mdash; Jack Despain Zhou, Spitting in the Face of Glaude\n\n    Tag"
-    },
-    {
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "source": "Hugging Face - Blog",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "published": "2026-11-26T11:37:17+00:00",
-      "summary": ""
     }
   ]
 }
